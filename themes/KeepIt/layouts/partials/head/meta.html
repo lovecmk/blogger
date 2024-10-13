@@ -8,10 +8,28 @@
 <meta name="application-name" content="{{ .Site.Params.app.title | default .Site.Title }}">
 <meta name="apple-mobile-web-app-title" content="{{ .Site.Params.app.title | default .Site.Title }}">
 
+<!-- Google Search console-->
+<meta name="google-site-verification" content="KS_dOZtV_5B-IK0fS7_bLtPX8Z2ksGykoho030mOyKs" />
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-E800H2VHWC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-E800H2VHWC');
+</script>
+<!-- Google Adsense Meta-->
+<meta name="google-adsense-account" content="ca-pub-4901388578095734">
+
+<!-- Yandex Meta -->
+<meta name="yandex-verification" content="856af6946dda9974" />
+
 {{- with .Site.Params.app.themeColor -}}
-    <meta name="theme-color" content="{{ . }}">
+<meta name="theme-color" content="{{ . }}">
 {{- end -}}
 
 {{- with .Site.Params.app.tileColor -}}
-    <meta name="msapplication-TileColor" content="{{ . }}">
+<meta name="msapplication-TileColor" content="{{ . }}">
 {{- end -}}
