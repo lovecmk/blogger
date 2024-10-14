@@ -1,8 +1,8 @@
 ---
     weight: 1257
     title: "Dream of being chased or pursued"  # Assuming 'title' column exists
-    date: 2024-10-13T23:08:00+08:00
-    lastmod: 2024-10-13T23:08:00+08:00
+    date: 2024-10-13T09:10:00+08:00
+    lastmod: 2024-10-13T09:10:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -16,7 +16,7 @@
     categories: ["Dream Interpretation"]
     
     lightgallery: true
-    ---
+---
     
     Dreams have long fascinated humanity, serving as a window into our subconscious. Understanding and analyzing dreams can provide valuable insights into our emotions, fears, and desires. When we take the time to interpret our dreams, we begin to unravel the complex tapestry of our inner thoughts. This process not only helps us understand ourselves better but also allows us to connect our past experiences with our present circumstances and future possibilities.
     
