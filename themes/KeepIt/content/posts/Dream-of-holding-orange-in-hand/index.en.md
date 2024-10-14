@@ -1,8 +1,8 @@
 ---
 weight: 8
 title: "Dream of holding orange in hand"  # Assuming 'title' column exists
-date: 2024-10-13T03:48:00+08:00
-lastmod: 2024-10-13T03:48:00+08:00
+date: 2024-10-13T18:38:00+08:00
+lastmod: 2024-10-13T18:38:00+08:00
 draft: false
 author: "ray"
 authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@ description: "Discover how 'Dream of holding orange in hand' can interpret your 
 #- name: "featured-image"
 #  src: "featured-image.png"
 
-tags: ['Dream', 'of', 'holding', 'orange', 'in', 'hand']
+tags: ['in', 'orange', 'of', 'hand', 'Dream', 'holding']
 categories: ["Dream Interpretation"]
 
 lightgallery: true
@@ -58,12 +58,12 @@ This dream shows that vitality and creativity is enriched, so you can be lucky.I
 | Lucky Animal        | Otter |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Tart      |
-| Lucky Instrument    | Piccolo |
-| Lucky Flower        | Anemone    |
+| Lucky Food          | Kebab      |
+| Lucky Instrument    | Djembe |
+| Lucky Flower        | Ranunculus    |
 | Lucky Job           | Insurance Underwriter       |
-| Lucky Exercise      | Golf  |
-| Lucky Country       | Kuwait    |
+| Lucky Exercise      | Calisthenics  |
+| Lucky Country       | Singapore    |
 
 
 ##  Final Reflections on Dreams

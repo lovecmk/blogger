@@ -777,7 +777,7 @@ The default data of all supported social links is located in `themes/KeepIt/asse
 which is you can refer to.
 {{< /admonition >}}
 
-![Complete configuration preview](complete-configuration-preview.png "Complete configuration preview")
+![Complete configuration preview](https://cdn.pixabay.com/photo/2017/11/02/03/35/gothic-2910057_1280.jpg "Complete configuration preview")
 
 ### 3.2 Favicons, Browserconfig, Manifest
 
