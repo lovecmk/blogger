@@ -1,8 +1,8 @@
 ---
     weight: 2164
     title: "Dream of fighting for success"  # Assuming 'title' column exists
-    date: 2024-10-13T10:11:00+08:00
-    lastmod: 2024-10-13T10:11:00+08:00
+    date: 2024-10-11T17:36:00+08:00
+    lastmod: 2024-10-11T17:36:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['success', 'fighting', 'Dream', 'for', 'of']
+    tags: ['Dream', 'success', 'fighting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Spider |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Brownies      |
-| Lucky Instrument    | Flute |
-| Lucky Flower        | Dahlia    |
-| Lucky Job           | Pastry Chef       |
-| Lucky Exercise      | Martial Arts  |
-| Lucky Country       | Iran    |
+| Lucky Food          | Onion Rings      |
+| Lucky Instrument    | Sitar |
+| Lucky Flower        | Hellebore    |
+| Lucky Job           | Police Officer       |
+| Lucky Exercise      | Javelin  |
+| Lucky Country       | Norway    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 2040
     title: "Dream of arguments about family values"  # Assuming 'title' column exists
-    date: 2024-10-13T14:35:00+08:00
-    lastmod: 2024-10-13T14:35:00+08:00
+    date: 2024-10-13T17:26:00+08:00
+    lastmod: 2024-10-13T17:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'about', 'arguments', 'Dream', 'values', 'of']
+    tags: ['family', 'Dream', 'values', 'arguments']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Chips      |
-| Lucky Instrument    | Claves |
-| Lucky Flower        | Balsam    |
-| Lucky Job           | Mathematician       |
-| Lucky Exercise      | Obstacle Course Racing  |
-| Lucky Country       | Fiji    |
+| Lucky Food          | Clams      |
+| Lucky Instrument    | Sackbut |
+| Lucky Flower        | Nymphaea    |
+| Lucky Job           | Neuroscientist       |
+| Lucky Exercise      | Baseball  |
+| Lucky Country       | Sweden    |
 
 
 ##  Final Reflections on Dreams

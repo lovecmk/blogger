@@ -1,8 +1,8 @@
 ---
     weight: 2196
     title: "Dream of successfully paying off debts and feeling financially liberated."  # Assuming 'title' column exists
-    date: 2024-10-13T12:50:00+08:00
-    lastmod: 2024-10-13T12:50:00+08:00
+    date: 2024-10-15T08:30:00+08:00
+    lastmod: 2024-10-15T08:30:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['off', 'feeling', 'debts', 'successfully', 'paying', 'liberated.', 'Dream', 'and', 'of', 'financially']
+    tags: ['successfully', 'Dream', 'paying', 'debts', 'financially', 'feeling', 'liberated', 'off']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Pulled Pork      |
-| Lucky Instrument    | Piccolo Trumpet |
-| Lucky Flower        | Gladiolus    |
-| Lucky Job           | Research Scientist       |
-| Lucky Exercise      | Basketball  |
-| Lucky Country       | Australia    |
+| Lucky Food          | Lasagna      |
+| Lucky Instrument    | Maracas |
+| Lucky Flower        | Lobelia    |
+| Lucky Job           | App Developer       |
+| Lucky Exercise      | Crunches  |
+| Lucky Country       | Palau    |
 
 
 ##  Final Reflections on Dreams

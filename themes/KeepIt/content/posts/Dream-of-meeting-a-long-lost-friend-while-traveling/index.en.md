@@ -1,8 +1,8 @@
 ---
     weight: 1402
     title: "Dream of meeting a long-lost friend while traveling"  # Assuming 'title' column exists
-    date: 2024-10-13T22:26:00+08:00
-    lastmod: 2024-10-13T22:26:00+08:00
+    date: 2024-10-15T00:20:00+08:00
+    lastmod: 2024-10-15T00:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['friend', 'long-lost', 'traveling', 'Dream', 'meeting', 'a', 'of', 'while']
+    tags: ['while', 'Dream', 'traveling', 'meeting', 'friend', 'long-lost']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Elephant |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Noodles      |
-| Lucky Instrument    | Balalaika |
-| Lucky Flower        | Tithonia    |
-| Lucky Job           | Photographer       |
-| Lucky Exercise      | Basketball  |
-| Lucky Country       | Georgia    |
+| Lucky Food          | Beef Wellington      |
+| Lucky Instrument    | Lyre |
+| Lucky Flower        | Buttercup    |
+| Lucky Job           | Taxi Driver       |
+| Lucky Exercise      | Yoga  |
+| Lucky Country       | Tanzania    |
 
 
 ##  Final Reflections on Dreams

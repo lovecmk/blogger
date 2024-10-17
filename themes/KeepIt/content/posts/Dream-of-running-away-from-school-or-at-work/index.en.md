@@ -1,8 +1,8 @@
 ---
     weight: 393
     title: "Dream of running away from school or at work"  # Assuming 'title' column exists
-    date: 2024-10-13T23:02:00+08:00
-    lastmod: 2024-10-13T23:02:00+08:00
+    date: 2024-10-15T01:08:00+08:00
+    lastmod: 2024-10-15T01:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'running', 'away', 'Dream', 'from', 'of', 'work', 'school', 'at']
+    tags: ['school', 'Dream', 'running', 'from', 'away', 'work']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream shows anxiety or difficulty in challenging situations rather than luc
 | Lucky Animal        | Chick |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Scallops      |
-| Lucky Instrument    | Drums |
-| Lucky Flower        | Lily    |
-| Lucky Job           | Physical Therapist       |
-| Lucky Exercise      | Surfing  |
-| Lucky Country       | Qatar    |
+| Lucky Food          | Biryani      |
+| Lucky Instrument    | Keyboard Synthesizer |
+| Lucky Flower        | Thistle    |
+| Lucky Job           | Chemist       |
+| Lucky Exercise      | Ultimate Frisbee  |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

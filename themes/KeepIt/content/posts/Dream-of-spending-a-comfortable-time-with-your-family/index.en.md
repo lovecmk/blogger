@@ -1,8 +1,8 @@
 ---
     weight: 168
     title: "Dream of spending a comfortable time with your family"  # Assuming 'title' column exists
-    date: 2024-10-13T09:34:00+08:00
-    lastmod: 2024-10-13T09:34:00+08:00
+    date: 2024-10-14T21:34:00+08:00
+    lastmod: 2024-10-14T21:34:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'your', 'Dream', 'spending', 'a', 'time', 'of', 'with', 'comfortable']
+    tags: ['family', 'Dream', 'comfortable', 'spending', 'time']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ If the dream of having a comfortable time with the family brings good luck, it c
 | Lucky Animal        | Sparrow |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Ratatouille      |
-| Lucky Instrument    | Cymbals |
-| Lucky Flower        | Jasmine    |
-| Lucky Job           | Translator       |
-| Lucky Exercise      | Lifting  |
-| Lucky Country       | Latvia    |
+| Lucky Food          | Beef Tacos      |
+| Lucky Instrument    | Fujara |
+| Lucky Flower        | Gladiolus    |
+| Lucky Job           | Chef       |
+| Lucky Exercise      | Deadlifts  |
+| Lucky Country       | Greece    |
 
 
 ##  Final Reflections on Dreams

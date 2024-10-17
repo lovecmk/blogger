@@ -1,8 +1,8 @@
 ---
     weight: 1404
     title: "Dream of being unable to move or run in a dangerous situation"  # Assuming 'title' column exists
-    date: 2024-10-13T23:54:00+08:00
-    lastmod: 2024-10-13T23:54:00+08:00
+    date: 2024-10-14T21:31:00+08:00
+    lastmod: 2024-10-14T21:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['unable', 'or', 'to', 'dangerous', 'Dream', 'run', 'being', 'situation', 'a', 'in', 'of', 'move']
+    tags: ['being', 'move', 'Dream', 'to', 'dangerous', 'unable', 'situation', 'run']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Deer |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Hot Dog      |
-| Lucky Instrument    | Fretless Bass |
-| Lucky Flower        | Bleeding Heart    |
-| Lucky Job           | Copywriter       |
-| Lucky Exercise      | Basketball  |
-| Lucky Country       | Tanzania    |
+| Lucky Food          | Chocolate Mousse      |
+| Lucky Instrument    | Dulcimer |
+| Lucky Flower        | Bellflower    |
+| Lucky Job           | Accountant       |
+| Lucky Exercise      | Crunches  |
+| Lucky Country       | Kazakhstan    |
 
 
 ##  Final Reflections on Dreams

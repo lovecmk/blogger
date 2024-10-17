@@ -1,8 +1,8 @@
 ---
     weight: 305
     title: "Dream of meeting new friends with a puppy"  # Assuming 'title' column exists
-    date: 2024-10-13T01:40:00+08:00
-    lastmod: 2024-10-13T01:40:00+08:00
+    date: 2024-10-13T01:47:00+08:00
+    lastmod: 2024-10-13T01:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['new', 'Dream', 'meeting', 'a', 'puppy', 'of', 'with', 'friends']
+    tags: ['Dream', 'puppy', 'meeting', 'new', 'friends']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can open up new social connections and new social interactions.Meetin
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Pulled Pork      |
-| Lucky Instrument    | Maracas |
-| Lucky Flower        | Lily    |
-| Lucky Job           | Catering Manager       |
-| Lucky Exercise      | Javelin  |
-| Lucky Country       | Estonia    |
+| Lucky Food          | Muffin      |
+| Lucky Instrument    | Oboe |
+| Lucky Flower        | Stock    |
+| Lucky Job           | Insurance Underwriter       |
+| Lucky Exercise      | Parkour Training  |
+| Lucky Country       | Brunei    |
 
 
 ##  Final Reflections on Dreams

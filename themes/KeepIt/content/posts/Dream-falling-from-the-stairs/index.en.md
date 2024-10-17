@@ -1,8 +1,8 @@
 ---
     weight: 933
     title: "Dream falling from the stairs"  # Assuming 'title' column exists
-    date: 2024-10-13T23:11:00+08:00
-    lastmod: 2024-10-13T23:11:00+08:00
+    date: 2024-10-14T04:47:00+08:00
+    lastmod: 2024-10-14T04:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['stairs', 'the', 'falling', 'Dream', 'from']
+    tags: ['Dream', 'falling', 'from', 'stairs']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream mainly indicates anxiety or dangerous situations.Therefore, this drea
 | Lucky Animal        | Sloth |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Bruschetta      |
-| Lucky Instrument    | Electric Cello |
-| Lucky Flower        | Thunbergia    |
-| Lucky Job           | Welder       |
-| Lucky Exercise      | Mobility Training  |
-| Lucky Country       | Bahrain    |
+| Lucky Food          | Quiche      |
+| Lucky Instrument    | Oboe |
+| Lucky Flower        | Lantana    |
+| Lucky Job           | Translator       |
+| Lucky Exercise      | Lunges  |
+| Lucky Country       | Austria    |
 
 
 ##  Final Reflections on Dreams

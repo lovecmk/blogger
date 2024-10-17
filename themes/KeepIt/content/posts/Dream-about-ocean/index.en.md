@@ -1,8 +1,8 @@
 ---
     weight: 1148
     title: "Dream about ocean"  # Assuming 'title' column exists
-    date: 2024-10-13T00:17:00+08:00
-    lastmod: 2024-10-13T00:17:00+08:00
+    date: 2024-10-12T05:07:00+08:00
+    lastmod: 2024-10-12T05:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['ocean', 'about', 'Dream']
+    tags: ['ocean', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Dreams related to the sea can bring a variety of luck.This is because the sea sy
 | Lucky Animal        | Turtle |
 | Lucky Place         | Museum     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Beef Tacos      |
-| Lucky Instrument    | Fretless Bass |
-| Lucky Flower        | Heliotrope    |
-| Lucky Job           | SEO Specialist       |
-| Lucky Exercise      | Beach Volleyball  |
-| Lucky Country       | Argentina    |
+| Lucky Food          | Vegetable Stir Fry      |
+| Lucky Instrument    | Bassoon |
+| Lucky Flower        | Orchid    |
+| Lucky Job           | Electrician       |
+| Lucky Exercise      | Bench Press  |
+| Lucky Country       | Zambia    |
 
 
 ##  Final Reflections on Dreams

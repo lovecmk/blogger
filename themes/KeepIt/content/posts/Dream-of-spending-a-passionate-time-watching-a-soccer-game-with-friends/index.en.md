@@ -1,8 +1,8 @@
 ---
     weight: 731
     title: "Dream of spending a passionate time watching a soccer game with friends"  # Assuming 'title' column exists
-    date: 2024-10-13T11:36:00+08:00
-    lastmod: 2024-10-13T11:36:00+08:00
+    date: 2024-10-12T14:24:00+08:00
+    lastmod: 2024-10-12T14:24:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['soccer', 'passionate', 'game', 'Dream', 'a', 'time', 'of', 'watching', 'with', 'friends', 'spending']
+    tags: ['Dream', 'passionate', 'game', 'spending', 'watching', 'time', 'soccer', 'friends']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck that this dream gives you a good time with others to meet your luck and
 | Lucky Animal        | Owl |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Black     |
-| Lucky Food          | Hot Dog      |
-| Lucky Instrument    | Clavichord |
-| Lucky Flower        | Geranium    |
-| Lucky Job           | Data Scientist       |
-| Lucky Exercise      | Lacrosse  |
-| Lucky Country       | Cambodia    |
+| Lucky Food          | Fried Rice      |
+| Lucky Instrument    | Cowbell |
+| Lucky Flower        | Gladiolus    |
+| Lucky Job           | Content Creator       |
+| Lucky Exercise      | Circuit Training  |
+| Lucky Country       | Papua New Guinea    |
 
 
 ##  Final Reflections on Dreams

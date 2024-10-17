@@ -1,8 +1,8 @@
 ---
     weight: 379
     title: "Dream of wandering in search of your own purpose"  # Assuming 'title' column exists
-    date: 2024-10-13T17:24:00+08:00
-    lastmod: 2024-10-13T17:24:00+08:00
+    date: 2024-10-14T22:38:00+08:00
+    lastmod: 2024-10-14T22:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['search', 'own', 'your', 'wandering', 'Dream', 'in', 'of', 'purpose']
+    tags: ['wandering', 'Dream', 'purpose', 'search', 'own']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is that you can find your own purpose and motivate you to
 | Lucky Animal        | Sloth |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Hummus      |
-| Lucky Instrument    | Darabuka |
-| Lucky Flower        | Tansy    |
-| Lucky Job           | Dentist       |
-| Lucky Exercise      | Golf  |
-| Lucky Country       | Armenia    |
+| Lucky Food          | Fajitas      |
+| Lucky Instrument    | Bouzouki |
+| Lucky Flower        | Geranium    |
+| Lucky Job           | Logistician       |
+| Lucky Exercise      | Kite Surfing  |
+| Lucky Country       | Bangladesh    |
 
 
 ##  Final Reflections on Dreams

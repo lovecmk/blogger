@@ -1,8 +1,8 @@
 ---
     weight: 944
     title: "Dream of falling from bicycles"  # Assuming 'title' column exists
-    date: 2024-10-13T07:04:00+08:00
-    lastmod: 2024-10-13T07:04:00+08:00
+    date: 2024-10-14T20:28:00+08:00
+    lastmod: 2024-10-14T20:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['falling', 'bicycles', 'Dream', 'from', 'of']
+    tags: ['Dream', 'falling', 'from', 'bicycles']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream mainly symbolizes failure and anxiety, but if you interpret it positi
 | Lucky Animal        | Mole |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Pork Belly      |
-| Lucky Instrument    | Bass Clarinet |
-| Lucky Flower        | Ornamental Pepper    |
-| Lucky Job           | Business Analyst       |
-| Lucky Exercise      | Kettlebell Training  |
-| Lucky Country       | United States    |
+| Lucky Food          | Deviled Eggs      |
+| Lucky Instrument    | Tama |
+| Lucky Flower        | Primrose    |
+| Lucky Job           | Sous Chef       |
+| Lucky Exercise      | Swimming  |
+| Lucky Country       | Iceland    |
 
 
 ##  Final Reflections on Dreams

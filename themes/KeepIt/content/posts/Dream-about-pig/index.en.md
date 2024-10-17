@@ -1,8 +1,8 @@
 ---
     weight: 1084
     title: "Dream about pig"  # Assuming 'title' column exists
-    date: 2024-10-13T13:23:00+08:00
-    lastmod: 2024-10-13T13:23:00+08:00
+    date: 2024-10-13T10:54:00+08:00
+    lastmod: 2024-10-13T10:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['pig', 'about', 'Dream']
+    tags: ['pig', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ If you look at pigs, it can be a sign that luck can come.Pigs can be interpreted
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Mart     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Fried Rice      |
-| Lucky Instrument    | Accordion Synth |
-| Lucky Flower        | Sweet William    |
-| Lucky Job           | Interpreter       |
-| Lucky Exercise      | Fencing  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Stir Fry      |
+| Lucky Instrument    | Flute |
+| Lucky Flower        | Zantedeschia    |
+| Lucky Job           | Chef de Cuisine       |
+| Lucky Exercise      | Mobility Training  |
+| Lucky Country       | Hungary    |
 
 
 ##  Final Reflections on Dreams

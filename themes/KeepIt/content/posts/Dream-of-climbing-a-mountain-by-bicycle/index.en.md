@@ -1,8 +1,8 @@
 ---
     weight: 499
     title: "Dream of climbing a mountain by bicycle"  # Assuming 'title' column exists
-    date: 2024-10-13T14:25:00+08:00
-    lastmod: 2024-10-13T14:25:00+08:00
+    date: 2024-10-13T12:15:00+08:00
+    lastmod: 2024-10-13T12:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['climbing', 'bicycle', 'Dream', 'a', 'mountain', 'by', 'of']
+    tags: ['Dream', 'bicycle', 'climbing', 'mountain']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can suggest the luck of achieving individual goals and success.Climbi
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Beach     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Deviled Eggs      |
-| Lucky Instrument    | Tuba Horn |
-| Lucky Flower        | Nasturtium    |
-| Lucky Job           | Game Developer       |
-| Lucky Exercise      | Powerlifting  |
-| Lucky Country       | Angola    |
+| Lucky Food          | Popcorn      |
+| Lucky Instrument    | Slide Guitar |
+| Lucky Flower        | Sea Lavender    |
+| Lucky Job           | Art Director       |
+| Lucky Exercise      | Gymnastics  |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

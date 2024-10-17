@@ -1,8 +1,8 @@
 ---
     weight: 14
     title: "The dream of a friend who shares peaches, not a boat"  # Assuming 'title' column exists
-    date: 2024-10-13T07:10:00+08:00
-    lastmod: 2024-10-13T07:10:00+08:00
+    date: 2024-10-12T23:39:00+08:00
+    lastmod: 2024-10-12T23:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['friend', 'who', 'boat', 'shares', 'a', 'not', 'dream', 'The', 'of', 'peaches,']
+    tags: ['The', 'dream', 'peaches,', 'friend', 'shares', 'not', 'boat', 'who']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can suggest the possibility of luck and positive change.Sharing peach
 | Lucky Animal        | Snake |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Steak      |
-| Lucky Instrument    | Bandoneon |
-| Lucky Flower        | Swan River Daisy    |
-| Lucky Job           | Journalist       |
-| Lucky Exercise      | Burpees  |
-| Lucky Country       | Sri Lanka    |
+| Lucky Food          | Tacos      |
+| Lucky Instrument    | Bouzouki |
+| Lucky Flower        | Mandevilla    |
+| Lucky Job           | Catering Manager       |
+| Lucky Exercise      | Interval Training  |
+| Lucky Country       | Spain    |
 
 
 ##  Final Reflections on Dreams

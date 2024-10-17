@@ -1,8 +1,8 @@
 ---
     weight: 960
     title: "Dream of falling into the lake"  # Assuming 'title' column exists
-    date: 2024-10-13T23:03:00+08:00
-    lastmod: 2024-10-13T23:03:00+08:00
+    date: 2024-10-14T14:44:00+08:00
+    lastmod: 2024-10-14T14:44:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lake', 'the', 'into', 'falling', 'Dream', 'of']
+    tags: ['Dream', 'lake', 'into', 'falling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The dream of falling into the lake is not a dream of luck, but a difficult situa
 | Lucky Animal        | Polar bear |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Fruit Tart      |
-| Lucky Instrument    | French Horn |
-| Lucky Flower        | Rudbeckia    |
-| Lucky Job           | User Researcher       |
-| Lucky Exercise      | Lunges  |
-| Lucky Country       | Poland    |
+| Lucky Food          | Cornbread      |
+| Lucky Instrument    | Conga |
+| Lucky Flower        | Maranta    |
+| Lucky Job           | Game Developer       |
+| Lucky Exercise      | Golf  |
+| Lucky Country       | Kuwait    |
 
 
 ##  Final Reflections on Dreams

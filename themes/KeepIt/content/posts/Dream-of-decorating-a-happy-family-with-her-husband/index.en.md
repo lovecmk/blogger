@@ -1,8 +1,8 @@
 ---
     weight: 85
     title: "Dream of decorating a happy family with her husband"  # Assuming 'title' column exists
-    date: 2024-10-13T12:07:00+08:00
-    lastmod: 2024-10-13T12:07:00+08:00
+    date: 2024-10-15T13:33:00+08:00
+    lastmod: 2024-10-15T13:33:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'her', 'Dream', 'decorating', 'a', 'husband', 'happy', 'of', 'with']
+    tags: ['family', 'happy', 'Dream', 'decorating', 'her', 'husband']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the personal meaning and situation.
 | Lucky Animal        | Fox |
 | Lucky Place         | Beach     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Falafel      |
-| Lucky Instrument    | Accordion Synth |
-| Lucky Flower        | Lily    |
-| Lucky Job           | Bus Driver       |
-| Lucky Exercise      | Lunges  |
-| Lucky Country       | China    |
+| Lucky Food          | Scone      |
+| Lucky Instrument    | Harmonica |
+| Lucky Flower        | Lantana    |
+| Lucky Job           | Anthropologist       |
+| Lucky Exercise      | Water Polo  |
+| Lucky Country       | Spain    |
 
 
 ##  Final Reflections on Dreams

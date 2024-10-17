@@ -1,8 +1,8 @@
 ---
     weight: 1236
     title: "Dream of crashing on a slippery road"  # Assuming 'title' column exists
-    date: 2024-10-13T13:32:00+08:00
-    lastmod: 2024-10-13T13:32:00+08:00
+    date: 2024-10-15T19:37:00+08:00
+    lastmod: 2024-10-15T19:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['crashing', 'road', 'Dream', 'a', 'on', 'of', 'slippery']
+    tags: ['Dream', 'crashing', 'road', 'slippery']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Risotto      |
-| Lucky Instrument    | Bouzouki |
-| Lucky Flower        | Ragged Robin    |
-| Lucky Job           | Data Scientist       |
-| Lucky Exercise      | Obstacle Course Racing  |
-| Lucky Country       | Iraq    |
+| Lucky Food          | Sandwich      |
+| Lucky Instrument    | Castanets |
+| Lucky Flower        | Kalanchoe    |
+| Lucky Job           | Archaeologist       |
+| Lucky Exercise      | Snowshoeing  |
+| Lucky Country       | Ireland    |
 
 
 ##  Final Reflections on Dreams

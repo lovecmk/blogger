@@ -1,8 +1,8 @@
 ---
     weight: 1304
     title: "Dream of forgetting to pay bills"  # Assuming 'title' column exists
-    date: 2024-10-13T13:35:00+08:00
-    lastmod: 2024-10-13T13:35:00+08:00
+    date: 2024-10-12T13:38:00+08:00
+    lastmod: 2024-10-12T13:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['forgetting', 'to', 'Dream', 'pay', 'bills', 'of']
+    tags: ['Dream', 'pay', 'bills', 'to', 'forgetting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Bear |
 | Lucky Place         | Sea     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Fruit Tart      |
-| Lucky Instrument    | Djembe |
-| Lucky Flower        | Borage    |
-| Lucky Job           | Farmer       |
-| Lucky Exercise      | Aerobics  |
-| Lucky Country       | Palau    |
+| Lucky Food          | Prawn Crackers      |
+| Lucky Instrument    | Steel Pan |
+| Lucky Flower        | Wisteria    |
+| Lucky Job           | Welder       |
+| Lucky Exercise      | Trail Running  |
+| Lucky Country       | Tanzania    |
 
 
 ##  Final Reflections on Dreams

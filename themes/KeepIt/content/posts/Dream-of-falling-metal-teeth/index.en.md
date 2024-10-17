@@ -1,8 +1,8 @@
 ---
     weight: 877
     title: "Dream of falling metal teeth"  # Assuming 'title' column exists
-    date: 2024-10-13T06:50:00+08:00
-    lastmod: 2024-10-13T06:50:00+08:00
+    date: 2024-10-11T23:32:00+08:00
+    lastmod: 2024-10-11T23:32:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['teeth', 'falling', 'Dream', 'metal', 'of']
+    tags: ['Dream', 'falling', 'teeth', 'metal']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be a bit contradictory.This dream can be an opportuni
 | Lucky Animal        | Kangaroo |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Scone      |
-| Lucky Instrument    | Tenor Guitar |
-| Lucky Flower        | Pincushion Flower    |
-| Lucky Job           | Stockbroker       |
-| Lucky Exercise      | Running  |
-| Lucky Country       | Qatar    |
+| Lucky Food          | Zucchini Noodles      |
+| Lucky Instrument    | Fiddle |
+| Lucky Flower        | Rudbeckia    |
+| Lucky Job           | Personal Trainer       |
+| Lucky Exercise      | Deadlifts  |
+| Lucky Country       | Serbia    |
 
 
 ##  Final Reflections on Dreams

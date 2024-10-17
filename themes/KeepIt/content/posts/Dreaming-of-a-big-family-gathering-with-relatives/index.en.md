@@ -1,8 +1,8 @@
 ---
     weight: 152
     title: "Dreaming of a big family gathering with relatives"  # Assuming 'title' column exists
-    date: 2024-10-13T07:44:00+08:00
-    lastmod: 2024-10-13T07:44:00+08:00
+    date: 2024-10-12T18:13:00+08:00
+    lastmod: 2024-10-12T18:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'Dreaming', 'big', 'gathering', 'a', 'relatives', 'of', 'with']
+    tags: ['family', 'big', 'gathering', 'Dreaming', 'relatives']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream emphasizes the importance of ties with the family and can
 | Lucky Animal        | Snake |
 | Lucky Place         | Lake     |
 | Lucky Color         | Green     |
-| Lucky Food          | Brownies      |
-| Lucky Instrument    | Calimba |
-| Lucky Flower        | Chrysanthemum    |
-| Lucky Job           | Web Designer       |
-| Lucky Exercise      | Stand-Up Paddleboarding  |
-| Lucky Country       | Uzbekistan    |
+| Lucky Food          | Pico de Gallo      |
+| Lucky Instrument    | Kettledrum |
+| Lucky Flower        | Zinnia    |
+| Lucky Job           | Interior Designer       |
+| Lucky Exercise      | Kickboxing  |
+| Lucky Country       | Azerbaijan    |
 
 
 ##  Final Reflections on Dreams

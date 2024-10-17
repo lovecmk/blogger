@@ -1,8 +1,8 @@
 ---
     weight: 1580
     title: "Dream of experiencing a deep sense of loss"  # Assuming 'title' column exists
-    date: 2024-10-13T08:33:00+08:00
-    lastmod: 2024-10-13T08:33:00+08:00
+    date: 2024-10-15T01:36:00+08:00
+    lastmod: 2024-10-15T01:36:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['deep', 'experiencing', 'Dream', 'a', 'loss', 'of', 'sense']
+    tags: ['experiencing', 'Dream', 'loss', 'sense', 'deep']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Cat |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Caprese Salad      |
-| Lucky Instrument    | Flute |
-| Lucky Flower        | Bee Balm    |
-| Lucky Job           | Hair Stylist       |
-| Lucky Exercise      | Circuit Workout  |
-| Lucky Country       | China    |
+| Lucky Food          | Gnocchi      |
+| Lucky Instrument    | Darabuka |
+| Lucky Flower        | Cactus Flower    |
+| Lucky Job           | Personal Trainer       |
+| Lucky Exercise      | Ashtanga Yoga  |
+| Lucky Country       | Tanzania    |
 
 
 ##  Final Reflections on Dreams

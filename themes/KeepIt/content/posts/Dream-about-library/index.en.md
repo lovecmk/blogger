@@ -1,8 +1,8 @@
 ---
     weight: 1184
     title: "Dream about library"  # Assuming 'title' column exists
-    date: 2024-10-13T15:26:00+08:00
-    lastmod: 2024-10-13T15:26:00+08:00
+    date: 2024-10-11T20:30:00+08:00
+    lastmod: 2024-10-11T20:30:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['library', 'about', 'Dream']
+    tags: ['Dream', 'library']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The library is related to knowledge, academics, and self -development, so if thi
 | Lucky Animal        | Elephant |
 | Lucky Place         | Museum     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Tart      |
-| Lucky Instrument    | Trumpet |
-| Lucky Flower        | Cyclamen    |
-| Lucky Job           | Bus Driver       |
-| Lucky Exercise      | Step Aerobics  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Samosa      |
+| Lucky Instrument    | Tenor Guitar |
+| Lucky Flower        | Snapdragon    |
+| Lucky Job           | Chef       |
+| Lucky Exercise      | Horseback Riding  |
+| Lucky Country       | Nauru    |
 
 
 ##  Final Reflections on Dreams

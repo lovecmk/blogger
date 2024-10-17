@@ -1,8 +1,8 @@
 ---
     weight: 1408
     title: "Dream of waking up late for work or school"  # Assuming 'title' column exists
-    date: 2024-10-13T08:48:00+08:00
-    lastmod: 2024-10-13T08:48:00+08:00
+    date: 2024-10-13T02:28:00+08:00
+    lastmod: 2024-10-13T02:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['waking', 'or', 'up', 'Dream', 'late', 'for', 'of', 'work', 'school']
+    tags: ['school', 'waking', 'Dream', 'late', 'up', 'work']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Seagull |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Spring Roll      |
-| Lucky Instrument    | Fujara |
-| Lucky Flower        | Forget-Me-Not    |
-| Lucky Job           | Welder       |
-| Lucky Exercise      | Circuit Workout  |
-| Lucky Country       | Lesotho    |
+| Lucky Food          | Stuffed Mushrooms      |
+| Lucky Instrument    | Trombone Slide |
+| Lucky Flower        | Hibiscus    |
+| Lucky Job           | Consultant       |
+| Lucky Exercise      | Handball  |
+| Lucky Country       | Uzbekistan    |
 
 
 ##  Final Reflections on Dreams

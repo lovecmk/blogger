@@ -1,8 +1,8 @@
 ---
     weight: 357
     title: "I want to talk with someone, but a dream that doesn't work"  # Assuming 'title' column exists
-    date: 2024-10-13T07:32:00+08:00
-    lastmod: 2024-10-13T07:32:00+08:00
+    date: 2024-10-14T15:36:00+08:00
+    lastmod: 2024-10-14T15:36:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['want', "doesn't", 'to', 'work', 'I', 'a', 'dream', 'someone,', 'but', 'talk', 'that', 'with']
+    tags: ['someone,', 'dream', 'to', 'want', 'I', 'talk', "doesn't", 'work', 'that']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ What are the luck of this dream?'Dreams that do not work with someone to speak w
 | Lucky Animal        | Bear |
 | Lucky Place         | Mart     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Pasta Salad      |
-| Lucky Instrument    | Recorder |
-| Lucky Flower        | Freesia    |
-| Lucky Job           | Engineer       |
-| Lucky Exercise      | Dance Aerobics  |
-| Lucky Country       | Netherlands    |
+| Lucky Food          | Cheeseboard      |
+| Lucky Instrument    | Lyre |
+| Lucky Flower        | Aster    |
+| Lucky Job           | Geologist       |
+| Lucky Exercise      | Pole Vaulting  |
+| Lucky Country       | Lebanon    |
 
 
 ##  Final Reflections on Dreams

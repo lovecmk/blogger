@@ -1,8 +1,8 @@
 ---
     weight: 161
     title: "Dreaming of a happy anniversary with the family"  # Assuming 'title' column exists
-    date: 2024-10-13T13:13:00+08:00
-    lastmod: 2024-10-13T13:13:00+08:00
+    date: 2024-10-15T19:50:00+08:00
+    lastmod: 2024-10-15T19:50:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['anniversary', 'family', 'Dreaming', 'the', 'a', 'happy', 'of', 'with']
+    tags: ['family', 'anniversary', 'happy', 'Dreaming']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Dreaming of a happy anniversary with the family is a dream that emphasizes the c
 | Lucky Animal        | Wolf |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Gelato      |
-| Lucky Instrument    | Didgeridoo |
-| Lucky Flower        | Bellflower    |
-| Lucky Job           | IT Specialist       |
-| Lucky Exercise      | Cycling  |
-| Lucky Country       | Bahrain    |
+| Lucky Food          | Vegetarian Chili      |
+| Lucky Instrument    | Cowbell |
+| Lucky Flower        | Gladiolus    |
+| Lucky Job           | Human Resources Manager       |
+| Lucky Exercise      | Pilates  |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

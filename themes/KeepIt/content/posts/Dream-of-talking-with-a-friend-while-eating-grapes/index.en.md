@@ -1,8 +1,8 @@
 ---
     weight: 30
     title: "Dream of talking with a friend while eating grapes"  # Assuming 'title' column exists
-    date: 2024-10-13T04:30:00+08:00
-    lastmod: 2024-10-13T04:30:00+08:00
+    date: 2024-10-14T12:37:00+08:00
+    lastmod: 2024-10-14T12:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['friend', 'eating', 'grapes', 'while', 'talking', 'Dream', 'a', 'of', 'with']
+    tags: ['while', 'Dream', 'talking', 'eating', 'friend', 'grapes']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The meaning of 'dream of talking with a friend while eating grapes' may vary fro
 | Lucky Animal        | Leopard |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Red     |
-| Lucky Food          | Clams      |
-| Lucky Instrument    | Maracas |
-| Lucky Flower        | Ranunculus    |
-| Lucky Job           | Mechanic       |
-| Lucky Exercise      | Jumping Rope  |
-| Lucky Country       | Bangladesh    |
+| Lucky Food          | Risotto      |
+| Lucky Instrument    | Melodica |
+| Lucky Flower        | Narcissus    |
+| Lucky Job           | Welder       |
+| Lucky Exercise      | Kettlebell Training  |
+| Lucky Country       | Singapore    |
 
 
 ##  Final Reflections on Dreams

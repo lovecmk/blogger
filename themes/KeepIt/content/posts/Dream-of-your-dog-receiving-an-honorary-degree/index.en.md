@@ -1,8 +1,8 @@
 ---
     weight: 1278
     title: "Dream of your dog receiving an honorary degree"  # Assuming 'title' column exists
-    date: 2024-10-13T06:42:00+08:00
-    lastmod: 2024-10-13T06:42:00+08:00
+    date: 2024-10-15T20:13:00+08:00
+    lastmod: 2024-10-15T20:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['receiving', 'honorary', 'your', 'Dream', 'degree', 'an', 'of', 'dog']
+    tags: ['Dream', 'honorary', 'degree', 'receiving', 'dog', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Seal |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Chips      |
-| Lucky Instrument    | Electric Cello |
-| Lucky Flower        | Heather    |
-| Lucky Job           | Actor       |
-| Lucky Exercise      | CrossFit  |
-| Lucky Country       | Switzerland    |
+| Lucky Food          | Guacamole      |
+| Lucky Instrument    | Tenor Saxophone |
+| Lucky Flower        | Lilac    |
+| Lucky Job           | Chemist       |
+| Lucky Exercise      | Rugby  |
+| Lucky Country       | Mexico    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 463
     title: "The dream of a problem caused by your own mistake or mistake"  # Assuming 'title' column exists
-    date: 2024-10-13T18:24:00+08:00
-    lastmod: 2024-10-13T18:24:00+08:00
+    date: 2024-10-14T23:48:00+08:00
+    lastmod: 2024-10-14T23:48:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['own', 'or', 'problem', 'your', 'caused', 'mistake', 'a', 'dream', 'The', 'by', 'of']
+    tags: ['The', 'dream', 'own', 'caused', 'mistake', 'problem']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual.But in general, this
 | Lucky Animal        | Bear |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Baklava      |
-| Lucky Instrument    | Rudra Veena |
-| Lucky Flower        | Cyclamen    |
-| Lucky Job           | Director       |
-| Lucky Exercise      | Crunches  |
-| Lucky Country       | Czech Republic    |
+| Lucky Food          | Roast Chicken      |
+| Lucky Instrument    | Piccolo |
+| Lucky Flower        | Scabiosa    |
+| Lucky Job           | Postman       |
+| Lucky Exercise      | Tennis  |
+| Lucky Country       | Australia    |
 
 
 ##  Final Reflections on Dreams

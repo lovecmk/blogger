@@ -1,8 +1,8 @@
 ---
     weight: 1361
     title: "Dream of your dog going on a world tour"  # Assuming 'title' column exists
-    date: 2024-10-13T18:19:00+08:00
-    lastmod: 2024-10-13T18:19:00+08:00
+    date: 2024-10-14T01:28:00+08:00
+    lastmod: 2024-10-14T01:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['tour', 'your', 'going', 'Dream', 'a', 'on', 'world', 'of', 'dog']
+    tags: ['tour', 'Dream', 'going', 'world', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Fox |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Lasagna      |
-| Lucky Instrument    | Calimba |
-| Lucky Flower        | Mandevilla    |
-| Lucky Job           | Research Scientist       |
-| Lucky Exercise      | Pole Vaulting  |
-| Lucky Country       | Lebanon    |
+| Lucky Food          | Pancakes      |
+| Lucky Instrument    | Recorder |
+| Lucky Flower        | Buttercup    |
+| Lucky Job           | Interpreter       |
+| Lucky Exercise      | Rock Climbing  |
+| Lucky Country       | Australia    |
 
 
 ##  Final Reflections on Dreams

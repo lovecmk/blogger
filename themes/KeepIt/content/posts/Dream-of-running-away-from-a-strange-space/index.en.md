@@ -1,8 +1,8 @@
 ---
     weight: 398
     title: "Dream of running away from a strange space"  # Assuming 'title' column exists
-    date: 2024-10-13T01:52:00+08:00
-    lastmod: 2024-10-13T01:52:00+08:00
+    date: 2024-10-12T11:55:00+08:00
+    lastmod: 2024-10-12T11:55:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['space', 'strange', 'running', 'away', 'Dream', 'a', 'from', 'of']
+    tags: ['Dream', 'running', 'from', 'away', 'strange', 'space']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream generally does not symbolize good luck, but rather shows the desire t
 | Lucky Animal        | Wolf |
 | Lucky Place         | Beach     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Stuffed Mushrooms      |
-| Lucky Instrument    | Maracas |
-| Lucky Flower        | Butterfly Bush    |
-| Lucky Job           | Pharmacist       |
-| Lucky Exercise      | Snowshoeing  |
-| Lucky Country       | Netherlands    |
+| Lucky Food          | Scone      |
+| Lucky Instrument    | Harmonic Piano |
+| Lucky Flower        | Edelweiss    |
+| Lucky Job           | Database Administrator       |
+| Lucky Exercise      | Sit-Ups  |
+| Lucky Country       | United Kingdom    |
 
 
 ##  Final Reflections on Dreams

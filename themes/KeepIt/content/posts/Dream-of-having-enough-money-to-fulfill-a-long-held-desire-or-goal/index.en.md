@@ -1,8 +1,8 @@
 ---
     weight: 1921
     title: "Dream of a death premonition"  # Assuming 'title' column exists
-    date: 2024-10-13T05:16:00+08:00
-    lastmod: 2024-10-13T05:16:00+08:00
+    date: 2024-10-13T21:14:00+08:00
+    lastmod: 2024-10-13T21:14:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['death', 'Dream', 'a', 'of', 'premonition']
+    tags: ['Dream', 'premonition', 'death']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream signifies a stroke of luck in terms of your relationship and overall 
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Green     |
-| Lucky Food          | Ceviche      |
-| Lucky Instrument    | Claves |
-| Lucky Flower        | Nymphaea    |
-| Lucky Job           | Operations Manager       |
-| Lucky Exercise      | Soccer  |
-| Lucky Country       | Japan    |
+| Lucky Food          | Chocolate      |
+| Lucky Instrument    | Keyboard |
+| Lucky Flower        | Celosia    |
+| Lucky Job           | Catering Manager       |
+| Lucky Exercise      | Shot Put  |
+| Lucky Country       | South Korea    |
 
 
 ##  Final Reflections on Dreams

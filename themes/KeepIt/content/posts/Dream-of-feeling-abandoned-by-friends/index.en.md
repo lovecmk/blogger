@@ -1,8 +1,8 @@
 ---
     weight: 1620
     title: "Dream of finding a valuable item that can be sold for money."  # Assuming 'title' column exists
-    date: 2024-10-13T05:27:00+08:00
-    lastmod: 2024-10-13T05:27:00+08:00
+    date: 2024-10-11T16:06:00+08:00
+    lastmod: 2024-10-11T16:06:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['money.', 'valuable', 'item', 'Dream', 'be', 'for', 'a', 'can', 'sold', 'of', 'that', 'finding']
+    tags: ['can', 'item', 'Dream', 'money', 'finding', 'sold', 'valuable', 'be', 'that']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Sparrow |
 | Lucky Place         | School     |
 | Lucky Color         | White     |
-| Lucky Food          | Caramel Flan      |
-| Lucky Instrument    | Sitar |
-| Lucky Flower        | Jatropha    |
-| Lucky Job           | Chemist       |
-| Lucky Exercise      | Rock Climbing  |
-| Lucky Country       | Cyprus    |
+| Lucky Food          | Dumplings      |
+| Lucky Instrument    | Guitarlele |
+| Lucky Flower        | Peony    |
+| Lucky Job           | Chef       |
+| Lucky Exercise      | Salsa  |
+| Lucky Country       | Malawi    |
 
 
 ##  Final Reflections on Dreams

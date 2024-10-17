@@ -1,8 +1,8 @@
 ---
     weight: 1973
     title: "Dream of your cat receiving affection from you"  # Assuming 'title' column exists
-    date: 2024-10-13T01:13:00+08:00
-    lastmod: 2024-10-13T01:13:00+08:00
+    date: 2024-10-14T05:32:00+08:00
+    lastmod: 2024-10-14T05:32:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['receiving', 'your', 'cat', 'Dream', 'from', 'of', 'affection', 'you']
+    tags: ['Dream', 'receiving', 'from', 'cat', 'affection', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ The luck associated with this dream is connected to being open-minded and recept
 | Lucky Animal        | Chick |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Fried Rice      |
-| Lucky Instrument    | Timpani |
-| Lucky Flower        | Pelargonium    |
-| Lucky Job           | Customer Service Representative       |
-| Lucky Exercise      | Zumba  |
-| Lucky Country       | Israel    |
+| Lucky Food          | Popcorn      |
+| Lucky Instrument    | Bassoon |
+| Lucky Flower        | Anemone    |
+| Lucky Job           | Oceanographer       |
+| Lucky Exercise      | Hiking  |
+| Lucky Country       | Bhutan    |
 
 
 ##  Final Reflections on Dreams

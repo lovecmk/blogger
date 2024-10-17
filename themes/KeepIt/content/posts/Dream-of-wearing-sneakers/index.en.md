@@ -1,8 +1,8 @@
 ---
     weight: 514
     title: "Dream of wearing sneakers"  # Assuming 'title' column exists
-    date: 2024-10-13T12:08:00+08:00
-    lastmod: 2024-10-13T12:08:00+08:00
+    date: 2024-10-14T11:01:00+08:00
+    lastmod: 2024-10-14T11:01:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'sneakers', 'wearing', 'Dream']
+    tags: ['wearing', 'Dream', 'sneakers']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is the luck of achieving the efforts and goals that can b
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Museum     |
 | Lucky Color         | Red     |
-| Lucky Food          | Omelette      |
-| Lucky Instrument    | Fretless Bass |
-| Lucky Flower        | Borage    |
-| Lucky Job           | Nurse       |
-| Lucky Exercise      | Basketball  |
-| Lucky Country       | Iraq    |
+| Lucky Food          | Paella      |
+| Lucky Instrument    | Cajón |
+| Lucky Flower        | Orchid    |
+| Lucky Job           | Database Administrator       |
+| Lucky Exercise      | Cycling  |
+| Lucky Country       | Nauru    |
 
 
 ##  Final Reflections on Dreams

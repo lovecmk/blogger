@@ -1,8 +1,8 @@
 ---
     weight: 1491
     title: "Dream of being a different gender or having a different identity"  # Assuming 'title' column exists
-    date: 2024-10-13T04:44:00+08:00
-    lastmod: 2024-10-13T04:44:00+08:00
+    date: 2024-10-14T09:09:00+08:00
+    lastmod: 2024-10-14T09:09:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['gender', 'or', 'Dream', 'being', 'a', 'identity', 'different', 'of', 'having']
+    tags: ['being', 'different', 'Dream', 'identity', 'gender', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams are not typically directly linked to luck. However, this dream can be see
 | Lucky Animal        | Cheetah |
 | Lucky Place         | River     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Shrimp      |
-| Lucky Instrument    | Piccolo Trumpet |
-| Lucky Flower        | Hoya    |
-| Lucky Job           | Anthropologist       |
-| Lucky Exercise      | Cycling  |
-| Lucky Country       | Zambia    |
+| Lucky Food          | Pasta      |
+| Lucky Instrument    | Bassoon |
+| Lucky Flower        | Tiger Lily    |
+| Lucky Job           | Doctor       |
+| Lucky Exercise      | Squats  |
+| Lucky Country       | Malawi    |
 
 
 ##  Final Reflections on Dreams

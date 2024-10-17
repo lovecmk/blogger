@@ -1,8 +1,8 @@
 ---
     weight: 372
     title: "Dream of testing your own abilities"  # Assuming 'title' column exists
-    date: 2024-10-13T05:41:00+08:00
-    lastmod: 2024-10-13T05:41:00+08:00
+    date: 2024-10-11T18:38:00+08:00
+    lastmod: 2024-10-11T18:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['own', 'your', 'testing', 'Dream', 'abilities', 'of']
+    tags: ['Dream', 'testing', 'own', 'abilities']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can be a sign of luck that can bring you challenge and change.Through
 | Lucky Animal        | Camel |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Omelette      |
-| Lucky Instrument    | Electric Cello |
-| Lucky Flower        | Chrysanthemum    |
-| Lucky Job           | Makeup Artist       |
-| Lucky Exercise      | Body Pump  |
-| Lucky Country       | Jordan    |
+| Lucky Food          | Potato Skins      |
+| Lucky Instrument    | Guitarlele |
+| Lucky Flower        | Begonia    |
+| Lucky Job           | Veterinarian       |
+| Lucky Exercise      | Sledge Hockey  |
+| Lucky Country       | Fiji    |
 
 
 ##  Final Reflections on Dreams

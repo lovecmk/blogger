@@ -1,8 +1,8 @@
 ---
     weight: 1886
     title: "Dream of enjoying a favorite treat or snack with your grandmother."  # Assuming 'title' column exists
-    date: 2024-10-13T09:55:00+08:00
-    lastmod: 2024-10-13T09:55:00+08:00
+    date: 2024-10-14T21:31:00+08:00
+    lastmod: 2024-10-14T21:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['enjoying', 'or', 'your', 'grandmother.', 'favorite', 'Dream', 'a', 'treat', 'of', 'snack', 'with']
+    tags: ['favorite', 'treat', 'Dream', 'grandmother', 'enjoying', 'snack']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams of ghosts trying to communicate are not typically associated with luck. I
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Restroom     |
 | Lucky Color         | White     |
-| Lucky Food          | Fried Rice      |
-| Lucky Instrument    | Harp |
-| Lucky Flower        | Jade Plant    |
+| Lucky Food          | Pudding      |
+| Lucky Instrument    | Bass Drum |
+| Lucky Flower        | Scabiosa    |
 | Lucky Job           | Insurance Underwriter       |
-| Lucky Exercise      | Handball  |
-| Lucky Country       | Tonga    |
+| Lucky Exercise      | Snowshoeing  |
+| Lucky Country       | Yemen    |
 
 
 ##  Final Reflections on Dreams

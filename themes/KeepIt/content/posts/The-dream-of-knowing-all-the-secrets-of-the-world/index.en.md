@@ -1,8 +1,8 @@
 ---
     weight: 276
     title: "The dream of knowing all the secrets of the world"  # Assuming 'title' column exists
-    date: 2024-10-13T12:14:00+08:00
-    lastmod: 2024-10-13T12:14:00+08:00
+    date: 2024-10-11T08:36:00+08:00
+    lastmod: 2024-10-11T08:36:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'all', 'dream', 'The', 'secrets', 'world', 'of', 'knowing']
+    tags: ['The', 'dream', 'world', 'knowing', 'all', 'secrets']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the contents of the dream and the i
 | Lucky Animal        | Pig |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Potato Skins      |
-| Lucky Instrument    | Viola |
-| Lucky Flower        | Lantana    |
-| Lucky Job           | Postman       |
-| Lucky Exercise      | Stair Climbing  |
-| Lucky Country       | Spain    |
+| Lucky Food          | Baklava      |
+| Lucky Instrument    | Pipa |
+| Lucky Flower        | Mandevilla    |
+| Lucky Job           | Marketing Manager       |
+| Lucky Exercise      | Rock Climbing  |
+| Lucky Country       | Mozambique    |
 
 
 ##  Final Reflections on Dreams

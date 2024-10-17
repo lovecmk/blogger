@@ -1,8 +1,8 @@
 ---
     weight: 304
     title: "Dream of relaxing in nature healing with a dog"  # Assuming 'title' column exists
-    date: 2024-10-13T06:30:00+08:00
-    lastmod: 2024-10-13T06:30:00+08:00
+    date: 2024-10-14T22:12:00+08:00
+    lastmod: 2024-10-14T22:12:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['nature', 'Dream', 'a', 'healing', 'in', 'relaxing', 'of', 'with', 'dog']
+    tags: ['healing', 'Dream', 'nature', 'relaxing', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can give a hint that heralds good luck and positive change.With a dog
 | Lucky Animal        | Bear |
 | Lucky Place         | Museum     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Caprese Salad      |
-| Lucky Instrument    | Fiddle |
-| Lucky Flower        | Sundew    |
-| Lucky Job           | Musician       |
-| Lucky Exercise      | Lunges  |
-| Lucky Country       | Laos    |
+| Lucky Food          | Hummus      |
+| Lucky Instrument    | French Horn |
+| Lucky Flower        | Hydrangea    |
+| Lucky Job           | Research Scientist       |
+| Lucky Exercise      | Slacklining  |
+| Lucky Country       | Canada    |
 
 
 ##  Final Reflections on Dreams

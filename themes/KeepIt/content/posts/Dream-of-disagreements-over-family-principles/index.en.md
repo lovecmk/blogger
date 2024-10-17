@@ -1,8 +1,8 @@
 ---
     weight: 2011
     title: "Dream of your cat enjoying a meal"  # Assuming 'title' column exists
-    date: 2024-10-13T06:42:00+08:00
-    lastmod: 2024-10-13T06:42:00+08:00
+    date: 2024-10-12T00:48:00+08:00
+    lastmod: 2024-10-12T00:48:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['enjoying', 'your', 'cat', 'Dream', 'a', 'of', 'meal']
+    tags: ['Dream', 'meal', 'enjoying', 'cat']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream may bring luck in the form of increased awareness and appreciation fo
 | Lucky Animal        | Rhino |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Paella      |
-| Lucky Instrument    | Tama |
-| Lucky Flower        | Mullein    |
-| Lucky Job           | Neuroscientist       |
-| Lucky Exercise      | Resistance Bands  |
-| Lucky Country       | Mexico    |
+| Lucky Food          | Scone      |
+| Lucky Instrument    | Piccolo |
+| Lucky Flower        | Magnolia    |
+| Lucky Job           | Security Guard       |
+| Lucky Exercise      | Martial Arts  |
+| Lucky Country       | Kazakhstan    |
 
 
 ##  Final Reflections on Dreams

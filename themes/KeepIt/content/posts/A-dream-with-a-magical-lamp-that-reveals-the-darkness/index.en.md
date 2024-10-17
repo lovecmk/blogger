@@ -1,8 +1,8 @@
 ---
     weight: 641
     title: "A dream with a magical lamp that reveals the darkness"  # Assuming 'title' column exists
-    date: 2024-10-13T14:44:00+08:00
-    lastmod: 2024-10-13T14:44:00+08:00
+    date: 2024-10-12T17:38:00+08:00
+    lastmod: 2024-10-12T17:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lamp', 'the', 'darkness', 'a', 'dream', 'magical', 'with', 'that', 'A', 'reveals']
+    tags: ['lamp', 'darkness', 'magical', 'dream', 'A', 'that', 'reveals']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream provides you with luck and opportunities to show you inner power and 
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Bruschetta      |
-| Lucky Instrument    | Tromba |
-| Lucky Flower        | Verbena    |
-| Lucky Job           | Environmental Scientist       |
-| Lucky Exercise      | Hammer Throw  |
-| Lucky Country       | Syria    |
+| Lucky Food          | Cheeseboard      |
+| Lucky Instrument    | Keyboard |
+| Lucky Flower        | Cyclamen    |
+| Lucky Job           | Financial Analyst       |
+| Lucky Exercise      | Body Pump  |
+| Lucky Country       | Slovakia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1469
     title: "Dream of being pregnant or having a baby"  # Assuming 'title' column exists
-    date: 2024-10-13T20:00:00+08:00
-    lastmod: 2024-10-13T20:00:00+08:00
+    date: 2024-10-13T09:21:00+08:00
+    lastmod: 2024-10-13T09:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['baby', 'or', 'pregnant', 'Dream', 'being', 'a', 'of', 'having']
+    tags: ['being', 'pregnant', 'Dream', 'baby', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream can bring a sense of positivity and good luck, suggesting that you ar
 | Lucky Animal        | Cat |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Stuffed Peppers      |
-| Lucky Instrument    | Bass Clarinet |
-| Lucky Flower        | Jatropha    |
-| Lucky Job           | Neuroscientist       |
+| Lucky Food          | Seafood Paella      |
+| Lucky Instrument    | Cajón |
+| Lucky Flower        | Zinnia    |
+| Lucky Job           | Plumber       |
 | Lucky Exercise      | Futsal  |
-| Lucky Country       | Samoa    |
+| Lucky Country       | Canada    |
 
 
 ##  Final Reflections on Dreams

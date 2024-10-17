@@ -1,8 +1,8 @@
 ---
     weight: 1967
     title: "Dream of attending your own funeral"  # Assuming 'title' column exists
-    date: 2024-10-13T01:38:00+08:00
-    lastmod: 2024-10-13T01:38:00+08:00
+    date: 2024-10-14T01:58:00+08:00
+    lastmod: 2024-10-14T01:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['own', 'your', 'Dream', 'of', 'attending', 'funeral']
+    tags: ['funeral', 'Dream', 'own', 'attending']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Seal |
 | Lucky Place         | Museum     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Chips      |
-| Lucky Instrument    | Octobass |
-| Lucky Flower        | Jade Plant    |
-| Lucky Job           | Interior Designer       |
-| Lucky Exercise      | Push-Ups  |
-| Lucky Country       | Thailand    |
+| Lucky Food          | Waffles      |
+| Lucky Instrument    | Soprano Recorder |
+| Lucky Flower        | Borage    |
+| Lucky Job           | Nuclear Engineer       |
+| Lucky Exercise      | Handball  |
+| Lucky Country       | Iceland    |
 
 
 ##  Final Reflections on Dreams

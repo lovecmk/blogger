@@ -1,8 +1,8 @@
 ---
     weight: 383
     title: "Dream of being injured by yourself or others"  # Assuming 'title' column exists
-    date: 2024-10-13T05:47:00+08:00
-    lastmod: 2024-10-13T05:47:00+08:00
+    date: 2024-10-15T06:02:00+08:00
+    lastmod: 2024-10-15T06:02:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'Dream', 'yourself', 'being', 'others', 'by', 'injured', 'of']
+    tags: ['being', 'injured', 'others', 'Dream', 'yourself']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ There are few direct luck in this dream, but it can provide a chance to learn in
 | Lucky Animal        | Sloth |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Roast Chicken      |
-| Lucky Instrument    | Zouaves |
-| Lucky Flower        | Lantana    |
-| Lucky Job           | Sales Representative       |
-| Lucky Exercise      | Hula Hooping  |
-| Lucky Country       | Australia    |
+| Lucky Food          | Fajitas      |
+| Lucky Instrument    | Wooden Flute |
+| Lucky Flower        | Vinca    |
+| Lucky Job           | Data Analyst       |
+| Lucky Exercise      | Cycling  |
+| Lucky Country       | Egypt    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1297
     title: "Dream of dealing with a technology malfunction"  # Assuming 'title' column exists
-    date: 2024-10-13T16:18:00+08:00
-    lastmod: 2024-10-13T16:18:00+08:00
+    date: 2024-10-15T15:57:00+08:00
+    lastmod: 2024-10-15T15:57:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'a', 'technology', 'malfunction', 'of', 'with', 'dealing']
+    tags: ['Dream', 'technology', 'dealing', 'malfunction']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Deer |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Chia Pudding      |
-| Lucky Instrument    | Bass Drum |
+| Lucky Food          | Shepherd's Pie      |
+| Lucky Instrument    | Lyre |
 | Lucky Flower        | Celosia    |
-| Lucky Job           | Event Planner       |
-| Lucky Exercise      | Kite Surfing  |
-| Lucky Country       | Iran    |
+| Lucky Job           | Quality Assurance Tester       |
+| Lucky Exercise      | Sledge Hockey  |
+| Lucky Country       | Greece    |
 
 
 ##  Final Reflections on Dreams

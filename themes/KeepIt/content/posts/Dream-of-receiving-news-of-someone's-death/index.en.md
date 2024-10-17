@@ -1,8 +1,8 @@
 ---
     weight: 1966
     title: "Dream of doing DIY projects or crafts with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T10:03:00+08:00
-    lastmod: 2024-10-13T10:03:00+08:00
+    date: 2024-10-12T06:30:00+08:00
+    lastmod: 2024-10-12T06:30:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'your', 'boyfriend', 'doing', 'Dream', 'crafts', 'projects', 'DIY', 'of', 'with']
+    tags: ['doing', 'Dream', 'boyfriend', 'crafts', 'DIY', 'projects']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rhino |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Pudding      |
-| Lucky Instrument    | Trombone Slide |
-| Lucky Flower        | Jatropha    |
-| Lucky Job           | Field Technician       |
-| Lucky Exercise      | Salsa  |
-| Lucky Country       | Australia    |
+| Lucky Food          | Duck Confit      |
+| Lucky Instrument    | Bass Guitar |
+| Lucky Flower        | Heather    |
+| Lucky Job           | Engineer       |
+| Lucky Exercise      | Lunges  |
+| Lucky Country       | Solomon Islands    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 813
     title: "A dream of feeling guilty after the accident"  # Assuming 'title' column exists
-    date: 2024-10-13T12:41:00+08:00
-    lastmod: 2024-10-13T12:41:00+08:00
+    date: 2024-10-11T00:59:00+08:00
+    lastmod: 2024-10-11T00:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['guilty', 'feeling', 'the', 'after', 'dream', 'accident', 'of', 'A']
+    tags: ['guilty', 'dream', 'A', 'feeling', 'after', 'accident']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is to reflect on my behavior and choice and to give me an
 | Lucky Animal        | Turtle |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Hot Dog      |
-| Lucky Instrument    | Calimba |
-| Lucky Flower        | Ranunculus    |
-| Lucky Job           | Landscaper       |
-| Lucky Exercise      | Bench Press  |
-| Lucky Country       | Samoa    |
+| Lucky Food          | Chocolate Mousse      |
+| Lucky Instrument    | Cajón |
+| Lucky Flower        | Cyclamen    |
+| Lucky Job           | Firefighter       |
+| Lucky Exercise      | Circuit Training  |
+| Lucky Country       | Georgia    |
 
 
 ##  Final Reflections on Dreams

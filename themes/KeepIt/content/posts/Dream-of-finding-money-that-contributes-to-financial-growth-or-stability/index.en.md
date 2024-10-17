@@ -1,8 +1,8 @@
 ---
     weight: 2208
     title: "Dream of fighting with a friend"  # Assuming 'title' column exists
-    date: 2024-10-13T21:51:00+08:00
-    lastmod: 2024-10-13T21:51:00+08:00
+    date: 2024-10-11T10:42:00+08:00
+    lastmod: 2024-10-11T10:42:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['friend', 'fighting', 'Dream', 'a', 'of', 'with']
+    tags: ['Dream', 'friend', 'fighting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Pizza      |
-| Lucky Instrument    | Tenor Banjo |
-| Lucky Flower        | Swan River Daisy    |
-| Lucky Job           | Taxi Driver       |
-| Lucky Exercise      | Bench Press  |
-| Lucky Country       | Israel    |
+| Lucky Food          | Quesadilla      |
+| Lucky Instrument    | Saz |
+| Lucky Flower        | Safflower    |
+| Lucky Job           | Farmer       |
+| Lucky Exercise      | Discus Throw  |
+| Lucky Country       | Brunei    |
 
 
 ##  Final Reflections on Dreams

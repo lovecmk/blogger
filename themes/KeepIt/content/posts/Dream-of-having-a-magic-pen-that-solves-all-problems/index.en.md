@@ -1,8 +1,8 @@
 ---
     weight: 279
     title: "Dream of having a magic pen that solves all problems"  # Assuming 'title' column exists
-    date: 2024-10-13T12:06:00+08:00
-    lastmod: 2024-10-13T12:06:00+08:00
+    date: 2024-10-11T16:30:00+08:00
+    lastmod: 2024-10-11T16:30:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['pen', 'magic', 'Dream', 'solves', 'a', 'all', 'problems', 'of', 'that', 'having']
+    tags: ['Dream', 'solves', 'problems', 'all', 'pen', 'that', 'having', 'magic']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual's experience and sit
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Buffalo Wings      |
-| Lucky Instrument    | Darabuka |
-| Lucky Flower        | Peony    |
-| Lucky Job           | Mechanic       |
-| Lucky Exercise      | Jump Squats  |
-| Lucky Country       | Kuwait    |
+| Lucky Food          | Corn on the Cob      |
+| Lucky Instrument    | Flute |
+| Lucky Flower        | Tithonia    |
+| Lucky Job           | Chemist       |
+| Lucky Exercise      | Paddleboarding  |
+| Lucky Country       | Saudi Arabia    |
 
 
 ##  Final Reflections on Dreams

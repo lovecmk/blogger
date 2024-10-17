@@ -1,8 +1,8 @@
 ---
     weight: 720
     title: "Dream of feeling the beginning of spring in a small flower garden with a friend"  # Assuming 'title' column exists
-    date: 2024-10-13T09:12:00+08:00
-    lastmod: 2024-10-13T09:12:00+08:00
+    date: 2024-10-15T16:30:00+08:00
+    lastmod: 2024-10-15T16:30:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['flower', 'friend', 'feeling', 'spring', 'small', 'the', 'beginning', 'Dream', 'a', 'in', 'of', 'with', 'garden']
+    tags: ['spring', 'Dream', 'garden', 'small', 'flower', 'friend', 'beginning', 'feeling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can give you good luck and positive results.With friends means social
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Fried Rice      |
-| Lucky Instrument    | Synthesizer |
-| Lucky Flower        | Zantedeschia    |
-| Lucky Job           | Welder       |
-| Lucky Exercise      | Boxing  |
-| Lucky Country       | Netherlands    |
+| Lucky Food          | Pesto      |
+| Lucky Instrument    | Calimba |
+| Lucky Flower        | Tiger Lily    |
+| Lucky Job           | UX Designer       |
+| Lucky Exercise      | Active Recovery  |
+| Lucky Country       | Cyprus    |
 
 
 ##  Final Reflections on Dreams

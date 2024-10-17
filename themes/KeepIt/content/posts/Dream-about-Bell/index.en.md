@@ -1,8 +1,8 @@
 ---
     weight: 1093
     title: "Dream about Bell"  # Assuming 'title' column exists
-    date: 2024-10-13T15:40:00+08:00
-    lastmod: 2024-10-13T15:40:00+08:00
+    date: 2024-10-11T16:58:00+08:00
+    lastmod: 2024-10-11T16:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Bell', 'about', 'Dream']
+    tags: ['Dream', 'Bell']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can be interpreted as a symbol of stabilization and balance, giving i
 | Lucky Animal        | Hippo |
 | Lucky Place         | Sea     |
 | Lucky Color         | Black     |
-| Lucky Food          | Tuna Tartare      |
-| Lucky Instrument    | Keyboard |
-| Lucky Flower        | Heather    |
-| Lucky Job           | Brand Manager       |
-| Lucky Exercise      | Pilates  |
-| Lucky Country       | Marshall Islands    |
+| Lucky Food          | Omelette      |
+| Lucky Instrument    | Basset Horn |
+| Lucky Flower        | Borage    |
+| Lucky Job           | Interpreter       |
+| Lucky Exercise      | Obstacle Course Racing  |
+| Lucky Country       | Egypt    |
 
 
 ##  Final Reflections on Dreams

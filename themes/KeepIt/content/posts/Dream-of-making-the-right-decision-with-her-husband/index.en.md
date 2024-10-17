@@ -1,8 +1,8 @@
 ---
     weight: 107
     title: "Dream of making the right decision with her husband"  # Assuming 'title' column exists
-    date: 2024-10-13T23:28:00+08:00
-    lastmod: 2024-10-13T23:28:00+08:00
+    date: 2024-10-13T11:39:00+08:00
+    lastmod: 2024-10-13T11:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['her', 'the', 'Dream', 'husband', 'making', 'right', 'decision', 'of', 'with']
+    tags: ['decision', 'Dream', 'making', 'her', 'husband', 'right']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is the right decision, balance, and accomplishment.Throug
 | Lucky Animal        | Hyena |
 | Lucky Place         | Lake     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Beef Stroganoff      |
-| Lucky Instrument    | Glockenspiel |
-| Lucky Flower        | Pansy    |
-| Lucky Job           | Dentist       |
-| Lucky Exercise      | Snowshoeing  |
-| Lucky Country       | India    |
+| Lucky Food          | Mango Sticky Rice      |
+| Lucky Instrument    | Sackbut |
+| Lucky Flower        | Cactus Flower    |
+| Lucky Job           | Nuclear Engineer       |
+| Lucky Exercise      | Calisthenics  |
+| Lucky Country       | Greece    |
 
 
 ##  Final Reflections on Dreams

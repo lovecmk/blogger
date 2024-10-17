@@ -1,8 +1,8 @@
 ---
     weight: 780
     title: "Dream of appreciating the city's landscape overlooking the high tower"  # Assuming 'title' column exists
-    date: 2024-10-13T22:38:00+08:00
-    lastmod: 2024-10-13T22:38:00+08:00
+    date: 2024-10-12T19:28:00+08:00
+    lastmod: 2024-10-12T19:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['landscape', 'the', 'appreciating', 'Dream', "city's", 'overlooking', 'tower', 'of', 'high']
+    tags: ['high', 'Dream', "city's", 'appreciating', 'landscape', 'overlooking', 'tower']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is that you can expand your views and goals.The dream of 
 | Lucky Animal        | Otter |
 | Lucky Place         | Lake     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Fruit Salad      |
-| Lucky Instrument    | Chimes |
-| Lucky Flower        | Orchid    |
-| Lucky Job           | Brand Manager       |
-| Lucky Exercise      | Deadlifts  |
-| Lucky Country       | Zimbabwe    |
+| Lucky Food          | Guacamole      |
+| Lucky Instrument    | Tenor Banjo |
+| Lucky Flower        | Yarrow    |
+| Lucky Job           | Security Guard       |
+| Lucky Exercise      | Beach Volleyball  |
+| Lucky Country       | South Africa    |
 
 
 ##  Final Reflections on Dreams

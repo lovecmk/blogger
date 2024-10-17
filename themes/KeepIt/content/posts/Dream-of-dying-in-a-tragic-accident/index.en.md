@@ -1,8 +1,8 @@
 ---
     weight: 2181
     title: "Dream of your cat playing with other pets"  # Assuming 'title' column exists
-    date: 2024-10-13T04:38:00+08:00
-    lastmod: 2024-10-13T04:38:00+08:00
+    date: 2024-10-11T14:02:00+08:00
+    lastmod: 2024-10-11T14:02:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['other', 'playing', 'your', 'cat', 'Dream', 'pets', 'of', 'with']
+    tags: ['pets', 'Dream', 'other', 'playing', 'cat']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams of receiving news of someone's death are not typically associated with lu
 | Lucky Animal        | Seagull |
 | Lucky Place         | Park     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Fried Rice      |
-| Lucky Instrument    | Tuba Horn |
-| Lucky Flower        | Jasmine    |
-| Lucky Job           | Catering Manager       |
-| Lucky Exercise      | Capoeira  |
-| Lucky Country       | Bangladesh    |
+| Lucky Food          | Quesadilla      |
+| Lucky Instrument    | Sackbut |
+| Lucky Flower        | Balsam    |
+| Lucky Job           | Sales Manager       |
+| Lucky Exercise      | Box Jumps  |
+| Lucky Country       | Mexico    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1833
     title: "Dream of being haunted by past mistakes or regrets"  # Assuming 'title' column exists
-    date: 2024-10-13T13:47:00+08:00
-    lastmod: 2024-10-13T13:47:00+08:00
+    date: 2024-10-15T07:12:00+08:00
+    lastmod: 2024-10-15T07:12:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'regrets', 'haunted', 'mistakes', 'Dream', 'being', 'by', 'of', 'past']
+    tags: ['being', 'haunted', 'Dream', 'past', 'mistakes', 'regrets']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Elephant |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Chocolate      |
-| Lucky Instrument    | Snare Drum |
-| Lucky Flower        | Peony    |
-| Lucky Job           | Philosopher       |
-| Lucky Exercise      | Resistance Training  |
-| Lucky Country       | Portugal    |
+| Lucky Food          | Muffin      |
+| Lucky Instrument    | Claves |
+| Lucky Flower        | Periwinkle    |
+| Lucky Job           | Welder       |
+| Lucky Exercise      | Spin Class  |
+| Lucky Country       | Iceland    |
 
 
 ##  Final Reflections on Dreams

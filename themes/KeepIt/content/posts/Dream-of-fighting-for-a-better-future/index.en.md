@@ -1,8 +1,8 @@
 ---
     weight: 1898
     title: "Dream of being separated from home or family"  # Assuming 'title' column exists
-    date: 2024-10-13T01:15:00+08:00
-    lastmod: 2024-10-13T01:15:00+08:00
+    date: 2024-10-12T05:53:00+08:00
+    lastmod: 2024-10-12T05:53:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['separated', 'family', 'or', 'Dream', 'being', 'from', 'of', 'home']
+    tags: ['being', 'family', 'Dream', 'separated', 'home', 'from']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Stuffed Peppers      |
-| Lucky Instrument    | Djembe |
-| Lucky Flower        | Mullein    |
-| Lucky Job           | Database Administrator       |
-| Lucky Exercise      | Basketball  |
-| Lucky Country       | Tanzania    |
+| Lucky Food          | Burrito      |
+| Lucky Instrument    | Trompeta |
+| Lucky Flower        | Peach Blossom    |
+| Lucky Job           | Police Officer       |
+| Lucky Exercise      | Powerlifting  |
+| Lucky Country       | Bahrain    |
 
 
 ##  Final Reflections on Dreams

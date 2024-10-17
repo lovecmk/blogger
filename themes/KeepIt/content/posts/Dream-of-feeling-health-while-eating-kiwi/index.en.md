@@ -1,8 +1,8 @@
 ---
     weight: 67
     title: "Dream of feeling health while eating kiwi"  # Assuming 'title' column exists
-    date: 2024-10-13T08:44:00+08:00
-    lastmod: 2024-10-13T08:44:00+08:00
+    date: 2024-10-12T03:11:00+08:00
+    lastmod: 2024-10-12T03:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['feeling', 'eating', 'Dream', 'health', 'of', 'kiwi', 'while']
+    tags: ['while', 'kiwi', 'Dream', 'eating', 'health', 'feeling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can suggest that good luck is followed in the surrounding environment
 | Lucky Animal        | Koala |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Salad      |
-| Lucky Instrument    | Maracas |
-| Lucky Flower        | Orchid    |
-| Lucky Job           | Historian       |
-| Lucky Exercise      | Softball  |
-| Lucky Country       | Zambia    |
+| Lucky Food          | Stuffed Mushrooms      |
+| Lucky Instrument    | Bandoneon |
+| Lucky Flower        | Zantedeschia    |
+| Lucky Job           | Dentist       |
+| Lucky Exercise      | Underwater Diving  |
+| Lucky Country       | Argentina    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 2112
     title: "Dream of conflicts about family allegiances"  # Assuming 'title' column exists
-    date: 2024-10-13T00:55:00+08:00
-    lastmod: 2024-10-13T00:55:00+08:00
+    date: 2024-10-14T11:35:00+08:00
+    lastmod: 2024-10-14T11:35:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'conflicts', 'about', 'Dream', 'allegiances', 'of']
+    tags: ['family', 'Dream', 'conflicts', 'allegiances']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams of conflict between generations may not directly indicate luck. However, 
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Zucchini Noodles      |
-| Lucky Instrument    | Sackbut |
-| Lucky Flower        | Tiger Lily    |
-| Lucky Job           | Real Estate Agent       |
-| Lucky Exercise      | Paddleboarding  |
-| Lucky Country       | Turkey    |
+| Lucky Food          | Chocolate Mousse      |
+| Lucky Instrument    | Drums |
+| Lucky Flower        | Ragged Robin    |
+| Lucky Job           | Astrophysicist       |
+| Lucky Exercise      | Yoga  |
+| Lucky Country       | Syria    |
 
 
 ##  Final Reflections on Dreams

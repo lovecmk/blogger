@@ -1,8 +1,8 @@
 ---
     weight: 2142
     title: "Dream of exploring local markets or flea markets together with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T08:26:00+08:00
-    lastmod: 2024-10-13T08:26:00+08:00
+    date: 2024-10-11T09:17:00+08:00
+    lastmod: 2024-10-11T09:17:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['markets', 'together', 'or', 'your', 'boyfriend', 'Dream', 'local', 'flea', 'of', 'exploring', 'with']
+    tags: ['local', 'Dream', 'exploring', 'boyfriend', 'markets', 'flea', 'together']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Quiche      |
-| Lucky Instrument    | Keyboard |
-| Lucky Flower        | Bougainvillea    |
-| Lucky Job           | Biologist       |
-| Lucky Exercise      | CrossFit  |
-| Lucky Country       | Yemen    |
+| Lucky Food          | Noodles      |
+| Lucky Instrument    | Mandolin |
+| Lucky Flower        | Gillyflower    |
+| Lucky Job           | Engineer       |
+| Lucky Exercise      | Aqua Aerobics  |
+| Lucky Country       | Mexico    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1129
     title: "Dream about cricket"  # Assuming 'title' column exists
-    date: 2024-10-13T09:53:00+08:00
-    lastmod: 2024-10-13T09:53:00+08:00
+    date: 2024-10-13T00:42:00+08:00
+    lastmod: 2024-10-13T00:42:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['cricket', 'about', 'Dream']
+    tags: ['cricket', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'cricket' dreams can mean valuable information or opportunities that
 | Lucky Animal        | Monkey |
 | Lucky Place         | Lake     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Risotto      |
-| Lucky Instrument    | Flute |
-| Lucky Flower        | Stephanotis    |
-| Lucky Job           | Librarian       |
-| Lucky Exercise      | Dance Aerobics  |
-| Lucky Country       | Canada    |
+| Lucky Food          | Baba Ganoush      |
+| Lucky Instrument    | Conga |
+| Lucky Flower        | Agapanthus    |
+| Lucky Job           | Art Director       |
+| Lucky Exercise      | Rugby  |
+| Lucky Country       | Sweden    |
 
 
 ##  Final Reflections on Dreams

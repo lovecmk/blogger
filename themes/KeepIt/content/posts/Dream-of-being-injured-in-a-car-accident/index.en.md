@@ -1,8 +1,8 @@
 ---
     weight: 1446
     title: "Dream of being injured in a car accident"  # Assuming 'title' column exists
-    date: 2024-10-13T11:27:00+08:00
-    lastmod: 2024-10-13T11:27:00+08:00
+    date: 2024-10-13T22:39:00+08:00
+    lastmod: 2024-10-13T22:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'being', 'a', 'injured', 'accident', 'in', 'car', 'of']
+    tags: ['being', 'injured', 'Dream', 'car', 'accident']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Sloth |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Stir Fry      |
-| Lucky Instrument    | Glockenspiel |
-| Lucky Flower        | Lobelia    |
-| Lucky Job           | Historian       |
-| Lucky Exercise      | Skimboarding  |
-| Lucky Country       | Kiribati    |
+| Lucky Food          | Bagel      |
+| Lucky Instrument    | Trumpet |
+| Lucky Flower        | Safflower    |
+| Lucky Job           | Researcher       |
+| Lucky Exercise      | Rock Climbing  |
+| Lucky Country       | Denmark    |
 
 
 ##  Final Reflections on Dreams

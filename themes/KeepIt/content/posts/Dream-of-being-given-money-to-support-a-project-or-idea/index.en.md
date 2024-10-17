@@ -1,8 +1,8 @@
 ---
     weight: 2147
     title: "Dream of your cat exploring the outdoors"  # Assuming 'title' column exists
-    date: 2024-10-13T10:22:00+08:00
-    lastmod: 2024-10-13T10:22:00+08:00
+    date: 2024-10-11T22:38:00+08:00
+    lastmod: 2024-10-11T22:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'your', 'cat', 'Dream', 'outdoors', 'of', 'exploring']
+    tags: ['Dream', 'exploring', 'outdoors', 'cat']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Beaver |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Scallops      |
-| Lucky Instrument    | Banjo |
-| Lucky Flower        | Heliotrope    |
-| Lucky Job           | App Developer       |
-| Lucky Exercise      | Resistance Training  |
-| Lucky Country       | Belgium    |
+| Lucky Food          | Ratatouille      |
+| Lucky Instrument    | Piccolo Trumpet |
+| Lucky Flower        | Geranium    |
+| Lucky Job           | Flight Attendant       |
+| Lucky Exercise      | Lifting  |
+| Lucky Country       | Angola    |
 
 
 ##  Final Reflections on Dreams

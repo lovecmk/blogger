@@ -1,8 +1,8 @@
 ---
     weight: 47
     title: "Dream of having a refreshing breakfast while eating grapefruit"  # Assuming 'title' column exists
-    date: 2024-10-13T03:30:00+08:00
-    lastmod: 2024-10-13T03:30:00+08:00
+    date: 2024-10-15T16:22:00+08:00
+    lastmod: 2024-10-15T16:22:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['breakfast', 'eating', 'grapefruit', 'Dream', 'a', 'refreshing', 'of', 'while', 'having']
+    tags: ['while', 'breakfast', 'Dream', 'refreshing', 'eating', 'grapefruit', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can be lucky as much as it symbolizes new beginning and energy.Grapef
 | Lucky Animal        | Fox |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Onion Rings      |
-| Lucky Instrument    | Didgeridoo |
-| Lucky Flower        | Dandelion    |
-| Lucky Job           | Chemist       |
-| Lucky Exercise      | Snowboarding  |
-| Lucky Country       | Lesotho    |
+| Lucky Food          | Kebab      |
+| Lucky Instrument    | Tenor Guitar |
+| Lucky Flower        | Moss Rose    |
+| Lucky Job           | Field Technician       |
+| Lucky Exercise      | Ashtanga Yoga  |
+| Lucky Country       | Bangladesh    |
 
 
 ##  Final Reflections on Dreams

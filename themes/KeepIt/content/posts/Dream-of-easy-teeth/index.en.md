@@ -1,8 +1,8 @@
 ---
     weight: 882
     title: "Dream of easy teeth"  # Assuming 'title' column exists
-    date: 2024-10-13T18:34:00+08:00
-    lastmod: 2024-10-13T18:34:00+08:00
+    date: 2024-10-11T08:13:00+08:00
+    lastmod: 2024-10-11T08:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['teeth', 'of', 'Dream', 'easy']
+    tags: ['easy', 'teeth', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream may be a warning of keeping yourself and maintaining confidence in ch
 | Lucky Animal        | Mouse |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Red     |
-| Lucky Food          | Gumbo      |
-| Lucky Instrument    | Kettledrum |
-| Lucky Flower        | Borage    |
-| Lucky Job           | Accountant       |
-| Lucky Exercise      | Lifting  |
-| Lucky Country       | Australia    |
+| Lucky Food          | Eggplant Parmesan      |
+| Lucky Instrument    | Melodic Percussion |
+| Lucky Flower        | Heliotrope    |
+| Lucky Job           | Consultant       |
+| Lucky Exercise      | Hula Hooping  |
+| Lucky Country       | Lesotho    |
 
 
 ##  Final Reflections on Dreams

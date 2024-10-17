@@ -1,8 +1,8 @@
 ---
     weight: 2060
     title: "Dream of dying and seeing an angelic figure"  # Assuming 'title' column exists
-    date: 2024-10-13T06:09:00+08:00
-    lastmod: 2024-10-13T06:09:00+08:00
+    date: 2024-10-11T13:03:00+08:00
+    lastmod: 2024-10-11T13:03:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dying', 'angelic', 'figure', 'seeing', 'Dream', 'an', 'and', 'of']
+    tags: ['angelic', 'Dream', 'dying', 'seeing', 'figure', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Koala |
 | Lucky Place         | Museum     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Ice Cream      |
-| Lucky Instrument    | Claves |
-| Lucky Flower        | Zinnia    |
-| Lucky Job           | Security Guard       |
-| Lucky Exercise      | Martial Arts  |
-| Lucky Country       | Ireland    |
+| Lucky Food          | Kale Salad      |
+| Lucky Instrument    | Cello |
+| Lucky Flower        | Crown Daisy    |
+| Lucky Job           | Technical Writer       |
+| Lucky Exercise      | Yoga Flow  |
+| Lucky Country       | Georgia    |
 
 
 ##  Final Reflections on Dreams

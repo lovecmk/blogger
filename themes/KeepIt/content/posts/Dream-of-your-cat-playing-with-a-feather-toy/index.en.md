@@ -1,8 +1,8 @@
 ---
     weight: 2095
     title: "Dream of feeling unloved or unappreciated"  # Assuming 'title' column exists
-    date: 2024-10-13T18:04:00+08:00
-    lastmod: 2024-10-13T18:04:00+08:00
+    date: 2024-10-14T01:30:00+08:00
+    lastmod: 2024-10-14T01:30:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['feeling', 'or', 'Dream', 'unloved', 'unappreciated', 'of']
+    tags: ['unloved', 'Dream', 'unappreciated', 'feeling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream may bring the luck of having a dedicated and supportive partner by yo
 | Lucky Animal        | Pig |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Noodles      |
-| Lucky Instrument    | Fujara |
-| Lucky Flower        | Jatropha    |
-| Lucky Job           | Postman       |
-| Lucky Exercise      | Trail Running  |
-| Lucky Country       | Kuwait    |
+| Lucky Food          | Minestrone      |
+| Lucky Instrument    | Clavichord |
+| Lucky Flower        | Safflower    |
+| Lucky Job           | Security Guard       |
+| Lucky Exercise      | Stair Climbing  |
+| Lucky Country       | Bahrain    |
 
 
 ##  Final Reflections on Dreams

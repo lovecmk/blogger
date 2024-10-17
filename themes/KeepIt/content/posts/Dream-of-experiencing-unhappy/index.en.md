@@ -1,8 +1,8 @@
 ---
     weight: 1007
     title: "Dream of experiencing unhappy"  # Assuming 'title' column exists
-    date: 2024-10-13T12:09:00+08:00
-    lastmod: 2024-10-13T12:09:00+08:00
+    date: 2024-10-14T22:49:00+08:00
+    lastmod: 2024-10-14T22:49:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['experiencing', 'of', 'Dream', 'unhappy']
+    tags: ['experiencing', 'unhappy', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'dream of experiencing unhappy' may vary depending on each case.But 
 | Lucky Animal        | Mole |
 | Lucky Place         | School     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Pasta Primavera      |
-| Lucky Instrument    | Trombone Slide |
-| Lucky Flower        | Larkspur    |
-| Lucky Job           | Archaeologist       |
-| Lucky Exercise      | Hot Yoga  |
-| Lucky Country       | Fiji    |
+| Lucky Food          | Gumbo      |
+| Lucky Instrument    | Marimba |
+| Lucky Flower        | Chive Blossom    |
+| Lucky Job           | Event Coordinator       |
+| Lucky Exercise      | Snowboarding  |
+| Lucky Country       | Thailand    |
 
 
 ##  Final Reflections on Dreams

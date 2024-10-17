@@ -1,8 +1,8 @@
 ---
     weight: 1910
     title: "Dream of your grandmother attending an event or celebration with you."  # Assuming 'title' column exists
-    date: 2024-10-13T22:53:00+08:00
-    lastmod: 2024-10-13T22:53:00+08:00
+    date: 2024-10-15T18:02:00+08:00
+    lastmod: 2024-10-15T18:02:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['grandmother', 'you.', 'or', 'celebration', 'your', 'Dream', 'an', 'event', 'of', 'attending', 'with']
+    tags: ['event', 'Dream', 'celebration', 'grandmother', 'an', 'you', 'attending']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ The luck associated with this dream lies in the opportunity it presents to bring
 | Lucky Animal        | Chick |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Waffles      |
-| Lucky Instrument    | Cymbals |
-| Lucky Flower        | Sea Holly    |
-| Lucky Job           | Researcher       |
-| Lucky Exercise      | Martial Arts  |
-| Lucky Country       | Serbia    |
+| Lucky Food          | Pudding      |
+| Lucky Instrument    | Flute |
+| Lucky Flower        | Tulip    |
+| Lucky Job           | Customer Service Representative       |
+| Lucky Exercise      | Golf  |
+| Lucky Country       | Nepal    |
 
 
 ##  Final Reflections on Dreams

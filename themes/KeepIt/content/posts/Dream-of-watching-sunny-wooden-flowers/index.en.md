@@ -1,8 +1,8 @@
 ---
     weight: 587
     title: "Dream of watching sunny wooden flowers"  # Assuming 'title' column exists
-    date: 2024-10-13T04:41:00+08:00
-    lastmod: 2024-10-13T04:41:00+08:00
+    date: 2024-10-14T01:34:00+08:00
+    lastmod: 2024-10-14T01:34:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['flowers', 'Dream', 'wooden', 'watching', 'of', 'sunny']
+    tags: ['Dream', 'sunny', 'watching', 'wooden', 'flowers']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can suggest good luck and positive results.Both the sunny trees and f
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Risotto      |
-| Lucky Instrument    | Accordion Synth |
-| Lucky Flower        | Nymphaea    |
-| Lucky Job           | UX Designer       |
-| Lucky Exercise      | Trail Running  |
-| Lucky Country       | Finland    |
+| Lucky Food          | Pasta      |
+| Lucky Instrument    | Tenor Banjo |
+| Lucky Flower        | Thunbergia    |
+| Lucky Job           | Director       |
+| Lucky Exercise      | Belly Dancing  |
+| Lucky Country       | Bangladesh    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 2195
     title: "Dream of your ancestor appearing in a familiar setting, offering guidance."  # Assuming 'title' column exists
-    date: 2024-10-13T10:36:00+08:00
-    lastmod: 2024-10-13T10:36:00+08:00
+    date: 2024-10-15T19:34:00+08:00
+    lastmod: 2024-10-15T19:34:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'appearing', 'Dream', 'a', 'guidance.', 'ancestor', 'in', 'setting,', 'of', 'offering', 'familiar']
+    tags: ['guidance', 'Dream', 'setting,', 'offering', 'ancestor', 'familiar', 'appearing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Paella      |
-| Lucky Instrument    | Basset Horn |
-| Lucky Flower        | Dandelion    |
-| Lucky Job           | SEO Specialist       |
-| Lucky Exercise      | Squash  |
-| Lucky Country       | Singapore    |
+| Lucky Food          | Vegetable Stir Fry      |
+| Lucky Instrument    | Horn |
+| Lucky Flower        | Strelitzia    |
+| Lucky Job           | Catering Manager       |
+| Lucky Exercise      | Parkour  |
+| Lucky Country       | Mozambique    |
 
 
 ##  Final Reflections on Dreams

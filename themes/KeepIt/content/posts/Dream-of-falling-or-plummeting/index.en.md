@@ -1,8 +1,8 @@
 ---
     weight: 1316
     title: "Dream of falling or plummeting"  # Assuming 'title' column exists
-    date: 2024-10-13T17:30:00+08:00
-    lastmod: 2024-10-13T17:30:00+08:00
+    date: 2024-10-15T16:51:00+08:00
+    lastmod: 2024-10-15T16:51:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'falling', 'Dream', 'plummeting', 'of']
+    tags: ['Dream', 'falling', 'plummeting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Panda |
 | Lucky Place         | River     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Cheesecake      |
-| Lucky Instrument    | Accordion |
-| Lucky Flower        | Cyclamen    |
-| Lucky Job           | Scientist       |
-| Lucky Exercise      | Martial Arts  |
-| Lucky Country       | New Zealand    |
+| Lucky Food          | Crab      |
+| Lucky Instrument    | Fretless Bass |
+| Lucky Flower        | Sea Holly    |
+| Lucky Job           | Director       |
+| Lucky Exercise      | Burpees  |
+| Lucky Country       | Brazil    |
 
 
 ##  Final Reflections on Dreams

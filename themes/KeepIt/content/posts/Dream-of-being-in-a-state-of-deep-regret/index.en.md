@@ -1,8 +1,8 @@
 ---
     weight: 2155
     title: "Dream of your ancestor sharing a story from their life that impacts you deeply."  # Assuming 'title' column exists
-    date: 2024-10-13T13:10:00+08:00
-    lastmod: 2024-10-13T13:10:00+08:00
+    date: 2024-10-11T07:09:00+08:00
+    lastmod: 2024-10-11T07:09:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['life', 'your', 'story', 'deeply.', 'Dream', 'their', 'sharing', 'a', 'ancestor', 'from', 'impacts', 'of', 'that', 'you']
+    tags: ['life', 'impacts', 'you', 'Dream', 'sharing', 'deeply', 'from', 'ancestor', 'that', 'story', 'their']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Spider |
 | Lucky Place         | Museum     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Salad      |
-| Lucky Instrument    | Fujara |
-| Lucky Flower        | Feverfew    |
-| Lucky Job           | Catering Manager       |
-| Lucky Exercise      | Water Polo  |
-| Lucky Country       | Marshall Islands    |
+| Lucky Food          | Chili      |
+| Lucky Instrument    | Djembe |
+| Lucky Flower        | Zinnia    |
+| Lucky Job           | Veterinarian       |
+| Lucky Exercise      | Kripalu Yoga  |
+| Lucky Country       | Oman    |
 
 
 ##  Final Reflections on Dreams

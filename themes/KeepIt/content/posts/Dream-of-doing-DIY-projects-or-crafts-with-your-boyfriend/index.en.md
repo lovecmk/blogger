@@ -1,8 +1,8 @@
 ---
     weight: 1976
     title: "Dream of having a karaoke night or singing together with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T22:20:00+08:00
-    lastmod: 2024-10-13T22:20:00+08:00
+    date: 2024-10-12T10:11:00+08:00
+    lastmod: 2024-10-12T10:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['together', 'or', 'your', 'singing', 'boyfriend', 'night', 'Dream', 'karaoke', 'a', 'of', 'with', 'having']
+    tags: ['karaoke', 'Dream', 'boyfriend', 'singing', 'night', 'having', 'together']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Cat |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Potato Skins      |
-| Lucky Instrument    | Harmonica |
-| Lucky Flower        | Forget-Me-Not    |
-| Lucky Job           | Fashion Designer       |
-| Lucky Exercise      | Belly Dancing  |
-| Lucky Country       | Russia    |
+| Lucky Food          | Chowder      |
+| Lucky Instrument    | Bass Drum |
+| Lucky Flower        | Poppy    |
+| Lucky Job           | Bus Driver       |
+| Lucky Exercise      | Jumping Rope  |
+| Lucky Country       | Bhutan    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 510
     title: "Dream of participating in tennis games"  # Assuming 'title' column exists
-    date: 2024-10-13T08:41:00+08:00
-    lastmod: 2024-10-13T08:41:00+08:00
+    date: 2024-10-14T07:02:00+08:00
+    lastmod: 2024-10-14T07:02:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'participating', 'games', 'tennis', 'in', 'of']
+    tags: ['Dream', 'participating', 'tennis', 'games']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The dream of participating in a tennis game may have a lucky element.This dream 
 | Lucky Animal        | Chicken |
 | Lucky Place         | Academy     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Bruschetta      |
-| Lucky Instrument    | Guitarlele |
-| Lucky Flower        | Edelweiss    |
-| Lucky Job           | Data Analyst       |
-| Lucky Exercise      | Active Recovery  |
-| Lucky Country       | Sri Lanka    |
+| Lucky Food          | Spring Roll      |
+| Lucky Instrument    | Conga |
+| Lucky Flower        | Bougainvillea    |
+| Lucky Job           | Police Officer       |
+| Lucky Exercise      | Discus Throw  |
+| Lucky Country       | Norway    |
 
 
 ##  Final Reflections on Dreams

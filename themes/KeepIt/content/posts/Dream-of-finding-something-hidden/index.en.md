@@ -1,8 +1,8 @@
 ---
     weight: 373
     title: "Dream of finding something hidden"  # Assuming 'title' column exists
-    date: 2024-10-13T12:20:00+08:00
-    lastmod: 2024-10-13T12:20:00+08:00
+    date: 2024-10-14T04:43:00+08:00
+    lastmod: 2024-10-14T04:43:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'of', 'something', 'finding', 'hidden']
+    tags: ['Dream', 'finding', 'hidden', 'something']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual.In the process of fi
 | Lucky Animal        | Hamster |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Scone      |
-| Lucky Instrument    | Sitar |
-| Lucky Flower        | Tulip    |
-| Lucky Job           | Taxi Driver       |
-| Lucky Exercise      | Aqua Aerobics  |
-| Lucky Country       | Portugal    |
+| Lucky Food          | Shrimp      |
+| Lucky Instrument    | Bass Guitar |
+| Lucky Flower        | Chive Blossom    |
+| Lucky Job           | Data Scientist       |
+| Lucky Exercise      | Shot Put  |
+| Lucky Country       | Israel    |
 
 
 ##  Final Reflections on Dreams

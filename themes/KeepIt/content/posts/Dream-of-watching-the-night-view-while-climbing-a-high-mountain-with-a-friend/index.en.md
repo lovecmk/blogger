@@ -1,8 +1,8 @@
 ---
     weight: 722
     title: "Dream of watching the night view while climbing a high mountain with a friend"  # Assuming 'title' column exists
-    date: 2024-10-13T09:40:00+08:00
-    lastmod: 2024-10-13T09:40:00+08:00
+    date: 2024-10-11T11:29:00+08:00
+    lastmod: 2024-10-11T11:29:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['with', 'friend', 'climbing', 'the', 'night', 'Dream', 'a', 'mountain', 'view', 'of', 'watching', 'while', 'high']
+    tags: ['while', 'high', 'Dream', 'view', 'night', 'friend', 'watching', 'climbing', 'mountain']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is an opportunity to achieve the goal through cooperation
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | River     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Cornbread      |
-| Lucky Instrument    | Conga |
-| Lucky Flower        | Scabiosa    |
-| Lucky Job           | Event Coordinator       |
-| Lucky Exercise      | Futsal  |
-| Lucky Country       | Oman    |
+| Lucky Food          | Stuffed Mushrooms      |
+| Lucky Instrument    | Rudra Veena |
+| Lucky Flower        | Safflower    |
+| Lucky Job           | Web Developer       |
+| Lucky Exercise      | Resistance Training  |
+| Lucky Country       | Marshall Islands    |
 
 
 ##  Final Reflections on Dreams

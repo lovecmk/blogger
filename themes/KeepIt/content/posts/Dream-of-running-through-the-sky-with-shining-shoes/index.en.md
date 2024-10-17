@@ -1,8 +1,8 @@
 ---
     weight: 647
     title: "Dream of running through the sky with shining shoes"  # Assuming 'title' column exists
-    date: 2024-10-13T18:40:00+08:00
-    lastmod: 2024-10-13T18:40:00+08:00
+    date: 2024-10-11T15:11:00+08:00
+    lastmod: 2024-10-11T15:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['sky', 'the', 'running', 'shoes', 'Dream', 'through', 'shining', 'of', 'with']
+    tags: ['shining', 'Dream', 'running', 'sky', 'shoes']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be seen through elements such as freedom, challenge, 
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Academy     |
 | Lucky Color         | Red     |
-| Lucky Food          | Noodles      |
-| Lucky Instrument    | Tabla |
-| Lucky Flower        | Zinnia    |
-| Lucky Job           | Pilot       |
-| Lucky Exercise      | Water Polo  |
-| Lucky Country       | Cyprus    |
+| Lucky Food          | Fish and Chips      |
+| Lucky Instrument    | Wooden Flute |
+| Lucky Flower        | Bougainvillea    |
+| Lucky Job           | Chef       |
+| Lucky Exercise      | Slacklining  |
+| Lucky Country       | Afghanistan    |
 
 
 ##  Final Reflections on Dreams

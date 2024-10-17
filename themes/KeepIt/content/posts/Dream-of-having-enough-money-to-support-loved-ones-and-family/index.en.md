@@ -1,8 +1,8 @@
 ---
     weight: 2002
     title: "Dream of your husband taking care of you when you're unwell."  # Assuming 'title' column exists
-    date: 2024-10-13T03:51:00+08:00
-    lastmod: 2024-10-13T03:51:00+08:00
+    date: 2024-10-11T16:33:00+08:00
+    lastmod: 2024-10-11T16:33:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['taking', 'your', 'when', 'Dream', 'care', 'husband', 'unwell.', 'of', 'you', "you're"]
+    tags: ['Dream', 'taking', 'unwell', 'husband', 'when', 'you', 'care']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hamster |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Pizza      |
-| Lucky Instrument    | Cajón |
-| Lucky Flower        | Feverfew    |
-| Lucky Job           | Interpreter       |
-| Lucky Exercise      | Body Pump  |
-| Lucky Country       | Tajikistan    |
+| Lucky Food          | Eggplant Parmesan      |
+| Lucky Instrument    | Zither |
+| Lucky Flower        | Balsam    |
+| Lucky Job           | Security Guard       |
+| Lucky Exercise      | Burpees  |
+| Lucky Country       | Russia    |
 
 
 ##  Final Reflections on Dreams

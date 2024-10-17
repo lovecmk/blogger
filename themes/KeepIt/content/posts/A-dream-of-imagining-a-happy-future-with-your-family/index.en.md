@@ -1,8 +1,8 @@
 ---
     weight: 172
     title: "A dream of imagining a happy future with your family"  # Assuming 'title' column exists
-    date: 2024-10-13T12:09:00+08:00
-    lastmod: 2024-10-13T12:09:00+08:00
+    date: 2024-10-14T09:50:00+08:00
+    lastmod: 2024-10-14T09:50:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'imagining', 'your', 'a', 'future', 'dream', 'happy', 'of', 'A', 'with']
+    tags: ['family', 'happy', 'dream', 'A', 'imagining', 'future']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be done with a harmonious relationship with the famil
 | Lucky Animal        | Mole |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Popcorn      |
-| Lucky Instrument    | Chimes |
-| Lucky Flower        | Begonia    |
-| Lucky Job           | Human Resources Manager       |
-| Lucky Exercise      | Golf  |
-| Lucky Country       | Oman    |
+| Lucky Food          | Omelette      |
+| Lucky Instrument    | Castanets |
+| Lucky Flower        | Geranium    |
+| Lucky Job           | Musician       |
+| Lucky Exercise      | Bodyweight Training  |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

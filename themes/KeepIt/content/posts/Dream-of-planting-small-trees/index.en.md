@@ -1,8 +1,8 @@
 ---
     weight: 552
     title: "Dream of planting small trees"  # Assuming 'title' column exists
-    date: 2024-10-13T07:05:00+08:00
-    lastmod: 2024-10-13T07:05:00+08:00
+    date: 2024-10-13T13:21:00+08:00
+    lastmod: 2024-10-13T13:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['small', 'Dream', 'trees', 'of', 'planting']
+    tags: ['Dream', 'trees', 'small', 'planting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you new opportunities, success and luck.Small trees symboli
 | Lucky Animal        | Monkey |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Salad      |
-| Lucky Instrument    | Viola |
-| Lucky Flower        | Geranium    |
-| Lucky Job           | Lawyer       |
-| Lucky Exercise      | Futsal  |
-| Lucky Country       | Fiji    |
+| Lucky Food          | Minestrone      |
+| Lucky Instrument    | Darabuka |
+| Lucky Flower        | Wisteria    |
+| Lucky Job           | Web Designer       |
+| Lucky Exercise      | Kickboxing  |
+| Lucky Country       | Estonia    |
 
 
 ##  Final Reflections on Dreams

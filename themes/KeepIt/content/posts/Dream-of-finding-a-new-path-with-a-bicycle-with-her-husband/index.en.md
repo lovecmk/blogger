@@ -1,8 +1,8 @@
 ---
     weight: 109
     title: "Dream of finding a new path with a bicycle with her husband"  # Assuming 'title' column exists
-    date: 2024-10-13T08:37:00+08:00
-    lastmod: 2024-10-13T08:37:00+08:00
+    date: 2024-10-12T22:49:00+08:00
+    lastmod: 2024-10-12T22:49:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['new', 'her', 'bicycle', 'Dream', 'a', 'path', 'husband', 'of', 'finding', 'with']
+    tags: ['Dream', 'path', 'bicycle', 'finding', 'her', 'new', 'husband']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual's interpretation.But
 | Lucky Animal        | Ostrich |
 | Lucky Place         | Museum     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Croissant      |
-| Lucky Instrument    | Mandolin |
-| Lucky Flower        | Strelitzia    |
-| Lucky Job           | Consultant       |
-| Lucky Exercise      | Yoga  |
-| Lucky Country       | Palau    |
+| Lucky Food          | Ratatouille      |
+| Lucky Instrument    | French Horn |
+| Lucky Flower        | Petunia    |
+| Lucky Job           | Insurance Agent       |
+| Lucky Exercise      | Hula Hooping  |
+| Lucky Country       | Czech Republic    |
 
 
 ##  Final Reflections on Dreams

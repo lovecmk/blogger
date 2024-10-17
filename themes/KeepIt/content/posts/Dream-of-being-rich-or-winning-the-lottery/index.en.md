@@ -1,8 +1,8 @@
 ---
     weight: 1470
     title: "Dream of being rich or winning the lottery"  # Assuming 'title' column exists
-    date: 2024-10-13T06:20:00+08:00
-    lastmod: 2024-10-13T06:20:00+08:00
+    date: 2024-10-13T22:22:00+08:00
+    lastmod: 2024-10-13T22:22:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'lottery', 'the', 'winning', 'Dream', 'being', 'of', 'rich']
+    tags: ['being', 'lottery', 'Dream', 'winning', 'rich']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Kangaroo |
 | Lucky Place         | School     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Fruit Tart      |
-| Lucky Instrument    | Piccolo Trumpet |
-| Lucky Flower        | Mullein    |
-| Lucky Job           | Pharmacist       |
-| Lucky Exercise      | Jump Squats  |
-| Lucky Country       | Western Sahara    |
+| Lucky Food          | Buffalo Wings      |
+| Lucky Instrument    | Saxophone |
+| Lucky Flower        | Larkspur    |
+| Lucky Job           | Philosopher       |
+| Lucky Exercise      | Dance Aerobics  |
+| Lucky Country       | Denmark    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1554
     title: "Dream of experiencing a great loss or failure"  # Assuming 'title' column exists
-    date: 2024-10-13T03:33:00+08:00
-    lastmod: 2024-10-13T03:33:00+08:00
+    date: 2024-10-11T14:33:00+08:00
+    lastmod: 2024-10-11T14:33:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'experiencing', 'Dream', 'great', 'a', 'loss', 'of', 'failure']
+    tags: ['experiencing', 'Dream', 'loss', 'great', 'failure']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ While this dream may not necessarily bring luck, it serves as a signal to be pro
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Ceviche      |
-| Lucky Instrument    | Violin Bow |
-| Lucky Flower        | Fuchsia    |
-| Lucky Job           | Technical Writer       |
-| Lucky Exercise      | Baseball  |
-| Lucky Country       | Brazil    |
+| Lucky Food          | Ramen      |
+| Lucky Instrument    | Cymbals |
+| Lucky Flower        | Stephanotis    |
+| Lucky Job           | Fitness Instructor       |
+| Lucky Exercise      | Water Polo  |
+| Lucky Country       | Zambia    |
 
 
 ##  Final Reflections on Dreams

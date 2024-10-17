@@ -1,8 +1,8 @@
 ---
     weight: 1692
     title: "Dream of doing yoga or meditation together with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T06:39:00+08:00
-    lastmod: 2024-10-13T06:39:00+08:00
+    date: 2024-10-15T22:01:00+08:00
+    lastmod: 2024-10-15T22:01:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['together', 'or', 'your', 'meditation', 'boyfriend', 'doing', 'Dream', 'yoga', 'of', 'with']
+    tags: ['meditation', 'doing', 'yoga', 'Dream', 'boyfriend', 'together']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Wolf |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Pasta Primavera      |
-| Lucky Instrument    | Melodica |
-| Lucky Flower        | Hydrangea    |
-| Lucky Job           | User Researcher       |
-| Lucky Exercise      | Fencing  |
-| Lucky Country       | Serbia    |
+| Lucky Food          | Zucchini Noodles      |
+| Lucky Instrument    | Lyre |
+| Lucky Flower        | Cherry Blossom    |
+| Lucky Job           | Writer       |
+| Lucky Exercise      | Gymnastics  |
+| Lucky Country       | Zimbabwe    |
 
 
 ##  Final Reflections on Dreams

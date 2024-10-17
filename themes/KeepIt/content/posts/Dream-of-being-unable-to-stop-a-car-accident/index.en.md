@@ -1,8 +1,8 @@
 ---
     weight: 1521
     title: "Dream of being unable to stop a car accident"  # Assuming 'title' column exists
-    date: 2024-10-13T03:07:00+08:00
-    lastmod: 2024-10-13T03:07:00+08:00
+    date: 2024-10-14T07:57:00+08:00
+    lastmod: 2024-10-14T07:57:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['unable', 'to', 'Dream', 'being', 'a', 'accident', 'car', 'of', 'stop']
+    tags: ['being', 'Dream', 'to', 'stop', 'unable', 'car', 'accident']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Raccoon |
 | Lucky Place         | River     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Dumplings      |
-| Lucky Instrument    | Erhu |
-| Lucky Flower        | Iris    |
-| Lucky Job           | Architect       |
-| Lucky Exercise      | Martial Arts  |
-| Lucky Country       | Fiji    |
+| Lucky Food          | Pesto      |
+| Lucky Instrument    | Conga |
+| Lucky Flower        | Hibiscus    |
+| Lucky Job           | Life Coach       |
+| Lucky Exercise      | Jumping Rope  |
+| Lucky Country       | Laos    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 835
     title: "Dream of injuries due to fire"  # Assuming 'title' column exists
-    date: 2024-10-13T23:34:00+08:00
-    lastmod: 2024-10-13T23:34:00+08:00
+    date: 2024-10-11T14:15:00+08:00
+    lastmod: 2024-10-11T14:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['to', 'fire', 'Dream', 'due', 'injuries', 'of']
+    tags: ['injuries', 'Dream', 'due', 'to', 'fire']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Luck in this dream is that you can pay attention and develop your ability to cop
 | Lucky Animal        | Panda |
 | Lucky Place         | School     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Baba Ganoush      |
-| Lucky Instrument    | Chimes |
-| Lucky Flower        | Lobelia    |
-| Lucky Job           | Insurance Agent       |
-| Lucky Exercise      | Hot Yoga  |
-| Lucky Country       | Malawi    |
+| Lucky Food          | Pudding      |
+| Lucky Instrument    | Hang Drum |
+| Lucky Flower        | Hydrangea    |
+| Lucky Job           | Quality Assurance Tester       |
+| Lucky Exercise      | Powerlifting  |
+| Lucky Country       | Micronesia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 137
     title: "Dream of experiencing with daughter"  # Assuming 'title' column exists
-    date: 2024-10-13T00:04:00+08:00
-    lastmod: 2024-10-13T00:04:00+08:00
+    date: 2024-10-11T02:55:00+08:00
+    lastmod: 2024-10-11T02:55:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['experiencing', 'Dream', 'daughter', 'of', 'with']
+    tags: ['experiencing', 'Dream', 'daughter']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream emphasizes the moments of being with your daughter and can express yo
 | Lucky Animal        | Leopard |
 | Lucky Place         | Museum     |
 | Lucky Color         | White     |
-| Lucky Food          | Pico de Gallo      |
-| Lucky Instrument    | Ocarina |
-| Lucky Flower        | Gillyflower    |
-| Lucky Job           | Video Editor       |
-| Lucky Exercise      | Sit-Ups  |
-| Lucky Country       | Malawi    |
+| Lucky Food          | Quesadilla      |
+| Lucky Instrument    | Violin |
+| Lucky Flower        | Thistle    |
+| Lucky Job           | Nuclear Engineer       |
+| Lucky Exercise      | Circuit Training  |
+| Lucky Country       | Canada    |
 
 
 ##  Final Reflections on Dreams

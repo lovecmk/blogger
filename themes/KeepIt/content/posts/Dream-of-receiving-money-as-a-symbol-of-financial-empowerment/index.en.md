@@ -1,8 +1,8 @@
 ---
     weight: 2042
     title: "Dream of misunderstanding with your spouse"  # Assuming 'title' column exists
-    date: 2024-10-13T15:03:00+08:00
-    lastmod: 2024-10-13T15:03:00+08:00
+    date: 2024-10-12T22:08:00+08:00
+    lastmod: 2024-10-12T22:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['spouse', 'your', 'Dream', 'misunderstanding', 'of', 'with']
+    tags: ['Dream', 'misunderstanding', 'spouse']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Panda |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Baked Potato      |
-| Lucky Instrument    | Guitar |
-| Lucky Flower        | Cyclamen    |
-| Lucky Job           | Data Scientist       |
-| Lucky Exercise      | Lunges  |
-| Lucky Country       | Yemen    |
+| Lucky Food          | Waffles      |
+| Lucky Instrument    | Piccolo |
+| Lucky Flower        | Mums    |
+| Lucky Job           | Neuroscientist       |
+| Lucky Exercise      | Kettlebell Training  |
+| Lucky Country       | Eswatini    |
 
 
 ##  Final Reflections on Dreams

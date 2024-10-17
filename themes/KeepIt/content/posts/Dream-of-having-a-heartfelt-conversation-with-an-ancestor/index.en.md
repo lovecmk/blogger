@@ -1,8 +1,8 @@
 ---
     weight: 1793
     title: "Dream of losing a cherished possession"  # Assuming 'title' column exists
-    date: 2024-10-13T23:32:00+08:00
-    lastmod: 2024-10-13T23:32:00+08:00
+    date: 2024-10-12T12:25:00+08:00
+    lastmod: 2024-10-12T12:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['cherished', 'possession', 'Dream', 'a', 'of', 'losing']
+    tags: ['Dream', 'losing', 'cherished', 'possession']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Guinea pig |
 | Lucky Place         | River     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Muffin      |
-| Lucky Instrument    | Fiddle |
-| Lucky Flower        | Pelargonium    |
-| Lucky Job           | Recruiter       |
-| Lucky Exercise      | Paddleboarding  |
-| Lucky Country       | Serbia    |
+| Lucky Food          | Pasta      |
+| Lucky Instrument    | Trombone Slide |
+| Lucky Flower        | Ornamental Pepper    |
+| Lucky Job           | Stockbroker       |
+| Lucky Exercise      | Resistance Training  |
+| Lucky Country       | Zimbabwe    |
 
 
 ##  Final Reflections on Dreams

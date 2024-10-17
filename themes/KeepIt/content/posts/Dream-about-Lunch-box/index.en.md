@@ -1,8 +1,8 @@
 ---
     weight: 1155
     title: "Dream about Lunch box"  # Assuming 'title' column exists
-    date: 2024-10-13T12:28:00+08:00
-    lastmod: 2024-10-13T12:28:00+08:00
+    date: 2024-10-13T04:11:00+08:00
+    lastmod: 2024-10-13T04:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['box', 'about', 'Dream', 'Lunch']
+    tags: ['box', 'Dream', 'Lunch']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The lunch box can give you a lot of possibilities in relation to luck.This dream
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Museum     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Mango Sticky Rice      |
-| Lucky Instrument    | Tama |
-| Lucky Flower        | Firecracker Plant    |
-| Lucky Job           | Lawyer       |
-| Lucky Exercise      | Fencing  |
-| Lucky Country       | Iran    |
+| Lucky Food          | Chocolate      |
+| Lucky Instrument    | Tenor Saxophone |
+| Lucky Flower        | Poppy    |
+| Lucky Job           | Electrician       |
+| Lucky Exercise      | Beach Volleyball  |
+| Lucky Country       | Samoa    |
 
 
 ##  Final Reflections on Dreams

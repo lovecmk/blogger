@@ -1,8 +1,8 @@
 ---
     weight: 686
     title: "Dream of flying in the sky with a big balloon with the family"  # Assuming 'title' column exists
-    date: 2024-10-13T00:30:00+08:00
-    lastmod: 2024-10-13T00:30:00+08:00
+    date: 2024-10-15T01:29:00+08:00
+    lastmod: 2024-10-15T01:29:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['flying', 'family', 'big', 'sky', 'the', 'Dream', 'a', 'in', 'of', 'with', 'balloon']
+    tags: ['family', 'Dream', 'flying', 'big', 'balloon', 'sky']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be in having new experiences and adventures.If you ha
 | Lucky Animal        | Elephant |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Tiramisu      |
-| Lucky Instrument    | Lap Steel Guitar |
-| Lucky Flower        | Daffodil    |
-| Lucky Job           | Police Officer       |
-| Lucky Exercise      | Boxing  |
-| Lucky Country       | Hungary    |
+| Lucky Food          | Pasta      |
+| Lucky Instrument    | Conga Drum |
+| Lucky Flower        | Dahlia    |
+| Lucky Job           | Engineer       |
+| Lucky Exercise      | Golf  |
+| Lucky Country       | Zambia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 118
     title: "Dream of talking and talking with daughter"  # Assuming 'title' column exists
-    date: 2024-10-13T08:28:00+08:00
-    lastmod: 2024-10-13T08:28:00+08:00
+    date: 2024-10-11T05:31:00+08:00
+    lastmod: 2024-10-11T05:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['talking', 'Dream', 'daughter', 'and', 'of', 'with']
+    tags: ['Dream', 'talking', 'daughter']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be different for those who have a similar dream.But u
 | Lucky Animal        | Parrot |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Green     |
-| Lucky Food          | Tart      |
-| Lucky Instrument    | Bassoon |
-| Lucky Flower        | Alstroemeria    |
-| Lucky Job           | Nuclear Engineer       |
-| Lucky Exercise      | Hammer Throw  |
-| Lucky Country       | Mozambique    |
+| Lucky Food          | Fish and Chips      |
+| Lucky Instrument    | Timpani |
+| Lucky Flower        | Hoya    |
+| Lucky Job           | Lawyer       |
+| Lucky Exercise      | Hot Yoga  |
+| Lucky Country       | Kuwait    |
 
 
 ##  Final Reflections on Dreams

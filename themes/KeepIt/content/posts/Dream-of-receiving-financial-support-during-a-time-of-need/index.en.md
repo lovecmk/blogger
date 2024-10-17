@@ -1,8 +1,8 @@
 ---
     weight: 1878
     title: "Dream of a watermelon on a hot summer day"  # Assuming 'title' column exists
-    date: 2024-10-13T00:42:00+08:00
-    lastmod: 2024-10-13T00:42:00+08:00
+    date: 2024-10-12T08:27:00+08:00
+    lastmod: 2024-10-12T08:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['day', 'watermelon', 'Dream', 'a', 'hot', 'on', 'summer', 'of']
+    tags: ['Dream', 'watermelon', 'hot', 'summer', 'day']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Panda |
 | Lucky Place         | School     |
 | Lucky Color         | Green     |
-| Lucky Food          | Stir Fry      |
-| Lucky Instrument    | Fujara |
-| Lucky Flower        | Thistle    |
-| Lucky Job           | Graphic Designer       |
-| Lucky Exercise      | Snowshoeing  |
-| Lucky Country       | Zimbabwe    |
+| Lucky Food          | Pasta Primavera      |
+| Lucky Instrument    | Lyre |
+| Lucky Flower        | Bellflower    |
+| Lucky Job           | Event Coordinator       |
+| Lucky Exercise      | Parkour Training  |
+| Lucky Country       | Fiji    |
 
 
 ##  Final Reflections on Dreams

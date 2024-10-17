@@ -1,8 +1,8 @@
 ---
     weight: 1267
     title: "Dream of a travel photography adventure"  # Assuming 'title' column exists
-    date: 2024-10-13T07:41:00+08:00
-    lastmod: 2024-10-13T07:41:00+08:00
+    date: 2024-10-12T07:56:00+08:00
+    lastmod: 2024-10-12T07:56:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['adventure', 'photography', 'Dream', 'travel', 'a', 'of']
+    tags: ['Dream', 'travel', 'adventure', 'photography']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream could bring luck in the form of new opportunities for adventure, pers
 | Lucky Animal        | Elephant |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Lentil Soup      |
-| Lucky Instrument    | Piccolo |
-| Lucky Flower        | Crown Daisy    |
-| Lucky Job           | Web Developer       |
-| Lucky Exercise      | Bodyweight Training  |
-| Lucky Country       | Brazil    |
+| Lucky Food          | Gelato      |
+| Lucky Instrument    | Sarangi |
+| Lucky Flower        | Aster    |
+| Lucky Job           | Actor       |
+| Lucky Exercise      | Interval Training  |
+| Lucky Country       | Portugal    |
 
 
 ##  Final Reflections on Dreams

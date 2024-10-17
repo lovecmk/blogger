@@ -1,8 +1,8 @@
 ---
     weight: 157
     title: "Dream of having a natural conversation with the family"  # Assuming 'title' column exists
-    date: 2024-10-13T05:32:00+08:00
-    lastmod: 2024-10-13T05:32:00+08:00
+    date: 2024-10-13T19:37:00+08:00
+    lastmod: 2024-10-13T19:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'the', 'natural', 'Dream', 'a', 'of', 'conversation', 'with', 'having']
+    tags: ['conversation', 'family', 'Dream', 'natural', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -60,11 +60,11 @@ Good luck depends on the interpretation and situation of your dreams.But this dr
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Deep orange     |
 | Lucky Food          | Risotto      |
-| Lucky Instrument    | Glockenspiel |
-| Lucky Flower        | Orchid    |
-| Lucky Job           | Artist       |
-| Lucky Exercise      | Lacrosse  |
-| Lucky Country       | Israel    |
+| Lucky Instrument    | Trombone |
+| Lucky Flower        | Sea Lavender    |
+| Lucky Job           | Physical Therapist       |
+| Lucky Exercise      | Interval Training  |
+| Lucky Country       | Solomon Islands    |
 
 
 ##  Final Reflections on Dreams

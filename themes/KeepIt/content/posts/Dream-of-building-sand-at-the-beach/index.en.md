@@ -1,8 +1,8 @@
 ---
     weight: 784
     title: "Dream of building sand at the beach"  # Assuming 'title' column exists
-    date: 2024-10-13T07:46:00+08:00
-    lastmod: 2024-10-13T07:46:00+08:00
+    date: 2024-10-12T13:17:00+08:00
+    lastmod: 2024-10-12T13:17:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'beach', 'Dream', 'sand', 'of', 'building', 'at']
+    tags: ['sand', 'Dream', 'building', 'beach']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is that you can get new opportunities and experiences thr
 | Lucky Animal        | Otter |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | White     |
-| Lucky Food          | Fried Rice      |
-| Lucky Instrument    | Bouzouki |
-| Lucky Flower        | Poinsettia    |
-| Lucky Job           | Director       |
-| Lucky Exercise      | Calisthenics  |
-| Lucky Country       | Azerbaijan    |
+| Lucky Food          | Beef Wellington      |
+| Lucky Instrument    | Fretless Bass |
+| Lucky Flower        | Daisy    |
+| Lucky Job           | Personal Trainer       |
+| Lucky Exercise      | Capoeira  |
+| Lucky Country       | Afghanistan    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 876
     title: "Dream of missing teeth"  # Assuming 'title' column exists
-    date: 2024-10-13T21:11:00+08:00
-    lastmod: 2024-10-13T21:11:00+08:00
+    date: 2024-10-13T18:58:00+08:00
+    lastmod: 2024-10-13T18:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['teeth', 'of', 'missing', 'Dream']
+    tags: ['teeth', 'Dream', 'missing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream is not generally a lucky or positive message.Rather, this dream can t
 | Lucky Animal        | Panda |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Quesadilla      |
-| Lucky Instrument    | Timpani |
-| Lucky Flower        | Hoya    |
-| Lucky Job           | Scientist       |
-| Lucky Exercise      | Parkour Training  |
-| Lucky Country       | Maldives    |
+| Lucky Food          | Baklava      |
+| Lucky Instrument    | Xylophone |
+| Lucky Flower        | Safflower    |
+| Lucky Job           | Anthropologist       |
+| Lucky Exercise      | Discus Throw  |
+| Lucky Country       | Norway    |
 
 
 ##  Final Reflections on Dreams

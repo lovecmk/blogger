@@ -1,8 +1,8 @@
 ---
     weight: 81
     title: "Dream of attending a family gathering with her husband"  # Assuming 'title' column exists
-    date: 2024-10-13T00:09:00+08:00
-    lastmod: 2024-10-13T00:09:00+08:00
+    date: 2024-10-13T19:07:00+08:00
+    lastmod: 2024-10-13T19:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'her', 'gathering', 'Dream', 'a', 'husband', 'of', 'attending', 'with']
+    tags: ['family', 'Dream', 'gathering', 'her', 'husband', 'attending']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can provide a variety of elements related to luck.Family gathering of
 | Lucky Animal        | Heron |
 | Lucky Place         | Sea     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Chicken Curry      |
-| Lucky Instrument    | Basset Horn |
-| Lucky Flower        | Sage    |
-| Lucky Job           | Public Relations Specialist       |
-| Lucky Exercise      | Bouldering  |
-| Lucky Country       | Cambodia    |
+| Lucky Food          | Fruit Salad      |
+| Lucky Instrument    | Tama |
+| Lucky Flower        | Magnolia    |
+| Lucky Job           | Interpreter       |
+| Lucky Exercise      | Rowing  |
+| Lucky Country       | Western Sahara    |
 
 
 ##  Final Reflections on Dreams

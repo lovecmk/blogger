@@ -1,8 +1,8 @@
 ---
     weight: 146
     title: "Dream of having a good time with your parents"  # Assuming 'title' column exists
-    date: 2024-10-13T07:20:00+08:00
-    lastmod: 2024-10-13T07:20:00+08:00
+    date: 2024-10-11T20:36:00+08:00
+    lastmod: 2024-10-11T20:36:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['parents', 'your', 'Dream', 'a', 'time', 'of', 'good', 'with', 'having']
+    tags: ['good', 'Dream', 'time', 'parents', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be in strengthening your relationship with your famil
 | Lucky Animal        | Seal |
 | Lucky Place         | Mart     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Sandwich      |
-| Lucky Instrument    | Piccolo Trumpet |
-| Lucky Flower        | Jasmine    |
-| Lucky Job           | Actor       |
-| Lucky Exercise      | Cycling  |
-| Lucky Country       | Philippines    |
+| Lucky Food          | Beef Wellington      |
+| Lucky Instrument    | Tabla |
+| Lucky Flower        | Tiger Lily    |
+| Lucky Job           | Fashion Designer       |
+| Lucky Exercise      | Mountain Climbers  |
+| Lucky Country       | Nepal    |
 
 
 ##  Final Reflections on Dreams

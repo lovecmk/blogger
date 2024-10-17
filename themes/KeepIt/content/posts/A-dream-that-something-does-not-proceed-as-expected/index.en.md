@@ -1,8 +1,8 @@
 ---
     weight: 464
     title: "A dream that something does not proceed as expected"  # Assuming 'title' column exists
-    date: 2024-10-13T11:48:00+08:00
-    lastmod: 2024-10-13T11:48:00+08:00
+    date: 2024-10-13T09:41:00+08:00
+    lastmod: 2024-10-13T09:41:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['does', 'expected', 'proceed', 'not', 'as', 'dream', 'A', 'that', 'something']
+    tags: ['does', 'expected', 'dream', 'A', 'as', 'not', 'proceed', 'something', 'that']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is subjective and can be different by each person's inter
 | Lucky Animal        | Duck |
 | Lucky Place         | Library     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Duck Confit      |
-| Lucky Instrument    | Bagpipes |
-| Lucky Flower        | Lantana    |
-| Lucky Job           | Sous Chef       |
-| Lucky Exercise      | Body Pump  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Shepherd's Pie      |
+| Lucky Instrument    | Tromba |
+| Lucky Flower        | Bellflower    |
+| Lucky Job           | Welder       |
+| Lucky Exercise      | Pull-Ups  |
+| Lucky Country       | Maldives    |
 
 
 ##  Final Reflections on Dreams

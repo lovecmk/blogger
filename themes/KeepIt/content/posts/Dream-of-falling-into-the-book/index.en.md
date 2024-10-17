@@ -1,8 +1,8 @@
 ---
     weight: 247
     title: "Dream of falling into the book"  # Assuming 'title' column exists
-    date: 2024-10-13T14:45:00+08:00
-    lastmod: 2024-10-13T14:45:00+08:00
+    date: 2024-10-15T02:29:00+08:00
+    lastmod: 2024-10-15T02:29:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'into', 'falling', 'Dream', 'book', 'of']
+    tags: ['Dream', 'into', 'falling', 'book']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can provide new experiences and opportunities for growth.The experien
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Lake     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Burger      |
-| Lucky Instrument    | Pipa |
-| Lucky Flower        | Ranunculus    |
-| Lucky Job           | Technical Writer       |
-| Lucky Exercise      | Javelin  |
-| Lucky Country       | Israel    |
+| Lucky Food          | Sushi Roll      |
+| Lucky Instrument    | Harmonium |
+| Lucky Flower        | Lobelia    |
+| Lucky Job           | IT Specialist       |
+| Lucky Exercise      | Weightlifting  |
+| Lucky Country       | Belgium    |
 
 
 ##  Final Reflections on Dreams

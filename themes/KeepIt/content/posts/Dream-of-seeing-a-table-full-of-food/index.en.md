@@ -1,8 +1,8 @@
 ---
     weight: 615
     title: "Dream of seeing a table full of food"  # Assuming 'title' column exists
-    date: 2024-10-13T00:28:00+08:00
-    lastmod: 2024-10-13T00:28:00+08:00
+    date: 2024-10-14T02:15:00+08:00
+    lastmod: 2024-10-14T02:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['seeing', 'Dream', 'full', 'a', 'table', 'of', 'food']
+    tags: ['Dream', 'full', 'table', 'seeing', 'food']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream is a sign that can give you good luck and positive results.The table 
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Paella      |
-| Lucky Instrument    | Flute |
-| Lucky Flower        | Hellebore    |
-| Lucky Job           | Bus Driver       |
-| Lucky Exercise      | Interval Training  |
-| Lucky Country       | Namibia    |
+| Lucky Food          | Noodles      |
+| Lucky Instrument    | Soprano Recorder |
+| Lucky Flower        | Kalanchoe    |
+| Lucky Job           | Catering Manager       |
+| Lucky Exercise      | Resistance Training  |
+| Lucky Country       | Australia    |
 
 
 ##  Final Reflections on Dreams

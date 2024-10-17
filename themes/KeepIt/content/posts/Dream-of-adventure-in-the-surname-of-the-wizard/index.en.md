@@ -1,8 +1,8 @@
 ---
     weight: 751
     title: "Dream of adventure in the surname of the wizard"  # Assuming 'title' column exists
-    date: 2024-10-13T16:56:00+08:00
-    lastmod: 2024-10-13T16:56:00+08:00
+    date: 2024-10-15T03:13:00+08:00
+    lastmod: 2024-10-15T03:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['surname', 'wizard', 'adventure', 'the', 'Dream', 'in', 'of']
+    tags: ['Dream', 'adventure', 'surname', 'wizard']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can have good luck and positive results.The dream of having an advent
 | Lucky Animal        | Fox |
 | Lucky Place         | Mart     |
 | Lucky Color         | White     |
-| Lucky Food          | Vegetable Stir Fry      |
-| Lucky Instrument    | Shakuhachi |
-| Lucky Flower        | Hollyhock    |
-| Lucky Job           | Video Editor       |
-| Lucky Exercise      | Salsa  |
-| Lucky Country       | Afghanistan    |
+| Lucky Food          | Stuffed Peppers      |
+| Lucky Instrument    | Fujara |
+| Lucky Flower        | Stephanotis    |
+| Lucky Job           | Taxi Driver       |
+| Lucky Exercise      | Gymnastics  |
+| Lucky Country       | Bulgaria    |
 
 
 ##  Final Reflections on Dreams

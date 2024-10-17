@@ -1,8 +1,8 @@
 ---
     weight: 183
     title: "Dream of making precious memories with family"  # Assuming 'title' column exists
-    date: 2024-10-13T04:16:00+08:00
-    lastmod: 2024-10-13T04:16:00+08:00
+    date: 2024-10-12T17:52:00+08:00
+    lastmod: 2024-10-12T17:52:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'memories', 'precious', 'Dream', 'making', 'of', 'with']
+    tags: ['family', 'Dream', 'making', 'precious', 'memories']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can vary from person to person.But in general, this dream
 | Lucky Animal        | Pig |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Green     |
-| Lucky Food          | Beef Wellington      |
-| Lucky Instrument    | Melodica |
-| Lucky Flower        | Ornamental Pepper    |
-| Lucky Job           | Web Designer       |
-| Lucky Exercise      | Yoga Flow  |
-| Lucky Country       | Hungary    |
+| Lucky Food          | Sandwich      |
+| Lucky Instrument    | Tuba |
+| Lucky Flower        | Yarrow    |
+| Lucky Job           | Taxi Driver       |
+| Lucky Exercise      | Tennis  |
+| Lucky Country       | Kuwait    |
 
 
 ##  Final Reflections on Dreams

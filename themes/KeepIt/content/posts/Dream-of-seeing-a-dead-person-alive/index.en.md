@@ -1,8 +1,8 @@
 ---
     weight: 1588
     title: "Dream of building a fort or having a movie marathon with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T22:10:00+08:00
-    lastmod: 2024-10-13T22:10:00+08:00
+    date: 2024-10-13T05:31:00+08:00
+    lastmod: 2024-10-13T05:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['with', 'movie', 'or', 'your', 'fort', 'boyfriend', 'Dream', 'a', 'marathon', 'of', 'building', 'having']
+    tags: ['Dream', 'boyfriend', 'building', 'movie', 'marathon', 'having', 'fort']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Croissant      |
-| Lucky Instrument    | Fujara |
-| Lucky Flower        | Scented Geranium    |
-| Lucky Job           | Real Estate Agent       |
-| Lucky Exercise      | Surfing  |
-| Lucky Country       | Italy    |
+| Lucky Food          | Caprese Skewers      |
+| Lucky Instrument    | Cymbals |
+| Lucky Flower        | Tansy    |
+| Lucky Job           | Astrophysicist       |
+| Lucky Exercise      | CrossFit  |
+| Lucky Country       | Qatar    |
 
 
 ##  Final Reflections on Dreams

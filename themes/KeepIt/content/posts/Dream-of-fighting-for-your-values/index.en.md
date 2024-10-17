@@ -1,8 +1,8 @@
 ---
     weight: 1882
     title: "Dream of experiencing a deep sense of regret"  # Assuming 'title' column exists
-    date: 2024-10-13T22:02:00+08:00
-    lastmod: 2024-10-13T22:02:00+08:00
+    date: 2024-10-12T17:26:00+08:00
+    lastmod: 2024-10-12T17:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['regret', 'deep', 'experiencing', 'Dream', 'a', 'of', 'sense']
+    tags: ['experiencing', 'Dream', 'regret', 'sense', 'deep']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ The luck brought by this dream is more related to your mindset and actions than 
 | Lucky Animal        | Hyena |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Baked Potato      |
-| Lucky Instrument    | Harmonica |
-| Lucky Flower        | Alyssum    |
-| Lucky Job           | Translator       |
-| Lucky Exercise      | Sit-Ups  |
-| Lucky Country       | Portugal    |
+| Lucky Food          | Cheeseboard      |
+| Lucky Instrument    | Saxophone |
+| Lucky Flower        | Pelargonium    |
+| Lucky Job           | Farmer       |
+| Lucky Exercise      | Kayaking  |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

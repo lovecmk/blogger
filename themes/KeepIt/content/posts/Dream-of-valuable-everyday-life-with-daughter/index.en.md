@@ -1,8 +1,8 @@
 ---
     weight: 144
     title: "Dream of valuable everyday life with daughter"  # Assuming 'title' column exists
-    date: 2024-10-13T23:00:00+08:00
-    lastmod: 2024-10-13T23:00:00+08:00
+    date: 2024-10-13T06:59:00+08:00
+    lastmod: 2024-10-13T06:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['life', 'valuable', 'everyday', 'Dream', 'daughter', 'of', 'with']
+    tags: ['life', 'Dream', 'valuable', 'daughter', 'everyday']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is to have the opportunity to have a deep bond with daugh
 | Lucky Animal        | Cat |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Pesto      |
-| Lucky Instrument    | Lap Steel Guitar |
-| Lucky Flower        | Lobelia    |
-| Lucky Job           | Plumber       |
-| Lucky Exercise      | Dancing  |
-| Lucky Country       | Jordan    |
+| Lucky Food          | Burrito      |
+| Lucky Instrument    | Erhu |
+| Lucky Flower        | Chive Blossom    |
+| Lucky Job           | Research Scientist       |
+| Lucky Exercise      | Skiing  |
+| Lucky Country       | China    |
 
 
 ##  Final Reflections on Dreams

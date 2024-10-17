@@ -1,8 +1,8 @@
 ---
     weight: 498
     title: "Dream of running on treadmills"  # Assuming 'title' column exists
-    date: 2024-10-13T18:31:00+08:00
-    lastmod: 2024-10-13T18:31:00+08:00
+    date: 2024-10-13T23:02:00+08:00
+    lastmod: 2024-10-13T23:02:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['treadmills', 'running', 'Dream', 'on', 'of']
+    tags: ['Dream', 'running', 'treadmills']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you a lot of good luck.This dream may be lucky that you hav
 | Lucky Animal        | Chicken |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Pizza      |
-| Lucky Instrument    | Zither |
-| Lucky Flower        | Scabiosa    |
-| Lucky Job           | Anthropologist       |
-| Lucky Exercise      | Trail Running  |
-| Lucky Country       | Kuwait    |
+| Lucky Food          | Stuffed Mushrooms      |
+| Lucky Instrument    | Harmonic Piano |
+| Lucky Flower        | Hollyhock    |
+| Lucky Job           | Consultant       |
+| Lucky Exercise      | Racquetball  |
+| Lucky Country       | Singapore    |
 
 
 ##  Final Reflections on Dreams

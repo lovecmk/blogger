@@ -1,8 +1,8 @@
 ---
     weight: 1585
     title: "Dream of your husband sharing his deepest thoughts and feelings with you."  # Assuming 'title' column exists
-    date: 2024-10-13T18:34:00+08:00
-    lastmod: 2024-10-13T18:34:00+08:00
+    date: 2024-10-15T06:59:00+08:00
+    lastmod: 2024-10-15T06:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['you.', 'your', 'feelings', 'Dream', 'his', 'sharing', 'thoughts', 'husband', 'and', 'deepest', 'of', 'with']
+    tags: ['Dream', 'sharing', 'his', 'thoughts', 'deepest', 'feelings', 'husband', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Wolf |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Guacamole      |
-| Lucky Instrument    | French Horn |
-| Lucky Flower        | Larkspur    |
-| Lucky Job           | Archaeologist       |
-| Lucky Exercise      | Futsal  |
-| Lucky Country       | Japan    |
+| Lucky Food          | Popcorn      |
+| Lucky Instrument    | Electric Cello |
+| Lucky Flower        | Dandelion    |
+| Lucky Job           | Operations Manager       |
+| Lucky Exercise      | Calisthenics  |
+| Lucky Country       | Germany    |
 
 
 ##  Final Reflections on Dreams

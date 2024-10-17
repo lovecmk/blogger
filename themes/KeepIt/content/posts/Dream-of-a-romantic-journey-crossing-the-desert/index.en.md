@@ -1,8 +1,8 @@
 ---
     weight: 754
     title: "Dream of a romantic journey crossing the desert"  # Assuming 'title' column exists
-    date: 2024-10-13T05:11:00+08:00
-    lastmod: 2024-10-13T05:11:00+08:00
+    date: 2024-10-11T11:55:00+08:00
+    lastmod: 2024-10-11T11:55:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['romantic', 'the', 'journey', 'crossing', 'Dream', 'a', 'desert', 'of']
+    tags: ['Dream', 'journey', 'romantic', 'desert', 'crossing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you courage and passion, and you can meet new opportunities
 | Lucky Animal        | Hamster |
 | Lucky Place         | Museum     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Deviled Eggs      |
-| Lucky Instrument    | Cello |
-| Lucky Flower        | Clover    |
-| Lucky Job           | Engineer       |
-| Lucky Exercise      | Stair Climbing  |
-| Lucky Country       | India    |
+| Lucky Food          | Pancakes      |
+| Lucky Instrument    | Snare Drum |
+| Lucky Flower        | Jade Plant    |
+| Lucky Job           | Director       |
+| Lucky Exercise      | Squash  |
+| Lucky Country       | Canada    |
 
 
 ##  Final Reflections on Dreams

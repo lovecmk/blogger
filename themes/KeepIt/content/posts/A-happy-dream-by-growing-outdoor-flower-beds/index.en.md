@@ -1,8 +1,8 @@
 ---
     weight: 599
     title: "A happy dream by growing outdoor flower beds"  # Assuming 'title' column exists
-    date: 2024-10-13T07:44:00+08:00
-    lastmod: 2024-10-13T07:44:00+08:00
+    date: 2024-10-11T02:16:00+08:00
+    lastmod: 2024-10-11T02:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['outdoor', 'flower', 'dream', 'by', 'growing', 'happy', 'A', 'beds']
+    tags: ['happy', 'outdoor', 'flower', 'dream', 'growing', 'A', 'beds']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream includes elements that symbolize good luck.Feeling happiness while cu
 | Lucky Animal        | Camel |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Chicken Curry      |
-| Lucky Instrument    | Saxello |
-| Lucky Flower        | Clover    |
-| Lucky Job           | Hair Stylist       |
-| Lucky Exercise      | Fencing  |
-| Lucky Country       | Tonga    |
+| Lucky Food          | Quiche      |
+| Lucky Instrument    | Piccolo |
+| Lucky Flower        | Pansy    |
+| Lucky Job           | Farmer       |
+| Lucky Exercise      | CrossFit  |
+| Lucky Country       | United States    |
 
 
 ##  Final Reflections on Dreams

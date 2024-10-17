@@ -1,8 +1,8 @@
 ---
     weight: 2090
     title: "Dream of having a heartfelt conversation with your grandmother."  # Assuming 'title' column exists
-    date: 2024-10-13T19:23:00+08:00
-    lastmod: 2024-10-13T19:23:00+08:00
+    date: 2024-10-14T13:03:00+08:00
+    lastmod: 2024-10-14T13:03:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'grandmother.', 'Dream', 'a', 'heartfelt', 'of', 'conversation', 'with', 'having']
+    tags: ['conversation', 'Dream', 'heartfelt', 'grandmother', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Pork Chops      |
-| Lucky Instrument    | Kettledrum |
-| Lucky Flower        | Heather    |
-| Lucky Job           | Librarian       |
-| Lucky Exercise      | Baseball  |
-| Lucky Country       | Kenya    |
+| Lucky Food          | Tart      |
+| Lucky Instrument    | Banjo |
+| Lucky Flower        | Hollyhock    |
+| Lucky Job           | Construction Worker       |
+| Lucky Exercise      | Cross-Country Skiing  |
+| Lucky Country       | Slovakia    |
 
 
 ##  Final Reflections on Dreams

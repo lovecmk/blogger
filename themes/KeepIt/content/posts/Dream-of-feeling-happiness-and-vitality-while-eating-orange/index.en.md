@@ -1,8 +1,8 @@
 ---
     weight: 73
     title: "Dream of feeling happiness and vitality while eating orange"  # Assuming 'title' column exists
-    date: 2024-10-13T14:05:00+08:00
-    lastmod: 2024-10-13T14:05:00+08:00
+    date: 2024-10-12T16:10:00+08:00
+    lastmod: 2024-10-12T16:10:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['happiness', 'feeling', 'eating', 'vitality', 'Dream', 'orange', 'and', 'of', 'while']
+    tags: ['while', 'Dream', 'orange', 'eating', 'happiness', 'feeling', 'vitality']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you luck and positive change to you.Feeling happiness and v
 | Lucky Animal        | Heron |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Gnocchi      |
-| Lucky Instrument    | Cajón |
-| Lucky Flower        | Fuchsia    |
-| Lucky Job           | Photographer       |
-| Lucky Exercise      | Sprinting  |
-| Lucky Country       | Thailand    |
+| Lucky Food          | Lentil Soup      |
+| Lucky Instrument    | Oboe |
+| Lucky Flower        | Pansy    |
+| Lucky Job           | Flight Attendant       |
+| Lucky Exercise      | Swimming Laps  |
+| Lucky Country       | Philippines    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1609
     title: "Dream of planning and decorating for a special occasion together with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T05:33:00+08:00
-    lastmod: 2024-10-13T05:33:00+08:00
+    date: 2024-10-15T20:41:00+08:00
+    lastmod: 2024-10-15T20:41:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['special', 'together', 'occasion', 'your', 'boyfriend', 'Dream', 'for', 'decorating', 'a', 'and', 'planning', 'of', 'with']
+    tags: ['Dream', 'boyfriend', 'special', 'occasion', 'decorating', 'planning', 'together']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Parrot |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Pork Chops      |
-| Lucky Instrument    | Castanets |
-| Lucky Flower        | Lotus    |
-| Lucky Job           | Neuroscientist       |
-| Lucky Exercise      | Rock Climbing  |
-| Lucky Country       | Canada    |
+| Lucky Food          | Ratatouille      |
+| Lucky Instrument    | Balalaika |
+| Lucky Flower        | Primrose    |
+| Lucky Job           | Event Planner       |
+| Lucky Exercise      | Bodyweight Training  |
+| Lucky Country       | Croatia    |
 
 
 ##  Final Reflections on Dreams

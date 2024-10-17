@@ -1,8 +1,8 @@
 ---
     weight: 512
     title: "Dream of physical training"  # Assuming 'title' column exists
-    date: 2024-10-13T13:43:00+08:00
-    lastmod: 2024-10-13T13:43:00+08:00
+    date: 2024-10-15T04:37:00+08:00
+    lastmod: 2024-10-15T04:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'physical', 'Dream', 'training']
+    tags: ['training', 'Dream', 'physical']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream contains elements that can bring you good luck.The attitude of trying
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Pudding      |
-| Lucky Instrument    | Bassoon |
-| Lucky Flower        | Bougainvillea    |
-| Lucky Job           | Game Developer       |
-| Lucky Exercise      | Skimboarding  |
-| Lucky Country       | Poland    |
+| Lucky Food          | Baba Ganoush      |
+| Lucky Instrument    | Guitarlele |
+| Lucky Flower        | Butterfly Bush    |
+| Lucky Job           | Recruiter       |
+| Lucky Exercise      | Gymnastics  |
+| Lucky Country       | Laos    |
 
 
 ##  Final Reflections on Dreams

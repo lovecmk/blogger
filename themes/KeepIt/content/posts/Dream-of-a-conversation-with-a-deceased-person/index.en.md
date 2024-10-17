@@ -1,8 +1,8 @@
 ---
     weight: 1979
     title: "Dream of your cat receiving a new toy"  # Assuming 'title' column exists
-    date: 2024-10-13T08:07:00+08:00
-    lastmod: 2024-10-13T08:07:00+08:00
+    date: 2024-10-15T09:42:00+08:00
+    lastmod: 2024-10-15T09:42:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['receiving', 'new', 'toy', 'your', 'cat', 'Dream', 'a', 'of']
+    tags: ['Dream', 'toy', 'receiving', 'cat', 'new']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream signifies the potential for fortunate circumstances, especially relat
 | Lucky Animal        | Hyena |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Samosa      |
-| Lucky Instrument    | Ocarina |
-| Lucky Flower        | Feverfew    |
-| Lucky Job           | Teacher       |
-| Lucky Exercise      | Stand-Up Paddleboarding  |
-| Lucky Country       | Germany    |
+| Lucky Food          | Caprese Skewers      |
+| Lucky Instrument    | Trumpet |
+| Lucky Flower        | Tithonia    |
+| Lucky Job           | Statistician       |
+| Lucky Exercise      | Push-Ups  |
+| Lucky Country       | Mozambique    |
 
 
 ##  Final Reflections on Dreams

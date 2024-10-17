@@ -1,8 +1,8 @@
 ---
     weight: 1818
     title: "Dream of your husband expressing his love in a creative way."  # Assuming 'title' column exists
-    date: 2024-10-13T08:14:00+08:00
-    lastmod: 2024-10-13T08:14:00+08:00
+    date: 2024-10-13T05:19:00+08:00
+    lastmod: 2024-10-13T05:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['expressing', 'in', 'your', 'way.', 'Dream', 'his', 'husband', 'a', 'love', 'creative', 'of']
+    tags: ['Dream', 'love', 'way', 'his', 'expressing', 'creative', 'husband']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings a sense of luck and positivity. It suggests that you may exper
 | Lucky Animal        | Panda |
 | Lucky Place         | Academy     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Shepherd's Pie      |
-| Lucky Instrument    | Cowbell |
-| Lucky Flower        | Periwinkle    |
-| Lucky Job           | Bus Driver       |
-| Lucky Exercise      | Hiking  |
-| Lucky Country       | Bulgaria    |
+| Lucky Food          | Gelato      |
+| Lucky Instrument    | Bass Drum |
+| Lucky Flower        | Snapdragon    |
+| Lucky Job           | Graphic Designer       |
+| Lucky Exercise      | Lunges  |
+| Lucky Country       | Netherlands    |
 
 
 ##  Final Reflections on Dreams

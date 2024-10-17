@@ -1,8 +1,8 @@
 ---
     weight: 2009
     title: "Dream of your cat sleeping peacefully"  # Assuming 'title' column exists
-    date: 2024-10-13T09:47:00+08:00
-    lastmod: 2024-10-13T09:47:00+08:00
+    date: 2024-10-14T15:21:00+08:00
+    lastmod: 2024-10-14T15:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['sleeping', 'your', 'cat', 'Dream', 'peacefully', 'of']
+    tags: ['Dream', 'peacefully', 'cat', 'sleeping']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Heron |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Green     |
-| Lucky Food          | Buffalo Wings      |
-| Lucky Instrument    | Glockenspiel |
-| Lucky Flower        | Kalanchoe    |
-| Lucky Job           | Pharmacist       |
-| Lucky Exercise      | Kettlebell Training  |
-| Lucky Country       | Lebanon    |
+| Lucky Food          | Stuffed Mushrooms      |
+| Lucky Instrument    | Keyboard |
+| Lucky Flower        | Alstroemeria    |
+| Lucky Job           | Producer       |
+| Lucky Exercise      | Capoeira  |
+| Lucky Country       | Nepal    |
 
 
 ##  Final Reflections on Dreams

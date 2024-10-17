@@ -1,8 +1,8 @@
 ---
     weight: 755
     title: "Dream of traveling to the Arctic Circle to see Aurora"  # Assuming 'title' column exists
-    date: 2024-10-13T02:47:00+08:00
-    lastmod: 2024-10-13T02:47:00+08:00
+    date: 2024-10-13T19:38:00+08:00
+    lastmod: 2024-10-13T19:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Arctic', 'the', 'Circle', 'to', 'traveling', 'Dream', 'Aurora', 'see', 'of']
+    tags: ['Dream', 'Circle', 'traveling', 'see', 'to', 'Arctic', 'Aurora']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can mean an opportunity to achieve achievement and good luck through 
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Theater     |
 | Lucky Color         | White     |
-| Lucky Food          | Baked Ziti      |
-| Lucky Instrument    | Bass Drum |
-| Lucky Flower        | Moss Rose    |
-| Lucky Job           | Network Administrator       |
-| Lucky Exercise      | Bouldering  |
-| Lucky Country       | Argentina    |
+| Lucky Food          | Mango Sticky Rice      |
+| Lucky Instrument    | Fiddle |
+| Lucky Flower        | Orchid    |
+| Lucky Job           | Human Resources Manager       |
+| Lucky Exercise      | Basketball  |
+| Lucky Country       | Mongolia    |
 
 
 ##  Final Reflections on Dreams

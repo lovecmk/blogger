@@ -1,8 +1,8 @@
 ---
     weight: 1083
     title: "Dream about Bangkabi"  # Assuming 'title' column exists
-    date: 2024-10-13T06:32:00+08:00
-    lastmod: 2024-10-13T06:32:00+08:00
+    date: 2024-10-11T14:47:00+08:00
+    lastmod: 2024-10-11T14:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Bangkabi', 'about', 'Dream']
+    tags: ['Bangkabi', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Good luck from 'Bangkabi' can vary depending on the situation.The luck of this d
 | Lucky Animal        | Mouse |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Ramen      |
-| Lucky Instrument    | Melodic Percussion |
-| Lucky Flower        | Zantedeschia    |
-| Lucky Job           | SEO Specialist       |
-| Lucky Exercise      | Running  |
-| Lucky Country       | South Africa    |
+| Lucky Food          | Fajitas      |
+| Lucky Instrument    | Tenor Banjo |
+| Lucky Flower        | Stock    |
+| Lucky Job           | User Researcher       |
+| Lucky Exercise      | Circuit Workout  |
+| Lucky Country       | Cyprus    |
 
 
 ##  Final Reflections on Dreams

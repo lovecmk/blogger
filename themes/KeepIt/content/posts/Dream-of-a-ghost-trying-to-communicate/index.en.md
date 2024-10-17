@@ -1,8 +1,8 @@
 ---
     weight: 2091
     title: "Dream of picking ripe apples from a tree"  # Assuming 'title' column exists
-    date: 2024-10-13T10:21:00+08:00
-    lastmod: 2024-10-13T10:21:00+08:00
+    date: 2024-10-12T07:27:00+08:00
+    lastmod: 2024-10-12T07:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['tree', 'picking', 'Dream', 'from', 'a', 'ripe', 'of', 'apples']
+    tags: ['apples', 'Dream', 'from', 'picking', 'tree', 'ripe']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Camel |
 | Lucky Place         | Academy     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Bagel      |
-| Lucky Instrument    | Fujara |
-| Lucky Flower        | Aster    |
-| Lucky Job           | Teacher       |
-| Lucky Exercise      | Sledge Hockey  |
-| Lucky Country       | Qatar    |
+| Lucky Food          | Pico de Gallo      |
+| Lucky Instrument    | Harp |
+| Lucky Flower        | Hellebore    |
+| Lucky Job           | Photographer       |
+| Lucky Exercise      | Box Jumps  |
+| Lucky Country       | Finland    |
 
 
 ##  Final Reflections on Dreams

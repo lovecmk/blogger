@@ -1,8 +1,8 @@
 ---
     weight: 651
     title: "Dream of an infinite imagination in a fantasy space"  # Assuming 'title' column exists
-    date: 2024-10-13T02:42:00+08:00
-    lastmod: 2024-10-13T02:42:00+08:00
+    date: 2024-10-13T12:33:00+08:00
+    lastmod: 2024-10-13T12:33:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['space', 'infinite', 'fantasy', 'imagination', 'Dream', 'a', 'an', 'in', 'of']
+    tags: ['imagination', 'Dream', 'space', 'infinite', 'fantasy', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you good luck.Imagination and creativity can be the key to 
 | Lucky Animal        | Polar bear |
 | Lucky Place         | Mart     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Spring Roll      |
-| Lucky Instrument    | Octobass |
-| Lucky Flower        | Cactus Flower    |
-| Lucky Job           | Makeup Artist       |
-| Lucky Exercise      | Swimming Laps  |
-| Lucky Country       | South Africa    |
+| Lucky Food          | Fruit Smoothie      |
+| Lucky Instrument    | Wooden Flute |
+| Lucky Flower        | Safflower    |
+| Lucky Job           | Scientist       |
+| Lucky Exercise      | Lifting  |
+| Lucky Country       | Nauru    |
 
 
 ##  Final Reflections on Dreams

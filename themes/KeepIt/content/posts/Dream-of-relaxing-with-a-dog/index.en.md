@@ -1,8 +1,8 @@
 ---
     weight: 312
     title: "Dream of relaxing with a dog"  # Assuming 'title' column exists
-    date: 2024-10-13T19:20:00+08:00
-    lastmod: 2024-10-13T19:20:00+08:00
+    date: 2024-10-11T09:16:00+08:00
+    lastmod: 2024-10-11T09:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'a', 'relaxing', 'of', 'with', 'dog']
+    tags: ['Dream', 'relaxing', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of dreams is a personal interpretation, so it may vary depending on the
 | Lucky Animal        | Chameleon |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Caramel Flan      |
-| Lucky Instrument    | Harmonium |
-| Lucky Flower        | Bouvardia    |
-| Lucky Job           | App Developer       |
-| Lucky Exercise      | Body Pump  |
-| Lucky Country       | Brazil    |
+| Lucky Food          | Hummus      |
+| Lucky Instrument    | Tenor Guitar |
+| Lucky Flower        | Pansy    |
+| Lucky Job           | Video Editor       |
+| Lucky Exercise      | Pull-Ups  |
+| Lucky Country       | Serbia    |
 
 
 ##  Final Reflections on Dreams

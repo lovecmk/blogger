@@ -1,8 +1,8 @@
 ---
     weight: 1970
     title: "Dream of your grandmother's guidance leading you to success."  # Assuming 'title' column exists
-    date: 2024-10-13T17:56:00+08:00
-    lastmod: 2024-10-13T17:56:00+08:00
+    date: 2024-10-15T19:16:00+08:00
+    lastmod: 2024-10-15T19:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'success.', 'to', 'Dream', 'leading', "grandmother's", 'of', 'you', 'guidance']
+    tags: ['guidance', 'leading', 'Dream', 'to', 'success', "grandmother's", 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,11 +59,11 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Horse |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Roast Chicken      |
-| Lucky Instrument    | Ocarina |
-| Lucky Flower        | Cornflower    |
-| Lucky Job           | Nuclear Engineer       |
-| Lucky Exercise      | Sledge Hockey  |
+| Lucky Food          | Pasta Primavera      |
+| Lucky Instrument    | Oboe |
+| Lucky Flower        | Crown Daisy    |
+| Lucky Job           | Technical Writer       |
+| Lucky Exercise      | Cross-Country Skiing  |
 | Lucky Country       | Serbia    |
 
 

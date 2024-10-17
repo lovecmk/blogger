@@ -1,8 +1,8 @@
 ---
     weight: 788
     title: "Dream of a car accident"  # Assuming 'title' column exists
-    date: 2024-10-13T02:21:00+08:00
-    lastmod: 2024-10-13T02:21:00+08:00
+    date: 2024-10-11T01:08:00+08:00
+    lastmod: 2024-10-11T01:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'a', 'accident', 'car', 'of']
+    tags: ['Dream', 'car', 'accident']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of car accidents in this dream may vary depending on the individual.In 
 | Lucky Animal        | Bear |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Eggplant Parmesan      |
-| Lucky Instrument    | Trompeta |
-| Lucky Flower        | Dahlia    |
-| Lucky Job           | Social Worker       |
-| Lucky Exercise      | Rock Climbing  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Scone      |
+| Lucky Instrument    | Trombone Slide |
+| Lucky Flower        | Heather    |
+| Lucky Job           | IT Specialist       |
+| Lucky Exercise      | Surf Lifesaving  |
+| Lucky Country       | Western Sahara    |
 
 
 ##  Final Reflections on Dreams

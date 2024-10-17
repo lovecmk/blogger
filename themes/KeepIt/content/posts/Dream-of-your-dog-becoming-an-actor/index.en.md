@@ -1,8 +1,8 @@
 ---
     weight: 1286
     title: "Dream of your dog becoming an actor"  # Assuming 'title' column exists
-    date: 2024-10-13T15:05:00+08:00
-    lastmod: 2024-10-13T15:05:00+08:00
+    date: 2024-10-13T20:13:00+08:00
+    lastmod: 2024-10-13T20:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'Dream', 'dog', 'an', 'actor', 'of', 'becoming']
+    tags: ['Dream', 'actor', 'becoming', 'dog', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Chocolate Mousse      |
-| Lucky Instrument    | Ocarina |
-| Lucky Flower        | Zantedeschia    |
-| Lucky Job           | Chef       |
-| Lucky Exercise      | Resistance Bands  |
-| Lucky Country       | Nigeria    |
+| Lucky Food          | Pudding      |
+| Lucky Instrument    | Erhu |
+| Lucky Flower        | Tiger Lily    |
+| Lucky Job           | Project Manager       |
+| Lucky Exercise      | Pull-Ups  |
+| Lucky Country       | Oman    |
 
 
 ##  Final Reflections on Dreams

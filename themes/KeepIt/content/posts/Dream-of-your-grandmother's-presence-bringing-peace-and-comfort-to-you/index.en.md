@@ -1,8 +1,8 @@
 ---
     weight: 2137
     title: "Dream of discovering a previously unknown branch of your family tree."  # Assuming 'title' column exists
-    date: 2024-10-13T00:21:00+08:00
-    lastmod: 2024-10-13T00:21:00+08:00
+    date: 2024-10-12T08:06:00+08:00
+    lastmod: 2024-10-12T08:06:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['previously', 'family', 'tree.', 'your', 'Dream', 'a', 'branch', 'unknown', 'of', 'discovering']
+    tags: ['family', 'Dream', 'unknown', 'discovering', 'branch', 'previously', 'tree']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Snake |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Dumplings      |
-| Lucky Instrument    | Bass Drum |
-| Lucky Flower        | Stock    |
-| Lucky Job           | Accountant       |
-| Lucky Exercise      | Soccer  |
-| Lucky Country       | Papua New Guinea    |
+| Lucky Food          | Buffalo Wings      |
+| Lucky Instrument    | Lute |
+| Lucky Flower        | Verbena    |
+| Lucky Job           | Public Relations Specialist       |
+| Lucky Exercise      | Skimboarding  |
+| Lucky Country       | Iraq    |
 
 
 ##  Final Reflections on Dreams

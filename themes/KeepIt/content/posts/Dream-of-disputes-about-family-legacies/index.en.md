@@ -1,8 +1,8 @@
 ---
     weight: 1729
     title: "Dream of being abandoned"  # Assuming 'title' column exists
-    date: 2024-10-13T03:18:00+08:00
-    lastmod: 2024-10-13T03:18:00+08:00
+    date: 2024-10-11T16:49:00+08:00
+    lastmod: 2024-10-11T16:49:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['being', 'abandoned', 'of', 'Dream']
+    tags: ['being', 'abandoned', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Panda |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Cheesecake      |
-| Lucky Instrument    | Tuba Horn |
-| Lucky Flower        | Agapanthus    |
-| Lucky Job           | Pharmacist       |
-| Lucky Exercise      | Kite Surfing  |
-| Lucky Country       | Iceland    |
+| Lucky Food          | Caramel Flan      |
+| Lucky Instrument    | Saxophone |
+| Lucky Flower        | Firecracker Plant    |
+| Lucky Job           | Stockbroker       |
+| Lucky Exercise      | Futsal  |
+| Lucky Country       | South Korea    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 696
     title: "Dream of talking with a precious friend"  # Assuming 'title' column exists
-    date: 2024-10-13T11:58:00+08:00
-    lastmod: 2024-10-13T11:58:00+08:00
+    date: 2024-10-15T12:40:00+08:00
+    lastmod: 2024-10-15T12:40:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['friend', 'precious', 'talking', 'Dream', 'a', 'of', 'with']
+    tags: ['Dream', 'talking', 'friend', 'precious']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be diverse.For example, if you have this dream, you m
 | Lucky Animal        | Lion |
 | Lucky Place         | Library     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Cheesecake      |
-| Lucky Instrument    | Ney |
-| Lucky Flower        | Tithonia    |
-| Lucky Job           | Life Coach       |
-| Lucky Exercise      | Hula Hooping  |
-| Lucky Country       | Italy    |
+| Lucky Food          | Pork Chops      |
+| Lucky Instrument    | Piccolo Trumpet |
+| Lucky Flower        | Kalanchoe    |
+| Lucky Job           | Engineer       |
+| Lucky Exercise      | Boxing  |
+| Lucky Country       | Jordan    |
 
 
 ##  Final Reflections on Dreams

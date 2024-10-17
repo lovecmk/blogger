@@ -1,8 +1,8 @@
 ---
     weight: 1696
     title: "Dream of being unable to speak or scream"  # Assuming 'title' column exists
-    date: 2024-10-13T15:11:00+08:00
-    lastmod: 2024-10-13T15:11:00+08:00
+    date: 2024-10-13T01:53:00+08:00
+    lastmod: 2024-10-13T01:53:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['unable', 'or', 'scream', 'to', 'Dream', 'being', 'speak', 'of']
+    tags: ['being', 'Dream', 'speak', 'to', 'unable', 'scream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Minestrone      |
-| Lucky Instrument    | Bass Clarinet |
-| Lucky Flower        | Hollyhock    |
-| Lucky Job           | Web Developer       |
-| Lucky Exercise      | Hot Yoga  |
-| Lucky Country       | Mexico    |
+| Lucky Food          | Casserole      |
+| Lucky Instrument    | Tama |
+| Lucky Flower        | Crown Daisy    |
+| Lucky Job           | Neuroscientist       |
+| Lucky Exercise      | Pilates  |
+| Lucky Country       | Jordan    |
 
 
 ##  Final Reflections on Dreams

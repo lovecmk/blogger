@@ -1,8 +1,8 @@
 ---
     weight: 1891
     title: "Dream of fighting for a better future"  # Assuming 'title' column exists
-    date: 2024-10-13T13:17:00+08:00
-    lastmod: 2024-10-13T13:17:00+08:00
+    date: 2024-10-11T02:08:00+08:00
+    lastmod: 2024-10-11T02:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fighting', 'Dream', 'for', 'a', 'future', 'better', 'of']
+    tags: ['Dream', 'fighting', 'future', 'better']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Salad      |
-| Lucky Instrument    | Sitar |
-| Lucky Flower        | Jade Plant    |
-| Lucky Job           | Mechanic       |
-| Lucky Exercise      | Jumping Rope  |
-| Lucky Country       | Pakistan    |
+| Lucky Food          | Bruschetta      |
+| Lucky Instrument    | Piano |
+| Lucky Flower        | Chrysanthemum    |
+| Lucky Job           | Web Designer       |
+| Lucky Exercise      | Handball  |
+| Lucky Country       | Latvia    |
 
 
 ##  Final Reflections on Dreams

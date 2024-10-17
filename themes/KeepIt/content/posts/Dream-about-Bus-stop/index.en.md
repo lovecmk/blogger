@@ -1,8 +1,8 @@
 ---
     weight: 1206
     title: "Dream about Bus stop"  # Assuming 'title' column exists
-    date: 2024-10-13T04:56:00+08:00
-    lastmod: 2024-10-13T04:56:00+08:00
+    date: 2024-10-15T06:19:00+08:00
+    lastmod: 2024-10-15T06:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Bus', 'stop', 'about', 'Dream']
+    tags: ['Bus', 'stop', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,11 +59,11 @@ The luck of the bus stop can depend on the situation and personal experience in 
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Croissant      |
-| Lucky Instrument    | Basset Horn |
-| Lucky Flower        | Iris    |
-| Lucky Job           | Accountant       |
-| Lucky Exercise      | Cross-Country Skiing  |
+| Lucky Food          | Fish and Chips      |
+| Lucky Instrument    | Darabuka |
+| Lucky Flower        | Ragged Robin    |
+| Lucky Job           | Taxi Driver       |
+| Lucky Exercise      | Lacrosse  |
 | Lucky Country       | Lesotho    |
 
 

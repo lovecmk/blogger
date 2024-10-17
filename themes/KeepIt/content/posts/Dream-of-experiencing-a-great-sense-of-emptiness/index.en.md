@@ -1,8 +1,8 @@
 ---
     weight: 1718
     title: "Dream of going to a live concert or music festival with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T19:20:00+08:00
-    lastmod: 2024-10-13T19:20:00+08:00
+    date: 2024-10-12T15:47:00+08:00
+    lastmod: 2024-10-12T15:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['live', 'festival', 'or', 'your', 'to', 'boyfriend', 'Dream', 'going', 'a', 'concert', 'of', 'with', 'music']
+    tags: ['Dream', 'concert', 'boyfriend', 'to', 'going', 'festival', 'live', 'music']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Lake     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Chocolate      |
-| Lucky Instrument    | Guitar |
-| Lucky Flower        | Buttercup    |
-| Lucky Job           | Chef de Cuisine       |
-| Lucky Exercise      | Baseball  |
-| Lucky Country       | Belgium    |
+| Lucky Food          | Stuffed Mushrooms      |
+| Lucky Instrument    | Balalaika |
+| Lucky Flower        | Mandevilla    |
+| Lucky Job           | Real Estate Agent       |
+| Lucky Exercise      | Aqua Aerobics  |
+| Lucky Country       | Eswatini    |
 
 
 ##  Final Reflections on Dreams

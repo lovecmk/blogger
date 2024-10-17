@@ -1,8 +1,8 @@
 ---
     weight: 719
     title: "Dream of walking in a fairy tale winter forest with a precious friend"  # Assuming 'title' column exists
-    date: 2024-10-13T23:51:00+08:00
-    lastmod: 2024-10-13T23:51:00+08:00
+    date: 2024-10-11T16:59:00+08:00
+    lastmod: 2024-10-11T16:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fairy', 'friend', 'tale', 'forest', 'precious', 'winter', 'Dream', 'a', 'in', 'of', 'with', 'walking']
+    tags: ['forest', 'Dream', 'fairy', 'walking', 'tale', 'winter', 'friend', 'precious']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be seen by letting you experience sincere friends, de
 | Lucky Animal        | Chicken |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Chocolate Mousse      |
-| Lucky Instrument    | Conga |
-| Lucky Flower        | Perennial Aster    |
-| Lucky Job           | Content Creator       |
-| Lucky Exercise      | Leg Press  |
-| Lucky Country       | Laos    |
+| Lucky Food          | Salad      |
+| Lucky Instrument    | Xylophone |
+| Lucky Flower        | Ranunculus    |
+| Lucky Job           | Brand Manager       |
+| Lucky Exercise      | Bodyweight Training  |
+| Lucky Country       | Western Sahara    |
 
 
 ##  Final Reflections on Dreams

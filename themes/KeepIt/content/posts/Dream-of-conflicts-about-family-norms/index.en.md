@@ -1,8 +1,8 @@
 ---
     weight: 1677
     title: "Dream of experiencing a heartbreaking breakup"  # Assuming 'title' column exists
-    date: 2024-10-13T06:10:00+08:00
-    lastmod: 2024-10-13T06:10:00+08:00
+    date: 2024-10-14T20:09:00+08:00
+    lastmod: 2024-10-14T20:09:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['experiencing', 'Dream', 'a', 'breakup', 'of', 'heartbreaking']
+    tags: ['experiencing', 'Dream', 'heartbreaking', 'breakup']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream does not necessarily indicate luck in a positive sense. Instead, it s
 | Lucky Animal        | Lion |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Red     |
-| Lucky Food          | Waffles      |
-| Lucky Instrument    | Claves |
-| Lucky Flower        | Sea Lavender    |
-| Lucky Job           | Sales Manager       |
-| Lucky Exercise      | Discus Throw  |
-| Lucky Country       | Tajikistan    |
+| Lucky Food          | Salad      |
+| Lucky Instrument    | Conga Drum |
+| Lucky Flower        | Calla Lily    |
+| Lucky Job           | Network Administrator       |
+| Lucky Exercise      | Resistance Training  |
+| Lucky Country       | Italy    |
 
 
 ##  Final Reflections on Dreams

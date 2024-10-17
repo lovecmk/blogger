@@ -1,8 +1,8 @@
 ---
     weight: 1026
     title: "Dream of caring and understanding"  # Assuming 'title' column exists
-    date: 2024-10-13T18:52:00+08:00
-    lastmod: 2024-10-13T18:52:00+08:00
+    date: 2024-10-11T09:27:00+08:00
+    lastmod: 2024-10-11T09:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'and', 'understanding', 'of', 'caring']
+    tags: ['Dream', 'caring', 'understanding']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Luck in 'dreams of consideration and understanding' will be in forming better so
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Paella      |
-| Lucky Instrument    | Piccolo |
-| Lucky Flower        | Dandelion    |
-| Lucky Job           | Software Engineer       |
-| Lucky Exercise      | Circuit Training  |
-| Lucky Country       | Western Sahara    |
+| Lucky Food          | Pancakes      |
+| Lucky Instrument    | Tenor Saxophone |
+| Lucky Flower        | Jatropha    |
+| Lucky Job           | Video Editor       |
+| Lucky Exercise      | Water Polo  |
+| Lucky Country       | Mozambique    |
 
 
 ##  Final Reflections on Dreams

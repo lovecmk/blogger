@@ -1,8 +1,8 @@
 ---
     weight: 348
     title: "A dream of not finding clothes or shoes"  # Assuming 'title' column exists
-    date: 2024-10-13T14:50:00+08:00
-    lastmod: 2024-10-13T14:50:00+08:00
+    date: 2024-10-13T15:40:00+08:00
+    lastmod: 2024-10-13T15:40:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'not', 'clothes', 'dream', 'A', 'of', 'finding', 'shoes']
+    tags: ['clothes', 'dream', 'finding', 'A', 'not', 'shoes']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can provide a lucky opportunity for self -discovery and growth.This d
 | Lucky Animal        | Hyena |
 | Lucky Place         | Library     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Risotto      |
-| Lucky Instrument    | Koto |
-| Lucky Flower        | Alstroemeria    |
-| Lucky Job           | Interpreter       |
-| Lucky Exercise      | Aerobics  |
-| Lucky Country       | Croatia    |
+| Lucky Food          | Fruit Salad      |
+| Lucky Instrument    | Bandoneon |
+| Lucky Flower        | Anemone    |
+| Lucky Job           | Pilot       |
+| Lucky Exercise      | Zumba  |
+| Lucky Country       | Qatar    |
 
 
 ##  Final Reflections on Dreams

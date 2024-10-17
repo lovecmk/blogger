@@ -1,8 +1,8 @@
 ---
     weight: 1139
     title: "Dream about Art gallery"  # Assuming 'title' column exists
-    date: 2024-10-13T18:10:00+08:00
-    lastmod: 2024-10-13T18:10:00+08:00
+    date: 2024-10-13T18:13:00+08:00
+    lastmod: 2024-10-13T18:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['gallery', 'Art', 'about', 'Dream']
+    tags: ['Art', 'Dream', 'gallery']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring good luck related to creativity, beauty, and art.There will
 | Lucky Animal        | Duck |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Chowder      |
-| Lucky Instrument    | Melodica |
-| Lucky Flower        | Pelargonium    |
-| Lucky Job           | Social Worker       |
-| Lucky Exercise      | Swimming  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Brownies      |
+| Lucky Instrument    | Bass Clarinet |
+| Lucky Flower        | Sea Lavender    |
+| Lucky Job           | Flight Attendant       |
+| Lucky Exercise      | Active Recovery  |
+| Lucky Country       | Lithuania    |
 
 
 ##  Final Reflections on Dreams

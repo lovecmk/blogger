@@ -1,8 +1,8 @@
 ---
     weight: 1229
     title: "Dream of your dog being a radio host"  # Assuming 'title' column exists
-    date: 2024-10-13T08:06:00+08:00
-    lastmod: 2024-10-13T08:06:00+08:00
+    date: 2024-10-15T02:41:00+08:00
+    lastmod: 2024-10-15T02:41:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['radio', 'your', 'Dream', 'being', 'a', 'host', 'of', 'dog']
+    tags: ['being', 'Dream', 'host', 'radio', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Fish and Chips      |
-| Lucky Instrument    | Xylophone |
-| Lucky Flower        | Poinsettia    |
-| Lucky Job           | Data Scientist       |
-| Lucky Exercise      | Aqua Aerobics  |
-| Lucky Country       | Cyprus    |
+| Lucky Food          | Caprese Salad      |
+| Lucky Instrument    | Octobass |
+| Lucky Flower        | Lobelia    |
+| Lucky Job           | Neuroscientist       |
+| Lucky Exercise      | Lunges  |
+| Lucky Country       | United Arab Emirates    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1248
     title: "Dream of relaxing at home with your dog"  # Assuming 'title' column exists
-    date: 2024-10-13T21:01:00+08:00
-    lastmod: 2024-10-13T21:01:00+08:00
+    date: 2024-10-12T18:13:00+08:00
+    lastmod: 2024-10-12T18:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'Dream', 'dog', 'relaxing', 'of', 'home', 'with', 'at']
+    tags: ['Dream', 'home', 'relaxing', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Chicken |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Beef Wellington      |
-| Lucky Instrument    | Viola |
-| Lucky Flower        | Jatropha    |
-| Lucky Job           | UX Designer       |
-| Lucky Exercise      | Kickboxing  |
-| Lucky Country       | Hungary    |
+| Lucky Food          | Fruit Smoothie      |
+| Lucky Instrument    | Xylophone |
+| Lucky Flower        | Petunia    |
+| Lucky Job           | Operations Manager       |
+| Lucky Exercise      | Capoeira  |
+| Lucky Country       | Turkey    |
 
 
 ##  Final Reflections on Dreams

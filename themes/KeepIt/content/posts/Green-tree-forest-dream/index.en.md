@@ -1,8 +1,8 @@
 ---
     weight: 533
     title: "Green tree forest dream"  # Assuming 'title' column exists
-    date: 2024-10-13T05:49:00+08:00
-    lastmod: 2024-10-13T05:49:00+08:00
+    date: 2024-10-11T07:49:00+08:00
+    lastmod: 2024-10-11T07:49:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -59,12 +59,12 @@ If you have a green tree forest dream, you can feel the inner peace and stabilit
 | Lucky Animal        | Elephant |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Cornbread      |
-| Lucky Instrument    | Piccolo |
-| Lucky Flower        | Poppy    |
-| Lucky Job           | Electrician       |
-| Lucky Exercise      | Resistance Training  |
-| Lucky Country       | Papua New Guinea    |
+| Lucky Food          | Burger      |
+| Lucky Instrument    | Charango |
+| Lucky Flower        | Sundew    |
+| Lucky Job           | Field Technician       |
+| Lucky Exercise      | Hiking  |
+| Lucky Country       | Namibia    |
 
 
 ##  Final Reflections on Dreams

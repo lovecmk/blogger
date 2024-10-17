@@ -1,8 +1,8 @@
 ---
     weight: 1207
     title: "Dream about firefighter"  # Assuming 'title' column exists
-    date: 2024-10-13T18:33:00+08:00
-    lastmod: 2024-10-13T18:33:00+08:00
+    date: 2024-10-15T01:04:00+08:00
+    lastmod: 2024-10-15T01:04:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['firefighter', 'about', 'Dream']
+    tags: ['Dream', 'firefighter']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is that you can have a chance to give and receive help ev
 | Lucky Animal        | Hyena |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Pancakes      |
-| Lucky Instrument    | Banjo |
-| Lucky Flower        | Sundew    |
+| Lucky Food          | Quesadilla      |
+| Lucky Instrument    | Saxello |
+| Lucky Flower        | Strelitzia    |
 | Lucky Job           | Philosopher       |
-| Lucky Exercise      | Deadlifts  |
-| Lucky Country       | Mexico    |
+| Lucky Exercise      | Walking  |
+| Lucky Country       | Laos    |
 
 
 ##  Final Reflections on Dreams

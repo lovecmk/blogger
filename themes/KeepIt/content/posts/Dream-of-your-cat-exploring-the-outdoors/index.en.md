@@ -1,8 +1,8 @@
 ---
     weight: 2159
     title: "Dream of having a picnic or outdoor meal with a scenic view with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T21:20:00+08:00
-    lastmod: 2024-10-13T21:20:00+08:00
+    date: 2024-10-12T06:16:00+08:00
+    lastmod: 2024-10-12T06:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['outdoor', 'with', 'scenic', 'picnic', 'or', 'your', 'boyfriend', 'Dream', 'a', 'view', 'of', 'meal', 'having']
+    tags: ['Dream', 'boyfriend', 'outdoor', 'view', 'meal', 'scenic', 'picnic', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Guinea pig |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Chowder      |
-| Lucky Instrument    | Electric Violin |
-| Lucky Flower        | Monkey Grass    |
-| Lucky Job           | Photographer       |
-| Lucky Exercise      | Sledge Hockey  |
-| Lucky Country       | Serbia    |
+| Lucky Food          | Salad      |
+| Lucky Instrument    | Tama |
+| Lucky Flower        | Mums    |
+| Lucky Job           | Dentist       |
+| Lucky Exercise      | Spin Class  |
+| Lucky Country       | Slovakia    |
 
 
 ##  Final Reflections on Dreams

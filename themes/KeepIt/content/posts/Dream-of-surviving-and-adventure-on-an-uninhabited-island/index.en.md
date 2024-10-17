@@ -1,8 +1,8 @@
 ---
     weight: 781
     title: "Dream of surviving and adventure on an uninhabited island"  # Assuming 'title' column exists
-    date: 2024-10-13T14:10:00+08:00
-    lastmod: 2024-10-13T14:10:00+08:00
+    date: 2024-10-13T15:48:00+08:00
+    lastmod: 2024-10-13T15:48:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['adventure', 'uninhabited', 'Dream', 'an', 'island', 'on', 'and', 'of', 'surviving']
+    tags: ['island', 'Dream', 'adventure', 'uninhabited', 'surviving', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ You can find good luck in this dream.Surviving and adventure on an uninhabited i
 | Lucky Animal        | Koala |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Ramen      |
-| Lucky Instrument    | Zither |
-| Lucky Flower        | Ranunculus    |
-| Lucky Job           | SEO Specialist       |
-| Lucky Exercise      | Aqua Aerobics  |
-| Lucky Country       | Brunei    |
+| Lucky Food          | Vegetable Stir Fry      |
+| Lucky Instrument    | Recorder |
+| Lucky Flower        | Swan River Daisy    |
+| Lucky Job           | Stockbroker       |
+| Lucky Exercise      | Swimming  |
+| Lucky Country       | Georgia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1652
     title: "Dream of disagreements during a family gathering"  # Assuming 'title' column exists
-    date: 2024-10-13T15:36:00+08:00
-    lastmod: 2024-10-13T15:36:00+08:00
+    date: 2024-10-13T20:57:00+08:00
+    lastmod: 2024-10-13T20:57:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'gathering', 'Dream', 'during', 'a', 'disagreements', 'of']
+    tags: ['family', 'Dream', 'disagreements', 'gathering']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Panda |
 | Lucky Place         | Mart     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Shrimp      |
-| Lucky Instrument    | Balalaika |
-| Lucky Flower        | Dahlia    |
-| Lucky Job           | Research Scientist       |
-| Lucky Exercise      | Lunges  |
-| Lucky Country       | Cambodia    |
+| Lucky Food          | Sushi      |
+| Lucky Instrument    | Bandoneon |
+| Lucky Flower        | Ragged Robin    |
+| Lucky Job           | Plumber       |
+| Lucky Exercise      | Tennis  |
+| Lucky Country       | Germany    |
 
 
 ##  Final Reflections on Dreams

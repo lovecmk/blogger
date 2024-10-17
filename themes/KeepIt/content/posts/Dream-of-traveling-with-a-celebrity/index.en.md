@@ -1,8 +1,8 @@
 ---
     weight: 1432
     title: "Dream of traveling with a celebrity"  # Assuming 'title' column exists
-    date: 2024-10-13T00:48:00+08:00
-    lastmod: 2024-10-13T00:48:00+08:00
+    date: 2024-10-15T07:36:00+08:00
+    lastmod: 2024-10-15T07:36:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['celebrity', 'of', 'traveling', 'Dream', 'a', 'with']
+    tags: ['celebrity', 'Dream', 'traveling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rhino |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Pulled Pork      |
-| Lucky Instrument    | Electric Violin |
-| Lucky Flower        | Cherry Blossom    |
-| Lucky Job           | Doctor       |
-| Lucky Exercise      | Aqua Aerobics  |
-| Lucky Country       | Qatar    |
+| Lucky Food          | Baked Potato      |
+| Lucky Instrument    | Ukulele |
+| Lucky Flower        | Bouvardia    |
+| Lucky Job           | Architect       |
+| Lucky Exercise      | Circuit Workout  |
+| Lucky Country       | Cambodia    |
 
 
 ##  Final Reflections on Dreams

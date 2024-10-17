@@ -1,8 +1,8 @@
 ---
     weight: 2177
     title: "Dream of your husband demonstrating his commitment to your relationship."  # Assuming 'title' column exists
-    date: 2024-10-13T17:01:00+08:00
-    lastmod: 2024-10-13T17:01:00+08:00
+    date: 2024-10-14T15:18:00+08:00
+    lastmod: 2024-10-14T15:18:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['relationship.', 'your', 'commitment', 'to', 'demonstrating', 'Dream', 'his', 'husband', 'of']
+    tags: ['Dream', 'commitment', 'to', 'relationship', 'his', 'husband', 'demonstrating']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Theater     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Kebab      |
-| Lucky Instrument    | Keyboard |
-| Lucky Flower        | Celosia    |
-| Lucky Job           | Event Coordinator       |
-| Lucky Exercise      | Beach Volleyball  |
-| Lucky Country       | Philippines    |
+| Lucky Food          | Chili      |
+| Lucky Instrument    | Accordion |
+| Lucky Flower        | Jatropha    |
+| Lucky Job           | Anthropologist       |
+| Lucky Exercise      | Racquetball  |
+| Lucky Country       | Uzbekistan    |
 
 
 ##  Final Reflections on Dreams

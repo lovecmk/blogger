@@ -1,8 +1,8 @@
 ---
     weight: 160
     title: "Dreaming of a cooperative relationship with brothers and sisters"  # Assuming 'title' column exists
-    date: 2024-10-13T06:06:00+08:00
-    lastmod: 2024-10-13T06:06:00+08:00
+    date: 2024-10-12T20:00:00+08:00
+    lastmod: 2024-10-12T20:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dreaming', 'sisters', 'a', 'relationship', 'cooperative', 'and', 'of', 'brothers', 'with']
+    tags: ['brothers', 'sisters', 'cooperative', 'Dreaming', 'relationship']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can help you strengthen your relationship with your broth
 | Lucky Animal        | Chicken |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Fruit Salad      |
-| Lucky Instrument    | Wooden Flute |
-| Lucky Flower        | Tithonia    |
-| Lucky Job           | Network Administrator       |
-| Lucky Exercise      | Spin Class  |
-| Lucky Country       | Oman    |
+| Lucky Food          | Salad      |
+| Lucky Instrument    | Tuba Horn |
+| Lucky Flower        | Jade Plant    |
+| Lucky Job           | Police Officer       |
+| Lucky Exercise      | Pull-Ups  |
+| Lucky Country       | Turkey    |
 
 
 ##  Final Reflections on Dreams

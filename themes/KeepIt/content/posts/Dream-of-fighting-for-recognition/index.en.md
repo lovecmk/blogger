@@ -1,8 +1,8 @@
 ---
     weight: 1628
     title: "Dream of enjoying cultural activities together with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T04:03:00+08:00
-    lastmod: 2024-10-13T04:03:00+08:00
+    date: 2024-10-13T04:54:00+08:00
+    lastmod: 2024-10-13T04:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['enjoying', 'together', 'your', 'activities', 'boyfriend', 'Dream', 'cultural', 'of', 'with']
+    tags: ['Dream', 'boyfriend', 'cultural', 'activities', 'enjoying', 'together']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Horse |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Fruit Tart      |
-| Lucky Instrument    | Dulcimer |
-| Lucky Flower        | Heliotrope    |
-| Lucky Job           | Producer       |
-| Lucky Exercise      | Swimming Laps  |
-| Lucky Country       | France    |
+| Lucky Food          | Bagel      |
+| Lucky Instrument    | Erhu |
+| Lucky Flower        | Edelweiss    |
+| Lucky Job           | User Researcher       |
+| Lucky Exercise      | High-Intensity Interval Training (HIIT)  |
+| Lucky Country       | Poland    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1239
     title: "Dream of your dog being a game developer"  # Assuming 'title' column exists
-    date: 2024-10-13T16:25:00+08:00
-    lastmod: 2024-10-13T16:25:00+08:00
+    date: 2024-10-14T15:40:00+08:00
+    lastmod: 2024-10-14T15:40:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'game', 'Dream', 'being', 'developer', 'a', 'of', 'dog']
+    tags: ['being', 'Dream', 'game', 'dog', 'developer']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings the potential for good luck in areas related to creativity, in
 | Lucky Animal        | Ostrich |
 | Lucky Place         | Library     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Potato Skins      |
-| Lucky Instrument    | Electric Violin |
-| Lucky Flower        | Cosmos    |
-| Lucky Job           | Brand Manager       |
-| Lucky Exercise      | Fencing  |
-| Lucky Country       | Egypt    |
+| Lucky Food          | Pasta Primavera      |
+| Lucky Instrument    | Koto |
+| Lucky Flower        | Daffodil    |
+| Lucky Job           | Architect       |
+| Lucky Exercise      | Gymnastics  |
+| Lucky Country       | Slovakia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1366
     title: "Dream of living in a foreign country"  # Assuming 'title' column exists
-    date: 2024-10-13T01:26:00+08:00
-    lastmod: 2024-10-13T01:26:00+08:00
+    date: 2024-10-11T19:37:00+08:00
+    lastmod: 2024-10-11T19:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'a', 'foreign', 'in', 'living', 'country', 'of']
+    tags: ['Dream', 'living', 'foreign', 'country']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Snake |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Fruit Salad      |
-| Lucky Instrument    | Bouzouki |
-| Lucky Flower        | Sea Holly    |
-| Lucky Job           | Consultant       |
-| Lucky Exercise      | Beach Volleyball  |
-| Lucky Country       | Zimbabwe    |
+| Lucky Food          | Omelette      |
+| Lucky Instrument    | Bass Clarinet |
+| Lucky Flower        | Bougainvillea    |
+| Lucky Job           | Stockbroker       |
+| Lucky Exercise      | Kettlebell Training  |
+| Lucky Country       | Switzerland    |
 
 
 ##  Final Reflections on Dreams

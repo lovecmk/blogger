@@ -1,8 +1,8 @@
 ---
     weight: 920
     title: "Dream of being chased by birds"  # Assuming 'title' column exists
-    date: 2024-10-13T01:56:00+08:00
-    lastmod: 2024-10-13T01:56:00+08:00
+    date: 2024-10-15T22:36:00+08:00
+    lastmod: 2024-10-15T22:36:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'being', 'by', 'birds', 'of', 'chased']
+    tags: ['being', 'chased', 'Dream', 'birds']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of the dream of being chased by birds can depend on the situation and t
 | Lucky Animal        | Lion |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Brownies      |
-| Lucky Instrument    | Fiddle |
-| Lucky Flower        | Borage    |
-| Lucky Job           | Plumber       |
-| Lucky Exercise      | Bouldering  |
-| Lucky Country       | Yemen    |
+| Lucky Food          | Quiche      |
+| Lucky Instrument    | Timpani |
+| Lucky Flower        | Alyssum    |
+| Lucky Job           | Real Estate Agent       |
+| Lucky Exercise      | Javelin  |
+| Lucky Country       | Micronesia    |
 
 
 ##  Final Reflections on Dreams

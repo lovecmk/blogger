@@ -1,8 +1,8 @@
 ---
     weight: 265
     title: "Dream of creating all art"  # Assuming 'title' column exists
-    date: 2024-10-13T09:38:00+08:00
-    lastmod: 2024-10-13T09:38:00+08:00
+    date: 2024-10-15T11:16:00+08:00
+    lastmod: 2024-10-15T11:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'all', 'creating', 'of', 'art']
+    tags: ['creating', 'Dream', 'art', 'all']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual's interpretation and
 | Lucky Animal        | Hippo |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Sandwich      |
-| Lucky Instrument    | Timpani |
-| Lucky Flower        | Alyssum    |
-| Lucky Job           | Neuroscientist       |
-| Lucky Exercise      | Belly Dancing  |
-| Lucky Country       | Turkmenistan    |
+| Lucky Food          | Ratatouille      |
+| Lucky Instrument    | Snare Drum |
+| Lucky Flower        | Nymphaea    |
+| Lucky Job           | Customer Service Representative       |
+| Lucky Exercise      | Obstacle Course Racing  |
+| Lucky Country       | Israel    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 693
     title: "Dream of enjoying amusement park with friends"  # Assuming 'title' column exists
-    date: 2024-10-13T23:18:00+08:00
-    lastmod: 2024-10-13T23:18:00+08:00
+    date: 2024-10-13T14:31:00+08:00
+    lastmod: 2024-10-13T14:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['park', 'enjoying', 'Dream', 'of', 'amusement', 'with', 'friends']
+    tags: ['amusement', 'Dream', 'enjoying', 'friends', 'park']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you a social luck or a pleasant experience.Spending a good 
 | Lucky Animal        | Mole |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Paella      |
-| Lucky Instrument    | Trumpet |
-| Lucky Flower        | Daisy    |
-| Lucky Job           | Sous Chef       |
-| Lucky Exercise      | Skating  |
-| Lucky Country       | Ukraine    |
+| Lucky Food          | Pudding      |
+| Lucky Instrument    | Harmonic Piano |
+| Lucky Flower        | Magnolia    |
+| Lucky Job           | Biologist       |
+| Lucky Exercise      | Squats  |
+| Lucky Country       | Netherlands    |
 
 
 ##  Final Reflections on Dreams

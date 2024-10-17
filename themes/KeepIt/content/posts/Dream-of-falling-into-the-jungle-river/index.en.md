@@ -1,8 +1,8 @@
 ---
     weight: 973
     title: "Dream of falling into the jungle river"  # Assuming 'title' column exists
-    date: 2024-10-13T17:58:00+08:00
-    lastmod: 2024-10-13T17:58:00+08:00
+    date: 2024-10-14T14:41:00+08:00
+    lastmod: 2024-10-14T14:41:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['jungle', 'the', 'into', 'falling', 'Dream', 'river', 'of']
+    tags: ['Dream', 'into', 'falling', 'jungle', 'river']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can provide opportunities to grow through challenges and 
 | Lucky Animal        | Parrot |
 | Lucky Place         | Academy     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Sushi Roll      |
-| Lucky Instrument    | Cowbell |
-| Lucky Flower        | Tansy    |
-| Lucky Job           | Geologist       |
-| Lucky Exercise      | Fencing  |
-| Lucky Country       | Singapore    |
+| Lucky Food          | Tart      |
+| Lucky Instrument    | Ukulele |
+| Lucky Flower        | Perennial Aster    |
+| Lucky Job           | Chemist       |
+| Lucky Exercise      | Powerlifting  |
+| Lucky Country       | Iceland    |
 
 
 ##  Final Reflections on Dreams

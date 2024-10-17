@@ -1,8 +1,8 @@
 ---
     weight: 1810
     title: "Dream of your grandmother nurturing and caring for you."  # Assuming 'title' column exists
-    date: 2024-10-13T15:12:00+08:00
-    lastmod: 2024-10-13T15:12:00+08:00
+    date: 2024-10-14T14:06:00+08:00
+    lastmod: 2024-10-14T14:06:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['grandmother', 'you.', 'nurturing', 'your', 'Dream', 'for', 'and', 'of', 'caring']
+    tags: ['you', 'Dream', 'grandmother', 'caring', 'nurturing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Museum     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Chicken Curry      |
-| Lucky Instrument    | Pipa |
-| Lucky Flower        | Larkspur    |
-| Lucky Job           | Lawyer       |
-| Lucky Exercise      | Sit-Ups  |
-| Lucky Country       | Greece    |
+| Lucky Food          | Paella      |
+| Lucky Instrument    | Fujara |
+| Lucky Flower        | Buttercup    |
+| Lucky Job           | Photographer       |
+| Lucky Exercise      | Resistance Bands  |
+| Lucky Country       | Tonga    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1178
     title: "Dream about theater"  # Assuming 'title' column exists
-    date: 2024-10-13T11:24:00+08:00
-    lastmod: 2024-10-13T11:24:00+08:00
+    date: 2024-10-15T06:26:00+08:00
+    lastmod: 2024-10-15T06:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['about', 'Dream', 'theater']
+    tags: ['Dream', 'theater']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ What are the luck of the theater?The answer to this question may vary by individ
 | Lucky Animal        | Chicken |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Beef Stroganoff      |
-| Lucky Instrument    | Slide Guitar |
-| Lucky Flower        | Tithonia    |
-| Lucky Job           | Oceanographer       |
-| Lucky Exercise      | Kite Surfing  |
-| Lucky Country       | Solomon Islands    |
+| Lucky Food          | Cheeseboard      |
+| Lucky Instrument    | Zouaves |
+| Lucky Flower        | Petal Plant    |
+| Lucky Job           | Art Director       |
+| Lucky Exercise      | Baseball  |
+| Lucky Country       | Portugal    |
 
 
 ##  Final Reflections on Dreams

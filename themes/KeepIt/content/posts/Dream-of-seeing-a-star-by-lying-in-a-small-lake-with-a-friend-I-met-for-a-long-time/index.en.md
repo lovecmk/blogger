@@ -1,8 +1,8 @@
 ---
     weight: 726
     title: "Dream of seeing a star by lying in a small lake with a friend I met for a long time"  # Assuming 'title' column exists
-    date: 2024-10-13T13:35:00+08:00
-    lastmod: 2024-10-13T13:35:00+08:00
+    date: 2024-10-12T02:15:00+08:00
+    lastmod: 2024-10-12T02:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['friend', 'small', 'lake', 'long', 'seeing', 'Dream', 'for', 'I', 'a', 'lying', 'time', 'by', 'in', 'met', 'star', 'of', 'with']
+    tags: ['lying', 'Dream', 'star', 'small', 'lake', 'I', 'friend', 'met', 'long', 'time', 'seeing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can convey the luck of connecting, peace and rest with friends.You ca
 | Lucky Animal        | Beaver |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Lasagna      |
-| Lucky Instrument    | Charango |
-| Lucky Flower        | Jatropha    |
-| Lucky Job           | Chemist       |
-| Lucky Exercise      | Walking  |
-| Lucky Country       | Latvia    |
+| Lucky Food          | Fruit Salad      |
+| Lucky Instrument    | Glockenspiel |
+| Lucky Flower        | Fuchsia    |
+| Lucky Job           | Security Guard       |
+| Lucky Exercise      | Running  |
+| Lucky Country       | Poland    |
 
 
 ##  Final Reflections on Dreams

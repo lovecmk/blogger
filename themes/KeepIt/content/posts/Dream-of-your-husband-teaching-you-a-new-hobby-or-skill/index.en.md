@@ -1,8 +1,8 @@
 ---
     weight: 2088
     title: "Dream of relaxing at home with your cat"  # Assuming 'title' column exists
-    date: 2024-10-13T01:02:00+08:00
-    lastmod: 2024-10-13T01:02:00+08:00
+    date: 2024-10-14T15:43:00+08:00
+    lastmod: 2024-10-14T15:43:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'cat', 'Dream', 'relaxing', 'of', 'home', 'with', 'at']
+    tags: ['Dream', 'home', 'relaxing', 'cat']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Dog |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Ratatouille      |
-| Lucky Instrument    | Drums |
-| Lucky Flower        | Scabiosa    |
-| Lucky Job           | App Developer       |
+| Lucky Food          | Quesadilla      |
+| Lucky Instrument    | Lute |
+| Lucky Flower        | Snapdragon    |
+| Lucky Job           | Astrophysicist       |
 | Lucky Exercise      | Jump Squats  |
-| Lucky Country       | Tajikistan    |
+| Lucky Country       | Bangladesh    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1507
     title: "Dream of finding a hidden treasure while traveling"  # Assuming 'title' column exists
-    date: 2024-10-13T13:17:00+08:00
-    lastmod: 2024-10-13T13:17:00+08:00
+    date: 2024-10-12T12:36:00+08:00
+    lastmod: 2024-10-12T12:36:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['traveling', 'Dream', 'a', 'treasure', 'of', 'finding', 'while', 'hidden']
+    tags: ['while', 'Dream', 'traveling', 'finding', 'hidden', 'treasure']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Wolf |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | White     |
-| Lucky Food          | Vegetarian Chili      |
-| Lucky Instrument    | Tuba Horn |
-| Lucky Flower        | Sundew    |
-| Lucky Job           | Statistician       |
-| Lucky Exercise      | Futsal  |
-| Lucky Country       | Mexico    |
+| Lucky Food          | Gumbo      |
+| Lucky Instrument    | Pipa |
+| Lucky Flower        | Buttercup    |
+| Lucky Job           | Sales Representative       |
+| Lucky Exercise      | Kickboxing  |
+| Lucky Country       | Cambodia    |
 
 
 ##  Final Reflections on Dreams

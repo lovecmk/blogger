@@ -1,8 +1,8 @@
 ---
     weight: 1179
     title: "Dream about middle School"  # Assuming 'title' column exists
-    date: 2024-10-13T13:12:00+08:00
-    lastmod: 2024-10-13T13:12:00+08:00
+    date: 2024-10-12T06:37:00+08:00
+    lastmod: 2024-10-12T06:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['middle', 'School', 'about', 'Dream']
+    tags: ['middle', 'School', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of the dream of 'junior high school' means that it provides an opportun
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Gumbo      |
-| Lucky Instrument    | Conga Drum |
-| Lucky Flower        | Sweet Pea    |
-| Lucky Job           | Archaeologist       |
-| Lucky Exercise      | Rock Climbing  |
-| Lucky Country       | China    |
+| Lucky Food          | Pudding      |
+| Lucky Instrument    | Cowbell |
+| Lucky Flower        | Lily    |
+| Lucky Job           | Interpreter       |
+| Lucky Exercise      | Cycling  |
+| Lucky Country       | Pakistan    |
 
 
 ##  Final Reflections on Dreams

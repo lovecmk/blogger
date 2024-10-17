@@ -1,8 +1,8 @@
 ---
     weight: 1599
     title: "Dream of your husband planning a surprise celebration for you."  # Assuming 'title' column exists
-    date: 2024-10-13T00:31:00+08:00
-    lastmod: 2024-10-13T00:31:00+08:00
+    date: 2024-10-14T00:25:00+08:00
+    lastmod: 2024-10-14T00:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['you.', 'celebration', 'your', 'Dream', 'for', 'husband', 'a', 'surprise', 'planning', 'of']
+    tags: ['you', 'Dream', 'celebration', 'surprise', 'husband', 'planning']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Guinea pig |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Red     |
-| Lucky Food          | Bagel      |
-| Lucky Instrument    | Guitarlele |
-| Lucky Flower        | Sweet William    |
-| Lucky Job           | Event Coordinator       |
-| Lucky Exercise      | Parkour  |
-| Lucky Country       | France    |
+| Lucky Food          | Sandwich      |
+| Lucky Instrument    | Bouzouki |
+| Lucky Flower        | Bouvardia    |
+| Lucky Job           | Sous Chef       |
+| Lucky Exercise      | Squash  |
+| Lucky Country       | Brunei    |
 
 
 ##  Final Reflections on Dreams

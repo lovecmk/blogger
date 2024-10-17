@@ -1,8 +1,8 @@
 ---
     weight: 1240
     title: "Dream of exploring a bustling marketplace"  # Assuming 'title' column exists
-    date: 2024-10-13T23:36:00+08:00
-    lastmod: 2024-10-13T23:36:00+08:00
+    date: 2024-10-12T22:47:00+08:00
+    lastmod: 2024-10-12T22:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['marketplace', 'Dream', 'a', 'of', 'exploring', 'bustling']
+    tags: ['Dream', 'exploring', 'marketplace', 'bustling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Snake |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Pico de Gallo      |
-| Lucky Instrument    | Tambourine |
-| Lucky Flower        | Daffodil    |
-| Lucky Job           | Photographer       |
-| Lucky Exercise      | Sprinting  |
-| Lucky Country       | Egypt    |
+| Lucky Food          | Ratatouille      |
+| Lucky Instrument    | Balalaika |
+| Lucky Flower        | Ranunculus    |
+| Lucky Job           | Psychologist       |
+| Lucky Exercise      | Softball  |
+| Lucky Country       | Switzerland    |
 
 
 ##  Final Reflections on Dreams

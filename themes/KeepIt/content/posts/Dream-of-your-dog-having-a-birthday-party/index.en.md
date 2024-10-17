@@ -1,8 +1,8 @@
 ---
     weight: 1346
     title: "Dream of your dog having a birthday party"  # Assuming 'title' column exists
-    date: 2024-10-13T10:45:00+08:00
-    lastmod: 2024-10-13T10:45:00+08:00
+    date: 2024-10-15T04:51:00+08:00
+    lastmod: 2024-10-15T04:51:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'birthday', 'Dream', 'a', 'party', 'of', 'having', 'dog']
+    tags: ['Dream', 'birthday', 'party', 'dog', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ The luck brought by this dream is in the form of emotional fulfillment, happines
 | Lucky Animal        | Parrot |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Baba Ganoush      |
-| Lucky Instrument    | Conga |
-| Lucky Flower        | Pelargonium    |
-| Lucky Job           | Postman       |
-| Lucky Exercise      | Handball  |
-| Lucky Country       | Kazakhstan    |
+| Lucky Food          | Pizza      |
+| Lucky Instrument    | Zouaves |
+| Lucky Flower        | Daisy    |
+| Lucky Job           | Construction Worker       |
+| Lucky Exercise      | Gymnastics  |
+| Lucky Country       | New Zealand    |
 
 
 ##  Final Reflections on Dreams

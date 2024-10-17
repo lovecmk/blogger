@@ -1,8 +1,8 @@
 ---
     weight: 1960
     title: "Dream of baking a blueberry pie"  # Assuming 'title' column exists
-    date: 2024-10-13T01:13:00+08:00
-    lastmod: 2024-10-13T01:13:00+08:00
+    date: 2024-10-14T07:13:00+08:00
+    lastmod: 2024-10-14T07:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'blueberry', 'a', 'baking', 'of', 'pie']
+    tags: ['pie', 'baking', 'Dream', 'blueberry']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Fox |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Red     |
-| Lucky Food          | Pesto      |
-| Lucky Instrument    | Flute |
-| Lucky Flower        | Daffodil    |
-| Lucky Job           | Biologist       |
-| Lucky Exercise      | Kickboxing  |
-| Lucky Country       | Tonga    |
+| Lucky Food          | Risotto      |
+| Lucky Instrument    | Clarinet |
+| Lucky Flower        | Larkspur    |
+| Lucky Job           | Mathematician       |
+| Lucky Exercise      | Kripalu Yoga  |
+| Lucky Country       | Kenya    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 2008
     title: "Dream of fighting with your siblings"  # Assuming 'title' column exists
-    date: 2024-10-13T20:56:00+08:00
-    lastmod: 2024-10-13T20:56:00+08:00
+    date: 2024-10-14T01:59:00+08:00
+    lastmod: 2024-10-14T01:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['siblings', 'your', 'fighting', 'Dream', 'of', 'with']
+    tags: ['Dream', 'siblings', 'fighting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Library     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Nachos      |
-| Lucky Instrument    | Hang Drum |
-| Lucky Flower        | Safflower    |
-| Lucky Job           | Producer       |
-| Lucky Exercise      | Capoeira  |
-| Lucky Country       | Bulgaria    |
+| Lucky Food          | Sushi      |
+| Lucky Instrument    | Lyre |
+| Lucky Flower        | Begonia    |
+| Lucky Job           | Fashion Designer       |
+| Lucky Exercise      | Rock Climbing  |
+| Lucky Country       | Portugal    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 864
     title: "Dream of buffaloes"  # Assuming 'title' column exists
-    date: 2024-10-13T21:39:00+08:00
-    lastmod: 2024-10-13T21:39:00+08:00
+    date: 2024-10-14T16:47:00+08:00
+    lastmod: 2024-10-14T16:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['buffaloes', 'of', 'Dream']
+    tags: ['buffaloes', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you a lot of luck.Water buying symbolizes strength and dili
 | Lucky Animal        | Guinea pig |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Paella      |
-| Lucky Instrument    | Lyre |
-| Lucky Flower        | Edelweiss    |
-| Lucky Job           | Interpreter       |
-| Lucky Exercise      | Box Jumps  |
-| Lucky Country       | Iraq    |
+| Lucky Food          | Fried Rice      |
+| Lucky Instrument    | Cowbell |
+| Lucky Flower        | Lotus    |
+| Lucky Job           | Statistician       |
+| Lucky Exercise      | Mountain Climbers  |
+| Lucky Country       | Switzerland    |
 
 
 ##  Final Reflections on Dreams

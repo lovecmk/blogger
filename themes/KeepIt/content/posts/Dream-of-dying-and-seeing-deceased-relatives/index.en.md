@@ -1,8 +1,8 @@
 ---
     weight: 1691
     title: "Dream of your husband surprising you with a heartfelt letter or note."  # Assuming 'title' column exists
-    date: 2024-10-13T21:17:00+08:00
-    lastmod: 2024-10-13T21:17:00+08:00
+    date: 2024-10-12T15:09:00+08:00
+    lastmod: 2024-10-12T15:09:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['with', 'surprising', 'or', 'your', 'note.', 'Dream', 'husband', 'a', 'heartfelt', 'of', 'letter', 'you']
+    tags: ['Dream', 'heartfelt', 'surprising', 'letter', 'note', 'husband', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ The luck associated with this dream lies in the opportunity for emotional healin
 | Lucky Animal        | Beaver |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Waffles      |
-| Lucky Instrument    | Accordion |
-| Lucky Flower        | Strelitzia    |
-| Lucky Job           | Stockbroker       |
-| Lucky Exercise      | Body Pump  |
-| Lucky Country       | Cambodia    |
+| Lucky Food          | Duck Confit      |
+| Lucky Instrument    | Mandolin |
+| Lucky Flower        | Hibiscus    |
+| Lucky Job           | Librarian       |
+| Lucky Exercise      | Squash  |
+| Lucky Country       | Armenia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 824
     title: "Dream of fire on the ship"  # Assuming 'title' column exists
-    date: 2024-10-13T09:38:00+08:00
-    lastmod: 2024-10-13T09:38:00+08:00
+    date: 2024-10-14T12:30:00+08:00
+    lastmod: 2024-10-14T12:30:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'fire', 'Dream', 'ship', 'on', 'of']
+    tags: ['ship', 'Dream', 'fire']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can be interpreted as a feeling of warning or danger rather than luck
 | Lucky Animal        | Dog |
 | Lucky Place         | Library     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Casserole      |
-| Lucky Instrument    | Ukulele |
-| Lucky Flower        | Crown Daisy    |
-| Lucky Job           | Director       |
-| Lucky Exercise      | Hot Yoga  |
-| Lucky Country       | Poland    |
+| Lucky Food          | Tiramisu      |
+| Lucky Instrument    | Calimba |
+| Lucky Flower        | Geranium    |
+| Lucky Job           | Physical Therapist       |
+| Lucky Exercise      | Squash  |
+| Lucky Country       | Malawi    |
 
 
 ##  Final Reflections on Dreams

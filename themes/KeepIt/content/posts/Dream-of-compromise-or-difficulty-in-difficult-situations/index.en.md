@@ -1,8 +1,8 @@
 ---
     weight: 475
     title: "Dream of compromise or difficulty in difficult situations"  # Assuming 'title' column exists
-    date: 2024-10-13T11:32:00+08:00
-    lastmod: 2024-10-13T11:32:00+08:00
+    date: 2024-10-14T11:42:00+08:00
+    lastmod: 2024-10-14T11:42:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['situations', 'in', 'or', 'Dream', 'difficulty', 'difficult', 'compromise', 'of']
+    tags: ['situations', 'Dream', 'difficult', 'difficulty', 'compromise']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream is lucky that you can see that you can grow and learn from compromise
 | Lucky Animal        | Lion |
 | Lucky Place         | Theater     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Pasta Primavera      |
-| Lucky Instrument    | Maracas |
-| Lucky Flower        | Magnolia    |
-| Lucky Job           | Personal Trainer       |
-| Lucky Exercise      | Squats  |
-| Lucky Country       | Tanzania    |
+| Lucky Food          | Cheesecake      |
+| Lucky Instrument    | Clavichord |
+| Lucky Flower        | Ornamental Pepper    |
+| Lucky Job           | Statistician       |
+| Lucky Exercise      | Plank  |
+| Lucky Country       | Switzerland    |
 
 
 ##  Final Reflections on Dreams

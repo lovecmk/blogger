@@ -1,8 +1,8 @@
 ---
     weight: 730
     title: "Dream of taking camping outdoors while hitting a tent in a small park with a friend"  # Assuming 'title' column exists
-    date: 2024-10-13T23:25:00+08:00
-    lastmod: 2024-10-13T23:25:00+08:00
+    date: 2024-10-13T05:29:00+08:00
+    lastmod: 2024-10-13T05:29:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['with', 'park', 'in', 'small', 'taking', 'friend', 'camping', 'Dream', 'outdoors', 'a', 'hitting', 'tent', 'of', 'while']
+    tags: ['while', 'camping', 'Dream', 'tent', 'small', 'taking', 'friend', 'outdoors', 'hitting', 'park']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is comfort, securing leisure time, sympathy with nature, 
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Kale Salad      |
-| Lucky Instrument    | Conga Drum |
-| Lucky Flower        | Bleeding Heart    |
-| Lucky Job           | Researcher       |
-| Lucky Exercise      | Skiing  |
-| Lucky Country       | Sweden    |
+| Lucky Food          | Chicken Curry      |
+| Lucky Instrument    | Tabla |
+| Lucky Flower        | Balsam    |
+| Lucky Job           | Event Planner       |
+| Lucky Exercise      | Skating  |
+| Lucky Country       | Western Sahara    |
 
 
 ##  Final Reflections on Dreams

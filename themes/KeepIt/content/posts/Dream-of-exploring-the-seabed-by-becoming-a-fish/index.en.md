@@ -1,8 +1,8 @@
 ---
     weight: 278
     title: "Dream of exploring the seabed by becoming a fish"  # Assuming 'title' column exists
-    date: 2024-10-13T01:29:00+08:00
-    lastmod: 2024-10-13T01:29:00+08:00
+    date: 2024-10-11T22:28:00+08:00
+    lastmod: 2024-10-11T22:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'seabed', 'fish', 'Dream', 'a', 'by', 'of', 'exploring', 'becoming']
+    tags: ['Dream', 'exploring', 'seabed', 'becoming', 'fish']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of dreams should be interpreted specially, depending on the situation a
 | Lucky Animal        | Bear |
 | Lucky Place         | Lake     |
 | Lucky Color         | Black     |
-| Lucky Food          | Fruit Smoothie      |
-| Lucky Instrument    | Oboe |
-| Lucky Flower        | Peony    |
-| Lucky Job           | App Developer       |
-| Lucky Exercise      | Resistance Training  |
-| Lucky Country       | Latvia    |
+| Lucky Food          | Gnocchi      |
+| Lucky Instrument    | Chimes |
+| Lucky Flower        | Snapdragon    |
+| Lucky Job           | Interpreter       |
+| Lucky Exercise      | Sledge Hockey  |
+| Lucky Country       | Poland    |
 
 
 ##  Final Reflections on Dreams

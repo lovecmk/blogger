@@ -1,8 +1,8 @@
 ---
     weight: 1044
     title: "Dream about Quank"  # Assuming 'title' column exists
-    date: 2024-10-13T22:14:00+08:00
-    lastmod: 2024-10-13T22:14:00+08:00
+    date: 2024-10-12T14:53:00+08:00
+    lastmod: 2024-10-12T14:53:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Quank', 'about', 'Dream']
+    tags: ['Quank', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ If you see Quica in a dream, this can mean the luck of pursuing stability, harmo
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Mart     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Mango Sticky Rice      |
-| Lucky Instrument    | Snare Drum |
-| Lucky Flower        | Ornamental Pepper    |
-| Lucky Job           | Life Coach       |
-| Lucky Exercise      | Surf Lifesaving  |
-| Lucky Country       | Belgium    |
+| Lucky Food          | Kebab      |
+| Lucky Instrument    | Claves |
+| Lucky Flower        | Tithonia    |
+| Lucky Job           | Farmer       |
+| Lucky Exercise      | Slacklining  |
+| Lucky Country       | Fiji    |
 
 
 ##  Final Reflections on Dreams

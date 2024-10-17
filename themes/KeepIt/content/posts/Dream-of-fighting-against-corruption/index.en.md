@@ -1,8 +1,8 @@
 ---
     weight: 1590
     title: "Dream of dying and feeling cold"  # Assuming 'title' column exists
-    date: 2024-10-13T18:38:00+08:00
-    lastmod: 2024-10-13T18:38:00+08:00
+    date: 2024-10-12T12:07:00+08:00
+    lastmod: 2024-10-12T12:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dying', 'feeling', 'Dream', 'cold', 'and', 'of']
+    tags: ['cold', 'Dream', 'feeling', 'dying']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ The dream suggests that luck in the form of recognition and validation is attain
 | Lucky Animal        | Hyena |
 | Lucky Place         | School     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Sandwich      |
-| Lucky Instrument    | Cowbell |
-| Lucky Flower        | Poinsettia    |
-| Lucky Job           | Environmental Scientist       |
-| Lucky Exercise      | Lacrosse  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Muffin      |
+| Lucky Instrument    | Electric Cello |
+| Lucky Flower        | Safflower    |
+| Lucky Job           | IT Specialist       |
+| Lucky Exercise      | Powerlifting  |
+| Lucky Country       | Greece    |
 
 
 ##  Final Reflections on Dreams

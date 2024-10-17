@@ -1,8 +1,8 @@
 ---
     weight: 1264
     title: "Dream of going on a historical tour"  # Assuming 'title' column exists
-    date: 2024-10-13T20:19:00+08:00
-    lastmod: 2024-10-13T20:19:00+08:00
+    date: 2024-10-15T21:41:00+08:00
+    lastmod: 2024-10-15T21:41:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['historical', 'tour', 'Dream', 'going', 'a', 'on', 'of']
+    tags: ['tour', 'Dream', 'going', 'historical']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hyena |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Tuna Tartare      |
-| Lucky Instrument    | Trumpet |
-| Lucky Flower        | Dahlia    |
-| Lucky Job           | SEO Specialist       |
-| Lucky Exercise      | Snowshoeing  |
-| Lucky Country       | Argentina    |
+| Lucky Food          | Scallops      |
+| Lucky Instrument    | Tenor Banjo |
+| Lucky Flower        | Sweet Pea    |
+| Lucky Job           | Dentist       |
+| Lucky Exercise      | Spin Class  |
+| Lucky Country       | Malawi    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 162
     title: "Dream of praying for family health and goodbye"  # Assuming 'title' column exists
-    date: 2024-10-13T11:35:00+08:00
-    lastmod: 2024-10-13T11:35:00+08:00
+    date: 2024-10-12T23:18:00+08:00
+    lastmod: 2024-10-12T23:18:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'Dream', 'for', 'health', 'praying', 'and', 'goodbye', 'of']
+    tags: ['family', 'Dream', 'praying', 'health', 'goodbye']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual and the situation.In
 | Lucky Animal        | Snake |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Dumplings      |
-| Lucky Instrument    | Oboe |
-| Lucky Flower        | Pelargonium    |
-| Lucky Job           | Hair Stylist       |
-| Lucky Exercise      | Swimming  |
-| Lucky Country       | Italy    |
+| Lucky Food          | Sushi Roll      |
+| Lucky Instrument    | Guitar |
+| Lucky Flower        | Nymphaea    |
+| Lucky Job           | Musician       |
+| Lucky Exercise      | Cricket  |
+| Lucky Country       | Brazil    |
 
 
 ##  Final Reflections on Dreams

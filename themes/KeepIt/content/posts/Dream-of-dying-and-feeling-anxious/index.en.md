@@ -1,8 +1,8 @@
 ---
     weight: 2134
     title: "Dream of your cat chasing its tail"  # Assuming 'title' column exists
-    date: 2024-10-13T13:48:00+08:00
-    lastmod: 2024-10-13T13:48:00+08:00
+    date: 2024-10-15T14:54:00+08:00
+    lastmod: 2024-10-15T14:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['its', 'chasing', 'your', 'cat', 'Dream', 'of', 'tail']
+    tags: ['Dream', 'chasing', 'tail', 'cat', 'its']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Pig |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Scone      |
-| Lucky Instrument    | Calimba |
+| Lucky Food          | Biryani      |
+| Lucky Instrument    | Tama |
 | Lucky Flower        | Jasmine    |
-| Lucky Job           | Insurance Underwriter       |
-| Lucky Exercise      | Snowboarding  |
-| Lucky Country       | Mexico    |
+| Lucky Job           | Construction Worker       |
+| Lucky Exercise      | Mobility Training  |
+| Lucky Country       | Australia    |
 
 
 ##  Final Reflections on Dreams

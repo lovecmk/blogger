@@ -1,8 +1,8 @@
 ---
     weight: 442
     title: "Dream of running or moving endlessly"  # Assuming 'title' column exists
-    date: 2024-10-13T08:28:00+08:00
-    lastmod: 2024-10-13T08:28:00+08:00
+    date: 2024-10-14T18:41:00+08:00
+    lastmod: 2024-10-14T18:41:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'running', 'endlessly', 'Dream', 'moving', 'of']
+    tags: ['Dream', 'running', 'moving', 'endlessly']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream generally symbolizes that you are lucky.Always running and moving can
 | Lucky Animal        | Rhino |
 | Lucky Place         | Beach     |
 | Lucky Color         | White     |
-| Lucky Food          | Quiche      |
-| Lucky Instrument    | Tenor Guitar |
-| Lucky Flower        | Maranta    |
-| Lucky Job           | Brand Manager       |
-| Lucky Exercise      | Beach Volleyball  |
-| Lucky Country       | Zambia    |
+| Lucky Food          | Ratatouille      |
+| Lucky Instrument    | Tromba |
+| Lucky Flower        | Cherry Blossom    |
+| Lucky Job           | Librarian       |
+| Lucky Exercise      | Swimming Laps  |
+| Lucky Country       | Bhutan    |
 
 
 ##  Final Reflections on Dreams

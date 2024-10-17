@@ -1,8 +1,8 @@
 ---
     weight: 1192
     title: "Dream about chef"  # Assuming 'title' column exists
-    date: 2024-10-13T06:38:00+08:00
-    lastmod: 2024-10-13T06:38:00+08:00
+    date: 2024-10-13T09:49:00+08:00
+    lastmod: 2024-10-13T09:49:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['chef', 'about', 'Dream']
+    tags: ['chef', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'chef' dreams can be related to creativity, talent, effort, satisfac
 | Lucky Animal        | Horse |
 | Lucky Place         | Academy     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Fruit Salad      |
-| Lucky Instrument    | Trompeta |
-| Lucky Flower        | Bleeding Heart    |
-| Lucky Job           | Librarian       |
-| Lucky Exercise      | Racquetball  |
-| Lucky Country       | Western Sahara    |
+| Lucky Food          | Tuna Tartare      |
+| Lucky Instrument    | Tambourine |
+| Lucky Flower        | Sweet William    |
+| Lucky Job           | Makeup Artist       |
+| Lucky Exercise      | Ultimate Frisbee  |
+| Lucky Country       | Greece    |
 
 
 ##  Final Reflections on Dreams

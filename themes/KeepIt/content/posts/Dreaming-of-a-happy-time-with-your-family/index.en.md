@@ -1,8 +1,8 @@
 ---
     weight: 153
     title: "Dreaming of a happy time with your family"  # Assuming 'title' column exists
-    date: 2024-10-13T02:29:00+08:00
-    lastmod: 2024-10-13T02:29:00+08:00
+    date: 2024-10-11T01:25:00+08:00
+    lastmod: 2024-10-11T01:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'Dreaming', 'your', 'a', 'time', 'happy', 'of', 'with']
+    tags: ['family', 'happy', 'Dreaming', 'time']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is an opportunity to improve relationships with family, i
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Green     |
-| Lucky Food          | Corn on the Cob      |
-| Lucky Instrument    | Piano |
-| Lucky Flower        | Feverfew    |
-| Lucky Job           | Librarian       |
-| Lucky Exercise      | Basketball  |
-| Lucky Country       | Azerbaijan    |
+| Lucky Food          | Casserole      |
+| Lucky Instrument    | Conga Drum |
+| Lucky Flower        | Sage    |
+| Lucky Job           | Catering Manager       |
+| Lucky Exercise      | Javelin  |
+| Lucky Country       | Georgia    |
 
 
 ##  Final Reflections on Dreams

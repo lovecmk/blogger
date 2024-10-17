@@ -1,8 +1,8 @@
 ---
     weight: 1076
     title: "Dream about chicken"  # Assuming 'title' column exists
-    date: 2024-10-13T18:45:00+08:00
-    lastmod: 2024-10-13T18:45:00+08:00
+    date: 2024-10-12T20:04:00+08:00
+    lastmod: 2024-10-12T20:04:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['chicken', 'about', 'Dream']
+    tags: ['Dream', 'chicken']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Dream signals can vary depending on personal interpretation.But the signal of th
 | Lucky Animal        | Horse |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | White     |
-| Lucky Food          | Minestrone      |
-| Lucky Instrument    | Tenor Saxophone |
-| Lucky Flower        | Scabiosa    |
-| Lucky Job           | Statistician       |
-| Lucky Exercise      | Mountain Climbers  |
-| Lucky Country       | Nigeria    |
+| Lucky Food          | Tofu      |
+| Lucky Instrument    | Tromba |
+| Lucky Flower        | Jasmine    |
+| Lucky Job           | Field Technician       |
+| Lucky Exercise      | Fencing  |
+| Lucky Country       | Turkey    |
 
 
 ##  Final Reflections on Dreams

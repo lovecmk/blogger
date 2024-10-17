@@ -1,8 +1,8 @@
 ---
     weight: 453
     title: "Dream of hurt by someone"  # Assuming 'title' column exists
-    date: 2024-10-13T08:54:00+08:00
-    lastmod: 2024-10-13T08:54:00+08:00
+    date: 2024-10-14T21:15:00+08:00
+    lastmod: 2024-10-14T21:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['hurt', 'Dream', 'someone', 'by', 'of']
+    tags: ['Dream', 'someone', 'hurt']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be paradoxical.This dream can be lucky to form a bett
 | Lucky Animal        | Dog |
 | Lucky Place         | Mart     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Vegetable Stir Fry      |
-| Lucky Instrument    | Didgeridoo |
-| Lucky Flower        | Stephanotis    |
-| Lucky Job           | Accountant       |
-| Lucky Exercise      | Beach Volleyball  |
-| Lucky Country       | China    |
+| Lucky Food          | Corn on the Cob      |
+| Lucky Instrument    | Tabor |
+| Lucky Flower        | Foxglove    |
+| Lucky Job           | Data Analyst       |
+| Lucky Exercise      | Soccer  |
+| Lucky Country       | Nauru    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 377
     title: "Dream of trying to disappear or disappear"  # Assuming 'title' column exists
-    date: 2024-10-13T19:27:00+08:00
-    lastmod: 2024-10-13T19:27:00+08:00
+    date: 2024-10-12T21:08:00+08:00
+    lastmod: 2024-10-12T21:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'to', 'Dream', 'trying', 'of', 'disappear']
+    tags: ['trying', 'Dream', 'to', 'disappear']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may be motivation for self -realization, personal growth,
 | Lucky Animal        | Parrot |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Lasagna      |
-| Lucky Instrument    | Harmonium |
-| Lucky Flower        | Lilac    |
-| Lucky Job           | Scientist       |
-| Lucky Exercise      | Belly Dancing  |
-| Lucky Country       | Lithuania    |
+| Lucky Food          | Cornbread      |
+| Lucky Instrument    | Darabuka |
+| Lucky Flower        | Peony    |
+| Lucky Job           | Mathematician       |
+| Lucky Exercise      | Aerobics  |
+| Lucky Country       | Nepal    |
 
 
 ##  Final Reflections on Dreams

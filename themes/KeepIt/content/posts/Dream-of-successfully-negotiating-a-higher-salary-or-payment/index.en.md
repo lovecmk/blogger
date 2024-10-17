@@ -1,8 +1,8 @@
 ---
     weight: 2003
     title: "Dream of your cat exploring a paper bag"  # Assuming 'title' column exists
-    date: 2024-10-13T03:14:00+08:00
-    lastmod: 2024-10-13T03:14:00+08:00
+    date: 2024-10-13T15:10:00+08:00
+    lastmod: 2024-10-13T15:10:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'cat', 'paper', 'Dream', 'a', 'bag', 'of', 'exploring']
+    tags: ['Dream', 'exploring', 'paper', 'cat', 'bag']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Orangutan |
 | Lucky Place         | River     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Caramel Flan      |
-| Lucky Instrument    | Electric Violin |
-| Lucky Flower        | Vinca    |
-| Lucky Job           | Psychologist       |
+| Lucky Food          | Pico de Gallo      |
+| Lucky Instrument    | Snare Drum |
+| Lucky Flower        | Tansy    |
+| Lucky Job           | Consultant       |
 | Lucky Exercise      | Walking  |
-| Lucky Country       | Botswana    |
+| Lucky Country       | Afghanistan    |
 
 
 ##  Final Reflections on Dreams

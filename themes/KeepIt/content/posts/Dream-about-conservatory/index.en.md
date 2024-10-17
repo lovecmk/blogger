@@ -1,8 +1,8 @@
 ---
     weight: 1151
     title: "Dream about conservatory"  # Assuming 'title' column exists
-    date: 2024-10-13T14:52:00+08:00
-    lastmod: 2024-10-13T14:52:00+08:00
+    date: 2024-10-15T16:39:00+08:00
+    lastmod: 2024-10-15T16:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['conservatory', 'about', 'Dream']
+    tags: ['conservatory', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The dream of 'music school' can give you hope that creative success and good luc
 | Lucky Animal        | Horse |
 | Lucky Place         | River     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Stuffed Peppers      |
-| Lucky Instrument    | Wooden Flute |
-| Lucky Flower        | Lily    |
-| Lucky Job           | Mathematician       |
-| Lucky Exercise      | Resistance Bands  |
-| Lucky Country       | Romania    |
+| Lucky Food          | Quesadilla      |
+| Lucky Instrument    | Guitar |
+| Lucky Flower        | Marigold    |
+| Lucky Job           | Engineer       |
+| Lucky Exercise      | Racquetball  |
+| Lucky Country       | Malta    |
 
 
 ##  Final Reflections on Dreams

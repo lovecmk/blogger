@@ -1,8 +1,8 @@
 ---
     weight: 36
     title: "A dream full of orange scent"  # Assuming 'title' column exists
-    date: 2024-10-13T07:46:00+08:00
-    lastmod: 2024-10-13T07:46:00+08:00
+    date: 2024-10-13T09:06:00+08:00
+    lastmod: 2024-10-13T09:06:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['full', 'orange', 'scent', 'dream', 'of', 'A']
+    tags: ['orange', 'scent', 'dream', 'full', 'A']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can show good luck and positive change.Orange scent symbolizes positi
 | Lucky Animal        | Cat |
 | Lucky Place         | Library     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Baba Ganoush      |
-| Lucky Instrument    | Lap Steel Guitar |
-| Lucky Flower        | Aster    |
-| Lucky Job           | Insurance Underwriter       |
-| Lucky Exercise      | Baseball  |
-| Lucky Country       | Turkey    |
+| Lucky Food          | Chowder      |
+| Lucky Instrument    | Steel Pan |
+| Lucky Flower        | Petunia    |
+| Lucky Job           | Farmer       |
+| Lucky Exercise      | Hiking  |
+| Lucky Country       | Tajikistan    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 389
     title: "Dream of running away from darkness or dangerous places"  # Assuming 'title' column exists
-    date: 2024-10-13T20:06:00+08:00
-    lastmod: 2024-10-13T20:06:00+08:00
+    date: 2024-10-15T18:15:00+08:00
+    lastmod: 2024-10-15T18:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'running', 'dangerous', 'away', 'Dream', 'darkness', 'places', 'from', 'of']
+    tags: ['darkness', 'Dream', 'running', 'places', 'from', 'away', 'dangerous']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream does not imply good luck directly, but it can help strengthen your wo
 | Lucky Animal        | Polar bear |
 | Lucky Place         | Park     |
 | Lucky Color         | Black     |
-| Lucky Food          | Pasta Salad      |
-| Lucky Instrument    | Octobass |
-| Lucky Flower        | Periwinkle    |
-| Lucky Job           | Biologist       |
-| Lucky Exercise      | Burpees  |
-| Lucky Country       | Sweden    |
+| Lucky Food          | Lasagna      |
+| Lucky Instrument    | Tenor Banjo |
+| Lucky Flower        | Celosia    |
+| Lucky Job           | Teacher       |
+| Lucky Exercise      | Deadlifts  |
+| Lucky Country       | Spain    |
 
 
 ##  Final Reflections on Dreams

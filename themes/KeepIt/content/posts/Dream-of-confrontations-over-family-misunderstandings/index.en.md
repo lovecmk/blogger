@@ -1,8 +1,8 @@
 ---
     weight: 1672
     title: "Dream of your cat staring out of a window"  # Assuming 'title' column exists
-    date: 2024-10-13T18:14:00+08:00
-    lastmod: 2024-10-13T18:14:00+08:00
+    date: 2024-10-12T20:29:00+08:00
+    lastmod: 2024-10-12T20:29:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['window', 'your', 'staring', 'cat', 'out', 'Dream', 'a', 'of']
+    tags: ['Dream', 'window', 'staring', 'out', 'cat']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Cat |
 | Lucky Place         | Museum     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Burger      |
-| Lucky Instrument    | Bass Drum |
-| Lucky Flower        | Cactus Flower    |
-| Lucky Job           | App Developer       |
-| Lucky Exercise      | Cross-Country Skiing  |
-| Lucky Country       | Solomon Islands    |
+| Lucky Food          | Hot Dog      |
+| Lucky Instrument    | Melodic Percussion |
+| Lucky Flower        | Primrose    |
+| Lucky Job           | Dentist       |
+| Lucky Exercise      | Softball  |
+| Lucky Country       | United Arab Emirates    |
 
 
 ##  Final Reflections on Dreams

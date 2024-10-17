@@ -1,8 +1,8 @@
 ---
     weight: 2025
     title: "Dream of fighting in a war"  # Assuming 'title' column exists
-    date: 2024-10-13T16:26:00+08:00
-    lastmod: 2024-10-13T16:26:00+08:00
+    date: 2024-10-12T17:32:00+08:00
+    lastmod: 2024-10-12T17:32:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fighting', 'war', 'Dream', 'a', 'in', 'of']
+    tags: ['Dream', 'war', 'fighting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Turtle |
 | Lucky Place         | Library     |
 | Lucky Color         | White     |
-| Lucky Food          | Pork Belly      |
-| Lucky Instrument    | Sackbut |
-| Lucky Flower        | Bluebell    |
-| Lucky Job           | Quality Assurance Tester       |
-| Lucky Exercise      | Skiing  |
-| Lucky Country       | Iran    |
+| Lucky Food          | Baked Ziti      |
+| Lucky Instrument    | Bandoneon |
+| Lucky Flower        | Hydrangea    |
+| Lucky Job           | Actor       |
+| Lucky Exercise      | Mobility Training  |
+| Lucky Country       | Australia    |
 
 
 ##  Final Reflections on Dreams

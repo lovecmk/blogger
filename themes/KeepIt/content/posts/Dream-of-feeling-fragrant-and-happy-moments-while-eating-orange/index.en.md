@@ -1,8 +1,8 @@
 ---
     weight: 68
     title: "Dream of feeling fragrant and happy moments while eating orange"  # Assuming 'title' column exists
-    date: 2024-10-13T23:58:00+08:00
-    lastmod: 2024-10-13T23:58:00+08:00
+    date: 2024-10-12T04:31:00+08:00
+    lastmod: 2024-10-12T04:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['feeling', 'eating', 'moments', 'Dream', 'fragrant', 'orange', 'and', 'happy', 'of', 'while']
+    tags: ['while', 'Dream', 'happy', 'orange', 'moments', 'fragrant', 'eating', 'feeling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream emphasizes that you are now happy and satisfactory, and y
 | Lucky Animal        | Chicken |
 | Lucky Place         | School     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Samosa      |
-| Lucky Instrument    | Sarangi |
-| Lucky Flower        | Lily    |
-| Lucky Job           | Pharmacist       |
-| Lucky Exercise      | Salsa  |
-| Lucky Country       | Estonia    |
+| Lucky Food          | Tofu      |
+| Lucky Instrument    | Conga Drum |
+| Lucky Flower        | Sweet William    |
+| Lucky Job           | Sous Chef       |
+| Lucky Exercise      | Running  |
+| Lucky Country       | Ireland    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1771
     title: "Dream of receiving money for creative or artistic endeavors."  # Assuming 'title' column exists
-    date: 2024-10-13T19:39:00+08:00
-    lastmod: 2024-10-13T19:39:00+08:00
+    date: 2024-10-12T08:00:00+08:00
+    lastmod: 2024-10-12T08:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['endeavors.', 'receiving', 'or', 'money', 'Dream', 'for', 'artistic', 'creative', 'of']
+    tags: ['endeavors', 'Dream', 'money', 'artistic', 'receiving', 'creative']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ The luck associated with this dream is centered around your relationship. It ind
 | Lucky Animal        | Crab |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Spring Roll      |
-| Lucky Instrument    | Melodic Percussion |
-| Lucky Flower        | Scented Geranium    |
-| Lucky Job           | Fashion Designer       |
-| Lucky Exercise      | Jumping Rope  |
-| Lucky Country       | Western Sahara    |
+| Lucky Food          | Baked Ziti      |
+| Lucky Instrument    | Piano |
+| Lucky Flower        | Hydrangea    |
+| Lucky Job           | Physical Therapist       |
+| Lucky Exercise      | Handball  |
+| Lucky Country       | Lebanon    |
 
 
 ##  Final Reflections on Dreams

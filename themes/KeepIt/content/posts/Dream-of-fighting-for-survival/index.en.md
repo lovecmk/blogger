@@ -1,8 +1,8 @@
 ---
     weight: 1698
     title: "Dream of experiencing a familiar smell or taste associated with your ancestry."  # Assuming 'title' column exists
-    date: 2024-10-13T05:22:00+08:00
-    lastmod: 2024-10-13T05:22:00+08:00
+    date: 2024-10-15T12:05:00+08:00
+    lastmod: 2024-10-15T12:05:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'your', 'experiencing', 'Dream', 'associated', 'a', 'smell', 'taste', 'of', 'with', 'ancestry.', 'familiar']
+    tags: ['experiencing', 'Dream', 'smell', 'taste', 'ancestry', 'familiar', 'associated']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Crab |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Caprese Skewers      |
-| Lucky Instrument    | Lyre |
-| Lucky Flower        | Peach Blossom    |
-| Lucky Job           | Public Relations Specialist       |
-| Lucky Exercise      | CrossFit  |
-| Lucky Country       | Yemen    |
+| Lucky Food          | Pasta      |
+| Lucky Instrument    | Dulcimer |
+| Lucky Flower        | Bougainvillea    |
+| Lucky Job           | Police Officer       |
+| Lucky Exercise      | Sledge Hockey  |
+| Lucky Country       | Tanzania    |
 
 
 ##  Final Reflections on Dreams

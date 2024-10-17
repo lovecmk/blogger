@@ -1,8 +1,8 @@
 ---
     weight: 116
     title: "Dream of planning a summer vacation with her husband"  # Assuming 'title' column exists
-    date: 2024-10-13T10:32:00+08:00
-    lastmod: 2024-10-13T10:32:00+08:00
+    date: 2024-10-15T11:49:00+08:00
+    lastmod: 2024-10-15T11:49:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['her', 'summer', 'Dream', 'vacation', 'a', 'husband', 'planning', 'of', 'with']
+    tags: ['Dream', 'summer', 'her', 'husband', 'planning', 'vacation']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Good luck can vary depending on the interpretation of the individual.However, th
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Academy     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Tacos      |
-| Lucky Instrument    | Tambourine |
-| Lucky Flower        | Lobelia    |
-| Lucky Job           | Customer Service Representative       |
-| Lucky Exercise      | Spin Class  |
-| Lucky Country       | Bahrain    |
+| Lucky Food          | Burrito      |
+| Lucky Instrument    | Steel Pan |
+| Lucky Flower        | Sweet Pea    |
+| Lucky Job           | Graphic Designer       |
+| Lucky Exercise      | Cycling  |
+| Lucky Country       | Germany    |
 
 
 ##  Final Reflections on Dreams

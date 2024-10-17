@@ -1,8 +1,8 @@
 ---
     weight: 1630
     title: "Dream of fighting against a criminal organization"  # Assuming 'title' column exists
-    date: 2024-10-13T04:13:00+08:00
-    lastmod: 2024-10-13T04:13:00+08:00
+    date: 2024-10-12T02:25:00+08:00
+    lastmod: 2024-10-12T02:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fighting', 'against', 'criminal', 'Dream', 'organization', 'a', 'of']
+    tags: ['organization', 'Dream', 'fighting', 'criminal']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Bear |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Kale Salad      |
-| Lucky Instrument    | Shakuhachi |
-| Lucky Flower        | Foxglove    |
-| Lucky Job           | Public Relations Specialist       |
-| Lucky Exercise      | Kripalu Yoga  |
-| Lucky Country       | Solomon Islands    |
+| Lucky Food          | Lasagna      |
+| Lucky Instrument    | Harmonic Piano |
+| Lucky Flower        | Scabiosa    |
+| Lucky Job           | Construction Worker       |
+| Lucky Exercise      | Cycling  |
+| Lucky Country       | Hungary    |
 
 
 ##  Final Reflections on Dreams

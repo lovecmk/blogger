@@ -1,8 +1,8 @@
 ---
     weight: 1868
     title: "Dream of going on a road trip together with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T19:25:00+08:00
-    lastmod: 2024-10-13T19:25:00+08:00
+    date: 2024-10-14T17:39:00+08:00
+    lastmod: 2024-10-14T17:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['together', 'road', 'your', 'trip', 'boyfriend', 'Dream', 'going', 'a', 'on', 'of', 'with']
+    tags: ['Dream', 'boyfriend', 'going', 'trip', 'road', 'together']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Vegetarian Chili      |
-| Lucky Instrument    | Tama |
-| Lucky Flower        | Scabiosa    |
-| Lucky Job           | Makeup Artist       |
-| Lucky Exercise      | Swimming Laps  |
-| Lucky Country       | South Africa    |
+| Lucky Food          | Croissant      |
+| Lucky Instrument    | Banjo |
+| Lucky Flower        | Alyssum    |
+| Lucky Job           | Nuclear Engineer       |
+| Lucky Exercise      | Walking  |
+| Lucky Country       | Namibia    |
 
 
 ##  Final Reflections on Dreams

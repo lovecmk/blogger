@@ -1,8 +1,8 @@
 ---
     weight: 1064
     title: "Dream about Cheetah"  # Assuming 'title' column exists
-    date: 2024-10-13T09:09:00+08:00
-    lastmod: 2024-10-13T09:09:00+08:00
+    date: 2024-10-11T13:41:00+08:00
+    lastmod: 2024-10-11T13:41:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Cheetah', 'about', 'Dream']
+    tags: ['Dream', 'Cheetah']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Cheetah can bring good luck by symbolizing fast speed and agility.This dream can
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Pork Belly      |
-| Lucky Instrument    | Didgeridoo |
-| Lucky Flower        | Ragged Robin    |
-| Lucky Job           | Flight Attendant       |
-| Lucky Exercise      | Hot Yoga  |
-| Lucky Country       | Afghanistan    |
+| Lucky Food          | Caramel Flan      |
+| Lucky Instrument    | Koto |
+| Lucky Flower        | Celosia    |
+| Lucky Job           | Makeup Artist       |
+| Lucky Exercise      | Burpees  |
+| Lucky Country       | Portugal    |
 
 
 ##  Final Reflections on Dreams

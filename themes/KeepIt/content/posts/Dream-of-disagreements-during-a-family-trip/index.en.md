@@ -1,8 +1,8 @@
 ---
     weight: 1904
     title: "Dream of fighting in self-defense"  # Assuming 'title' column exists
-    date: 2024-10-13T13:18:00+08:00
-    lastmod: 2024-10-13T13:18:00+08:00
+    date: 2024-10-13T16:14:00+08:00
+    lastmod: 2024-10-13T16:14:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fighting', 'Dream', 'self-defense', 'in', 'of']
+    tags: ['self-defense', 'Dream', 'fighting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Panda |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Buffalo Wings      |
-| Lucky Instrument    | Saxophone |
-| Lucky Flower        | Mums    |
-| Lucky Job           | Sous Chef       |
-| Lucky Exercise      | Golf  |
-| Lucky Country       | Lithuania    |
+| Lucky Food          | Chicken Curry      |
+| Lucky Instrument    | Cymbals |
+| Lucky Flower        | Anemone    |
+| Lucky Job           | Graphic Designer       |
+| Lucky Exercise      | Swimming  |
+| Lucky Country       | Eswatini    |
 
 
 ##  Final Reflections on Dreams

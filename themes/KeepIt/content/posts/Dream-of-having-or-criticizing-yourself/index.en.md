@@ -1,8 +1,8 @@
 ---
     weight: 477
     title: "Dream of having or criticizing yourself"  # Assuming 'title' column exists
-    date: 2024-10-13T19:35:00+08:00
-    lastmod: 2024-10-13T19:35:00+08:00
+    date: 2024-10-11T12:24:00+08:00
+    lastmod: 2024-10-11T12:24:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['criticizing', 'or', 'Dream', 'yourself', 'of', 'having']
+    tags: ['Dream', 'criticizing', 'yourself', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can give motivation for self -awareness and growth.You ca
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Black     |
-| Lucky Food          | Risotto      |
-| Lucky Instrument    | Tuba |
-| Lucky Flower        | Jasmine    |
-| Lucky Job           | Makeup Artist       |
-| Lucky Exercise      | Hiking  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Lentil Soup      |
+| Lucky Instrument    | Accordion |
+| Lucky Flower        | Tulip    |
+| Lucky Job           | Electrician       |
+| Lucky Exercise      | Interval Training  |
+| Lucky Country       | Austria    |
 
 
 ##  Final Reflections on Dreams

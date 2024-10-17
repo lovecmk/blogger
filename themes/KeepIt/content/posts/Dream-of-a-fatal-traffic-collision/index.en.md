@@ -1,8 +1,8 @@
 ---
     weight: 1272
     title: "Dream of a fatal traffic collision"  # Assuming 'title' column exists
-    date: 2024-10-13T21:09:00+08:00
-    lastmod: 2024-10-13T21:09:00+08:00
+    date: 2024-10-11T20:54:00+08:00
+    lastmod: 2024-10-11T20:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'a', 'collision', 'of', 'traffic', 'fatal']
+    tags: ['traffic', 'Dream', 'collision', 'fatal']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Guinea pig |
 | Lucky Place         | Theater     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Gumbo      |
-| Lucky Instrument    | Saxophone |
-| Lucky Flower        | Maranta    |
-| Lucky Job           | Life Coach       |
-| Lucky Exercise      | Resistance Training  |
-| Lucky Country       | India    |
+| Lucky Food          | Beef Tacos      |
+| Lucky Instrument    | Violin |
+| Lucky Flower        | Cornflower    |
+| Lucky Job           | Marketing Manager       |
+| Lucky Exercise      | Mobility Training  |
+| Lucky Country       | Bhutan    |
 
 
 ##  Final Reflections on Dreams

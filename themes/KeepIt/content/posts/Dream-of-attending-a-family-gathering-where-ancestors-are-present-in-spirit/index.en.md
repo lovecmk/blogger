@@ -1,8 +1,8 @@
 ---
     weight: 1958
     title: "Dream of your cat sniffing flowers or plants"  # Assuming 'title' column exists
-    date: 2024-10-13T18:27:00+08:00
-    lastmod: 2024-10-13T18:27:00+08:00
+    date: 2024-10-14T06:56:00+08:00
+    lastmod: 2024-10-14T06:56:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['flowers', 'or', 'plants', 'your', 'cat', 'Dream', 'sniffing', 'of']
+    tags: ['Dream', 'plants', 'cat', 'flowers', 'sniffing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ In terms of luck, this dream may signify an opportunity for personal growth and 
 | Lucky Animal        | Snake |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Roast Chicken      |
-| Lucky Instrument    | Tambourine |
-| Lucky Flower        | Pincushion Flower    |
-| Lucky Job           | Chef       |
-| Lucky Exercise      | Skimboarding  |
-| Lucky Country       | Canada    |
+| Lucky Food          | Gnocchi      |
+| Lucky Instrument    | Saxello |
+| Lucky Flower        | Jatropha    |
+| Lucky Job           | Statistician       |
+| Lucky Exercise      | High-Intensity Interval Training (HIIT)  |
+| Lucky Country       | Mongolia    |
 
 
 ##  Final Reflections on Dreams

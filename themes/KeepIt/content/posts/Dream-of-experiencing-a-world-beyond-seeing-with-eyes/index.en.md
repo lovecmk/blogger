@@ -1,8 +1,8 @@
 ---
     weight: 632
     title: "Dream of experiencing a world beyond seeing with eyes"  # Assuming 'title' column exists
-    date: 2024-10-13T18:56:00+08:00
-    lastmod: 2024-10-13T18:56:00+08:00
+    date: 2024-10-11T06:54:00+08:00
+    lastmod: 2024-10-11T06:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['beyond', 'seeing', 'eyes', 'experiencing', 'Dream', 'a', 'world', 'of', 'with']
+    tags: ['experiencing', 'beyond', 'Dream', 'eyes', 'world', 'seeing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,11 +59,11 @@ This dream can bring you new luck and opportunities.This dream can symbolize the
 | Lucky Animal        | Deer |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Beef Tacos      |
-| Lucky Instrument    | Keyboard |
-| Lucky Flower        | Bleeding Heart    |
-| Lucky Job           | Quality Assurance Tester       |
-| Lucky Exercise      | Rugby  |
+| Lucky Food          | Zucchini Noodles      |
+| Lucky Instrument    | Trompeta |
+| Lucky Flower        | Sunflower    |
+| Lucky Job           | Copywriter       |
+| Lucky Exercise      | Kayaking  |
 | Lucky Country       | Finland    |
 
 

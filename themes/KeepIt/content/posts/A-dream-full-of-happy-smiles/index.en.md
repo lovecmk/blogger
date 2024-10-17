@@ -1,8 +1,8 @@
 ---
     weight: 998
     title: "A dream full of happy smiles"  # Assuming 'title' column exists
-    date: 2024-10-13T04:34:00+08:00
-    lastmod: 2024-10-13T04:34:00+08:00
+    date: 2024-10-11T02:08:00+08:00
+    lastmod: 2024-10-11T02:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['smiles', 'full', 'dream', 'happy', 'of', 'A']
+    tags: ['smiles', 'happy', 'dream', 'full', 'A']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream suggests that good luck and positive change will be coming.Full of ha
 | Lucky Animal        | Duck |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Red     |
-| Lucky Food          | Baklava      |
-| Lucky Instrument    | Tama |
-| Lucky Flower        | Jasmine    |
-| Lucky Job           | Data Scientist       |
-| Lucky Exercise      | Circuit Training  |
-| Lucky Country       | Thailand    |
+| Lucky Food          | Pico de Gallo      |
+| Lucky Instrument    | Harmonica |
+| Lucky Flower        | Zantedeschia    |
+| Lucky Job           | Event Planner       |
+| Lucky Exercise      | Kite Surfing  |
+| Lucky Country       | Japan    |
 
 
 ##  Final Reflections on Dreams

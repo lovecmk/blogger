@@ -1,8 +1,8 @@
 ---
     weight: 1911
     title: "Dream of a strawberry parfait"  # Assuming 'title' column exists
-    date: 2024-10-13T11:24:00+08:00
-    lastmod: 2024-10-13T11:24:00+08:00
+    date: 2024-10-14T17:45:00+08:00
+    lastmod: 2024-10-14T17:45:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['parfait', 'Dream', 'strawberry', 'a', 'of']
+    tags: ['Dream', 'strawberry', 'parfait']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Snake |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Croissant      |
-| Lucky Instrument    | Tama |
-| Lucky Flower        | Butterfly Bush    |
-| Lucky Job           | Pharmacist       |
-| Lucky Exercise      | Skiing  |
-| Lucky Country       | Australia    |
+| Lucky Food          | Nachos      |
+| Lucky Instrument    | Darabuka |
+| Lucky Flower        | Borage    |
+| Lucky Job           | Pilot       |
+| Lucky Exercise      | Obstacle Course Racing  |
+| Lucky Country       | Portugal    |
 
 
 ##  Final Reflections on Dreams

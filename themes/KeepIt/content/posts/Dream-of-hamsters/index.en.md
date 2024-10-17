@@ -1,8 +1,8 @@
 ---
     weight: 868
     title: "Dream of hamsters"  # Assuming 'title' column exists
-    date: 2024-10-13T02:03:00+08:00
-    lastmod: 2024-10-13T02:03:00+08:00
+    date: 2024-10-12T09:35:00+08:00
+    lastmod: 2024-10-12T09:35:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'hamsters', 'Dream']
+    tags: ['Dream', 'hamsters']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -60,11 +60,11 @@ The luck of this dream can mean that you can further develop the characteristics
 | Lucky Place         | Mart     |
 | Lucky Color         | Orange     |
 | Lucky Food          | Minestrone      |
-| Lucky Instrument    | Bass Guitar |
-| Lucky Flower        | Mullein    |
-| Lucky Job           | Taxi Driver       |
-| Lucky Exercise      | Pilates  |
-| Lucky Country       | Russia    |
+| Lucky Instrument    | Bagpipes |
+| Lucky Flower        | Sea Holly    |
+| Lucky Job           | Copywriter       |
+| Lucky Exercise      | Walking  |
+| Lucky Country       | Ireland    |
 
 
 ##  Final Reflections on Dreams

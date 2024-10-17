@@ -1,8 +1,8 @@
 ---
     weight: 812
     title: "Dream of being punished after an accident"  # Assuming 'title' column exists
-    date: 2024-10-13T15:04:00+08:00
-    lastmod: 2024-10-13T15:04:00+08:00
+    date: 2024-10-14T05:54:00+08:00
+    lastmod: 2024-10-14T05:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['punished', 'after', 'Dream', 'being', 'an', 'accident', 'of']
+    tags: ['being', 'Dream', 'punished', 'accident', 'after', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream should be based on the meaning of the dream.Overall, this
 | Lucky Animal        | Bear |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Bruschetta      |
-| Lucky Instrument    | Djembe |
-| Lucky Flower        | Lavender    |
-| Lucky Job           | Nuclear Engineer       |
-| Lucky Exercise      | Javelin  |
-| Lucky Country       | Qatar    |
+| Lucky Food          | Caprese Salad      |
+| Lucky Instrument    | Tuba |
+| Lucky Flower        | Butterfly Bush    |
+| Lucky Job           | Public Relations Specialist       |
+| Lucky Exercise      | Golf  |
+| Lucky Country       | Mongolia    |
 
 
 ##  Final Reflections on Dreams

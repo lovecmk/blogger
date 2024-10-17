@@ -1,8 +1,8 @@
 ---
     weight: 1890
     title: "Dream of crunching into a juicy apple"  # Assuming 'title' column exists
-    date: 2024-10-13T21:52:00+08:00
-    lastmod: 2024-10-13T21:52:00+08:00
+    date: 2024-10-13T14:56:00+08:00
+    lastmod: 2024-10-13T14:56:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['crunching', 'into', 'Dream', 'a', 'apple', 'of', 'juicy']
+    tags: ['Dream', 'into', 'crunching', 'juicy', 'apple']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ The dream does not inherently bring luck, but it serves as a reminder. It encour
 | Lucky Animal        | Chicken |
 | Lucky Place         | Museum     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Dumplings      |
-| Lucky Instrument    | Violin Bow |
-| Lucky Flower        | Calla Lily    |
-| Lucky Job           | Nurse       |
-| Lucky Exercise      | Hula Hooping  |
-| Lucky Country       | Germany    |
+| Lucky Food          | Chocolate      |
+| Lucky Instrument    | Zouaves |
+| Lucky Flower        | Lavender    |
+| Lucky Job           | Fitness Instructor       |
+| Lucky Exercise      | Jump Squats  |
+| Lucky Country       | Iceland    |
 
 
 ##  Final Reflections on Dreams

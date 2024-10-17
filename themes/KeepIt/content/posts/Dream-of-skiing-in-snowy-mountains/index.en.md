@@ -1,8 +1,8 @@
 ---
     weight: 749
     title: "Dream of skiing in snowy mountains"  # Assuming 'title' column exists
-    date: 2024-10-13T19:07:00+08:00
-    lastmod: 2024-10-13T19:07:00+08:00
+    date: 2024-10-14T22:27:00+08:00
+    lastmod: 2024-10-14T22:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['skiing', 'mountains', 'snowy', 'Dream', 'in', 'of']
+    tags: ['mountains', 'Dream', 'snowy', 'skiing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream indicates that you can expect good luck from new experiences and achi
 | Lucky Animal        | Sloth |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Cheeseboard      |
-| Lucky Instrument    | Harmonic Piano |
-| Lucky Flower        | Lantana    |
-| Lucky Job           | Librarian       |
-| Lucky Exercise      | Belly Dancing  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Chocolate Mousse      |
+| Lucky Instrument    | Keyboard Synthesizer |
+| Lucky Flower        | Stock    |
+| Lucky Job           | Technical Writer       |
+| Lucky Exercise      | Discus Throw  |
+| Lucky Country       | Maldives    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 716
     title: "Dream of opening up with a friend I met after a long time"  # Assuming 'title' column exists
-    date: 2024-10-13T08:49:00+08:00
-    lastmod: 2024-10-13T08:49:00+08:00
+    date: 2024-10-15T03:51:00+08:00
+    lastmod: 2024-10-15T03:51:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['friend', 'long', 'after', 'up', 'Dream', 'I', 'a', 'time', 'opening', 'of', 'with', 'met']
+    tags: ['Dream', 'opening', 'I', 'friend', 'long', 'met', 'time', 'after', 'up']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the interpretation and situation of
 | Lucky Animal        | Hyena |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Noodles      |
-| Lucky Instrument    | Tama |
-| Lucky Flower        | Cherry Blossom    |
-| Lucky Job           | Interior Designer       |
-| Lucky Exercise      | Paddleboarding  |
-| Lucky Country       | Romania    |
+| Lucky Food          | Pasta      |
+| Lucky Instrument    | Sackbut |
+| Lucky Flower        | Ranunculus    |
+| Lucky Job           | Bus Driver       |
+| Lucky Exercise      | Active Recovery  |
+| Lucky Country       | India    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 821
     title: "Dream of fire in the store"  # Assuming 'title' column exists
-    date: 2024-10-13T05:24:00+08:00
-    lastmod: 2024-10-13T05:24:00+08:00
+    date: 2024-10-15T06:20:00+08:00
+    lastmod: 2024-10-15T06:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['store', 'the', 'fire', 'Dream', 'in', 'of']
+    tags: ['Dream', 'store', 'fire']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams of fire in stores usually warn situations that require attention rather t
 | Lucky Animal        | Deer |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Sushi Roll      |
-| Lucky Instrument    | Violin Bow |
-| Lucky Flower        | Snapdragon    |
-| Lucky Job           | Director       |
-| Lucky Exercise      | Beach Volleyball  |
-| Lucky Country       | Palau    |
+| Lucky Food          | Pasta Primavera      |
+| Lucky Instrument    | Tabla |
+| Lucky Flower        | Mums    |
+| Lucky Job           | Nurse       |
+| Lucky Exercise      | Sprinting  |
+| Lucky Country       | Portugal    |
 
 
 ##  Final Reflections on Dreams

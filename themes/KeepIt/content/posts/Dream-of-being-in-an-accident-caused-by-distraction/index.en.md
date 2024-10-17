@@ -1,8 +1,8 @@
 ---
     weight: 1274
     title: "Dream of being in an accident caused by distraction"  # Assuming 'title' column exists
-    date: 2024-10-13T01:52:00+08:00
-    lastmod: 2024-10-13T01:52:00+08:00
+    date: 2024-10-14T15:23:00+08:00
+    lastmod: 2024-10-14T15:23:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['caused', 'Dream', 'being', 'an', 'distraction', 'by', 'accident', 'in', 'of']
+    tags: ['being', 'Dream', 'accident', 'caused', 'distraction', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Cat |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Chia Pudding      |
-| Lucky Instrument    | Basset Horn |
-| Lucky Flower        | Hibiscus    |
-| Lucky Job           | Taxi Driver       |
-| Lucky Exercise      | Parkour  |
-| Lucky Country       | Ukraine    |
+| Lucky Food          | Pizza      |
+| Lucky Instrument    | Charango |
+| Lucky Flower        | Zinnia    |
+| Lucky Job           | Graphic Designer       |
+| Lucky Exercise      | Lunges  |
+| Lucky Country       | Kuwait    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 212
     title: "Dream of expressing a heart with lovers"  # Assuming 'title' column exists
-    date: 2024-10-13T13:20:00+08:00
-    lastmod: 2024-10-13T13:20:00+08:00
+    date: 2024-10-11T10:28:00+08:00
+    lastmod: 2024-10-11T10:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['expressing', 'lovers', 'Dream', 'heart', 'a', 'of', 'with']
+    tags: ['lovers', 'Dream', 'heart', 'expressing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is a deeper connection and satisfaction among lovers who 
 | Lucky Animal        | Lizard |
 | Lucky Place         | School     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Beef Wellington      |
-| Lucky Instrument    | Recorder |
-| Lucky Flower        | Begonia    |
-| Lucky Job           | Stockbroker       |
-| Lucky Exercise      | Salsa  |
-| Lucky Country       | Cyprus    |
+| Lucky Food          | Fried Rice      |
+| Lucky Instrument    | Bouzouki |
+| Lucky Flower        | Moss Rose    |
+| Lucky Job           | Veterinarian       |
+| Lucky Exercise      | Baseball  |
+| Lucky Country       | Oman    |
 
 
 ##  Final Reflections on Dreams

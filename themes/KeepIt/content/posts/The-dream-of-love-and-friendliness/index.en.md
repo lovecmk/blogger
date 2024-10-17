@@ -1,8 +1,8 @@
 ---
     weight: 1000
     title: "The dream of love and friendliness"  # Assuming 'title' column exists
-    date: 2024-10-13T23:36:00+08:00
-    lastmod: 2024-10-13T23:36:00+08:00
+    date: 2024-10-15T17:41:00+08:00
+    lastmod: 2024-10-15T17:41:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['friendliness', 'dream', 'The', 'and', 'love', 'of']
+    tags: ['The', 'friendliness', 'dream', 'love']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can mean a positive change for precious relationships and
 | Lucky Animal        | Dog |
 | Lucky Place         | Theater     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Kale Salad      |
-| Lucky Instrument    | Recorder |
-| Lucky Flower        | Carnation    |
-| Lucky Job           | Firefighter       |
-| Lucky Exercise      | Jumping Rope  |
-| Lucky Country       | Qatar    |
+| Lucky Food          | Baked Ziti      |
+| Lucky Instrument    | Tenor Saxophone |
+| Lucky Flower        | Tansy    |
+| Lucky Job           | Actor       |
+| Lucky Exercise      | Plank  |
+| Lucky Country       | France    |
 
 
 ##  Final Reflections on Dreams

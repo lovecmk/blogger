@@ -1,8 +1,8 @@
 ---
     weight: 1626
     title: "Dream of fighting for recognition"  # Assuming 'title' column exists
-    date: 2024-10-13T14:22:00+08:00
-    lastmod: 2024-10-13T14:22:00+08:00
+    date: 2024-10-13T10:20:00+08:00
+    lastmod: 2024-10-13T10:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['recognition', 'fighting', 'Dream', 'for', 'of']
+    tags: ['Dream', 'recognition', 'fighting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Chili      |
-| Lucky Instrument    | Harmonic Piano |
-| Lucky Flower        | Nasturtium    |
-| Lucky Job           | Art Director       |
-| Lucky Exercise      | Step Aerobics  |
-| Lucky Country       | Portugal    |
+| Lucky Food          | Pico de Gallo      |
+| Lucky Instrument    | Cowbell |
+| Lucky Flower        | Bee Balm    |
+| Lucky Job           | Video Editor       |
+| Lucky Exercise      | Capoeira  |
+| Lucky Country       | Mexico    |
 
 
 ##  Final Reflections on Dreams

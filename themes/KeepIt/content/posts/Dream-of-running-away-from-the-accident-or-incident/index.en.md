@@ -1,8 +1,8 @@
 ---
     weight: 387
     title: "Dream of running away from the accident or incident"  # Assuming 'title' column exists
-    date: 2024-10-13T18:41:00+08:00
-    lastmod: 2024-10-13T18:41:00+08:00
+    date: 2024-10-14T16:52:00+08:00
+    lastmod: 2024-10-14T16:52:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'the', 'running', 'incident', 'away', 'Dream', 'accident', 'from', 'of']
+    tags: ['Dream', 'running', 'incident', 'from', 'away', 'accident']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is that you can avoid damage or overcome the emergency.If
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Ramen      |
-| Lucky Instrument    | Tabla |
-| Lucky Flower        | Daffodil    |
-| Lucky Job           | Consultant       |
-| Lucky Exercise      | Circuit Workout  |
-| Lucky Country       | United States    |
+| Lucky Food          | Biryani      |
+| Lucky Instrument    | Keyboard Synthesizer |
+| Lucky Flower        | Lilac    |
+| Lucky Job           | Video Editor       |
+| Lucky Exercise      | Mobility Training  |
+| Lucky Country       | Iceland    |
 
 
 ##  Final Reflections on Dreams

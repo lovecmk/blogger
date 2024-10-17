@@ -1,8 +1,8 @@
 ---
     weight: 1262
     title: "Dream of being trapped in a car after an accident"  # Assuming 'title' column exists
-    date: 2024-10-13T22:30:00+08:00
-    lastmod: 2024-10-13T22:30:00+08:00
+    date: 2024-10-12T05:06:00+08:00
+    lastmod: 2024-10-12T05:06:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['after', 'Dream', 'being', 'a', 'an', 'car', 'accident', 'in', 'trapped', 'of']
+    tags: ['being', 'Dream', 'accident', 'after', 'trapped', 'car', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Goose |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Brownies      |
-| Lucky Instrument    | Triangle |
-| Lucky Flower        | Edelweiss    |
-| Lucky Job           | Marketing Manager       |
-| Lucky Exercise      | Handball  |
-| Lucky Country       | Nepal    |
+| Lucky Food          | Minestrone      |
+| Lucky Instrument    | Chimes |
+| Lucky Flower        | Marigold    |
+| Lucky Job           | Graphic Designer       |
+| Lucky Exercise      | Bouldering  |
+| Lucky Country       | Kiribati    |
 
 
 ##  Final Reflections on Dreams

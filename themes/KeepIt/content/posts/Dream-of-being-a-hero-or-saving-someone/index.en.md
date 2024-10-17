@@ -1,8 +1,8 @@
 ---
     weight: 1322
     title: "Dream of being a hero or saving someone"  # Assuming 'title' column exists
-    date: 2024-10-13T21:45:00+08:00
-    lastmod: 2024-10-13T21:45:00+08:00
+    date: 2024-10-14T19:41:00+08:00
+    lastmod: 2024-10-14T19:41:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'saving', 'Dream', 'being', 'a', 'someone', 'hero', 'of']
+    tags: ['being', 'Dream', 'saving', 'someone', 'hero']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Sloth |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Pasta Salad      |
-| Lucky Instrument    | Bouzouki |
-| Lucky Flower        | Sunflower    |
-| Lucky Job           | Human Resources Manager       |
-| Lucky Exercise      | Walking  |
-| Lucky Country       | Estonia    |
+| Lucky Food          | Spring Roll      |
+| Lucky Instrument    | Piccolo |
+| Lucky Flower        | Clover Blossom    |
+| Lucky Job           | Sous Chef       |
+| Lucky Exercise      | Bodyweight Training  |
+| Lucky Country       | Czech Republic    |
 
 
 ##  Final Reflections on Dreams

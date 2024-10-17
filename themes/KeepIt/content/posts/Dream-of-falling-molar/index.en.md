@@ -1,8 +1,8 @@
 ---
     weight: 875
     title: "Dream of falling molar"  # Assuming 'title' column exists
-    date: 2024-10-13T14:45:00+08:00
-    lastmod: 2024-10-13T14:45:00+08:00
+    date: 2024-10-12T12:51:00+08:00
+    lastmod: 2024-10-12T12:51:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'falling', 'Dream', 'molar']
+    tags: ['molar', 'falling', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be in the point of telling what to watch out for.This
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Pancakes      |
-| Lucky Instrument    | Darbuka |
-| Lucky Flower        | Balsam    |
-| Lucky Job           | Anthropologist       |
-| Lucky Exercise      | Dancing  |
-| Lucky Country       | Azerbaijan    |
+| Lucky Food          | Hot Dog      |
+| Lucky Instrument    | Bongo Drums |
+| Lucky Flower        | Jatropha    |
+| Lucky Job           | Customer Service Representative       |
+| Lucky Exercise      | Slacklining  |
+| Lucky Country       | Malaysia    |
 
 
 ##  Final Reflections on Dreams

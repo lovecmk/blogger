@@ -1,8 +1,8 @@
 ---
     weight: 1086
     title: "Dream about centipede"  # Assuming 'title' column exists
-    date: 2024-10-13T20:17:00+08:00
-    lastmod: 2024-10-13T20:17:00+08:00
+    date: 2024-10-11T09:13:00+08:00
+    lastmod: 2024-10-11T09:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['centipede', 'about', 'Dream']
+    tags: ['centipede', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ There are times when a dream gives positive messages or good luck.The luck of th
 | Lucky Animal        | Chicken |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Cornbread      |
-| Lucky Instrument    | Basset Horn |
-| Lucky Flower        | Heather    |
-| Lucky Job           | Neuroscientist       |
-| Lucky Exercise      | Burpees  |
-| Lucky Country       | Tuvalu    |
+| Lucky Food          | Ice Cream      |
+| Lucky Instrument    | Recorder |
+| Lucky Flower        | Agapanthus    |
+| Lucky Job           | Police Officer       |
+| Lucky Exercise      | Cross-Country Skiing  |
+| Lucky Country       | Kazakhstan    |
 
 
 ##  Final Reflections on Dreams

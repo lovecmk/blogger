@@ -1,8 +1,8 @@
 ---
     weight: 2024
     title: "Dream of your husband making you laugh during a difficult time."  # Assuming 'title' column exists
-    date: 2024-10-13T15:03:00+08:00
-    lastmod: 2024-10-13T15:03:00+08:00
+    date: 2024-10-15T16:51:00+08:00
+    lastmod: 2024-10-15T16:51:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'Dream', 'during', 'time.', 'difficult', 'husband', 'making', 'a', 'laugh', 'of', 'you']
+    tags: ['Dream', 'difficult', 'laugh', 'making', 'time', 'husband', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Buffalo Wings      |
-| Lucky Instrument    | Fretless Bass |
-| Lucky Flower        | Gillyflower    |
-| Lucky Job           | Philosopher       |
-| Lucky Exercise      | Soccer  |
-| Lucky Country       | Western Sahara    |
+| Lucky Food          | Muffin      |
+| Lucky Instrument    | Harmonica |
+| Lucky Flower        | Hoya    |
+| Lucky Job           | Real Estate Agent       |
+| Lucky Exercise      | Calisthenics  |
+| Lucky Country       | Cambodia    |
 
 
 ##  Final Reflections on Dreams

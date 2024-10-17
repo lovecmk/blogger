@@ -1,8 +1,8 @@
 ---
     weight: 1842
     title: "Dream of fighting for love"  # Assuming 'title' column exists
-    date: 2024-10-13T05:39:00+08:00
-    lastmod: 2024-10-13T05:39:00+08:00
+    date: 2024-10-13T08:47:00+08:00
+    lastmod: 2024-10-13T08:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fighting', 'Dream', 'for', 'love', 'of']
+    tags: ['Dream', 'love', 'fighting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Chicken |
 | Lucky Place         | Mart     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Gumbo      |
-| Lucky Instrument    | Chimes |
-| Lucky Flower        | Cyclamen    |
-| Lucky Job           | Financial Analyst       |
-| Lucky Exercise      | Slacklining  |
-| Lucky Country       | Croatia    |
+| Lucky Food          | Risotto      |
+| Lucky Instrument    | Wooden Flute |
+| Lucky Flower        | Mums    |
+| Lucky Job           | IT Specialist       |
+| Lucky Exercise      | Circuit Workout  |
+| Lucky Country       | Nepal    |
 
 
 ##  Final Reflections on Dreams

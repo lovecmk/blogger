@@ -1,8 +1,8 @@
 ---
     weight: 1877
     title: "Dream of going on a hiking or camping trip together with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T10:36:00+08:00
-    lastmod: 2024-10-13T10:36:00+08:00
+    date: 2024-10-14T07:39:00+08:00
+    lastmod: 2024-10-14T07:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['hiking', 'together', 'or', 'your', 'trip', 'boyfriend', 'Dream', 'going', 'camping', 'a', 'on', 'of', 'with']
+    tags: ['camping', 'Dream', 'boyfriend', 'going', 'hiking', 'trip', 'together']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Mart     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Roast Chicken      |
-| Lucky Instrument    | Recorder |
-| Lucky Flower        | Thistle    |
-| Lucky Job           | Dentist       |
-| Lucky Exercise      | Sit-Ups  |
-| Lucky Country       | Brunei    |
+| Lucky Food          | Chowder      |
+| Lucky Instrument    | Tenor Saxophone |
+| Lucky Flower        | Rudbeckia    |
+| Lucky Job           | Electrician       |
+| Lucky Exercise      | Burpees  |
+| Lucky Country       | Lesotho    |
 
 
 ##  Final Reflections on Dreams

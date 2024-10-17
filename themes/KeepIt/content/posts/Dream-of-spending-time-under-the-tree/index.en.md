@@ -1,8 +1,8 @@
 ---
     weight: 591
     title: "Dream of spending time under the tree"  # Assuming 'title' column exists
-    date: 2024-10-13T13:05:00+08:00
-    lastmod: 2024-10-13T13:05:00+08:00
+    date: 2024-10-14T12:01:00+08:00
+    lastmod: 2024-10-14T12:01:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['tree', 'the', 'Dream', 'time', 'of', 'under', 'spending']
+    tags: ['Dream', 'spending', 'time', 'tree', 'under']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Since this dream can symbolize the desire for resting and inner quietness, the l
 | Lucky Animal        | Heron |
 | Lucky Place         | Museum     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Gelato      |
-| Lucky Instrument    | Calimba |
-| Lucky Flower        | Crown Daisy    |
-| Lucky Job           | Catering Manager       |
-| Lucky Exercise      | Kayaking  |
-| Lucky Country       | Bangladesh    |
+| Lucky Food          | Waffles      |
+| Lucky Instrument    | Horn |
+| Lucky Flower        | Mullein    |
+| Lucky Job           | Mechanic       |
+| Lucky Exercise      | Skating  |
+| Lucky Country       | Zambia    |
 
 
 ##  Final Reflections on Dreams

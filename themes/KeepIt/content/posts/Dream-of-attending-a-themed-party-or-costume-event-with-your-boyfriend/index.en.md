@@ -1,8 +1,8 @@
 ---
     weight: 2207
     title: "Dream of experiencing a moment of clarity or insight given by an ancestor."  # Assuming 'title' column exists
-    date: 2024-10-13T14:00:00+08:00
-    lastmod: 2024-10-13T14:00:00+08:00
+    date: 2024-10-11T11:35:00+08:00
+    lastmod: 2024-10-11T11:35:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['given', 'or', 'ancestor.', 'moment', 'insight', 'experiencing', 'Dream', 'a', 'an', 'clarity', 'by', 'of']
+    tags: ['experiencing', 'Dream', 'clarity', 'moment', 'given', 'ancestor', 'insight', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Gorilla |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Clams      |
-| Lucky Instrument    | Cowbell |
-| Lucky Flower        | Celosia    |
-| Lucky Job           | Web Developer       |
-| Lucky Exercise      | Fencing  |
-| Lucky Country       | Azerbaijan    |
+| Lucky Food          | Chicken Curry      |
+| Lucky Instrument    | Cello |
+| Lucky Flower        | Nymphaea    |
+| Lucky Job           | Fashion Designer       |
+| Lucky Exercise      | Golf  |
+| Lucky Country       | Namibia    |
 
 
 ##  Final Reflections on Dreams

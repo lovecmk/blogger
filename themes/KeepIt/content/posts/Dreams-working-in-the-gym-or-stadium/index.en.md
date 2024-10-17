@@ -1,8 +1,8 @@
 ---
     weight: 523
     title: "Dreams working in the gym or stadium"  # Assuming 'title' column exists
-    date: 2024-10-13T07:39:00+08:00
-    lastmod: 2024-10-13T07:39:00+08:00
+    date: 2024-10-13T03:09:00+08:00
+    lastmod: 2024-10-13T03:09:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'the', 'gym', 'working', 'Dreams', 'in', 'stadium']
+    tags: ['working', 'gym', 'Dreams', 'stadium']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -60,11 +60,11 @@ This dream can suggest that you can bring good luck when you try to work on your
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Navy     |
 | Lucky Food          | Pasta Primavera      |
-| Lucky Instrument    | Darabuka |
-| Lucky Flower        | Safflower    |
-| Lucky Job           | Photographer       |
+| Lucky Instrument    | Tuba Horn |
+| Lucky Flower        | Celosia    |
+| Lucky Job           | Software Engineer       |
 | Lucky Exercise      | Zumba  |
-| Lucky Country       | Malawi    |
+| Lucky Country       | Australia    |
 
 
 ##  Final Reflections on Dreams

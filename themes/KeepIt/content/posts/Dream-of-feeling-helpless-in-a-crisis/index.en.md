@@ -1,8 +1,8 @@
 ---
     weight: 1725
     title: "Dream of disputes about family legacies"  # Assuming 'title' column exists
-    date: 2024-10-13T21:46:00+08:00
-    lastmod: 2024-10-13T21:46:00+08:00
+    date: 2024-10-11T19:51:00+08:00
+    lastmod: 2024-10-11T19:51:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'about', 'Dream', 'legacies', 'of', 'disputes']
+    tags: ['family', 'Dream', 'legacies', 'disputes']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Elephant |
 | Lucky Place         | School     |
 | Lucky Color         | Red     |
-| Lucky Food          | Roast Chicken      |
-| Lucky Instrument    | Pipa |
-| Lucky Flower        | Ranunculus    |
-| Lucky Job           | Database Administrator       |
-| Lucky Exercise      | Zumba  |
-| Lucky Country       | Switzerland    |
+| Lucky Food          | Falafel      |
+| Lucky Instrument    | Electric Guitar |
+| Lucky Flower        | Celosia    |
+| Lucky Job           | Graphic Designer       |
+| Lucky Exercise      | Bouldering  |
+| Lucky Country       | Vanuatu    |
 
 
 ##  Final Reflections on Dreams

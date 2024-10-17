@@ -1,8 +1,8 @@
 ---
     weight: 1574
     title: "Dream of your grandmother enjoying a scenic walk or hike with you."  # Assuming 'title' column exists
-    date: 2024-10-13T06:56:00+08:00
-    lastmod: 2024-10-13T06:56:00+08:00
+    date: 2024-10-15T18:42:00+08:00
+    lastmod: 2024-10-15T18:42:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['grandmother', 'enjoying', 'scenic', 'you.', 'or', 'your', 'walk', 'Dream', 'a', 'hike', 'of', 'with']
+    tags: ['walk', 'Dream', 'grandmother', 'hike', 'enjoying', 'scenic', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Spider |
 | Lucky Place         | Academy     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Hot Dog      |
-| Lucky Instrument    | Harmonium |
-| Lucky Flower        | Marigold    |
-| Lucky Job           | SEO Specialist       |
-| Lucky Exercise      | Surf Lifesaving  |
-| Lucky Country       | China    |
+| Lucky Food          | Waffles      |
+| Lucky Instrument    | Octobass |
+| Lucky Flower        | Scabiosa    |
+| Lucky Job           | Makeup Artist       |
+| Lucky Exercise      | Hot Yoga  |
+| Lucky Country       | Kiribati    |
 
 
 ##  Final Reflections on Dreams

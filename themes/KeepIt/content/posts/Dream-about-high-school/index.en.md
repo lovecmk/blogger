@@ -1,8 +1,8 @@
 ---
     weight: 1157
     title: "Dream about high school"  # Assuming 'title' column exists
-    date: 2024-10-13T20:10:00+08:00
-    lastmod: 2024-10-13T20:10:00+08:00
+    date: 2024-10-12T22:27:00+08:00
+    lastmod: 2024-10-12T22:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['school', 'high', 'about', 'Dream']
+    tags: ['school', 'high', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual.However, since high 
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Library     |
 | Lucky Color         | White     |
-| Lucky Food          | Roast Chicken      |
-| Lucky Instrument    | Lyre |
-| Lucky Flower        | Celosia    |
-| Lucky Job           | Project Manager       |
-| Lucky Exercise      | Parkour  |
-| Lucky Country       | Azerbaijan    |
+| Lucky Food          | Beef Tacos      |
+| Lucky Instrument    | Timpani |
+| Lucky Flower        | Iris    |
+| Lucky Job           | Database Administrator       |
+| Lucky Exercise      | Crunches  |
+| Lucky Country       | Egypt    |
 
 
 ##  Final Reflections on Dreams

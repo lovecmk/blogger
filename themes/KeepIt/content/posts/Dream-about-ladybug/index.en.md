@@ -1,8 +1,8 @@
 ---
     weight: 1123
     title: "Dream about ladybug"  # Assuming 'title' column exists
-    date: 2024-10-13T01:50:00+08:00
-    lastmod: 2024-10-13T01:50:00+08:00
+    date: 2024-10-11T16:37:00+08:00
+    lastmod: 2024-10-11T16:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['ladybug', 'about', 'Dream']
+    tags: ['ladybug', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of the 'ladybug' dream can mean that you can make a positive change.Thi
 | Lucky Animal        | Hyena |
 | Lucky Place         | Beach     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Scone      |
-| Lucky Instrument    | Castanets |
-| Lucky Flower        | Lobelia    |
-| Lucky Job           | Copywriter       |
-| Lucky Exercise      | Water Polo  |
-| Lucky Country       | Thailand    |
+| Lucky Food          | Pudding      |
+| Lucky Instrument    | Lap Steel Guitar |
+| Lucky Flower        | Strelitzia    |
+| Lucky Job           | App Developer       |
+| Lucky Exercise      | Stretching  |
+| Lucky Country       | Austria    |
 
 
 ##  Final Reflections on Dreams

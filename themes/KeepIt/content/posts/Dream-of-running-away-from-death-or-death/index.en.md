@@ -1,8 +1,8 @@
 ---
     weight: 436
     title: "Dream of running away from death or death"  # Assuming 'title' column exists
-    date: 2024-10-13T05:19:00+08:00
-    lastmod: 2024-10-13T05:19:00+08:00
+    date: 2024-10-13T23:56:00+08:00
+    lastmod: 2024-10-13T23:56:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['death', 'or', 'running', 'away', 'Dream', 'from', 'of']
+    tags: ['Dream', 'running', 'death', 'from', 'away']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be understood in various ways.Dreams of running away 
 | Lucky Animal        | Tiger |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Gnocchi      |
-| Lucky Instrument    | Timpani |
-| Lucky Flower        | Yarrow    |
-| Lucky Job           | Teacher       |
-| Lucky Exercise      | Crunches  |
-| Lucky Country       | Serbia    |
+| Lucky Food          | Fish and Chips      |
+| Lucky Instrument    | Fujara |
+| Lucky Flower        | Bleeding Heart    |
+| Lucky Job           | Geologist       |
+| Lucky Exercise      | Burpees  |
+| Lucky Country       | Italy    |
 
 
 ##  Final Reflections on Dreams

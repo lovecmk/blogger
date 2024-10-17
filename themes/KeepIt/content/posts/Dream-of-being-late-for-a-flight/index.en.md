@@ -1,8 +1,8 @@
 ---
     weight: 1471
     title: "Dream of being late for a flight"  # Assuming 'title' column exists
-    date: 2024-10-13T01:39:00+08:00
-    lastmod: 2024-10-13T01:39:00+08:00
+    date: 2024-10-11T23:55:00+08:00
+    lastmod: 2024-10-11T23:55:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['flight', 'late', 'Dream', 'being', 'for', 'a', 'of']
+    tags: ['being', 'flight', 'Dream', 'late']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Snake |
 | Lucky Place         | River     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Baklava      |
-| Lucky Instrument    | Tabor |
-| Lucky Flower        | Narcissus    |
-| Lucky Job           | Baker       |
-| Lucky Exercise      | Push-Ups  |
-| Lucky Country       | Norway    |
+| Lucky Food          | Caprese Skewers      |
+| Lucky Instrument    | Snare Drum |
+| Lucky Flower        | Rose    |
+| Lucky Job           | Logistician       |
+| Lucky Exercise      | Interval Training  |
+| Lucky Country       | Namibia    |
 
 
 ##  Final Reflections on Dreams

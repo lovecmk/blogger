@@ -1,8 +1,8 @@
 ---
     weight: 537
     title: "Mountain tree dream"  # Assuming 'title' column exists
-    date: 2024-10-13T09:50:00+08:00
-    lastmod: 2024-10-13T09:50:00+08:00
+    date: 2024-10-13T09:40:00+08:00
+    lastmod: 2024-10-13T09:40:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['tree', 'Mountain', 'dream']
+    tags: ['Mountain', 'dream', 'tree']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream symbolizes stability and growth, which may have a sign of light that 
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Pork Belly      |
-| Lucky Instrument    | Glockenspiel |
-| Lucky Flower        | Safflower    |
-| Lucky Job           | Network Administrator       |
-| Lucky Exercise      | Sprinting  |
-| Lucky Country       | New Zealand    |
+| Lucky Food          | Pulled Pork      |
+| Lucky Instrument    | Bass Guitar |
+| Lucky Flower        | Tiger Lily    |
+| Lucky Job           | Translator       |
+| Lucky Exercise      | Kripalu Yoga  |
+| Lucky Country       | Latvia    |
 
 
 ##  Final Reflections on Dreams

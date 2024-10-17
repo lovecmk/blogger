@@ -1,8 +1,8 @@
 ---
     weight: 2144
     title: "Dream of feeling alone in a crowd"  # Assuming 'title' column exists
-    date: 2024-10-13T03:06:00+08:00
-    lastmod: 2024-10-13T03:06:00+08:00
+    date: 2024-10-11T04:59:00+08:00
+    lastmod: 2024-10-11T04:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['feeling', 'alone', 'Dream', 'crowd', 'a', 'in', 'of']
+    tags: ['Dream', 'crowd', 'feeling', 'alone']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Duck |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Lentil Soup      |
-| Lucky Instrument    | Bandoneon |
-| Lucky Flower        | Celosia    |
-| Lucky Job           | Customer Service Representative       |
-| Lucky Exercise      | Softball  |
-| Lucky Country       | Laos    |
+| Lucky Food          | Paella      |
+| Lucky Instrument    | Guitar |
+| Lucky Flower        | Lobelia    |
+| Lucky Job           | Web Designer       |
+| Lucky Exercise      | Hot Yoga  |
+| Lucky Country       | Russia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 660
     title: "Dream of meeting a friend who has been far away after a long time"  # Assuming 'title' column exists
-    date: 2024-10-13T11:15:00+08:00
-    lastmod: 2024-10-13T11:15:00+08:00
+    date: 2024-10-14T13:22:00+08:00
+    lastmod: 2024-10-14T13:22:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['has', 'far', 'friend', 'who', 'long', 'after', 'away', 'Dream', 'meeting', 'a', 'time', 'been', 'of']
+    tags: ['Dream', 'away', 'meeting', 'friend', 'has', 'long', 'time', 'after', 'far', 'been', 'who']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you a variety of luck.Reunion and conversation with a frien
 | Lucky Animal        | Rhino |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | White     |
-| Lucky Food          | Gelato      |
-| Lucky Instrument    | Ocarina |
-| Lucky Flower        | Sea Lavender    |
-| Lucky Job           | Teacher       |
-| Lucky Exercise      | Softball  |
-| Lucky Country       | Iceland    |
+| Lucky Food          | Kebab      |
+| Lucky Instrument    | Violin Bow |
+| Lucky Flower        | Mums    |
+| Lucky Job           | Content Creator       |
+| Lucky Exercise      | Pull-Ups  |
+| Lucky Country       | Ireland    |
 
 
 ##  Final Reflections on Dreams

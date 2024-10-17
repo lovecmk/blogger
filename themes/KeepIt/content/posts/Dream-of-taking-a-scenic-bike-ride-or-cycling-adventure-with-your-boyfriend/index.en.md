@@ -1,8 +1,8 @@
 ---
     weight: 1607
     title: "Dream of being in a state of overwhelming sorrow"  # Assuming 'title' column exists
-    date: 2024-10-13T22:14:00+08:00
-    lastmod: 2024-10-13T22:14:00+08:00
+    date: 2024-10-14T04:46:00+08:00
+    lastmod: 2024-10-14T04:46:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['state', 'Dream', 'being', 'a', 'in', 'of', 'overwhelming', 'sorrow']
+    tags: ['being', 'Dream', 'sorrow', 'overwhelming', 'state']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Pasta Salad      |
-| Lucky Instrument    | Drums |
-| Lucky Flower        | Narcissus    |
-| Lucky Job           | Fitness Instructor       |
-| Lucky Exercise      | Squash  |
-| Lucky Country       | Maldives    |
+| Lucky Food          | Chili      |
+| Lucky Instrument    | Soprano Recorder |
+| Lucky Flower        | Magnolia    |
+| Lucky Job           | Insurance Underwriter       |
+| Lucky Exercise      | Obstacle Course Racing  |
+| Lucky Country       | Turkmenistan    |
 
 
 ##  Final Reflections on Dreams

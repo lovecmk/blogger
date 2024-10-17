@@ -1,8 +1,8 @@
 ---
     weight: 22
     title: "Dream of riding a bicycle with a banana in your hand"  # Assuming 'title' column exists
-    date: 2024-10-13T13:40:00+08:00
-    lastmod: 2024-10-13T13:40:00+08:00
+    date: 2024-10-14T20:59:00+08:00
+    lastmod: 2024-10-14T20:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'bicycle', 'Dream', 'a', 'hand', 'banana', 'in', 'of', 'riding', 'with']
+    tags: ['Dream', 'hand', 'bicycle', 'riding', 'banana']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can be lucky to be lucky while looking for a free and adventurous exp
 | Lucky Animal        | Hamster |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Kebab      |
-| Lucky Instrument    | Harmonic Piano |
-| Lucky Flower        | Firecracker Plant    |
-| Lucky Job           | Dentist       |
-| Lucky Exercise      | Slacklining  |
-| Lucky Country       | Iraq    |
+| Lucky Food          | Burrito      |
+| Lucky Instrument    | Tabla |
+| Lucky Flower        | Lantana    |
+| Lucky Job           | Real Estate Agent       |
+| Lucky Exercise      | Horseback Riding  |
+| Lucky Country       | Japan    |
 
 
 ##  Final Reflections on Dreams

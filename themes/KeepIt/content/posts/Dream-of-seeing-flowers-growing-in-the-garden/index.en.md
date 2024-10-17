@@ -1,8 +1,8 @@
 ---
     weight: 580
     title: "Dream of seeing flowers growing in the garden"  # Assuming 'title' column exists
-    date: 2024-10-13T01:11:00+08:00
-    lastmod: 2024-10-13T01:11:00+08:00
+    date: 2024-10-11T23:43:00+08:00
+    lastmod: 2024-10-11T23:43:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['flowers', 'the', 'seeing', 'Dream', 'growing', 'in', 'of', 'garden']
+    tags: ['Dream', 'garden', 'growing', 'flowers', 'seeing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can show good luck and positive change.The flowers seen in the garden
 | Lucky Animal        | Camel |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Dumplings      |
-| Lucky Instrument    | Fujara |
-| Lucky Flower        | Ornamental Pepper    |
-| Lucky Job           | Police Officer       |
-| Lucky Exercise      | Jumping Rope  |
-| Lucky Country       | Micronesia    |
+| Lucky Food          | Potato Skins      |
+| Lucky Instrument    | Tama |
+| Lucky Flower        | Thistle    |
+| Lucky Job           | IT Specialist       |
+| Lucky Exercise      | Aqua Aerobics  |
+| Lucky Country       | Malta    |
 
 
 ##  Final Reflections on Dreams

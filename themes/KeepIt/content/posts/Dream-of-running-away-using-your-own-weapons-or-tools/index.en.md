@@ -1,8 +1,8 @@
 ---
     weight: 443
     title: "Dream of running away using your own weapons or tools"  # Assuming 'title' column exists
-    date: 2024-10-13T18:24:00+08:00
-    lastmod: 2024-10-13T18:24:00+08:00
+    date: 2024-10-13T21:45:00+08:00
+    lastmod: 2024-10-13T21:45:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['own', 'tools', 'or', 'running', 'using', 'your', 'away', 'Dream', 'of', 'weapons']
+    tags: ['Dream', 'weapons', 'tools', 'running', 'own', 'using', 'away']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can indicate that you have some lucky elements.This is because the ac
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Tart      |
-| Lucky Instrument    | Trombone Slide |
-| Lucky Flower        | Gladiolus    |
-| Lucky Job           | Engineer       |
-| Lucky Exercise      | Kickboxing  |
-| Lucky Country       | Nauru    |
+| Lucky Food          | Zucchini Noodles      |
+| Lucky Instrument    | Zither |
+| Lucky Flower        | Bee Balm    |
+| Lucky Job           | Historian       |
+| Lucky Exercise      | Basketball  |
+| Lucky Country       | Spain    |
 
 
 ##  Final Reflections on Dreams

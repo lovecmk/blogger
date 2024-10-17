@@ -1,8 +1,8 @@
 ---
     weight: 668
     title: "Dream of talking with colleagues working together for a long time"  # Assuming 'title' column exists
-    date: 2024-10-13T13:32:00+08:00
-    lastmod: 2024-10-13T13:32:00+08:00
+    date: 2024-10-13T14:34:00+08:00
+    lastmod: 2024-10-13T14:34:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['together', 'long', 'colleagues', 'talking', 'Dream', 'working', 'for', 'a', 'time', 'of', 'with']
+    tags: ['Dream', 'working', 'talking', 'long', 'time', 'colleagues', 'together']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is that it provides opportunities to improve work perform
 | Lucky Animal        | Chicken |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Biryani      |
-| Lucky Instrument    | Sackbut |
-| Lucky Flower        | Buttercup    |
-| Lucky Job           | Flight Attendant       |
-| Lucky Exercise      | Golf  |
-| Lucky Country       | Portugal    |
+| Lucky Food          | Chili      |
+| Lucky Instrument    | Electric Violin |
+| Lucky Flower        | Larkspur    |
+| Lucky Job           | Farmer       |
+| Lucky Exercise      | Calisthenics  |
+| Lucky Country       | Netherlands    |
 
 
 ##  Final Reflections on Dreams

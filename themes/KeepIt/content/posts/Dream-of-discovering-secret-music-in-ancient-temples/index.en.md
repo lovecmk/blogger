@@ -1,8 +1,8 @@
 ---
     weight: 785
     title: "Dream of discovering secret music in ancient temples"  # Assuming 'title' column exists
-    date: 2024-10-13T17:17:00+08:00
-    lastmod: 2024-10-13T17:17:00+08:00
+    date: 2024-10-11T14:31:00+08:00
+    lastmod: 2024-10-11T14:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['ancient', 'secret', 'temples', 'Dream', 'in', 'of', 'discovering', 'music']
+    tags: ['ancient', 'Dream', 'temples', 'discovering', 'secret', 'music']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck that this dream gives you a chance to get new knowledge or insights.Thi
 | Lucky Animal        | Hyena |
 | Lucky Place         | School     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Quesadilla      |
-| Lucky Instrument    | Bagpipes |
-| Lucky Flower        | Bellflower    |
-| Lucky Job           | Dentist       |
-| Lucky Exercise      | Surf Lifesaving  |
-| Lucky Country       | Ukraine    |
+| Lucky Food          | Biryani      |
+| Lucky Instrument    | Ney |
+| Lucky Flower        | Buttercup    |
+| Lucky Job           | Research Scientist       |
+| Lucky Exercise      | Bench Press  |
+| Lucky Country       | South Africa    |
 
 
 ##  Final Reflections on Dreams

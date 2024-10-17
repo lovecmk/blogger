@@ -1,8 +1,8 @@
 ---
     weight: 1942
     title: "Dream of your husband being your anchor and guiding light."  # Assuming 'title' column exists
-    date: 2024-10-13T23:44:00+08:00
-    lastmod: 2024-10-13T23:44:00+08:00
+    date: 2024-10-11T12:21:00+08:00
+    lastmod: 2024-10-11T12:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['guiding', 'your', 'Dream', 'being', 'husband', 'anchor', 'and', 'light.', 'of']
+    tags: ['being', 'light', 'Dream', 'guiding', 'anchor', 'husband']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Seafood Paella      |
-| Lucky Instrument    | Trombone |
-| Lucky Flower        | Daffodil    |
-| Lucky Job           | Interior Designer       |
-| Lucky Exercise      | Parkour  |
-| Lucky Country       | South Korea    |
+| Lucky Food          | Chocolate      |
+| Lucky Instrument    | Electric Guitar |
+| Lucky Flower        | Petal Plant    |
+| Lucky Job           | SEO Specialist       |
+| Lucky Exercise      | Cycling  |
+| Lucky Country       | South Africa    |
 
 
 ##  Final Reflections on Dreams

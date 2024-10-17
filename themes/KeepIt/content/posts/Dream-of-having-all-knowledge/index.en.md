@@ -1,8 +1,8 @@
 ---
     weight: 253
     title: "Dream of having all knowledge"  # Assuming 'title' column exists
-    date: 2024-10-13T15:20:00+08:00
-    lastmod: 2024-10-13T15:20:00+08:00
+    date: 2024-10-13T19:23:00+08:00
+    lastmod: 2024-10-13T19:23:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['knowledge', 'Dream', 'all', 'of', 'having']
+    tags: ['Dream', 'knowledge', 'all', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual's interpretation and
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Stuffed Peppers      |
-| Lucky Instrument    | Timpani |
-| Lucky Flower        | Lilac    |
-| Lucky Job           | Journalist       |
-| Lucky Exercise      | Push-Ups  |
-| Lucky Country       | Malta    |
+| Lucky Food          | Caprese Salad      |
+| Lucky Instrument    | Keyboard Synthesizer |
+| Lucky Flower        | Thunbergia    |
+| Lucky Job           | Marketing Manager       |
+| Lucky Exercise      | Squash  |
+| Lucky Country       | China    |
 
 
 ##  Final Reflections on Dreams

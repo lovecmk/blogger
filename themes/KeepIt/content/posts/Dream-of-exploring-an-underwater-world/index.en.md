@@ -1,8 +1,8 @@
 ---
     weight: 1282
     title: "Dream of exploring an underwater world"  # Assuming 'title' column exists
-    date: 2024-10-13T11:28:00+08:00
-    lastmod: 2024-10-13T11:28:00+08:00
+    date: 2024-10-15T13:11:00+08:00
+    lastmod: 2024-10-15T13:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['underwater', 'Dream', 'an', 'world', 'of', 'exploring']
+    tags: ['Dream', 'exploring', 'underwater', 'world', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Dog |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Ice Cream      |
-| Lucky Instrument    | Harp |
-| Lucky Flower        | Bougainvillea    |
-| Lucky Job           | Social Worker       |
-| Lucky Exercise      | Hammer Throw  |
-| Lucky Country       | Oman    |
+| Lucky Food          | Shrimp      |
+| Lucky Instrument    | Harmonium |
+| Lucky Flower        | Wisteria    |
+| Lucky Job           | Lawyer       |
+| Lucky Exercise      | Lifting  |
+| Lucky Country       | Ukraine    |
 
 
 ##  Final Reflections on Dreams

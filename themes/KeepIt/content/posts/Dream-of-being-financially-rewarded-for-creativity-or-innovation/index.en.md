@@ -1,8 +1,8 @@
 ---
     weight: 1783
     title: "Dream of dying and seeing a loved one waiting"  # Assuming 'title' column exists
-    date: 2024-10-13T20:58:00+08:00
-    lastmod: 2024-10-13T20:58:00+08:00
+    date: 2024-10-13T21:20:00+08:00
+    lastmod: 2024-10-13T21:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dying', 'one', 'seeing', 'Dream', 'a', 'waiting', 'and', 'loved', 'of']
+    tags: ['Dream', 'one', 'waiting', 'loved', 'dying', 'seeing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ In terms of luck, this dream may not necessarily bring direct positive or negati
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | School     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Vegetable Stir Fry      |
-| Lucky Instrument    | Conga |
-| Lucky Flower        | Swan River Daisy    |
-| Lucky Job           | Quality Assurance Tester       |
-| Lucky Exercise      | Underwater Diving  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Tart      |
+| Lucky Instrument    | Xylophone |
+| Lucky Flower        | Daisy    |
+| Lucky Job           | Anthropologist       |
+| Lucky Exercise      | Surfing  |
+| Lucky Country       | Austria    |
 
 
 ##  Final Reflections on Dreams

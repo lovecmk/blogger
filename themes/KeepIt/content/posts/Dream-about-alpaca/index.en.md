@@ -1,8 +1,8 @@
 ---
     weight: 1040
     title: "Dream about alpaca"  # Assuming 'title' column exists
-    date: 2024-10-13T10:37:00+08:00
-    lastmod: 2024-10-13T10:37:00+08:00
+    date: 2024-10-12T03:55:00+08:00
+    lastmod: 2024-10-12T03:55:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['alpaca', 'about', 'Dream']
+    tags: ['Dream', 'alpaca']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is that you can enjoy a peaceful and stable life.Alpaca s
 | Lucky Animal        | Horse |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Ice Cream      |
-| Lucky Instrument    | Octobass |
-| Lucky Flower        | Rudbeckia    |
-| Lucky Job           | Oceanographer       |
-| Lucky Exercise      | Softball  |
-| Lucky Country       | France    |
+| Lucky Food          | Vegetarian Chili      |
+| Lucky Instrument    | Banjo |
+| Lucky Flower        | Edelweiss    |
+| Lucky Job           | Social Worker       |
+| Lucky Exercise      | Lifting  |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

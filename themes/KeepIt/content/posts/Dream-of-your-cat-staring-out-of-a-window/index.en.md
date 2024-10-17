@@ -1,8 +1,8 @@
 ---
     weight: 1676
     title: "Dream of fighting with a rival"  # Assuming 'title' column exists
-    date: 2024-10-13T13:21:00+08:00
-    lastmod: 2024-10-13T13:21:00+08:00
+    date: 2024-10-12T06:39:00+08:00
+    lastmod: 2024-10-12T06:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fighting', 'Dream', 'a', 'rival', 'of', 'with']
+    tags: ['Dream', 'fighting', 'rival']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rhino |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Fruit Smoothie      |
-| Lucky Instrument    | Ney |
-| Lucky Flower        | Pincushion Flower    |
-| Lucky Job           | Engineer       |
-| Lucky Exercise      | Soccer  |
-| Lucky Country       | Brazil    |
+| Lucky Food          | Croissant      |
+| Lucky Instrument    | Horn |
+| Lucky Flower        | Chrysanthemum    |
+| Lucky Job           | Architect       |
+| Lucky Exercise      | Hammer Throw  |
+| Lucky Country       | Palau    |
 
 
 ##  Final Reflections on Dreams

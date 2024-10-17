@@ -1,8 +1,8 @@
 ---
     weight: 60
     title: "Dream of preparing a new challenge while eating kiwi"  # Assuming 'title' column exists
-    date: 2024-10-13T17:27:00+08:00
-    lastmod: 2024-10-13T17:27:00+08:00
+    date: 2024-10-14T04:03:00+08:00
+    lastmod: 2024-10-14T04:03:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['new', 'eating', 'Dream', 'a', 'preparing', 'of', 'kiwi', 'while', 'challenge']
+    tags: ['while', 'kiwi', 'challenge', 'Dream', 'eating', 'new', 'preparing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can show good luck from new challenges and preparation.Kiwi provides 
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Falafel      |
-| Lucky Instrument    | Mandolin |
-| Lucky Flower        | Wisteria    |
-| Lucky Job           | Nuclear Engineer       |
-| Lucky Exercise      | Fencing  |
-| Lucky Country       | Canada    |
+| Lucky Food          | Paella      |
+| Lucky Instrument    | Darabuka |
+| Lucky Flower        | Hibiscus    |
+| Lucky Job           | Human Resources Manager       |
+| Lucky Exercise      | Martial Arts  |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

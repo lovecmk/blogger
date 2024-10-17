@@ -1,8 +1,8 @@
 ---
     weight: 1287
     title: "Dream of your dog opening a restaurant"  # Assuming 'title' column exists
-    date: 2024-10-13T16:00:00+08:00
-    lastmod: 2024-10-13T16:00:00+08:00
+    date: 2024-10-12T22:00:00+08:00
+    lastmod: 2024-10-12T22:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'Dream', 'restaurant', 'a', 'opening', 'of', 'dog']
+    tags: ['Dream', 'opening', 'dog', 'restaurant']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Seal |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Dumplings      |
-| Lucky Instrument    | Lyre |
-| Lucky Flower        | Stephanotis    |
-| Lucky Job           | Teacher       |
-| Lucky Exercise      | Calisthenics  |
-| Lucky Country       | Brazil    |
+| Lucky Food          | Cornbread      |
+| Lucky Instrument    | Cymbals |
+| Lucky Flower        | Crown Daisy    |
+| Lucky Job           | Database Administrator       |
+| Lucky Exercise      | High-Intensity Interval Training (HIIT)  |
+| Lucky Country       | Iran    |
 
 
 ##  Final Reflections on Dreams

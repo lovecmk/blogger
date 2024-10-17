@@ -1,8 +1,8 @@
 ---
     weight: 1502
     title: "Dream of your dog participating in a theater play"  # Assuming 'title' column exists
-    date: 2024-10-13T07:57:00+08:00
-    lastmod: 2024-10-13T07:57:00+08:00
+    date: 2024-10-14T07:39:00+08:00
+    lastmod: 2024-10-14T07:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['play', 'your', 'Dream', 'participating', 'a', 'in', 'of', 'theater', 'dog']
+    tags: ['Dream', 'theater', 'participating', 'dog', 'play']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Parrot |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Chips      |
-| Lucky Instrument    | Trombone Slide |
-| Lucky Flower        | Celosia    |
-| Lucky Job           | Baker       |
-| Lucky Exercise      | Discus Throw  |
-| Lucky Country       | Armenia    |
+| Lucky Food          | Pork Chops      |
+| Lucky Instrument    | Pandeiro |
+| Lucky Flower        | Zantedeschia    |
+| Lucky Job           | Philosopher       |
+| Lucky Exercise      | Mobility Training  |
+| Lucky Country       | Hungary    |
 
 
 ##  Final Reflections on Dreams

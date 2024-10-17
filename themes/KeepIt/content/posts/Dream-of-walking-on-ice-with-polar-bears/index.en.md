@@ -1,8 +1,8 @@
 ---
     weight: 768
     title: "Dream of walking on ice with polar bears"  # Assuming 'title' column exists
-    date: 2024-10-13T07:24:00+08:00
-    lastmod: 2024-10-13T07:24:00+08:00
+    date: 2024-10-14T10:41:00+08:00
+    lastmod: 2024-10-14T10:41:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['polar', 'bears', 'Dream', 'on', 'of', 'ice', 'with', 'walking']
+    tags: ['ice', 'Dream', 'walking', 'bears', 'polar']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream is a symbolic dream that can bring you good luck and success.Walking 
 | Lucky Animal        | Seagull |
 | Lucky Place         | River     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Quiche      |
-| Lucky Instrument    | Steel Pan |
-| Lucky Flower        | Gillyflower    |
-| Lucky Job           | Game Developer       |
-| Lucky Exercise      | Walking  |
-| Lucky Country       | Mozambique    |
+| Lucky Food          | Hummus      |
+| Lucky Instrument    | Electric Violin |
+| Lucky Flower        | Primrose    |
+| Lucky Job           | Mathematician       |
+| Lucky Exercise      | Capoeira  |
+| Lucky Country       | Slovakia    |
 
 
 ##  Final Reflections on Dreams

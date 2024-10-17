@@ -1,8 +1,8 @@
 ---
     weight: 682
     title: "Dream of dating a small restaurant with a lover"  # Assuming 'title' column exists
-    date: 2024-10-13T14:46:00+08:00
-    lastmod: 2024-10-13T14:46:00+08:00
+    date: 2024-10-14T18:13:00+08:00
+    lastmod: 2024-10-14T18:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['small', 'lover', 'Dream', 'restaurant', 'a', 'dating', 'of', 'with']
+    tags: ['Dream', 'small', 'dating', 'lover', 'restaurant']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can give you good luck and positive results.Dating in a restaurant sy
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Park     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Stuffed Peppers      |
-| Lucky Instrument    | Lap Steel Guitar |
-| Lucky Flower        | Bougainvillea    |
-| Lucky Job           | Philosopher       |
-| Lucky Exercise      | Capoeira  |
-| Lucky Country       | China    |
+| Lucky Food          | Ceviche      |
+| Lucky Instrument    | Tenor Guitar |
+| Lucky Flower        | Borage    |
+| Lucky Job           | Librarian       |
+| Lucky Exercise      | Lacrosse  |
+| Lucky Country       | Poland    |
 
 
 ##  Final Reflections on Dreams

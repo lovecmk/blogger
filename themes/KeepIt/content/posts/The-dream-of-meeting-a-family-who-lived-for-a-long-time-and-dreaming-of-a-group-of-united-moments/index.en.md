@@ -1,8 +1,8 @@
 ---
     weight: 663
     title: "The dream of meeting a family who lived for a long time and dreaming of a group of united moments"  # Assuming 'title' column exists
-    date: 2024-10-13T11:49:00+08:00
-    lastmod: 2024-10-13T11:49:00+08:00
+    date: 2024-10-12T03:52:00+08:00
+    lastmod: 2024-10-12T03:52:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'who', 'long', 'united', 'moments', 'for', 'dreaming', 'meeting', 'a', 'lived', 'dream', 'The', 'time', 'and', 'group', 'of']
+    tags: ['family', 'The', 'moments', 'dream', 'meeting', 'long', 'group', 'united', 'time', 'lived', 'dreaming', 'who']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can be lucky to come with you again with your family.A harmonious rel
 | Lucky Animal        | Camel |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Seafood Paella      |
-| Lucky Instrument    | Mandolin |
-| Lucky Flower        | Lily    |
-| Lucky Job           | Data Scientist       |
-| Lucky Exercise      | Horseback Riding  |
-| Lucky Country       | United Arab Emirates    |
+| Lucky Food          | Gelato      |
+| Lucky Instrument    | Saxophone |
+| Lucky Flower        | Maranta    |
+| Lucky Job           | Environmental Scientist       |
+| Lucky Exercise      | Rugby  |
+| Lucky Country       | Tajikistan    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1186
     title: "Dream about Religious"  # Assuming 'title' column exists
-    date: 2024-10-13T10:08:00+08:00
-    lastmod: 2024-10-13T10:08:00+08:00
+    date: 2024-10-12T08:06:00+08:00
+    lastmod: 2024-10-12T08:06:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Religious', 'about', 'Dream']
+    tags: ['Dream', 'Religious']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Dreams can often be a sign of good luck or positive change for us.But good luck 
 | Lucky Animal        | Gorilla |
 | Lucky Place         | School     |
 | Lucky Color         | Red     |
-| Lucky Food          | Scone      |
-| Lucky Instrument    | Lute |
-| Lucky Flower        | Rudbeckia    |
-| Lucky Job           | Insurance Underwriter       |
-| Lucky Exercise      | Bodyweight Training  |
-| Lucky Country       | Iran    |
+| Lucky Food          | Tacos      |
+| Lucky Instrument    | Mandolin |
+| Lucky Flower        | Dandelion    |
+| Lucky Job           | Life Coach       |
+| Lucky Exercise      | Crunches  |
+| Lucky Country       | United Kingdom    |
 
 
 ##  Final Reflections on Dreams

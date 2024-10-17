@@ -1,8 +1,8 @@
 ---
     weight: 93
     title: "Dream of visiting the museum with her husband"  # Assuming 'title' column exists
-    date: 2024-10-13T06:52:00+08:00
-    lastmod: 2024-10-13T06:52:00+08:00
+    date: 2024-10-15T21:28:00+08:00
+    lastmod: 2024-10-15T21:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['her', 'the', 'museum', 'Dream', 'visiting', 'husband', 'of', 'with']
+    tags: ['Dream', 'visiting', 'museum', 'her', 'husband']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ What are the luck of this dream?The luck of dreams can vary depending on your pe
 | Lucky Animal        | Rhino |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Chips      |
-| Lucky Instrument    | Hang Drum |
-| Lucky Flower        | Jasmine    |
-| Lucky Job           | Environmental Scientist       |
-| Lucky Exercise      | Kickboxing  |
-| Lucky Country       | Cambodia    |
+| Lucky Food          | Fruit Tart      |
+| Lucky Instrument    | Oboe |
+| Lucky Flower        | Daisy    |
+| Lucky Job           | Psychologist       |
+| Lucky Exercise      | CrossFit  |
+| Lucky Country       | Israel    |
 
 
 ##  Final Reflections on Dreams

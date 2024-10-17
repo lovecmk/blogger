@@ -1,8 +1,8 @@
 ---
     weight: 483
     title: "Dream of making difficult choices or decisions"  # Assuming 'title' column exists
-    date: 2024-10-13T15:08:00+08:00
-    lastmod: 2024-10-13T15:08:00+08:00
+    date: 2024-10-13T08:47:00+08:00
+    lastmod: 2024-10-13T08:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'choices', 'Dream', 'difficult', 'making', 'decisions', 'of']
+    tags: ['difficult', 'Dream', 'making', 'decisions', 'choices']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can symbolize that you have the courage and determination
 | Lucky Animal        | Gorilla |
 | Lucky Place         | Beach     |
 | Lucky Color         | White     |
-| Lucky Food          | Croissant      |
-| Lucky Instrument    | Sarangi |
-| Lucky Flower        | Pansy    |
-| Lucky Job           | Translator       |
-| Lucky Exercise      | Ultimate Frisbee  |
-| Lucky Country       | Tuvalu    |
+| Lucky Food          | Baked Potato      |
+| Lucky Instrument    | Harp |
+| Lucky Flower        | Agapanthus    |
+| Lucky Job           | Physical Therapist       |
+| Lucky Exercise      | High-Intensity Interval Training (HIIT)  |
+| Lucky Country       | Tajikistan    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1375
     title: "Dream of witnessing a traffic accident"  # Assuming 'title' column exists
-    date: 2024-10-13T02:41:00+08:00
-    lastmod: 2024-10-13T02:41:00+08:00
+    date: 2024-10-14T10:50:00+08:00
+    lastmod: 2024-10-14T10:50:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['witnessing', 'Dream', 'a', 'accident', 'of', 'traffic']
+    tags: ['traffic', 'Dream', 'witnessing', 'accident']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Spider |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Muffin      |
-| Lucky Instrument    | Tuba Horn |
-| Lucky Flower        | Clover Blossom    |
-| Lucky Job           | Event Planner       |
-| Lucky Exercise      | Beach Volleyball  |
-| Lucky Country       | Portugal    |
+| Lucky Food          | Chicken Curry      |
+| Lucky Instrument    | Claves |
+| Lucky Flower        | Pincushion Flower    |
+| Lucky Job           | Plumber       |
+| Lucky Exercise      | Step Aerobics  |
+| Lucky Country       | Argentina    |
 
 
 ##  Final Reflections on Dreams

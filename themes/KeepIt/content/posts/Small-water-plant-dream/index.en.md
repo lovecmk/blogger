@@ -1,8 +1,8 @@
 ---
     weight: 545
     title: "Small water plant dream"  # Assuming 'title' column exists
-    date: 2024-10-13T16:59:00+08:00
-    lastmod: 2024-10-13T16:59:00+08:00
+    date: 2024-10-13T18:14:00+08:00
+    lastmod: 2024-10-13T18:14:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['water', 'plant', 'dream', 'Small']
+    tags: ['dream', 'Small', 'water', 'plant']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream conveys a message that small effort and attention can bring great luc
 | Lucky Animal        | Parrot |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Fish and Chips      |
-| Lucky Instrument    | Accordion |
-| Lucky Flower        | Bee Balm    |
-| Lucky Job           | Public Relations Specialist       |
-| Lucky Exercise      | Cross-Country Skiing  |
-| Lucky Country       | Syria    |
+| Lucky Food          | Shrimp      |
+| Lucky Instrument    | Saxophone |
+| Lucky Flower        | Nymphaea    |
+| Lucky Job           | Police Officer       |
+| Lucky Exercise      | Aqua Aerobics  |
+| Lucky Country       | Brazil    |
 
 
 ##  Final Reflections on Dreams

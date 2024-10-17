@@ -1,8 +1,8 @@
 ---
     weight: 1661
     title: "Dream of your husband making plans for a memorable date night."  # Assuming 'title' column exists
-    date: 2024-10-13T22:13:00+08:00
-    lastmod: 2024-10-13T22:13:00+08:00
+    date: 2024-10-13T21:39:00+08:00
+    lastmod: 2024-10-13T21:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['plans', 'night.', 'your', 'Dream', 'for', 'husband', 'making', 'a', 'memorable', 'of', 'date']
+    tags: ['Dream', 'memorable', 'date', 'night', 'making', 'plans', 'husband']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings the luck of emotional healing, guidance, and connection. It su
 | Lucky Animal        | Spider |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Guacamole      |
-| Lucky Instrument    | Erhu |
-| Lucky Flower        | Hoya    |
-| Lucky Job           | Bus Driver       |
-| Lucky Exercise      | Trail Running  |
-| Lucky Country       | Afghanistan    |
+| Lucky Food          | Gelato      |
+| Lucky Instrument    | Sitar |
+| Lucky Flower        | Heliotrope    |
+| Lucky Job           | Marketing Manager       |
+| Lucky Exercise      | Cycling  |
+| Lucky Country       | Estonia    |
 
 
 ##  Final Reflections on Dreams

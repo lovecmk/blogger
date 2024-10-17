@@ -1,8 +1,8 @@
 ---
     weight: 697
     title: "Dream of singing with friends"  # Assuming 'title' column exists
-    date: 2024-10-13T07:50:00+08:00
-    lastmod: 2024-10-13T07:50:00+08:00
+    date: 2024-10-15T21:07:00+08:00
+    lastmod: 2024-10-15T21:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['singing', 'Dream', 'of', 'with', 'friends']
+    tags: ['Dream', 'singing', 'friends']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can mean that you can get opportunities through social co
 | Lucky Animal        | Chicken |
 | Lucky Place         | Theater     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Crab      |
-| Lucky Instrument    | Fretless Bass |
-| Lucky Flower        | Gladiolus    |
-| Lucky Job           | Data Analyst       |
-| Lucky Exercise      | Fencing  |
-| Lucky Country       | Malaysia    |
+| Lucky Food          | Pork Chops      |
+| Lucky Instrument    | Koto |
+| Lucky Flower        | Petunia    |
+| Lucky Job           | Taxi Driver       |
+| Lucky Exercise      | Squats  |
+| Lucky Country       | Sweden    |
 
 
 ##  Final Reflections on Dreams

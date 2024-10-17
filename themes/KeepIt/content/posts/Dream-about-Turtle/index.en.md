@@ -1,8 +1,8 @@
 ---
     weight: 1091
     title: "Dream about turtle"  # Assuming 'title' column exists
-    date: 2024-10-13T01:28:00+08:00
-    lastmod: 2024-10-13T01:28:00+08:00
+    date: 2024-10-12T07:33:00+08:00
+    lastmod: 2024-10-12T07:33:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['turtle', 'about', 'Dream']
+    tags: ['turtle', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Turtles have been considered a symbol of good luck and longevity for many years.
 | Lucky Animal        | Parrot |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Minestrone      |
-| Lucky Instrument    | Melodic Percussion |
-| Lucky Flower        | Rudbeckia    |
-| Lucky Job           | Insurance Underwriter       |
-| Lucky Exercise      | Dance Aerobics  |
-| Lucky Country       | Azerbaijan    |
+| Lucky Food          | Quesadilla      |
+| Lucky Instrument    | Trombone |
+| Lucky Flower        | Petunia    |
+| Lucky Job           | Sales Representative       |
+| Lucky Exercise      | High-Intensity Interval Training (HIIT)  |
+| Lucky Country       | Czech Republic    |
 
 
 ##  Final Reflections on Dreams

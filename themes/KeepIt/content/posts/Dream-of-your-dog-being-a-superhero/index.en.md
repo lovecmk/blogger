@@ -1,8 +1,8 @@
 ---
     weight: 1372
     title: "Dream of your dog being a superhero"  # Assuming 'title' column exists
-    date: 2024-10-13T23:19:00+08:00
-    lastmod: 2024-10-13T23:19:00+08:00
+    date: 2024-10-14T18:25:00+08:00
+    lastmod: 2024-10-14T18:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'superhero', 'Dream', 'being', 'a', 'of', 'dog']
+    tags: ['being', 'Dream', 'superhero', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Museum     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Fruit Smoothie      |
-| Lucky Instrument    | Darabuka |
-| Lucky Flower        | Buttercup    |
-| Lucky Job           | Writer       |
-| Lucky Exercise      | Lifting  |
-| Lucky Country       | Iceland    |
+| Lucky Food          | Noodles      |
+| Lucky Instrument    | Zouaves |
+| Lucky Flower        | Agapanthus    |
+| Lucky Job           | Insurance Underwriter       |
+| Lucky Exercise      | Jump Squats  |
+| Lucky Country       | Bangladesh    |
 
 
 ##  Final Reflections on Dreams

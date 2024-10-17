@@ -1,8 +1,8 @@
 ---
     weight: 771
     title: "The dream of speaking all the language fluently in a dream"  # Assuming 'title' column exists
-    date: 2024-10-13T11:55:00+08:00
-    lastmod: 2024-10-13T11:55:00+08:00
+    date: 2024-10-14T23:45:00+08:00
+    lastmod: 2024-10-14T23:45:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['language', 'the', 'a', 'all', 'dream', 'The', 'speaking', 'in', 'of', 'fluently']
+    tags: ['The', 'speaking', 'fluently', 'dream', 'language', 'all']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can include something that can get new opportunities thro
 | Lucky Animal        | Parrot |
 | Lucky Place         | Museum     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Guacamole      |
-| Lucky Instrument    | Horn |
-| Lucky Flower        | Cherry Blossom    |
-| Lucky Job           | Logistician       |
-| Lucky Exercise      | Rugby  |
-| Lucky Country       | Singapore    |
+| Lucky Food          | Bruschetta      |
+| Lucky Instrument    | Violin Bow |
+| Lucky Flower        | Firecracker Plant    |
+| Lucky Job           | Content Creator       |
+| Lucky Exercise      | Mobility Training  |
+| Lucky Country       | Kenya    |
 
 
 ##  Final Reflections on Dreams

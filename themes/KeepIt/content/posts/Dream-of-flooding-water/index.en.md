@@ -1,8 +1,8 @@
 ---
     weight: 976
     title: "Dream of flooding water"  # Assuming 'title' column exists
-    date: 2024-10-13T14:19:00+08:00
-    lastmod: 2024-10-13T14:19:00+08:00
+    date: 2024-10-15T00:27:00+08:00
+    lastmod: 2024-10-15T00:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['flooding', 'of', 'Dream', 'water']
+    tags: ['water', 'flooding', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream is not generally lucky.Rather, it is a good idea to accept it as a wa
 | Lucky Animal        | Sloth |
 | Lucky Place         | River     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Kebab      |
-| Lucky Instrument    | Dulcimer |
-| Lucky Flower        | Jasmine    |
-| Lucky Job           | Consultant       |
-| Lucky Exercise      | Squats  |
-| Lucky Country       | Bahrain    |
+| Lucky Food          | Sushi Roll      |
+| Lucky Instrument    | Glockenspiel |
+| Lucky Flower        | Buttercup    |
+| Lucky Job           | Taxi Driver       |
+| Lucky Exercise      | Tai Chi  |
+| Lucky Country       | Marshall Islands    |
 
 
 ##  Final Reflections on Dreams

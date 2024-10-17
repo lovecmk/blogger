@@ -1,8 +1,8 @@
 ---
     weight: 2114
     title: "Dream of your husband showering you with affectionate gestures."  # Assuming 'title' column exists
-    date: 2024-10-13T10:34:00+08:00
-    lastmod: 2024-10-13T10:34:00+08:00
+    date: 2024-10-11T15:15:00+08:00
+    lastmod: 2024-10-11T15:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['with', 'gestures.', 'showering', 'your', 'Dream', 'husband', 'affectionate', 'of', 'you']
+    tags: ['gestures', 'Dream', 'showering', 'affectionate', 'husband', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Seagull |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Paella      |
-| Lucky Instrument    | Piccolo |
-| Lucky Flower        | Kalanchoe    |
-| Lucky Job           | Stockbroker       |
-| Lucky Exercise      | Hiking  |
-| Lucky Country       | Tonga    |
+| Lucky Food          | Chia Pudding      |
+| Lucky Instrument    | Erhu |
+| Lucky Flower        | Crown Daisy    |
+| Lucky Job           | Event Coordinator       |
+| Lucky Exercise      | Hot Yoga  |
+| Lucky Country       | India    |
 
 
 ##  Final Reflections on Dreams

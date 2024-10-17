@@ -1,8 +1,8 @@
 ---
     weight: 729
     title: "Dream of having a quiet time reading a book in the library with a precious friend"  # Assuming 'title' column exists
-    date: 2024-10-13T02:40:00+08:00
-    lastmod: 2024-10-13T02:40:00+08:00
+    date: 2024-10-14T23:40:00+08:00
+    lastmod: 2024-10-14T23:40:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['friend', 'the', 'precious', 'Dream', 'reading', 'book', 'a', 'time', 'in', 'library', 'of', 'with', 'having', 'quiet']
+    tags: ['Dream', 'library', 'reading', 'friend', 'precious', 'time', 'quiet', 'book', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you a variety of luck.Spending time with a friend symbolize
 | Lucky Animal        | Deer |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Chocolate      |
-| Lucky Instrument    | Marimba |
-| Lucky Flower        | Swan River Daisy    |
-| Lucky Job           | Fitness Instructor       |
-| Lucky Exercise      | Cycling  |
-| Lucky Country       | Syria    |
+| Lucky Food          | Kale Salad      |
+| Lucky Instrument    | French Horn |
+| Lucky Flower        | Heliotrope    |
+| Lucky Job           | Nuclear Engineer       |
+| Lucky Exercise      | Dancing  |
+| Lucky Country       | Estonia    |
 
 
 ##  Final Reflections on Dreams

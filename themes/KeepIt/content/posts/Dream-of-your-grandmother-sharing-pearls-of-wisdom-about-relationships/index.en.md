@@ -1,8 +1,8 @@
 ---
     weight: 2200
     title: "Dream of raspberry jam on toast"  # Assuming 'title' column exists
-    date: 2024-10-13T14:37:00+08:00
-    lastmod: 2024-10-13T14:37:00+08:00
+    date: 2024-10-12T10:29:00+08:00
+    lastmod: 2024-10-12T10:29:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['toast', 'jam', 'Dream', 'on', 'of', 'raspberry']
+    tags: ['Dream', 'raspberry', 'jam', 'toast']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Quiche      |
-| Lucky Instrument    | Dulcimer |
-| Lucky Flower        | Petal Plant    |
-| Lucky Job           | Recruiter       |
-| Lucky Exercise      | Kettlebell Training  |
-| Lucky Country       | Estonia    |
+| Lucky Food          | Kebab      |
+| Lucky Instrument    | Harmonic Piano |
+| Lucky Flower        | Larkspur    |
+| Lucky Job           | Video Editor       |
+| Lucky Exercise      | Mountain Climbers  |
+| Lucky Country       | Micronesia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 551
     title: "Flower dream shaken by the wind"  # Assuming 'title' column exists
-    date: 2024-10-13T06:55:00+08:00
-    lastmod: 2024-10-13T06:55:00+08:00
+    date: 2024-10-12T22:06:00+08:00
+    lastmod: 2024-10-12T22:06:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'shaken', 'Flower', 'wind', 'dream', 'by']
+    tags: ['Flower', 'wind', 'dream', 'shaken']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can provide opportunities for change and growth.The flowe
 | Lucky Animal        | Spider |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Caprese Salad      |
-| Lucky Instrument    | Pandeiro |
-| Lucky Flower        | Maranta    |
-| Lucky Job           | Oceanographer       |
-| Lucky Exercise      | Ashtanga Yoga  |
-| Lucky Country       | Ireland    |
+| Lucky Food          | Sushi Roll      |
+| Lucky Instrument    | Fiddle |
+| Lucky Flower        | Chive Blossom    |
+| Lucky Job           | Pilot       |
+| Lucky Exercise      | Kite Surfing  |
+| Lucky Country       | Norway    |
 
 
 ##  Final Reflections on Dreams

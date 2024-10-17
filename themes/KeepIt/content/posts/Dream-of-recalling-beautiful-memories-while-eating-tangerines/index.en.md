@@ -1,8 +1,8 @@
 ---
     weight: 71
     title: "Dream of recalling beautiful memories while eating tangerines"  # Assuming 'title' column exists
-    date: 2024-10-13T04:59:00+08:00
-    lastmod: 2024-10-13T04:59:00+08:00
+    date: 2024-10-11T12:20:00+08:00
+    lastmod: 2024-10-11T12:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['eating', 'beautiful', 'memories', 'Dream', 'tangerines', 'recalling', 'of', 'while']
+    tags: ['while', 'beautiful', 'Dream', 'recalling', 'eating', 'tangerines', 'memories']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can convey a message related to luck and positive events.Eating tange
 | Lucky Animal        | Hyena |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Caramel Flan      |
-| Lucky Instrument    | Xylophone |
-| Lucky Flower        | Thistle    |
-| Lucky Job           | Bus Driver       |
-| Lucky Exercise      | Snowshoeing  |
-| Lucky Country       | Tanzania    |
+| Lucky Food          | Bagel      |
+| Lucky Instrument    | Ocarina |
+| Lucky Flower        | Scented Geranium    |
+| Lucky Job           | Researcher       |
+| Lucky Exercise      | Basketball  |
+| Lucky Country       | Bangladesh    |
 
 
 ##  Final Reflections on Dreams

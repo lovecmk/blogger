@@ -1,8 +1,8 @@
 ---
     weight: 1800
     title: "Dream of feeling completely powerless"  # Assuming 'title' column exists
-    date: 2024-10-13T07:00:00+08:00
-    lastmod: 2024-10-13T07:00:00+08:00
+    date: 2024-10-14T21:29:00+08:00
+    lastmod: 2024-10-14T21:29:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['completely', 'feeling', 'powerless', 'Dream', 'of']
+    tags: ['Dream', 'completely', 'feeling', 'powerless']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Otter |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Kale Salad      |
-| Lucky Instrument    | Bongo Drums |
-| Lucky Flower        | Clover Blossom    |
-| Lucky Job           | Geologist       |
-| Lucky Exercise      | Powerlifting  |
-| Lucky Country       | Kiribati    |
+| Lucky Food          | Seafood Paella      |
+| Lucky Instrument    | Tabor |
+| Lucky Flower        | Bouvardia    |
+| Lucky Job           | Data Analyst       |
+| Lucky Exercise      | Stand-Up Paddleboarding  |
+| Lucky Country       | Malawi    |
 
 
 ##  Final Reflections on Dreams

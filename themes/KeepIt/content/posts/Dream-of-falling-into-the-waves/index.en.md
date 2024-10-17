@@ -1,8 +1,8 @@
 ---
     weight: 970
     title: "Dream of falling into the waves"  # Assuming 'title' column exists
-    date: 2024-10-13T22:54:00+08:00
-    lastmod: 2024-10-13T22:54:00+08:00
+    date: 2024-10-11T07:11:00+08:00
+    lastmod: 2024-10-11T07:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'into', 'falling', 'Dream', 'waves', 'of']
+    tags: ['Dream', 'into', 'falling', 'waves']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ What are the lucky luck that the dream of falling into the waves?This dream may 
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Lake     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Fruit Salad      |
-| Lucky Instrument    | Fretless Bass |
-| Lucky Flower        | Jasmine    |
-| Lucky Job           | Researcher       |
-| Lucky Exercise      | Rowing  |
-| Lucky Country       | Vanuatu    |
+| Lucky Food          | Pulled Pork      |
+| Lucky Instrument    | Xylophone |
+| Lucky Flower        | Snapdragon    |
+| Lucky Job           | Consultant       |
+| Lucky Exercise      | Rugby  |
+| Lucky Country       | Malawi    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 2105
     title: "Dream of your cat enjoying a cat nap"  # Assuming 'title' column exists
-    date: 2024-10-13T01:51:00+08:00
-    lastmod: 2024-10-13T01:51:00+08:00
+    date: 2024-10-13T04:32:00+08:00
+    lastmod: 2024-10-13T04:32:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['enjoying', 'nap', 'your', 'cat', 'Dream', 'a', 'of']
+    tags: ['Dream', 'enjoying', 'nap', 'cat']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Otter |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Fried Rice      |
-| Lucky Instrument    | Bandoneon |
-| Lucky Flower        | Poinsettia    |
-| Lucky Job           | Pilot       |
-| Lucky Exercise      | Water Polo  |
-| Lucky Country       | Qatar    |
+| Lucky Food          | Dumplings      |
+| Lucky Instrument    | Fretless Bass |
+| Lucky Flower        | Heliotrope    |
+| Lucky Job           | Police Officer       |
+| Lucky Exercise      | Handball  |
+| Lucky Country       | Oman    |
 
 
 ##  Final Reflections on Dreams

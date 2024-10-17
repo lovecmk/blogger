@@ -1,8 +1,8 @@
 ---
     weight: 370
     title: "Dream of not being able to handle tasks or work"  # Assuming 'title' column exists
-    date: 2024-10-13T02:31:00+08:00
-    lastmod: 2024-10-13T02:31:00+08:00
+    date: 2024-10-11T21:54:00+08:00
+    lastmod: 2024-10-11T21:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'able', 'handle', 'to', 'Dream', 'being', 'not', 'tasks', 'of', 'work']
+    tags: ['being', 'Dream', 'to', 'tasks', 'handle', 'not', 'able', 'work']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is to give you a chance to prepare for the upcoming work.
 | Lucky Animal        | Otter |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Deviled Eggs      |
-| Lucky Instrument    | Claves |
-| Lucky Flower        | Bee Balm    |
-| Lucky Job           | Neuroscientist       |
-| Lucky Exercise      | Rugby  |
-| Lucky Country       | New Zealand    |
+| Lucky Food          | Prawn Crackers      |
+| Lucky Instrument    | Guitar |
+| Lucky Flower        | Maranta    |
+| Lucky Job           | Event Coordinator       |
+| Lucky Exercise      | Resistance Bands  |
+| Lucky Country       | United States    |
 
 
 ##  Final Reflections on Dreams

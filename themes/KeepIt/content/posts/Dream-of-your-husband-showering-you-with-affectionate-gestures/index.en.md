@@ -1,8 +1,8 @@
 ---
     weight: 2125
     title: "Dream of your grandmother admiring your creative endeavors."  # Assuming 'title' column exists
-    date: 2024-10-13T06:00:00+08:00
-    lastmod: 2024-10-13T06:00:00+08:00
+    date: 2024-10-11T23:10:00+08:00
+    lastmod: 2024-10-11T23:10:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['endeavors.', 'grandmother', 'admiring', 'your', 'Dream', 'creative', 'of']
+    tags: ['endeavors', 'Dream', 'grandmother', 'creative', 'admiring']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Chicken |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Green     |
-| Lucky Food          | Stir Fry      |
-| Lucky Instrument    | Recorder |
-| Lucky Flower        | Peach Blossom    |
-| Lucky Job           | Lawyer       |
-| Lucky Exercise      | Running  |
-| Lucky Country       | Vanuatu    |
+| Lucky Food          | Tiramisu      |
+| Lucky Instrument    | Melodica |
+| Lucky Flower        | Hollyhock    |
+| Lucky Job           | Web Designer       |
+| Lucky Exercise      | Gymnastics  |
+| Lucky Country       | Papua New Guinea    |
 
 
 ##  Final Reflections on Dreams

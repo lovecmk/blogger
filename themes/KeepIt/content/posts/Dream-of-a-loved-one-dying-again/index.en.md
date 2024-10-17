@@ -1,8 +1,8 @@
 ---
     weight: 1856
     title: "Dream of walking hand in hand with your grandmother, feeling her warmth."  # Assuming 'title' column exists
-    date: 2024-10-13T08:04:00+08:00
-    lastmod: 2024-10-13T08:04:00+08:00
+    date: 2024-10-14T14:09:00+08:00
+    lastmod: 2024-10-14T14:09:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['feeling', 'her', 'your', 'Dream', 'warmth.', 'hand', 'in', 'grandmother,', 'of', 'with', 'walking']
+    tags: ['grandmother,', 'hand', 'Dream', 'walking', 'warmth', 'her', 'feeling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,11 +59,11 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Deviled Eggs      |
-| Lucky Instrument    | Tromba |
-| Lucky Flower        | Clover Blossom    |
-| Lucky Job           | Nurse       |
-| Lucky Exercise      | Martial Arts  |
+| Lucky Food          | Cornbread      |
+| Lucky Instrument    | Ney |
+| Lucky Flower        | Petal Plant    |
+| Lucky Job           | Mechanic       |
+| Lucky Exercise      | Pole Vaulting  |
 | Lucky Country       | Israel    |
 
 

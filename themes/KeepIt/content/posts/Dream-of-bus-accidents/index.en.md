@@ -1,8 +1,8 @@
 ---
     weight: 791
     title: "Dream of bus accidents"  # Assuming 'title' column exists
-    date: 2024-10-13T03:25:00+08:00
-    lastmod: 2024-10-13T03:25:00+08:00
+    date: 2024-10-13T11:23:00+08:00
+    lastmod: 2024-10-13T11:23:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['accidents', 'of', 'bus', 'Dream']
+    tags: ['bus', 'Dream', 'accidents']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ It is more likely that the dream of a bus accident is a warning that uses attent
 | Lucky Animal        | Guinea pig |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Bruschetta      |
-| Lucky Instrument    | Horn |
-| Lucky Flower        | Marigold    |
-| Lucky Job           | Chef       |
+| Lucky Food          | Biryani      |
+| Lucky Instrument    | Melodic Percussion |
+| Lucky Flower        | Scabiosa    |
+| Lucky Job           | Pastry Chef       |
 | Lucky Exercise      | Bouldering  |
-| Lucky Country       | Malaysia    |
+| Lucky Country       | Kuwait    |
 
 
 ##  Final Reflections on Dreams

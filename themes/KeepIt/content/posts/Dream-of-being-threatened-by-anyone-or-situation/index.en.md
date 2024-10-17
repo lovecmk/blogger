@@ -1,8 +1,8 @@
 ---
     weight: 467
     title: "Dream of being threatened by anyone or situation"  # Assuming 'title' column exists
-    date: 2024-10-13T11:10:00+08:00
-    lastmod: 2024-10-13T11:10:00+08:00
+    date: 2024-10-13T16:17:00+08:00
+    lastmod: 2024-10-13T16:17:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['threatened', 'or', 'Dream', 'anyone', 'being', 'situation', 'by', 'of']
+    tags: ['being', 'Dream', 'threatened', 'anyone', 'situation']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is that you can improve your ability to cope and overcome
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Chocolate Mousse      |
-| Lucky Instrument    | Pandeiro |
-| Lucky Flower        | Hydrangea    |
-| Lucky Job           | Construction Worker       |
-| Lucky Exercise      | Lifting  |
-| Lucky Country       | Pakistan    |
+| Lucky Food          | Corn on the Cob      |
+| Lucky Instrument    | Erhu |
+| Lucky Flower        | Zinnia    |
+| Lucky Job           | Dentist       |
+| Lucky Exercise      | Rugby  |
+| Lucky Country       | Lebanon    |
 
 
 ##  Final Reflections on Dreams

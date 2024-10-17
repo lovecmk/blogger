@@ -1,8 +1,8 @@
 ---
     weight: 1761
     title: "Dream of successfully starting a profitable business or venture."  # Assuming 'title' column exists
-    date: 2024-10-13T08:42:00+08:00
-    lastmod: 2024-10-13T08:42:00+08:00
+    date: 2024-10-15T15:41:00+08:00
+    lastmod: 2024-10-15T15:41:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['business', 'or', 'successfully', 'Dream', 'starting', 'a', 'profitable', 'of', 'venture.']
+    tags: ['venture', 'successfully', 'business', 'Dream', 'starting', 'profitable']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Baked Potato      |
-| Lucky Instrument    | Oboe |
-| Lucky Flower        | Mullein    |
-| Lucky Job           | Physical Therapist       |
-| Lucky Exercise      | Box Jumps  |
-| Lucky Country       | Malawi    |
+| Lucky Food          | Bruschetta      |
+| Lucky Instrument    | Didgeridoo |
+| Lucky Flower        | Zinnia    |
+| Lucky Job           | User Researcher       |
+| Lucky Exercise      | Discus Throw  |
+| Lucky Country       | Netherlands    |
 
 
 ##  Final Reflections on Dreams

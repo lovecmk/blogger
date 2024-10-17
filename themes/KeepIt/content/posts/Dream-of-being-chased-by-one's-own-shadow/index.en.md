@@ -1,8 +1,8 @@
 ---
     weight: 930
     title: "Dream of being chased by one's own shadow"  # Assuming 'title' column exists
-    date: 2024-10-13T00:59:00+08:00
-    lastmod: 2024-10-13T00:59:00+08:00
+    date: 2024-10-15T11:54:00+08:00
+    lastmod: 2024-10-15T11:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['own', 'Dream', 'being', "one's", 'shadow', 'by', 'of', 'chased']
+    tags: ['being', 'chased', 'Dream', "one's", 'shadow', 'own']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The good luck of this dream can be the integration and growth of the self by rec
 | Lucky Animal        | Spider |
 | Lucky Place         | Museum     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Sushi      |
-| Lucky Instrument    | Steel Pan |
-| Lucky Flower        | Sunflower    |
-| Lucky Job           | Actor       |
-| Lucky Exercise      | Kayaking  |
-| Lucky Country       | Egypt    |
+| Lucky Food          | Quesadilla      |
+| Lucky Instrument    | Lap Steel Guitar |
+| Lucky Flower        | Daisy    |
+| Lucky Job           | Real Estate Agent       |
+| Lucky Exercise      | Pull-Ups  |
+| Lucky Country       | Croatia    |
 
 
 ##  Final Reflections on Dreams

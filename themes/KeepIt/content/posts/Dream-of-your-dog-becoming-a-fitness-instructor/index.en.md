@@ -1,8 +1,8 @@
 ---
     weight: 1443
     title: "Dream of your dog becoming a fitness instructor"  # Assuming 'title' column exists
-    date: 2024-10-13T15:54:00+08:00
-    lastmod: 2024-10-13T15:54:00+08:00
+    date: 2024-10-14T21:21:00+08:00
+    lastmod: 2024-10-14T21:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['instructor', 'fitness', 'your', 'Dream', 'dog', 'a', 'of', 'becoming']
+    tags: ['instructor', 'Dream', 'becoming', 'fitness', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams themselves do not bring luck, but this dream could be seen as a positive 
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Samosa      |
-| Lucky Instrument    | Sackbut |
-| Lucky Flower        | Lotus    |
-| Lucky Job           | Veterinarian       |
-| Lucky Exercise      | Box Jumps  |
-| Lucky Country       | Canada    |
+| Lucky Food          | Shrimp      |
+| Lucky Instrument    | Guitar |
+| Lucky Flower        | Zantedeschia    |
+| Lucky Job           | Event Coordinator       |
+| Lucky Exercise      | Gymnastics  |
+| Lucky Country       | Portugal    |
 
 
 ##  Final Reflections on Dreams

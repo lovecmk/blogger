@@ -1,8 +1,8 @@
 ---
     weight: 1410
     title: "Dream of going on a spiritual journey"  # Assuming 'title' column exists
-    date: 2024-10-13T10:36:00+08:00
-    lastmod: 2024-10-13T10:36:00+08:00
+    date: 2024-10-12T06:55:00+08:00
+    lastmod: 2024-10-12T06:55:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['journey', 'Dream', 'going', 'spiritual', 'a', 'on', 'of']
+    tags: ['Dream', 'journey', 'going', 'spiritual']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams can be seen as a reflection of our subconscious thoughts and emotions, an
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Nachos      |
-| Lucky Instrument    | Glockenspiel |
-| Lucky Flower        | Sea Holly    |
-| Lucky Job           | Copywriter       |
-| Lucky Exercise      | Kettlebell Training  |
-| Lucky Country       | Angola    |
+| Lucky Food          | Ceviche      |
+| Lucky Instrument    | Melodic Percussion |
+| Lucky Flower        | Cactus Flower    |
+| Lucky Job           | Mechanic       |
+| Lucky Exercise      | Horseback Riding  |
+| Lucky Country       | India    |
 
 
 ##  Final Reflections on Dreams

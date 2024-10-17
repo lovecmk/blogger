@@ -1,8 +1,8 @@
 ---
     weight: 968
     title: "Dream of falling into a fish tank"  # Assuming 'title' column exists
-    date: 2024-10-13T03:25:00+08:00
-    lastmod: 2024-10-13T03:25:00+08:00
+    date: 2024-10-12T22:29:00+08:00
+    lastmod: 2024-10-12T22:29:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fish', 'into', 'falling', 'Dream', 'tank', 'a', 'of']
+    tags: ['Dream', 'into', 'falling', 'tank', 'fish']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ It is rare that the dream of falling into a fish tank symbolizes luck, but you m
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Red     |
-| Lucky Food          | Tofu      |
-| Lucky Instrument    | Melodica |
-| Lucky Flower        | Jade Plant    |
-| Lucky Job           | Nurse       |
-| Lucky Exercise      | Interval Training  |
-| Lucky Country       | Papua New Guinea    |
+| Lucky Food          | Burger      |
+| Lucky Instrument    | Bandoneon |
+| Lucky Flower        | Monkey Grass    |
+| Lucky Job           | IT Specialist       |
+| Lucky Exercise      | Pole Vaulting  |
+| Lucky Country       | Switzerland    |
 
 
 ##  Final Reflections on Dreams

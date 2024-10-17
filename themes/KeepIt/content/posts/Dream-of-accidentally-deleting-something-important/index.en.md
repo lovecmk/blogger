@@ -1,8 +1,8 @@
 ---
     weight: 1308
     title: "Dream of accidentally deleting something important"  # Assuming 'title' column exists
-    date: 2024-10-13T12:45:00+08:00
-    lastmod: 2024-10-13T12:45:00+08:00
+    date: 2024-10-12T09:31:00+08:00
+    lastmod: 2024-10-12T09:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'deleting', 'accidentally', 'of', 'something', 'important']
+    tags: ['Dream', 'important', 'deleting', 'accidentally', 'something']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream does not directly bring luck, but it serves as a warning or reminder 
 | Lucky Animal        | Chicken |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Caramel Flan      |
-| Lucky Instrument    | Djembe |
-| Lucky Flower        | Stephanotis    |
-| Lucky Job           | Landscaper       |
-| Lucky Exercise      | Javelin  |
-| Lucky Country       | Canada    |
+| Lucky Food          | Fajitas      |
+| Lucky Instrument    | Balalaika |
+| Lucky Flower        | Yarrow    |
+| Lucky Job           | IT Specialist       |
+| Lucky Exercise      | Handball  |
+| Lucky Country       | Switzerland    |
 
 
 ##  Final Reflections on Dreams

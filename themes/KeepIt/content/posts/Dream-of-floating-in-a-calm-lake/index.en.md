@@ -1,8 +1,8 @@
 ---
     weight: 606
     title: "Dream of floating in a calm lake"  # Assuming 'title' column exists
-    date: 2024-10-13T07:54:00+08:00
-    lastmod: 2024-10-13T07:54:00+08:00
+    date: 2024-10-14T22:21:00+08:00
+    lastmod: 2024-10-14T22:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lake', 'floating', 'calm', 'Dream', 'a', 'in', 'of']
+    tags: ['Dream', 'lake', 'floating', 'calm']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be interpreted as coming from finding peace and stabi
 | Lucky Animal        | Gorilla |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Paella      |
-| Lucky Instrument    | Electric Violin |
-| Lucky Flower        | Cherry Blossom    |
-| Lucky Job           | Producer       |
-| Lucky Exercise      | Mountain Climbers  |
-| Lucky Country       | Latvia    |
+| Lucky Food          | Pesto      |
+| Lucky Instrument    | Sackbut |
+| Lucky Flower        | Nasturtium    |
+| Lucky Job           | Photographer       |
+| Lucky Exercise      | Hot Yoga  |
+| Lucky Country       | Germany    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1303
     title: "Dream of being a pedestrian in an accident"  # Assuming 'title' column exists
-    date: 2024-10-13T05:28:00+08:00
-    lastmod: 2024-10-13T05:28:00+08:00
+    date: 2024-10-12T00:48:00+08:00
+    lastmod: 2024-10-12T00:48:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'being', 'pedestrian', 'a', 'an', 'accident', 'in', 'of']
+    tags: ['being', 'Dream', 'accident', 'pedestrian', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Cat |
 | Lucky Place         | Library     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Caprese Skewers      |
-| Lucky Instrument    | Electric Cello |
-| Lucky Flower        | Ragged Robin    |
-| Lucky Job           | Writer       |
-| Lucky Exercise      | Lifting  |
-| Lucky Country       | Turkey    |
+| Lucky Food          | Sushi Roll      |
+| Lucky Instrument    | Fretless Bass |
+| Lucky Flower        | Sweet Pea    |
+| Lucky Job           | Archaeologist       |
+| Lucky Exercise      | Capoeira  |
+| Lucky Country       | Nepal    |
 
 
 ##  Final Reflections on Dreams

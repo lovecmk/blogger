@@ -1,8 +1,8 @@
 ---
     weight: 1106
     title: "Dream about weasel"  # Assuming 'title' column exists
-    date: 2024-10-13T03:55:00+08:00
-    lastmod: 2024-10-13T03:55:00+08:00
+    date: 2024-10-15T17:56:00+08:00
+    lastmod: 2024-10-15T17:56:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['about', 'Dream', 'weasel']
+    tags: ['weasel', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The dream of 'weasel' can symbolize various luck and positive energy.Feashbi can
 | Lucky Animal        | Lizard |
 | Lucky Place         | Museum     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Gnocchi      |
-| Lucky Instrument    | Basset Horn |
-| Lucky Flower        | Geranium    |
-| Lucky Job           | Customer Service Representative       |
-| Lucky Exercise      | Snowboarding  |
-| Lucky Country       | Papua New Guinea    |
+| Lucky Food          | Chia Pudding      |
+| Lucky Instrument    | Oboe |
+| Lucky Flower        | Vinca    |
+| Lucky Job           | Taxi Driver       |
+| Lucky Exercise      | Running  |
+| Lucky Country       | Estonia    |
 
 
 ##  Final Reflections on Dreams

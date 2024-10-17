@@ -1,8 +1,8 @@
 ---
     weight: 949
     title: "Dream falling from space"  # Assuming 'title' column exists
-    date: 2024-10-13T04:33:00+08:00
-    lastmod: 2024-10-13T04:33:00+08:00
+    date: 2024-10-14T04:22:00+08:00
+    lastmod: 2024-10-14T04:22:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['from', 'space', 'falling', 'Dream']
+    tags: ['from', 'falling', 'Dream', 'space']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Dreams of falling from space can show lucky for freedom and adventure.Through th
 | Lucky Animal        | Fox |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Baked Potato      |
-| Lucky Instrument    | Drums |
-| Lucky Flower        | Rudbeckia    |
-| Lucky Job           | Consultant       |
-| Lucky Exercise      | CrossFit  |
-| Lucky Country       | Kazakhstan    |
+| Lucky Food          | Fruit Tart      |
+| Lucky Instrument    | Darbuka |
+| Lucky Flower        | Pincushion Flower    |
+| Lucky Job           | Business Analyst       |
+| Lucky Exercise      | Hula Hooping  |
+| Lucky Country       | Azerbaijan    |
 
 
 ##  Final Reflections on Dreams

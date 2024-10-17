@@ -1,8 +1,8 @@
 ---
     weight: 1702
     title: "Dream of experiencing a deep sense of despair"  # Assuming 'title' column exists
-    date: 2024-10-13T08:56:00+08:00
-    lastmod: 2024-10-13T08:56:00+08:00
+    date: 2024-10-14T19:51:00+08:00
+    lastmod: 2024-10-14T19:51:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['deep', 'experiencing', 'Dream', 'a', 'despair', 'of', 'sense']
+    tags: ['experiencing', 'Dream', 'sense', 'deep', 'despair']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hyena |
 | Lucky Place         | Library     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Baklava      |
-| Lucky Instrument    | Pipa |
-| Lucky Flower        | Geranium    |
-| Lucky Job           | Interpreter       |
-| Lucky Exercise      | Jump Squats  |
-| Lucky Country       | Pakistan    |
+| Lucky Food          | Risotto      |
+| Lucky Instrument    | Sitar |
+| Lucky Flower        | Bouvardia    |
+| Lucky Job           | Marketing Manager       |
+| Lucky Exercise      | Snowshoeing  |
+| Lucky Country       | Tajikistan    |
 
 
 ##  Final Reflections on Dreams

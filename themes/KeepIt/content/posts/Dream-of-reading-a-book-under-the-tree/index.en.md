@@ -1,8 +1,8 @@
 ---
     weight: 598
     title: "Dream of reading a book under the tree"  # Assuming 'title' column exists
-    date: 2024-10-13T21:32:00+08:00
-    lastmod: 2024-10-13T21:32:00+08:00
+    date: 2024-10-15T21:07:00+08:00
+    lastmod: 2024-10-15T21:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['tree', 'the', 'Dream', 'book', 'reading', 'a', 'of', 'under']
+    tags: ['Dream', 'reading', 'tree', 'under', 'book']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Luck in dreams can vary depending on the situation and meaning.But in general, t
 | Lucky Animal        | Monkey |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Roast Chicken      |
-| Lucky Instrument    | Melodica |
-| Lucky Flower        | Marigold    |
-| Lucky Job           | Insurance Underwriter       |
-| Lucky Exercise      | CrossFit  |
-| Lucky Country       | Portugal    |
+| Lucky Food          | Steak      |
+| Lucky Instrument    | Tuba Horn |
+| Lucky Flower        | Bellflower    |
+| Lucky Job           | Insurance Agent       |
+| Lucky Exercise      | Swimming  |
+| Lucky Country       | Lithuania    |
 
 
 ##  Final Reflections on Dreams

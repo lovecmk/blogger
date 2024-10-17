@@ -1,8 +1,8 @@
 ---
     weight: 1319
     title: "Dream of visiting a remote village"  # Assuming 'title' column exists
-    date: 2024-10-13T10:14:00+08:00
-    lastmod: 2024-10-13T10:14:00+08:00
+    date: 2024-10-11T01:18:00+08:00
+    lastmod: 2024-10-11T01:18:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['remote', 'Dream', 'visiting', 'a', 'village', 'of']
+    tags: ['Dream', 'visiting', 'remote', 'village']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Elephant |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Pork Chops      |
-| Lucky Instrument    | Keyboard Synthesizer |
-| Lucky Flower        | Hellebore    |
-| Lucky Job           | Bus Driver       |
-| Lucky Exercise      | Jumping Rope  |
-| Lucky Country       | Armenia    |
+| Lucky Food          | Baklava      |
+| Lucky Instrument    | Melodica |
+| Lucky Flower        | Edelweiss    |
+| Lucky Job           | Artist       |
+| Lucky Exercise      | Softball  |
+| Lucky Country       | Papua New Guinea    |
 
 
 ##  Final Reflections on Dreams

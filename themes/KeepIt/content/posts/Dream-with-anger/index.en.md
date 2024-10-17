@@ -1,8 +1,8 @@
 ---
     weight: 987
     title: "Dream with anger"  # Assuming 'title' column exists
-    date: 2024-10-13T14:40:00+08:00
-    lastmod: 2024-10-13T14:40:00+08:00
+    date: 2024-10-12T08:17:00+08:00
+    lastmod: 2024-10-12T08:17:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['anger', 'with', 'Dream']
+    tags: ['anger', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The signs of 'dream with anger' are things, situations, and characters related t
 | Lucky Animal        | Deer |
 | Lucky Place         | Lake     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Burrito      |
-| Lucky Instrument    | Accordion |
-| Lucky Flower        | Firecracker Plant    |
-| Lucky Job           | Data Analyst       |
-| Lucky Exercise      | Discus Throw  |
-| Lucky Country       | Cambodia    |
+| Lucky Food          | Spring Roll      |
+| Lucky Instrument    | Piccolo Trumpet |
+| Lucky Flower        | Carnation    |
+| Lucky Job           | Nurse       |
+| Lucky Exercise      | Hiking  |
+| Lucky Country       | Italy    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1302
     title: "Dream of trying to fix something broken"  # Assuming 'title' column exists
-    date: 2024-10-13T15:09:00+08:00
-    lastmod: 2024-10-13T15:09:00+08:00
+    date: 2024-10-15T11:54:00+08:00
+    lastmod: 2024-10-15T11:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['to', 'Dream', 'trying', 'broken', 'fix', 'of', 'something']
+    tags: ['trying', 'Dream', 'to', 'broken', 'something', 'fix']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Parrot |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Dumplings      |
-| Lucky Instrument    | Trumpet |
-| Lucky Flower        | Fuchsia    |
-| Lucky Job           | Police Officer       |
-| Lucky Exercise      | Kickboxing  |
-| Lucky Country       | Singapore    |
+| Lucky Food          | Tacos      |
+| Lucky Instrument    | Zouaves |
+| Lucky Flower        | Crown Daisy    |
+| Lucky Job           | Makeup Artist       |
+| Lucky Exercise      | Kite Surfing  |
+| Lucky Country       | Mozambique    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 134
     title: "A dream of thinking about her childhood with her daughter"  # Assuming 'title' column exists
-    date: 2024-10-13T03:27:00+08:00
-    lastmod: 2024-10-13T03:27:00+08:00
+    date: 2024-10-14T16:43:00+08:00
+    lastmod: 2024-10-14T16:43:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['about', 'her', 'daughter', 'dream', 'childhood', 'of', 'A', 'with', 'thinking']
+    tags: ['childhood', 'dream', 'thinking', 'A', 'her', 'daughter']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is to realize the importance of deep connection with daug
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Lake     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Scone      |
-| Lucky Instrument    | Melodica |
-| Lucky Flower        | Cornflower    |
-| Lucky Job           | Insurance Underwriter       |
-| Lucky Exercise      | Kripalu Yoga  |
-| Lucky Country       | Bahrain    |
+| Lucky Food          | Baklava      |
+| Lucky Instrument    | Violin Bow |
+| Lucky Flower        | Gladiolus    |
+| Lucky Job           | Writer       |
+| Lucky Exercise      | Plank  |
+| Lucky Country       | Solomon Islands    |
 
 
 ##  Final Reflections on Dreams

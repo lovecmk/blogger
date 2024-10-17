@@ -1,8 +1,8 @@
 ---
     weight: 435
     title: "Dream of running away from cities or buildings"  # Assuming 'title' column exists
-    date: 2024-10-13T22:54:00+08:00
-    lastmod: 2024-10-13T22:54:00+08:00
+    date: 2024-10-12T17:17:00+08:00
+    lastmod: 2024-10-12T17:17:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'running', 'away', 'Dream', 'buildings', 'from', 'of', 'cities']
+    tags: ['buildings', 'Dream', 'running', 'cities', 'from', 'away']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual's experience and int
 | Lucky Animal        | Kangaroo |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Risotto      |
-| Lucky Instrument    | Cajón |
-| Lucky Flower        | Lotus    |
-| Lucky Job           | Mechanic       |
-| Lucky Exercise      | Tai Chi  |
-| Lucky Country       | Brunei    |
+| Lucky Food          | Crab      |
+| Lucky Instrument    | Saz |
+| Lucky Flower        | Rudbeckia    |
+| Lucky Job           | Chef de Cuisine       |
+| Lucky Exercise      | Foam Rolling  |
+| Lucky Country       | Namibia    |
 
 
 ##  Final Reflections on Dreams

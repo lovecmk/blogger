@@ -1,8 +1,8 @@
 ---
     weight: 462
     title: "Dream of disappointment to others"  # Assuming 'title' column exists
-    date: 2024-10-13T20:14:00+08:00
-    lastmod: 2024-10-13T20:14:00+08:00
+    date: 2024-10-13T09:50:00+08:00
+    lastmod: 2024-10-13T09:50:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['to', 'Dream', 'others', 'disappointment', 'of']
+    tags: ['others', 'Dream', 'to', 'disappointment']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can occur by correcting and improving the current mistake
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Mart     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Vegetarian Chili      |
-| Lucky Instrument    | Trumpet |
-| Lucky Flower        | Larkspur    |
-| Lucky Job           | Postman       |
-| Lucky Exercise      | Salsa  |
-| Lucky Country       | Lithuania    |
+| Lucky Food          | Beef Tacos      |
+| Lucky Instrument    | Darabuka |
+| Lucky Flower        | Bellflower    |
+| Lucky Job           | Mathematician       |
+| Lucky Exercise      | Sledge Hockey  |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

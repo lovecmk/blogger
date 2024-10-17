@@ -1,8 +1,8 @@
 ---
     weight: 2104
     title: "Dream of a visitation from an angel of death"  # Assuming 'title' column exists
-    date: 2024-10-13T02:32:00+08:00
-    lastmod: 2024-10-13T02:32:00+08:00
+    date: 2024-10-11T04:31:00+08:00
+    lastmod: 2024-10-11T04:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['death', 'visitation', 'angel', 'Dream', 'a', 'an', 'from', 'of']
+    tags: ['visitation', 'Dream', 'death', 'from', 'angel', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Gorilla |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Seafood Paella      |
-| Lucky Instrument    | Calimba |
-| Lucky Flower        | Hoya    |
-| Lucky Job           | Postman       |
-| Lucky Exercise      | Interval Training  |
-| Lucky Country       | Germany    |
+| Lucky Food          | Ratatouille      |
+| Lucky Instrument    | Recorder |
+| Lucky Flower        | Peony    |
+| Lucky Job           | App Developer       |
+| Lucky Exercise      | Sit-Ups  |
+| Lucky Country       | Kuwait    |
 
 
 ##  Final Reflections on Dreams

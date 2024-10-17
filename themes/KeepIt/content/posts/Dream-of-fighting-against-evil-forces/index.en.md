@@ -1,8 +1,8 @@
 ---
     weight: 1564
     title: "Dream of fighting against evil forces"  # Assuming 'title' column exists
-    date: 2024-10-13T16:53:00+08:00
-    lastmod: 2024-10-13T16:53:00+08:00
+    date: 2024-10-12T10:26:00+08:00
+    lastmod: 2024-10-12T10:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['forces', 'fighting', 'against', 'evil', 'Dream', 'of']
+    tags: ['Dream', 'evil', 'fighting', 'forces']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Dog |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Sushi      |
-| Lucky Instrument    | Cowbell |
-| Lucky Flower        | Lobelia    |
-| Lucky Job           | Mathematician       |
-| Lucky Exercise      | Kettlebell Training  |
-| Lucky Country       | Namibia    |
+| Lucky Food          | Salad      |
+| Lucky Instrument    | Harmonica |
+| Lucky Flower        | Cactus Flower    |
+| Lucky Job           | Firefighter       |
+| Lucky Exercise      | Belly Dancing  |
+| Lucky Country       | China    |
 
 
 ##  Final Reflections on Dreams

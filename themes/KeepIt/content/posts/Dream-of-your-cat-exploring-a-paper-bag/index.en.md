@@ -1,8 +1,8 @@
 ---
     weight: 2013
     title: "Dream of a deceased relative visiting you"  # Assuming 'title' column exists
-    date: 2024-10-13T18:07:00+08:00
-    lastmod: 2024-10-13T18:07:00+08:00
+    date: 2024-10-12T12:45:00+08:00
+    lastmod: 2024-10-12T12:45:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'visiting', 'a', 'relative', 'of', 'you', 'deceased']
+    tags: ['Dream', 'deceased', 'visiting', 'relative', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hamster |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Biryani      |
-| Lucky Instrument    | Maracas |
-| Lucky Flower        | Moss Rose    |
-| Lucky Job           | Journalist       |
-| Lucky Exercise      | Spin Class  |
-| Lucky Country       | Uzbekistan    |
+| Lucky Food          | Shrimp      |
+| Lucky Instrument    | Rudra Veena |
+| Lucky Flower        | Celosia    |
+| Lucky Job           | IT Specialist       |
+| Lucky Exercise      | Dance Aerobics  |
+| Lucky Country       | Eswatini    |
 
 
 ##  Final Reflections on Dreams

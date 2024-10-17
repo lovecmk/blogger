@@ -1,8 +1,8 @@
 ---
     weight: 1213
     title: "Dream about artist"  # Assuming 'title' column exists
-    date: 2024-10-13T07:58:00+08:00
-    lastmod: 2024-10-13T07:58:00+08:00
+    date: 2024-10-15T12:07:00+08:00
+    lastmod: 2024-10-15T12:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['artist', 'about', 'Dream']
+    tags: ['Dream', 'artist']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of the 'painter' dream may generally mean that it provides an opportuni
 | Lucky Animal        | Hyena |
 | Lucky Place         | Library     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Prawn Crackers      |
-| Lucky Instrument    | Dulcimer |
-| Lucky Flower        | Heather    |
-| Lucky Job           | Interior Designer       |
-| Lucky Exercise      | Kite Surfing  |
-| Lucky Country       | Pakistan    |
+| Lucky Food          | Gumbo      |
+| Lucky Instrument    | Maracas |
+| Lucky Flower        | Edelweiss    |
+| Lucky Job           | Flight Attendant       |
+| Lucky Exercise      | Yoga  |
+| Lucky Country       | Kuwait    |
 
 
 ##  Final Reflections on Dreams

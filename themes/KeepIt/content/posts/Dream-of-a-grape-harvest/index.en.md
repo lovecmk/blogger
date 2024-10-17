@@ -1,8 +1,8 @@
 ---
     weight: 2108
     title: "Dream of snacking on blackberries by the river"  # Assuming 'title' column exists
-    date: 2024-10-13T07:23:00+08:00
-    lastmod: 2024-10-13T07:23:00+08:00
+    date: 2024-10-13T11:31:00+08:00
+    lastmod: 2024-10-13T11:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'Dream', 'river', 'on', 'by', 'blackberries', 'of', 'snacking']
+    tags: ['Dream', 'snacking', 'river', 'blackberries']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams generally don't bring specific luck. However, if you perceive this dream 
 | Lucky Animal        | Hippo |
 | Lucky Place         | River     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Casserole      |
-| Lucky Instrument    | Timpani |
-| Lucky Flower        | Heliotrope    |
-| Lucky Job           | Oceanographer       |
-| Lucky Exercise      | High-Intensity Interval Training (HIIT)  |
-| Lucky Country       | Bulgaria    |
+| Lucky Food          | Tiramisu      |
+| Lucky Instrument    | Pandeiro |
+| Lucky Flower        | Tiger Lily    |
+| Lucky Job           | Fitness Instructor       |
+| Lucky Exercise      | Lifting  |
+| Lucky Country       | Sri Lanka    |
 
 
 ##  Final Reflections on Dreams

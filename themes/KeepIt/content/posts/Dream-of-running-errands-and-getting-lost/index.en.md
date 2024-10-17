@@ -1,8 +1,8 @@
 ---
     weight: 1473
     title: "Dream of running errands and getting lost"  # Assuming 'title' column exists
-    date: 2024-10-13T22:44:00+08:00
-    lastmod: 2024-10-13T22:44:00+08:00
+    date: 2024-10-11T07:17:00+08:00
+    lastmod: 2024-10-11T07:17:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lost', 'running', 'errands', 'Dream', 'and', 'of', 'getting']
+    tags: ['lost', 'errands', 'Dream', 'running', 'getting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Fox |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | White     |
-| Lucky Food          | Sandwich      |
-| Lucky Instrument    | Harmonic Piano |
-| Lucky Flower        | Lotus    |
-| Lucky Job           | Security Guard       |
-| Lucky Exercise      | Hiking  |
-| Lucky Country       | Portugal    |
+| Lucky Food          | Samosa      |
+| Lucky Instrument    | Sarangi |
+| Lucky Flower        | Lavender    |
+| Lucky Job           | Social Worker       |
+| Lucky Exercise      | Yoga Flow  |
+| Lucky Country       | Laos    |
 
 
 ##  Final Reflections on Dreams

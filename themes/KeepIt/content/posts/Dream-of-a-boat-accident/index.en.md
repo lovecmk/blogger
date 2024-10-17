@@ -1,8 +1,8 @@
 ---
     weight: 794
     title: "Dream of a boat accident"  # Assuming 'title' column exists
-    date: 2024-10-13T00:28:00+08:00
-    lastmod: 2024-10-13T00:28:00+08:00
+    date: 2024-10-15T04:13:00+08:00
+    lastmod: 2024-10-15T04:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['boat', 'Dream', 'a', 'accident', 'of']
+    tags: ['Dream', 'boat', 'accident']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream is generally not a symbol of good luck, but it can be accepted as an 
 | Lucky Animal        | Ostrich |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Croissant      |
-| Lucky Instrument    | Cowbell |
-| Lucky Flower        | Lily    |
-| Lucky Job           | Field Technician       |
-| Lucky Exercise      | Trail Running  |
-| Lucky Country       | Afghanistan    |
+| Lucky Food          | Potato Skins      |
+| Lucky Instrument    | Ukulele |
+| Lucky Flower        | Celosia    |
+| Lucky Job           | Statistician       |
+| Lucky Exercise      | Crunches  |
+| Lucky Country       | Bahrain    |
 
 
 ##  Final Reflections on Dreams

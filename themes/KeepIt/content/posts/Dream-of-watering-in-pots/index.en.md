@@ -1,8 +1,8 @@
 ---
     weight: 568
     title: "Dream of watering in pots"  # Assuming 'title' column exists
-    date: 2024-10-13T08:59:00+08:00
-    lastmod: 2024-10-13T08:59:00+08:00
+    date: 2024-10-13T05:38:00+08:00
+    lastmod: 2024-10-13T05:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['watering', 'Dream', 'pots', 'in', 'of']
+    tags: ['Dream', 'watering', 'pots']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can be associated with the luck of your growth and development.This l
 | Lucky Animal        | Camel |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Burger      |
-| Lucky Instrument    | Steel Pan |
-| Lucky Flower        | Feverfew    |
-| Lucky Job           | Pastry Chef       |
-| Lucky Exercise      | Spin Class  |
-| Lucky Country       | Netherlands    |
+| Lucky Food          | Scallops      |
+| Lucky Instrument    | Fujara |
+| Lucky Flower        | Lilac    |
+| Lucky Job           | Technical Writer       |
+| Lucky Exercise      | Dancing  |
+| Lucky Country       | Argentina    |
 
 
 ##  Final Reflections on Dreams

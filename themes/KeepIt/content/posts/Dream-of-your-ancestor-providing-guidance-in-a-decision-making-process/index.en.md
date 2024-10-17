@@ -1,8 +1,8 @@
 ---
     weight: 1726
     title: "Dream of fighting against an invasion"  # Assuming 'title' column exists
-    date: 2024-10-13T08:09:00+08:00
-    lastmod: 2024-10-13T08:09:00+08:00
+    date: 2024-10-12T01:45:00+08:00
+    lastmod: 2024-10-12T01:45:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fighting', 'against', 'Dream', 'invasion', 'an', 'of']
+    tags: ['Dream', 'fighting', 'invasion', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ While dreams are not necessarily connected to luck in a traditional sense, this 
 | Lucky Animal        | Hamster |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Omelette      |
-| Lucky Instrument    | Mandolin |
-| Lucky Flower        | Pincushion Flower    |
+| Lucky Food          | Baked Ziti      |
+| Lucky Instrument    | Clarinet |
+| Lucky Flower        | Vinca    |
 | Lucky Job           | Pharmacist       |
-| Lucky Exercise      | Basketball  |
-| Lucky Country       | Croatia    |
+| Lucky Exercise      | Ultimate Frisbee  |
+| Lucky Country       | Russia    |
 
 
 ##  Final Reflections on Dreams

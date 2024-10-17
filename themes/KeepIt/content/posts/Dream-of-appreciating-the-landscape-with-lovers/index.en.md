@@ -1,8 +1,8 @@
 ---
     weight: 199
     title: "Dream of appreciating the landscape with lovers"  # Assuming 'title' column exists
-    date: 2024-10-13T01:44:00+08:00
-    lastmod: 2024-10-13T01:44:00+08:00
+    date: 2024-10-11T17:09:00+08:00
+    lastmod: 2024-10-11T17:09:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['landscape', 'lovers', 'the', 'appreciating', 'Dream', 'of', 'with']
+    tags: ['lovers', 'Dream', 'appreciating', 'landscape']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can foretell the luck and abundance between lovers.In particular, it 
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Theater     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Clams      |
-| Lucky Instrument    | Maracas |
-| Lucky Flower        | Alyssum    |
-| Lucky Job           | Financial Analyst       |
-| Lucky Exercise      | Kripalu Yoga  |
-| Lucky Country       | Georgia    |
+| Lucky Food          | Fried Rice      |
+| Lucky Instrument    | Harmonium |
+| Lucky Flower        | Balsam    |
+| Lucky Job           | Brand Manager       |
+| Lucky Exercise      | Skating  |
+| Lucky Country       | Malta    |
 
 
 ##  Final Reflections on Dreams

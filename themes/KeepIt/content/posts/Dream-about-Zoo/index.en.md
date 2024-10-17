@@ -1,8 +1,8 @@
 ---
     weight: 1174
     title: "Dream about Zoo"  # Assuming 'title' column exists
-    date: 2024-10-13T04:47:00+08:00
-    lastmod: 2024-10-13T04:47:00+08:00
+    date: 2024-10-13T13:55:00+08:00
+    lastmod: 2024-10-13T13:55:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Zoo', 'about', 'Dream']
+    tags: ['Zoo', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'zoo' dreams can vary depending on the interpretation of the individ
 | Lucky Animal        | Gorilla |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Popcorn      |
-| Lucky Instrument    | Oboe |
-| Lucky Flower        | Gillyflower    |
-| Lucky Job           | Business Analyst       |
-| Lucky Exercise      | Foam Rolling  |
-| Lucky Country       | United Kingdom    |
+| Lucky Food          | Guacamole      |
+| Lucky Instrument    | Sitar |
+| Lucky Flower        | Cactus Flower    |
+| Lucky Job           | Doctor       |
+| Lucky Exercise      | Running  |
+| Lucky Country       | Cyprus    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 2022
     title: "Dream of indulging in cherries at a picnic"  # Assuming 'title' column exists
-    date: 2024-10-13T04:17:00+08:00
-    lastmod: 2024-10-13T04:17:00+08:00
+    date: 2024-10-12T21:08:00+08:00
+    lastmod: 2024-10-12T21:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['picnic', 'Dream', 'cherries', 'a', 'in', 'of', 'indulging', 'at']
+    tags: ['Dream', 'cherries', 'indulging', 'picnic']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Seal |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Red     |
-| Lucky Food          | Fruit Smoothie      |
-| Lucky Instrument    | Chimes |
-| Lucky Flower        | Petunia    |
-| Lucky Job           | Astrophysicist       |
-| Lucky Exercise      | Hot Yoga  |
-| Lucky Country       | Thailand    |
+| Lucky Food          | Pizza      |
+| Lucky Instrument    | Darabuka |
+| Lucky Flower        | Sea Holly    |
+| Lucky Job           | Environmental Scientist       |
+| Lucky Exercise      | Step Aerobics  |
+| Lucky Country       | Czech Republic    |
 
 
 ##  Final Reflections on Dreams

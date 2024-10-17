@@ -1,8 +1,8 @@
 ---
     weight: 1566
     title: "Dream of receiving money for a successful sale or transaction."  # Assuming 'title' column exists
-    date: 2024-10-13T00:11:00+08:00
-    lastmod: 2024-10-13T00:11:00+08:00
+    date: 2024-10-12T00:58:00+08:00
+    lastmod: 2024-10-12T00:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['receiving', 'or', 'transaction.', 'money', 'Dream', 'for', 'a', 'of', 'sale', 'successful']
+    tags: ['Dream', 'money', 'receiving', 'transaction', 'sale', 'successful']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Owl |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Caprese Salad      |
-| Lucky Instrument    | Snare Drum |
-| Lucky Flower        | Pelargonium    |
-| Lucky Job           | Baker       |
-| Lucky Exercise      | Bench Press  |
-| Lucky Country       | Cambodia    |
+| Lucky Food          | Falafel      |
+| Lucky Instrument    | Clarinet |
+| Lucky Flower        | Stock    |
+| Lucky Job           | Translator       |
+| Lucky Exercise      | Discus Throw  |
+| Lucky Country       | Norway    |
 
 
 ##  Final Reflections on Dreams

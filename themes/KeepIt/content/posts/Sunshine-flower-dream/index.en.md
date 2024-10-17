@@ -1,8 +1,8 @@
 ---
     weight: 543
     title: "Sunshine flower dream"  # Assuming 'title' column exists
-    date: 2024-10-13T04:27:00+08:00
-    lastmod: 2024-10-13T04:27:00+08:00
+    date: 2024-10-14T01:12:00+08:00
+    lastmod: 2024-10-14T01:12:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['flower', 'Sunshine', 'dream']
+    tags: ['flower', 'dream', 'Sunshine']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream generally shows good luck and positive change.The sunshine and flower
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Chicken Curry      |
-| Lucky Instrument    | Maracas |
-| Lucky Flower        | Aster    |
-| Lucky Job           | Web Developer       |
-| Lucky Exercise      | Ballet  |
-| Lucky Country       | Egypt    |
+| Lucky Food          | Fruit Tart      |
+| Lucky Instrument    | Djembe |
+| Lucky Flower        | Agapanthus    |
+| Lucky Job           | Farmer       |
+| Lucky Exercise      | Stand-Up Paddleboarding  |
+| Lucky Country       | Ireland    |
 
 
 ##  Final Reflections on Dreams

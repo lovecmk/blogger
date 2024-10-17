@@ -1,8 +1,8 @@
 ---
     weight: 2158
     title: "Dream of arguments over family separations"  # Assuming 'title' column exists
-    date: 2024-10-13T12:23:00+08:00
-    lastmod: 2024-10-13T12:23:00+08:00
+    date: 2024-10-13T07:09:00+08:00
+    lastmod: 2024-10-13T07:09:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['separations', 'family', 'arguments', 'Dream', 'over', 'of']
+    tags: ['family', 'separations', 'Dream', 'over', 'arguments']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Otter |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Minestrone      |
-| Lucky Instrument    | Flute |
-| Lucky Flower        | Scented Geranium    |
-| Lucky Job           | Sales Representative       |
-| Lucky Exercise      | Lacrosse  |
-| Lucky Country       | Italy    |
+| Lucky Food          | Baked Ziti      |
+| Lucky Instrument    | Oboe |
+| Lucky Flower        | Foxglove    |
+| Lucky Job           | Photographer       |
+| Lucky Exercise      | Parkour Training  |
+| Lucky Country       | Bhutan    |
 
 
 ##  Final Reflections on Dreams

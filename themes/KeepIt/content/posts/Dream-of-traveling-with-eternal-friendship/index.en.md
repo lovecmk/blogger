@@ -1,8 +1,8 @@
 ---
     weight: 653
     title: "Dream of traveling with eternal friendship"  # Assuming 'title' column exists
-    date: 2024-10-13T18:21:00+08:00
-    lastmod: 2024-10-13T18:21:00+08:00
+    date: 2024-10-11T16:21:00+08:00
+    lastmod: 2024-10-11T16:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'eternal', 'traveling', 'Dream', 'friendship', 'with']
+    tags: ['eternal', 'Dream', 'traveling', 'friendship']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you good luck and positive change.Time with loved and trust
 | Lucky Animal        | Pig |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Chowder      |
-| Lucky Instrument    | Trombone Slide |
-| Lucky Flower        | Chive Blossom    |
-| Lucky Job           | Sales Representative       |
-| Lucky Exercise      | Hula Hooping  |
-| Lucky Country       | Vanuatu    |
+| Lucky Food          | Beef Wellington      |
+| Lucky Instrument    | Piccolo |
+| Lucky Flower        | Alyssum    |
+| Lucky Job           | Firefighter       |
+| Lucky Exercise      | Kickboxing  |
+| Lucky Country       | Italy    |
 
 
 ##  Final Reflections on Dreams

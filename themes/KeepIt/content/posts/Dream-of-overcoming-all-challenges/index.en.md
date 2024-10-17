@@ -1,8 +1,8 @@
 ---
     weight: 271
     title: "Dream of overcoming all challenges"  # Assuming 'title' column exists
-    date: 2024-10-13T00:15:00+08:00
-    lastmod: 2024-10-13T00:15:00+08:00
+    date: 2024-10-11T20:26:00+08:00
+    lastmod: 2024-10-11T20:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['challenges', 'overcoming', 'Dream', 'all', 'of']
+    tags: ['Dream', 'overcoming', 'challenges', 'all']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The dream of overcoming all challenges can give you a message that you can exper
 | Lucky Animal        | Elephant |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Stuffed Peppers      |
-| Lucky Instrument    | Slide Guitar |
-| Lucky Flower        | Cornflower    |
-| Lucky Job           | Project Manager       |
-| Lucky Exercise      | Handball  |
-| Lucky Country       | Brazil    |
+| Lucky Food          | Nachos      |
+| Lucky Instrument    | Octobass |
+| Lucky Flower        | Anemone    |
+| Lucky Job           | Teacher       |
+| Lucky Exercise      | Sledge Hockey  |
+| Lucky Country       | Samoa    |
 
 
 ##  Final Reflections on Dreams

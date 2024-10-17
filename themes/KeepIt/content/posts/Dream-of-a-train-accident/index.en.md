@@ -1,8 +1,8 @@
 ---
     weight: 792
     title: "Dream of a train accident"  # Assuming 'title' column exists
-    date: 2024-10-13T05:09:00+08:00
-    lastmod: 2024-10-13T05:09:00+08:00
+    date: 2024-10-11T02:56:00+08:00
+    lastmod: 2024-10-11T02:56:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'train', 'a', 'accident', 'of']
+    tags: ['Dream', 'train', 'accident']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of the dream of a train accident can generally be alert to unexpected p
 | Lucky Animal        | Gorilla |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Gumbo      |
-| Lucky Instrument    | Tenor Banjo |
-| Lucky Flower        | Bellflower    |
-| Lucky Job           | User Researcher       |
-| Lucky Exercise      | Stair Climbing  |
-| Lucky Country       | United Kingdom    |
+| Lucky Food          | Noodles      |
+| Lucky Instrument    | Keyboard Synthesizer |
+| Lucky Flower        | Anemone    |
+| Lucky Job           | Plumber       |
+| Lucky Exercise      | Yoga  |
+| Lucky Country       | Kazakhstan    |
 
 
 ##  Final Reflections on Dreams

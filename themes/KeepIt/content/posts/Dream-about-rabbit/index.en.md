@@ -1,8 +1,8 @@
 ---
     weight: 1130
     title: "Dream about rabbit"  # Assuming 'title' column exists
-    date: 2024-10-13T16:24:00+08:00
-    lastmod: 2024-10-13T16:24:00+08:00
+    date: 2024-10-12T08:43:00+08:00
+    lastmod: 2024-10-12T08:43:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['rabbit', 'about', 'Dream']
+    tags: ['rabbit', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can symbolize good luck or positive change.Rabbits usually show insta
 | Lucky Animal        | Turtle |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Black     |
-| Lucky Food          | Chili      |
-| Lucky Instrument    | Fiddle |
-| Lucky Flower        | Sweet William    |
-| Lucky Job           | Web Designer       |
-| Lucky Exercise      | Squash  |
-| Lucky Country       | Iran    |
+| Lucky Food          | Kebab      |
+| Lucky Instrument    | Darabuka |
+| Lucky Flower        | Narcissus    |
+| Lucky Job           | Psychologist       |
+| Lucky Exercise      | Beach Volleyball  |
+| Lucky Country       | Laos    |
 
 
 ##  Final Reflections on Dreams

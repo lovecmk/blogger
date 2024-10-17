@@ -1,8 +1,8 @@
 ---
     weight: 1591
     title: "Dream of arguments about family legacies"  # Assuming 'title' column exists
-    date: 2024-10-13T08:46:00+08:00
-    lastmod: 2024-10-13T08:46:00+08:00
+    date: 2024-10-14T00:47:00+08:00
+    lastmod: 2024-10-14T00:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'about', 'arguments', 'Dream', 'legacies', 'of']
+    tags: ['family', 'Dream', 'legacies', 'arguments']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Dog |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Paella      |
-| Lucky Instrument    | Bongo Drums |
-| Lucky Flower        | Bee Balm    |
-| Lucky Job           | Sous Chef       |
-| Lucky Exercise      | Rowing  |
-| Lucky Country       | Brunei    |
+| Lucky Food          | Fruit Tart      |
+| Lucky Instrument    | Sitar |
+| Lucky Flower        | Stock    |
+| Lucky Job           | Musician       |
+| Lucky Exercise      | Kite Surfing  |
+| Lucky Country       | Qatar    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1535
     title: "Dream of being betrayed by a friend"  # Assuming 'title' column exists
-    date: 2024-10-13T11:45:00+08:00
-    lastmod: 2024-10-13T11:45:00+08:00
+    date: 2024-10-15T09:21:00+08:00
+    lastmod: 2024-10-15T09:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['friend', 'betrayed', 'Dream', 'being', 'a', 'by', 'of']
+    tags: ['being', 'betrayed', 'Dream', 'friend']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Cat |
 | Lucky Place         | School     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Gumbo      |
-| Lucky Instrument    | Recorder |
-| Lucky Flower        | Lobelia    |
-| Lucky Job           | Network Administrator       |
-| Lucky Exercise      | Capoeira  |
-| Lucky Country       | Malaysia    |
+| Lucky Food          | Onion Rings      |
+| Lucky Instrument    | Chimes |
+| Lucky Flower        | Swan River Daisy    |
+| Lucky Job           | Artist       |
+| Lucky Exercise      | Rock Climbing  |
+| Lucky Country       | Greece    |
 
 
 ##  Final Reflections on Dreams

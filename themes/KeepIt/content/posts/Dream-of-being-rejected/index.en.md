@@ -1,8 +1,8 @@
 ---
     weight: 1685
     title: "Dream of being attacked by an animal"  # Assuming 'title' column exists
-    date: 2024-10-13T21:56:00+08:00
-    lastmod: 2024-10-13T21:56:00+08:00
+    date: 2024-10-15T00:46:00+08:00
+    lastmod: 2024-10-15T00:46:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'being', 'animal', 'an', 'by', 'of', 'attacked']
+    tags: ['being', 'animal', 'Dream', 'attacked', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Elephant |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Omelette      |
-| Lucky Instrument    | Xylophone |
-| Lucky Flower        | Sage    |
-| Lucky Job           | Financial Analyst       |
-| Lucky Exercise      | Dance Aerobics  |
-| Lucky Country       | Yemen    |
+| Lucky Food          | Beef Wellington      |
+| Lucky Instrument    | Electric Violin |
+| Lucky Flower        | Buttercup    |
+| Lucky Job           | Nuclear Engineer       |
+| Lucky Exercise      | Fencing  |
+| Lucky Country       | Uzbekistan    |
 
 
 ##  Final Reflections on Dreams

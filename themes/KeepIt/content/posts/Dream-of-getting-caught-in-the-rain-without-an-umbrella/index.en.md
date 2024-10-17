@@ -1,8 +1,8 @@
 ---
     weight: 1339
     title: "Dream of getting caught in the rain without an umbrella"  # Assuming 'title' column exists
-    date: 2024-10-13T21:09:00+08:00
-    lastmod: 2024-10-13T21:09:00+08:00
+    date: 2024-10-11T14:00:00+08:00
+    lastmod: 2024-10-11T14:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['umbrella', 'caught', 'without', 'the', 'Dream', 'rain', 'an', 'in', 'of', 'getting']
+    tags: ['Dream', 'caught', 'getting', 'rain', 'without', 'umbrella', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Dog |
 | Lucky Place         | Mart     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Quesadilla      |
-| Lucky Instrument    | Timpani |
-| Lucky Flower        | Anemone    |
-| Lucky Job           | Taxi Driver       |
-| Lucky Exercise      | Lunges  |
-| Lucky Country       | Spain    |
+| Lucky Food          | Lasagna      |
+| Lucky Instrument    | Erhu |
+| Lucky Flower        | Firecracker Plant    |
+| Lucky Job           | IT Specialist       |
+| Lucky Exercise      | Foam Rolling  |
+| Lucky Country       | Uzbekistan    |
 
 
 ##  Final Reflections on Dreams

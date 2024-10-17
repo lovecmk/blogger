@@ -1,8 +1,8 @@
 ---
     weight: 1440
     title: "Dream of dealing with a pest infestation"  # Assuming 'title' column exists
-    date: 2024-10-13T00:40:00+08:00
-    lastmod: 2024-10-13T00:40:00+08:00
+    date: 2024-10-13T22:51:00+08:00
+    lastmod: 2024-10-13T22:51:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['pest', 'Dream', 'a', 'infestation', 'of', 'with', 'dealing']
+    tags: ['Dream', 'pest', 'dealing', 'infestation']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Camel |
 | Lucky Place         | Lake     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Chicken Curry      |
-| Lucky Instrument    | Zither |
-| Lucky Flower        | Hydrangea    |
-| Lucky Job           | Architect       |
-| Lucky Exercise      | Sledge Hockey  |
-| Lucky Country       | Laos    |
+| Lucky Food          | Shepherd's Pie      |
+| Lucky Instrument    | Bandoneon |
+| Lucky Flower        | Aster    |
+| Lucky Job           | Writer       |
+| Lucky Exercise      | Foam Rolling  |
+| Lucky Country       | Belgium    |
 
 
 ##  Final Reflections on Dreams

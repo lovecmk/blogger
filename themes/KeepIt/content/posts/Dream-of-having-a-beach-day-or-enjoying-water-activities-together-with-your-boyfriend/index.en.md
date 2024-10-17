@@ -1,8 +1,8 @@
 ---
     weight: 1776
     title: "Dream of participating in a cultural ritual or ceremony honoring your ancestors."  # Assuming 'title' column exists
-    date: 2024-10-13T15:05:00+08:00
-    lastmod: 2024-10-13T15:05:00+08:00
+    date: 2024-10-12T01:00:00+08:00
+    lastmod: 2024-10-12T01:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'honoring', 'your', 'ritual', 'Dream', 'participating', 'a', 'ceremony', 'in', 'cultural', 'of', 'ancestors.']
+    tags: ['Dream', 'participating', 'cultural', 'ritual', 'ceremony', 'honoring', 'ancestors']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Gorilla |
 | Lucky Place         | Beach     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Corn on the Cob      |
-| Lucky Instrument    | Oboe |
-| Lucky Flower        | Ragged Robin    |
-| Lucky Job           | Business Analyst       |
-| Lucky Exercise      | Juggling  |
-| Lucky Country       | Ireland    |
+| Lucky Food          | Minestrone      |
+| Lucky Instrument    | Piccolo Trumpet |
+| Lucky Flower        | Clover Blossom    |
+| Lucky Job           | Marketing Manager       |
+| Lucky Exercise      | Stand-Up Paddleboarding  |
+| Lucky Country       | United States    |
 
 
 ##  Final Reflections on Dreams

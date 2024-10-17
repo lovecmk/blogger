@@ -1,8 +1,8 @@
 ---
     weight: 327
     title: "Dream of sharing worries with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T08:48:00+08:00
-    lastmod: 2024-10-13T08:48:00+08:00
+    date: 2024-10-15T04:51:00+08:00
+    lastmod: 2024-10-15T04:51:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['worries', 'your', 'boyfriend', 'Dream', 'sharing', 'of', 'with']
+    tags: ['Dream', 'boyfriend', 'sharing', 'worries']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'dream of sharing with your boyfriend' can appear in many forms.This
 | Lucky Animal        | Hyena |
 | Lucky Place         | Beach     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Fruit Salad      |
-| Lucky Instrument    | Accordion |
-| Lucky Flower        | Cherry Blossom    |
-| Lucky Job           | Taxi Driver       |
-| Lucky Exercise      | Hiking  |
-| Lucky Country       | Turkey    |
+| Lucky Food          | Lentil Soup      |
+| Lucky Instrument    | Snare Drum |
+| Lucky Flower        | Marigold    |
+| Lucky Job           | Plumber       |
+| Lucky Exercise      | Jump Squats  |
+| Lucky Country       | Saudi Arabia    |
 
 
 ##  Final Reflections on Dreams

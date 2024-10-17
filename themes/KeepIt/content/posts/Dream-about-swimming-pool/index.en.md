@@ -1,8 +1,8 @@
 ---
     weight: 1200
     title: "Dream about swimming pool"  # Assuming 'title' column exists
-    date: 2024-10-13T13:35:00+08:00
-    lastmod: 2024-10-13T13:35:00+08:00
+    date: 2024-10-11T22:19:00+08:00
+    lastmod: 2024-10-11T22:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['swimming', 'about', 'Dream', 'pool']
+    tags: ['swimming', 'pool', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'pool' dreams can occur in various ways.The pool symbolizes freedom,
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Beach     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Seafood Paella      |
-| Lucky Instrument    | Electric Violin |
-| Lucky Flower        | Buttercup    |
-| Lucky Job           | Pharmacist       |
-| Lucky Exercise      | Ashtanga Yoga  |
-| Lucky Country       | Brazil    |
+| Lucky Food          | Bagel      |
+| Lucky Instrument    | Piccolo |
+| Lucky Flower        | Fuchsia    |
+| Lucky Job           | Web Designer       |
+| Lucky Exercise      | Salsa  |
+| Lucky Country       | Australia    |
 
 
 ##  Final Reflections on Dreams

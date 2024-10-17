@@ -1,8 +1,8 @@
 ---
     weight: 1299
     title: "Dream of losing something sentimental"  # Assuming 'title' column exists
-    date: 2024-10-13T03:41:00+08:00
-    lastmod: 2024-10-13T03:41:00+08:00
+    date: 2024-10-11T03:33:00+08:00
+    lastmod: 2024-10-11T03:33:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['sentimental', 'Dream', 'of', 'something', 'losing']
+    tags: ['Dream', 'losing', 'sentimental', 'something']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream does not necessarily bring luck in the traditional sense. Rather, it 
 | Lucky Animal        | Fox |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Green     |
-| Lucky Food          | Coconut Shrimp      |
-| Lucky Instrument    | Charango |
-| Lucky Flower        | Hellebore    |
-| Lucky Job           | Journalist       |
-| Lucky Exercise      | Lifting  |
-| Lucky Country       | Cambodia    |
+| Lucky Food          | Falafel      |
+| Lucky Instrument    | Tuba Horn |
+| Lucky Flower        | Foxglove    |
+| Lucky Job           | Philosopher       |
+| Lucky Exercise      | Fencing  |
+| Lucky Country       | Ireland    |
 
 
 ##  Final Reflections on Dreams

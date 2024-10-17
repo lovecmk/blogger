@@ -1,8 +1,8 @@
 ---
     weight: 2119
     title: "Dream of disputes about family solidarity"  # Assuming 'title' column exists
-    date: 2024-10-13T18:31:00+08:00
-    lastmod: 2024-10-13T18:31:00+08:00
+    date: 2024-10-14T21:25:00+08:00
+    lastmod: 2024-10-14T21:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'about', 'Dream', 'solidarity', 'of', 'disputes']
+    tags: ['family', 'Dream', 'solidarity', 'disputes']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ The dream of an orange grove implies that luck is on your side. It may bring goo
 | Lucky Animal        | Dog |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Bruschetta      |
-| Lucky Instrument    | Marimba |
-| Lucky Flower        | Butterfly Bush    |
-| Lucky Job           | Content Creator       |
-| Lucky Exercise      | Futsal  |
-| Lucky Country       | Netherlands    |
+| Lucky Food          | Risotto      |
+| Lucky Instrument    | Tama |
+| Lucky Flower        | Cherry Blossom    |
+| Lucky Job           | Technical Writer       |
+| Lucky Exercise      | Lifting  |
+| Lucky Country       | Vanuatu    |
 
 
 ##  Final Reflections on Dreams

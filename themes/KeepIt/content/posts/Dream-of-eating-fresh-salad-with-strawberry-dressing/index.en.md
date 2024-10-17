@@ -1,8 +1,8 @@
 ---
     weight: 19
     title: "Dream of eating fresh salad with strawberry dressing"  # Assuming 'title' column exists
-    date: 2024-10-13T12:20:00+08:00
-    lastmod: 2024-10-13T12:20:00+08:00
+    date: 2024-10-13T15:22:00+08:00
+    lastmod: 2024-10-13T15:22:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fresh', 'eating', 'salad', 'dressing', 'Dream', 'strawberry', 'of', 'with']
+    tags: ['fresh', 'Dream', 'strawberry', 'eating', 'dressing', 'salad']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can mean joy and joy.The combination of salad and strawberry dressing
 | Lucky Animal        | Fox |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Pasta Salad      |
-| Lucky Instrument    | Triangle |
-| Lucky Flower        | Snapdragon    |
-| Lucky Job           | Researcher       |
-| Lucky Exercise      | Running  |
-| Lucky Country       | Denmark    |
+| Lucky Food          | Lentil Soup      |
+| Lucky Instrument    | Tabor |
+| Lucky Flower        | Tansy    |
+| Lucky Job           | Taxi Driver       |
+| Lucky Exercise      | Dancing  |
+| Lucky Country       | Turkey    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1216
     title: "Dream about designer"  # Assuming 'title' column exists
-    date: 2024-10-13T11:18:00+08:00
-    lastmod: 2024-10-13T11:18:00+08:00
+    date: 2024-10-14T05:58:00+08:00
+    lastmod: 2024-10-14T05:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['designer', 'about', 'Dream']
+    tags: ['designer', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Dreams often suggest us good luck.Dreams as a designer can predict the luck of c
 | Lucky Animal        | Seal |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Chocolate Mousse      |
-| Lucky Instrument    | Calimba |
-| Lucky Flower        | Buttercup    |
-| Lucky Job           | Neuroscientist       |
-| Lucky Exercise      | Burpees  |
-| Lucky Country       | Ukraine    |
+| Lucky Food          | Sushi Roll      |
+| Lucky Instrument    | Violin |
+| Lucky Flower        | Mullein    |
+| Lucky Job           | Quality Assurance Tester       |
+| Lucky Exercise      | Juggling  |
+| Lucky Country       | Croatia    |
 
 
 ##  Final Reflections on Dreams

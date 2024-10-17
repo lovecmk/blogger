@@ -1,8 +1,8 @@
 ---
     weight: 1004
     title: "Affectionate dream"  # Assuming 'title' column exists
-    date: 2024-10-13T14:26:00+08:00
-    lastmod: 2024-10-13T14:26:00+08:00
+    date: 2024-10-11T15:55:00+08:00
+    lastmod: 2024-10-11T15:55:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Affectionate', 'dream']
+    tags: ['dream', 'Affectionate']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary from person to person.But if you have a dream of
 | Lucky Animal        | Hippo |
 | Lucky Place         | Academy     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Chowder      |
-| Lucky Instrument    | Tuba Horn |
-| Lucky Flower        | Nymphaea    |
-| Lucky Job           | Research Scientist       |
-| Lucky Exercise      | Leg Press  |
-| Lucky Country       | Syria    |
+| Lucky Food          | Omelette      |
+| Lucky Instrument    | Bassoon |
+| Lucky Flower        | Petal Plant    |
+| Lucky Job           | Sous Chef       |
+| Lucky Exercise      | Futsal  |
+| Lucky Country       | Estonia    |
 
 
 ##  Final Reflections on Dreams

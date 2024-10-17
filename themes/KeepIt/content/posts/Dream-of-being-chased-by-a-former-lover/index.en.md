@@ -1,8 +1,8 @@
 ---
     weight: 923
     title: "Dream of being chased by a former lover"  # Assuming 'title' column exists
-    date: 2024-10-13T17:30:00+08:00
-    lastmod: 2024-10-13T17:30:00+08:00
+    date: 2024-10-12T03:30:00+08:00
+    lastmod: 2024-10-12T03:30:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['former', 'lover', 'Dream', 'being', 'a', 'by', 'of', 'chased']
+    tags: ['being', 'chased', 'Dream', 'former', 'lover']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary by personal interpretation.But in general, this 
 | Lucky Animal        | Tiger |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Shrimp      |
-| Lucky Instrument    | Ukulele |
-| Lucky Flower        | Perennial Aster    |
-| Lucky Job           | Database Administrator       |
-| Lucky Exercise      | Kayaking  |
-| Lucky Country       | Angola    |
+| Lucky Food          | Waffles      |
+| Lucky Instrument    | Bass Drum |
+| Lucky Flower        | Lobelia    |
+| Lucky Job           | Insurance Agent       |
+| Lucky Exercise      | Tennis  |
+| Lucky Country       | Russia    |
 
 
 ##  Final Reflections on Dreams

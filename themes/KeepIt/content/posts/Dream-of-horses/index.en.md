@@ -1,8 +1,8 @@
 ---
     weight: 850
     title: "Dream of horses"  # Assuming 'title' column exists
-    date: 2024-10-13T08:18:00+08:00
-    lastmod: 2024-10-13T08:18:00+08:00
+    date: 2024-10-11T14:28:00+08:00
+    lastmod: 2024-10-11T14:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['horses', 'of', 'Dream']
+    tags: ['horses', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can provide opportunities to attract good luck by expressing your own
 | Lucky Animal        | Dog |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | White     |
-| Lucky Food          | Pasta Salad      |
-| Lucky Instrument    | Tabor |
-| Lucky Flower        | Vinca    |
-| Lucky Job           | Data Analyst       |
-| Lucky Exercise      | Kripalu Yoga  |
-| Lucky Country       | Jordan    |
+| Lucky Food          | Gelato      |
+| Lucky Instrument    | Didgeridoo |
+| Lucky Flower        | Calla Lily    |
+| Lucky Job           | User Researcher       |
+| Lucky Exercise      | Salsa  |
+| Lucky Country       | United Kingdom    |
 
 
 ##  Final Reflections on Dreams

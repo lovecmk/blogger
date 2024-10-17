@@ -1,8 +1,8 @@
 ---
     weight: 2197
     title: "Dream of your cat exploring a new room"  # Assuming 'title' column exists
-    date: 2024-10-13T17:09:00+08:00
-    lastmod: 2024-10-13T17:09:00+08:00
+    date: 2024-10-11T11:31:00+08:00
+    lastmod: 2024-10-11T11:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['new', 'room', 'your', 'cat', 'Dream', 'a', 'of', 'exploring']
+    tags: ['Dream', 'exploring', 'cat', 'new', 'room']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Horse |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Deviled Eggs      |
-| Lucky Instrument    | Bongo Drums |
-| Lucky Flower        | Ranunculus    |
-| Lucky Job           | Recruiter       |
-| Lucky Exercise      | Squash  |
-| Lucky Country       | Micronesia    |
+| Lucky Food          | Tart      |
+| Lucky Instrument    | Darabuka |
+| Lucky Flower        | Sage    |
+| Lucky Job           | Pharmacist       |
+| Lucky Exercise      | Jump Squats  |
+| Lucky Country       | France    |
 
 
 ##  Final Reflections on Dreams

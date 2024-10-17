@@ -1,8 +1,8 @@
 ---
     weight: 1909
     title: "Dream of your cat climbing onto a high perch"  # Assuming 'title' column exists
-    date: 2024-10-13T01:59:00+08:00
-    lastmod: 2024-10-13T01:59:00+08:00
+    date: 2024-10-11T17:50:00+08:00
+    lastmod: 2024-10-11T17:50:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['climbing', 'your', 'cat', 'Dream', 'onto', 'perch', 'a', 'of', 'high']
+    tags: ['high', 'Dream', 'onto', 'cat', 'perch', 'climbing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams of being cheated on by a partner are not commonly associated with bringin
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Baba Ganoush      |
-| Lucky Instrument    | Darbuka |
-| Lucky Flower        | Edelweiss    |
-| Lucky Job           | Dentist       |
-| Lucky Exercise      | Interval Training  |
-| Lucky Country       | Hungary    |
+| Lucky Food          | Pork Chops      |
+| Lucky Instrument    | Trumpet |
+| Lucky Flower        | Petal Plant    |
+| Lucky Job           | Life Coach       |
+| Lucky Exercise      | Surfing  |
+| Lucky Country       | Qatar    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 689
     title: "Dream of camping with friends after a long time"  # Assuming 'title' column exists
-    date: 2024-10-13T21:56:00+08:00
-    lastmod: 2024-10-13T21:56:00+08:00
+    date: 2024-10-13T09:28:00+08:00
+    lastmod: 2024-10-13T09:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['long', 'after', 'camping', 'Dream', 'a', 'time', 'of', 'with', 'friends']
+    tags: ['camping', 'Dream', 'long', 'time', 'after', 'friends']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can show a lot of luck.With friends can mean social connection, commu
 | Lucky Animal        | Elephant |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Beef Wellington      |
-| Lucky Instrument    | Rudra Veena |
-| Lucky Flower        | Scabiosa    |
-| Lucky Job           | Personal Trainer       |
-| Lucky Exercise      | Hiking  |
-| Lucky Country       | Palau    |
+| Lucky Food          | Eggplant Parmesan      |
+| Lucky Instrument    | Lyre |
+| Lucky Flower        | Clover    |
+| Lucky Job           | Architect       |
+| Lucky Exercise      | Parkour Training  |
+| Lucky Country       | Russia    |
 
 
 ##  Final Reflections on Dreams

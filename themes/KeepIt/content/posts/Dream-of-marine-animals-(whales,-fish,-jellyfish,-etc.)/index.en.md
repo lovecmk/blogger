@@ -1,8 +1,8 @@
 ---
     weight: 862
     title: "Dream of marine animals (whales, fish, jellyfish, etc.)"  # Assuming 'title' column exists
-    date: 2024-10-13T15:14:00+08:00
-    lastmod: 2024-10-13T15:14:00+08:00
+    date: 2024-10-13T06:52:00+08:00
+    lastmod: 2024-10-13T06:52:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['animals', 'fish,', 'Dream', 'jellyfish,', '(whales,', 'etc.)', 'marine', 'of']
+    tags: ['Dream', 'marine', 'etc)', 'jellyfish,', 'fish,', '(whales,', 'animals']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual.However, in general,
 | Lucky Animal        | Bear |
 | Lucky Place         | River     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Cheesecake      |
-| Lucky Instrument    | Piccolo Trumpet |
-| Lucky Flower        | Periwinkle    |
-| Lucky Job           | Bus Driver       |
-| Lucky Exercise      | Mobility Training  |
-| Lucky Country       | Nigeria    |
+| Lucky Food          | Pancakes      |
+| Lucky Instrument    | Synthesizer |
+| Lucky Flower        | Sweet Pea    |
+| Lucky Job           | Social Worker       |
+| Lucky Exercise      | Bench Press  |
+| Lucky Country       | South Africa    |
 
 
 ##  Final Reflections on Dreams

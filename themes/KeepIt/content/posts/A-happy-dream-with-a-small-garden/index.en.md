@@ -1,8 +1,8 @@
 ---
     weight: 572
     title: "A happy dream with a small garden"  # Assuming 'title' column exists
-    date: 2024-10-13T00:05:00+08:00
-    lastmod: 2024-10-13T00:05:00+08:00
+    date: 2024-10-15T00:54:00+08:00
+    lastmod: 2024-10-15T00:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['small', 'a', 'dream', 'happy', 'with', 'A', 'garden']
+    tags: ['happy', 'garden', 'small', 'dream', 'A']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream conveys a message that you can find good luck through everyday happin
 | Lucky Animal        | Koala |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Beef Tacos      |
-| Lucky Instrument    | Balalaika |
-| Lucky Flower        | Dahlia    |
-| Lucky Job           | User Researcher       |
-| Lucky Exercise      | Pull-Ups  |
-| Lucky Country       | China    |
+| Lucky Food          | Tacos      |
+| Lucky Instrument    | Darabuka |
+| Lucky Flower        | Sundew    |
+| Lucky Job           | Environmental Scientist       |
+| Lucky Exercise      | Dancing  |
+| Lucky Country       | Poland    |
 
 
 ##  Final Reflections on Dreams

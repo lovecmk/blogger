@@ -1,8 +1,8 @@
 ---
     weight: 423
     title: "Dream of running away from dangerous animals or monsters"  # Assuming 'title' column exists
-    date: 2024-10-13T23:34:00+08:00
-    lastmod: 2024-10-13T23:34:00+08:00
+    date: 2024-10-12T19:38:00+08:00
+    lastmod: 2024-10-12T19:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['animals', 'or', 'running', 'monsters', 'dangerous', 'away', 'Dream', 'from', 'of']
+    tags: ['Dream', 'running', 'monsters', 'from', 'away', 'dangerous', 'animals']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can show the energy to overcome and run away from your an
 | Lucky Animal        | Pig |
 | Lucky Place         | Beach     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Eggplant Parmesan      |
-| Lucky Instrument    | Pipa |
-| Lucky Flower        | Sweet William    |
-| Lucky Job           | Social Worker       |
-| Lucky Exercise      | Hot Yoga  |
-| Lucky Country       | Netherlands    |
+| Lucky Food          | Stuffed Mushrooms      |
+| Lucky Instrument    | Fiddle |
+| Lucky Flower        | Calla Lily    |
+| Lucky Job           | Archaeologist       |
+| Lucky Exercise      | Powerlifting  |
+| Lucky Country       | Nepal    |
 
 
 ##  Final Reflections on Dreams

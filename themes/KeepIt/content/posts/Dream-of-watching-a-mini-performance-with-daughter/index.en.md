@@ -1,8 +1,8 @@
 ---
     weight: 132
     title: "Dream of watching a mini performance with daughter"  # Assuming 'title' column exists
-    date: 2024-10-13T23:57:00+08:00
-    lastmod: 2024-10-13T23:57:00+08:00
+    date: 2024-10-11T21:11:00+08:00
+    lastmod: 2024-10-11T21:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['performance', 'Dream', 'a', 'daughter', 'mini', 'of', 'watching', 'with']
+    tags: ['Dream', 'mini', 'watching', 'performance', 'daughter']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can symbolize family luck and happiness.The dream of watching a perfo
 | Lucky Animal        | Sloth |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Chicken Curry      |
-| Lucky Instrument    | Tuba Horn |
-| Lucky Flower        | Kalanchoe    |
-| Lucky Job           | Anthropologist       |
-| Lucky Exercise      | Burpees  |
-| Lucky Country       | Iraq    |
+| Lucky Food          | Pancakes      |
+| Lucky Instrument    | Horn |
+| Lucky Flower        | Heliotrope    |
+| Lucky Job           | Technical Writer       |
+| Lucky Exercise      | Fencing  |
+| Lucky Country       | Cambodia    |
 
 
 ##  Final Reflections on Dreams

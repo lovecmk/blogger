@@ -1,8 +1,8 @@
 ---
     weight: 482
     title: "A dream of not being recognized for one's own abilities or competencies"  # Assuming 'title' column exists
-    date: 2024-10-13T04:51:00+08:00
-    lastmod: 2024-10-13T04:51:00+08:00
+    date: 2024-10-14T23:41:00+08:00
+    lastmod: 2024-10-14T23:41:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['own', 'or', 'competencies', 'abilities', 'for', 'being', "one's", 'not', 'dream', 'recognized', 'of', 'A']
+    tags: ['being', 'dream', "one's", 'A', 'own', 'not', 'recognized', 'competencies', 'abilities']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream temporarily indicates questions or anxiety about your abilities, but 
 | Lucky Animal        | Otter |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Chowder      |
-| Lucky Instrument    | Clarinet |
-| Lucky Flower        | Lotus    |
-| Lucky Job           | Bus Driver       |
-| Lucky Exercise      | Hula Hooping  |
-| Lucky Country       | Marshall Islands    |
+| Lucky Food          | Paella      |
+| Lucky Instrument    | Viola |
+| Lucky Flower        | Vinca    |
+| Lucky Job           | Veterinarian       |
+| Lucky Exercise      | Skiing  |
+| Lucky Country       | Iceland    |
 
 
 ##  Final Reflections on Dreams

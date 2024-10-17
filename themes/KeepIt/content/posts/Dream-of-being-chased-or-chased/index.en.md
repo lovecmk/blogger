@@ -1,8 +1,8 @@
 ---
     weight: 346
     title: "Dream of being chased or chased"  # Assuming 'title' column exists
-    date: 2024-10-13T12:32:00+08:00
-    lastmod: 2024-10-13T12:32:00+08:00
+    date: 2024-10-12T08:53:00+08:00
+    lastmod: 2024-10-12T08:53:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'Dream', 'being', 'of', 'chased']
+    tags: ['being', 'chased', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'dream of being chased or chased' usually does not mean direct luck.
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Cornbread      |
-| Lucky Instrument    | Triangle |
-| Lucky Flower        | Alstroemeria    |
-| Lucky Job           | Logistician       |
-| Lucky Exercise      | Dance Aerobics  |
-| Lucky Country       | Argentina    |
+| Lucky Food          | Bruschetta      |
+| Lucky Instrument    | Mandolin |
+| Lucky Flower        | Sea Holly    |
+| Lucky Job           | Firefighter       |
+| Lucky Exercise      | Active Recovery  |
+| Lucky Country       | Belgium    |
 
 
 ##  Final Reflections on Dreams

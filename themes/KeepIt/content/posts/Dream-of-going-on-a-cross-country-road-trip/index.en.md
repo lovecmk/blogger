@@ -1,8 +1,8 @@
 ---
     weight: 1367
     title: "Dream of going on a cross-country road trip"  # Assuming 'title' column exists
-    date: 2024-10-13T07:09:00+08:00
-    lastmod: 2024-10-13T07:09:00+08:00
+    date: 2024-10-14T19:38:00+08:00
+    lastmod: 2024-10-14T19:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['cross-country', 'road', 'trip', 'Dream', 'going', 'a', 'on', 'of']
+    tags: ['Dream', 'going', 'trip', 'cross-country', 'road']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Sparrow |
 | Lucky Place         | Mart     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Biryani      |
-| Lucky Instrument    | Dulcimer |
-| Lucky Flower        | Petunia    |
-| Lucky Job           | Financial Analyst       |
-| Lucky Exercise      | Underwater Diving  |
-| Lucky Country       | China    |
+| Lucky Food          | Brownies      |
+| Lucky Instrument    | Mandolin |
+| Lucky Flower        | Clover    |
+| Lucky Job           | Copywriter       |
+| Lucky Exercise      | Aerobics  |
+| Lucky Country       | Turkmenistan    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 884
     title: "Dream of missing teeth of others"  # Assuming 'title' column exists
-    date: 2024-10-13T22:29:00+08:00
-    lastmod: 2024-10-13T22:29:00+08:00
+    date: 2024-10-14T01:49:00+08:00
+    lastmod: 2024-10-14T01:49:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['missing', 'teeth', 'Dream', 'others', 'of']
+    tags: ['others', 'Dream', 'missing', 'teeth']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ What are the luck of this dream?This dream can symbolize the ability to overcome
 | Lucky Animal        | Fox |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Biryani      |
-| Lucky Instrument    | Mandolin |
-| Lucky Flower        | Zinnia    |
+| Lucky Food          | Tuna Tartare      |
+| Lucky Instrument    | Tenor Banjo |
+| Lucky Flower        | Heliotrope    |
 | Lucky Job           | Mathematician       |
-| Lucky Exercise      | Jumping Rope  |
-| Lucky Country       | Fiji    |
+| Lucky Exercise      | Walking  |
+| Lucky Country       | Armenia    |
 
 
 ##  Final Reflections on Dreams

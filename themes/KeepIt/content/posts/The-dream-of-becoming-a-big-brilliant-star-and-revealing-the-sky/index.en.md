@@ -1,8 +1,8 @@
 ---
     weight: 630
     title: "The dream of becoming a big brilliant star and revealing the sky"  # Assuming 'title' column exists
-    date: 2024-10-13T06:01:00+08:00
-    lastmod: 2024-10-13T06:01:00+08:00
+    date: 2024-10-12T18:00:00+08:00
+    lastmod: 2024-10-12T18:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['brilliant', 'revealing', 'big', 'sky', 'the', 'a', 'dream', 'The', 'and', 'star', 'of', 'becoming']
+    tags: ['The', 'big', 'star', 'revealing', 'dream', 'sky', 'becoming', 'brilliant']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you a positive luck.You will be able to achieve success thr
 | Lucky Animal        | Deer |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Pasta      |
-| Lucky Instrument    | Violin Bow |
-| Lucky Flower        | Lantana    |
-| Lucky Job           | Mechanic       |
-| Lucky Exercise      | Cricket  |
-| Lucky Country       | United Kingdom    |
+| Lucky Food          | Gumbo      |
+| Lucky Instrument    | Piccolo |
+| Lucky Flower        | Pansy    |
+| Lucky Job           | Electrician       |
+| Lucky Exercise      | Soccer  |
+| Lucky Country       | Jordan    |
 
 
 ##  Final Reflections on Dreams

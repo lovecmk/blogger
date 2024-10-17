@@ -1,8 +1,8 @@
 ---
     weight: 139
     title: "Dream of making music with your daughter"  # Assuming 'title' column exists
-    date: 2024-10-13T16:25:00+08:00
-    lastmod: 2024-10-13T16:25:00+08:00
+    date: 2024-10-15T14:01:00+08:00
+    lastmod: 2024-10-15T14:01:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'Dream', 'making', 'daughter', 'of', 'with', 'music']
+    tags: ['Dream', 'making', 'music', 'daughter']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be diverse.It can mean lucky, such as a harmonious re
 | Lucky Animal        | Tiger |
 | Lucky Place         | Sea     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Beef Stroganoff      |
-| Lucky Instrument    | Bandoneon |
-| Lucky Flower        | Scented Geranium    |
-| Lucky Job           | User Researcher       |
-| Lucky Exercise      | Pilates  |
-| Lucky Country       | Philippines    |
+| Lucky Food          | Pulled Pork      |
+| Lucky Instrument    | Claves |
+| Lucky Flower        | Poppy    |
+| Lucky Job           | Marketing Manager       |
+| Lucky Exercise      | Plank  |
+| Lucky Country       | Iceland    |
 
 
 ##  Final Reflections on Dreams

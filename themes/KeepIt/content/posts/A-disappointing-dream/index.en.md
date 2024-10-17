@@ -1,8 +1,8 @@
 ---
     weight: 1021
     title: "A disappointing dream"  # Assuming 'title' column exists
-    date: 2024-10-13T16:08:00+08:00
-    lastmod: 2024-10-13T16:08:00+08:00
+    date: 2024-10-14T02:13:00+08:00
+    lastmod: 2024-10-14T02:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dream', 'A', 'disappointing']
+    tags: ['disappointing', 'dream', 'A']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of disappointing dreams is generally not a symbol of luck.But if this d
 | Lucky Animal        | Elephant |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Beef Tacos      |
-| Lucky Instrument    | Pandeiro |
-| Lucky Flower        | Dahlia    |
-| Lucky Job           | User Researcher       |
-| Lucky Exercise      | Aqua Aerobics  |
-| Lucky Country       | Fiji    |
+| Lucky Food          | Shrimp      |
+| Lucky Instrument    | Glockenspiel |
+| Lucky Flower        | Verbena    |
+| Lucky Job           | Geologist       |
+| Lucky Exercise      | Pole Vaulting  |
+| Lucky Country       | Spain    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 2065
     title: "Dream of being present at someone's last moments"  # Assuming 'title' column exists
-    date: 2024-10-13T11:03:00+08:00
-    lastmod: 2024-10-13T11:03:00+08:00
+    date: 2024-10-13T22:19:00+08:00
+    lastmod: 2024-10-13T22:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['last', 'present', 'moments', 'Dream', "someone's", 'being', 'of', 'at']
+    tags: ['being', 'Dream', 'last', 'moments', "someone's", 'present']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings a sense of luck and suggests that you may experience favorable
 | Lucky Animal        | Camel |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Ceviche      |
-| Lucky Instrument    | Flute |
-| Lucky Flower        | Hoya    |
-| Lucky Job           | Social Worker       |
-| Lucky Exercise      | Racquetball  |
-| Lucky Country       | Portugal    |
+| Lucky Food          | Hummus      |
+| Lucky Instrument    | Tabor |
+| Lucky Flower        | Rose    |
+| Lucky Job           | Operations Manager       |
+| Lucky Exercise      | Active Recovery  |
+| Lucky Country       | Belgium    |
 
 
 ##  Final Reflections on Dreams

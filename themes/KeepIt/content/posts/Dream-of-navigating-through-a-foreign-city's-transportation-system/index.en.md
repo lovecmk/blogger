@@ -1,8 +1,8 @@
 ---
     weight: 1270
     title: "Dream of navigating through a foreign city's transportation system"  # Assuming 'title' column exists
-    date: 2024-10-13T11:03:00+08:00
-    lastmod: 2024-10-13T11:03:00+08:00
+    date: 2024-10-15T16:43:00+08:00
+    lastmod: 2024-10-15T16:43:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', "city's", 'transportation', 'through', 'a', 'system', 'foreign', 'of', 'navigating']
+    tags: ['Dream', 'navigating', "city's", 'foreign', 'transportation', 'system']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Ostrich |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Fried Rice      |
-| Lucky Instrument    | Mandolin |
-| Lucky Flower        | Daisy    |
-| Lucky Job           | Doctor       |
-| Lucky Exercise      | Mobility Training  |
-| Lucky Country       | Bulgaria    |
+| Lucky Food          | Baklava      |
+| Lucky Instrument    | Guitar |
+| Lucky Flower        | Clover    |
+| Lucky Job           | Logistician       |
+| Lucky Exercise      | Calisthenics  |
+| Lucky Country       | Kenya    |
 
 
 ##  Final Reflections on Dreams

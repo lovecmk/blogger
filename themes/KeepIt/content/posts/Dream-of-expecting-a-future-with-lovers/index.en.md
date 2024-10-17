@@ -1,8 +1,8 @@
 ---
     weight: 221
     title: "Dream of expecting a future with lovers"  # Assuming 'title' column exists
-    date: 2024-10-13T15:14:00+08:00
-    lastmod: 2024-10-13T15:14:00+08:00
+    date: 2024-10-14T05:45:00+08:00
+    lastmod: 2024-10-14T05:45:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lovers', 'expecting', 'Dream', 'a', 'future', 'of', 'with']
+    tags: ['lovers', 'Dream', 'expecting', 'future']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can mean positive change and growth in relationships with
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Museum     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Ratatouille      |
-| Lucky Instrument    | Dulcimer |
-| Lucky Flower        | Peony    |
-| Lucky Job           | Chemist       |
-| Lucky Exercise      | Rock Climbing  |
-| Lucky Country       | India    |
+| Lucky Food          | Risotto      |
+| Lucky Instrument    | Bass Guitar |
+| Lucky Flower        | Daisy    |
+| Lucky Job           | Research Scientist       |
+| Lucky Exercise      | Swimming  |
+| Lucky Country       | Pakistan    |
 
 
 ##  Final Reflections on Dreams

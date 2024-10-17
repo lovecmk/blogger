@@ -1,8 +1,8 @@
 ---
     weight: 1759
     title: "Dream of attending the death of a famous person"  # Assuming 'title' column exists
-    date: 2024-10-13T15:44:00+08:00
-    lastmod: 2024-10-13T15:44:00+08:00
+    date: 2024-10-15T07:11:00+08:00
+    lastmod: 2024-10-15T07:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['death', 'the', 'Dream', 'a', 'famous', 'person', 'of', 'attending']
+    tags: ['person', 'Dream', 'famous', 'death', 'attending']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Monkey |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Chili      |
-| Lucky Instrument    | Djembe |
-| Lucky Flower        | Foxglove    |
-| Lucky Job           | Hair Stylist       |
-| Lucky Exercise      | Pull-Ups  |
-| Lucky Country       | Yemen    |
+| Lucky Food          | Pulled Pork      |
+| Lucky Instrument    | Electric Guitar |
+| Lucky Flower        | Thunbergia    |
+| Lucky Job           | Logistician       |
+| Lucky Exercise      | Body Pump  |
+| Lucky Country       | Slovakia    |
 
 
 ##  Final Reflections on Dreams

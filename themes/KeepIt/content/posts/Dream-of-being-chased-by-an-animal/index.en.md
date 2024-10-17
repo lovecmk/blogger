@@ -1,8 +1,8 @@
 ---
     weight: 1480
     title: "Dream of being chased by an animal"  # Assuming 'title' column exists
-    date: 2024-10-13T01:36:00+08:00
-    lastmod: 2024-10-13T01:36:00+08:00
+    date: 2024-10-12T01:14:00+08:00
+    lastmod: 2024-10-12T01:14:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'being', 'animal', 'an', 'by', 'of', 'chased']
+    tags: ['being', 'chased', 'animal', 'Dream', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Guinea pig |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Baked Potato      |
-| Lucky Instrument    | Tambourine |
-| Lucky Flower        | Jasmine    |
-| Lucky Job           | Chemist       |
-| Lucky Exercise      | Shot Put  |
-| Lucky Country       | Pakistan    |
+| Lucky Food          | Caprese Salad      |
+| Lucky Instrument    | Bass Drum |
+| Lucky Flower        | Wisteria    |
+| Lucky Job           | Musician       |
+| Lucky Exercise      | Circuit Workout  |
+| Lucky Country       | Ireland    |
 
 
 ##  Final Reflections on Dreams

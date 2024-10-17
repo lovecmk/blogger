@@ -1,8 +1,8 @@
 ---
     weight: 1454
     title: "Dream of struggling to find a new place to live"  # Assuming 'title' column exists
-    date: 2024-10-13T15:04:00+08:00
-    lastmod: 2024-10-13T15:04:00+08:00
+    date: 2024-10-15T23:59:00+08:00
+    lastmod: 2024-10-15T23:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['live', 'new', 'to', 'Dream', 'struggling', 'a', 'place', 'of', 'find']
+    tags: ['Dream', 'struggling', 'to', 'place', 'live', 'new', 'find']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Polar bear |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Pancakes      |
-| Lucky Instrument    | Marimba |
-| Lucky Flower        | Lantana    |
-| Lucky Job           | Engineer       |
-| Lucky Exercise      | Parkour  |
-| Lucky Country       | Netherlands    |
+| Lucky Food          | Pasta Primavera      |
+| Lucky Instrument    | Tenor Banjo |
+| Lucky Flower        | Aster    |
+| Lucky Job           | Lawyer       |
+| Lucky Exercise      | Racquetball  |
+| Lucky Country       | Kuwait    |
 
 
 ##  Final Reflections on Dreams

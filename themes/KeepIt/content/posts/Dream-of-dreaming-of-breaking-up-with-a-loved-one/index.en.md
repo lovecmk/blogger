@@ -1,8 +1,8 @@
 ---
     weight: 659
     title: "Dream of dreaming of breaking up with a loved one"  # Assuming 'title' column exists
-    date: 2024-10-13T12:17:00+08:00
-    lastmod: 2024-10-13T12:17:00+08:00
+    date: 2024-10-12T01:53:00+08:00
+    lastmod: 2024-10-12T01:53:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['one', 'breaking', 'up', 'Dream', 'dreaming', 'a', 'loved', 'of', 'with']
+    tags: ['up', 'Dream', 'one', 'loved', 'breaking', 'dreaming']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is happiness and satisfaction based on deeper love and co
 | Lucky Animal        | Polar bear |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Sushi      |
-| Lucky Instrument    | Clarinet |
-| Lucky Flower        | Edelweiss    |
-| Lucky Job           | Video Editor       |
-| Lucky Exercise      | Burpees  |
-| Lucky Country       | Mongolia    |
+| Lucky Food          | Baked Potato      |
+| Lucky Instrument    | Charango |
+| Lucky Flower        | Primrose    |
+| Lucky Job           | Research Scientist       |
+| Lucky Exercise      | Mountain Climbers  |
+| Lucky Country       | Malta    |
 
 
 ##  Final Reflections on Dreams

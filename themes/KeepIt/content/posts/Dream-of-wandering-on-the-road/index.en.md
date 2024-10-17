@@ -1,8 +1,8 @@
 ---
     weight: 360
     title: "Dream of wandering on the road"  # Assuming 'title' column exists
-    date: 2024-10-13T00:13:00+08:00
-    lastmod: 2024-10-13T00:13:00+08:00
+    date: 2024-10-12T08:12:00+08:00
+    lastmod: 2024-10-12T08:12:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'road', 'wandering', 'Dream', 'on', 'of']
+    tags: ['wandering', 'Dream', 'road']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Even if this dream is faced with difficulties, it can eventually show that you c
 | Lucky Animal        | Hyena |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Red     |
-| Lucky Food          | Cornbread      |
-| Lucky Instrument    | Lute |
-| Lucky Flower        | Bleeding Heart    |
-| Lucky Job           | Farmer       |
-| Lucky Exercise      | Body Pump  |
-| Lucky Country       | Ukraine    |
+| Lucky Food          | Scone      |
+| Lucky Instrument    | Dulcimer |
+| Lucky Flower        | Alstroemeria    |
+| Lucky Job           | Chemist       |
+| Lucky Exercise      | Gymnastics  |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1208
     title: "Dream about Convention Center"  # Assuming 'title' column exists
-    date: 2024-10-13T19:20:00+08:00
-    lastmod: 2024-10-13T19:20:00+08:00
+    date: 2024-10-13T21:00:00+08:00
+    lastmod: 2024-10-13T21:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Center', 'Convention', 'about', 'Dream']
+    tags: ['Center', 'Dream', 'Convention']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream cannot be determined by the situation in the dream and th
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Duck Confit      |
-| Lucky Instrument    | Maracas |
-| Lucky Flower        | Kalanchoe    |
-| Lucky Job           | Event Planner       |
-| Lucky Exercise      | Cross-Country Skiing  |
-| Lucky Country       | Ukraine    |
+| Lucky Food          | Caramel Flan      |
+| Lucky Instrument    | Harmonic Piano |
+| Lucky Flower        | Carnation    |
+| Lucky Job           | Chemist       |
+| Lucky Exercise      | Horseback Riding  |
+| Lucky Country       | Ireland    |
 
 
 ##  Final Reflections on Dreams

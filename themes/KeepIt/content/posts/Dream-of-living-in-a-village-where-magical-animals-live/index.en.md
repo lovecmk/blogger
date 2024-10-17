@@ -1,8 +1,8 @@
 ---
     weight: 280
     title: "Dream of living in a village where magical animals live"  # Assuming 'title' column exists
-    date: 2024-10-13T16:37:00+08:00
-    lastmod: 2024-10-13T16:37:00+08:00
+    date: 2024-10-12T14:15:00+08:00
+    lastmod: 2024-10-12T14:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['live', 'animals', 'Dream', 'a', 'magical', 'village', 'in', 'living', 'of', 'where']
+    tags: ['Dream', 'living', 'magical', 'village', 'where', 'live', 'animals']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck that this dream gives you is the growth through imagination, freedom, h
 | Lucky Animal        | Parrot |
 | Lucky Place         | Beach     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Guacamole      |
-| Lucky Instrument    | Kettledrum |
-| Lucky Flower        | Pincushion Flower    |
-| Lucky Job           | App Developer       |
-| Lucky Exercise      | Swimming Laps  |
-| Lucky Country       | Palau    |
+| Lucky Food          | Gumbo      |
+| Lucky Instrument    | Trombone Slide |
+| Lucky Flower        | Marigold    |
+| Lucky Job           | Flight Attendant       |
+| Lucky Exercise      | Mountain Climbers  |
+| Lucky Country       | Angola    |
 
 
 ##  Final Reflections on Dreams

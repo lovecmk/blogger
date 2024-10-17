@@ -1,8 +1,8 @@
 ---
     weight: 1516
     title: "Dream of your dog hosting a talk show"  # Assuming 'title' column exists
-    date: 2024-10-13T18:35:00+08:00
-    lastmod: 2024-10-13T18:35:00+08:00
+    date: 2024-10-11T15:30:00+08:00
+    lastmod: 2024-10-11T15:30:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['hosting', 'your', 'Dream', 'show', 'talk', 'a', 'of', 'dog']
+    tags: ['Dream', 'show', 'talk', 'dog', 'hosting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams themselves do not bring luck, but this dream may suggest that you have fa
 | Lucky Animal        | Panda |
 | Lucky Place         | Sea     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Nachos      |
-| Lucky Instrument    | Didgeridoo |
-| Lucky Flower        | Magnolia    |
-| Lucky Job           | Physical Therapist       |
-| Lucky Exercise      | Burpees  |
-| Lucky Country       | Bhutan    |
+| Lucky Food          | Baba Ganoush      |
+| Lucky Instrument    | Octobass |
+| Lucky Flower        | Lantana    |
+| Lucky Job           | Artist       |
+| Lucky Exercise      | Martial Arts  |
+| Lucky Country       | Malaysia    |
 
 
 ##  Final Reflections on Dreams

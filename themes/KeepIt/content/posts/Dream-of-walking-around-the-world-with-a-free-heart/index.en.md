@@ -1,8 +1,8 @@
 ---
     weight: 770
     title: "Dream of walking around the world with a free heart"  # Assuming 'title' column exists
-    date: 2024-10-13T19:39:00+08:00
-    lastmod: 2024-10-13T19:39:00+08:00
+    date: 2024-10-14T18:20:00+08:00
+    lastmod: 2024-10-14T18:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'free', 'Dream', 'heart', 'around', 'a', 'world', 'of', 'with', 'walking']
+    tags: ['Dream', 'walking', 'free', 'heart', 'world', 'around']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream tells you that freedom and luck can be accompanied.Travel and adventu
 | Lucky Animal        | Panda |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Fruit Salad      |
-| Lucky Instrument    | Kettledrum |
-| Lucky Flower        | Alstroemeria    |
-| Lucky Job           | Data Scientist       |
-| Lucky Exercise      | Slacklining  |
-| Lucky Country       | Italy    |
+| Lucky Food          | Croissant      |
+| Lucky Instrument    | Clavichord |
+| Lucky Flower        | Butterfly Bush    |
+| Lucky Job           | Insurance Underwriter       |
+| Lucky Exercise      | Kripalu Yoga  |
+| Lucky Country       | Sri Lanka    |
 
 
 ##  Final Reflections on Dreams

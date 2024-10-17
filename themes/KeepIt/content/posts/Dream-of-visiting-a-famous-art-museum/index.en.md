@@ -1,8 +1,8 @@
 ---
     weight: 1291
     title: "Dream of visiting a famous art museum"  # Assuming 'title' column exists
-    date: 2024-10-13T10:56:00+08:00
-    lastmod: 2024-10-13T10:56:00+08:00
+    date: 2024-10-14T05:22:00+08:00
+    lastmod: 2024-10-14T05:22:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'visiting', 'museum', 'a', 'famous', 'of', 'art']
+    tags: ['Dream', 'visiting', 'famous', 'art', 'museum']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Lizard |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Pudding      |
-| Lucky Instrument    | Darabuka |
-| Lucky Flower        | Tulip    |
-| Lucky Job           | Photographer       |
-| Lucky Exercise      | Parkour  |
-| Lucky Country       | Italy    |
+| Lucky Food          | Tofu      |
+| Lucky Instrument    | Chimes |
+| Lucky Flower        | Nymphaea    |
+| Lucky Job           | Business Analyst       |
+| Lucky Exercise      | Beach Volleyball  |
+| Lucky Country       | Bulgaria    |
 
 
 ##  Final Reflections on Dreams

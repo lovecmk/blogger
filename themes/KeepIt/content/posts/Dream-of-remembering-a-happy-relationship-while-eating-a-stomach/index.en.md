@@ -1,8 +1,8 @@
 ---
     weight: 35
     title: "Dream of remembering a happy relationship while eating a stomach"  # Assuming 'title' column exists
-    date: 2024-10-13T23:52:00+08:00
-    lastmod: 2024-10-13T23:52:00+08:00
+    date: 2024-10-11T14:05:00+08:00
+    lastmod: 2024-10-11T14:05:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['eating', 'remembering', 'Dream', 'stomach', 'a', 'relationship', 'happy', 'of', 'while']
+    tags: ['remembering', 'while', 'stomach', 'happy', 'Dream', 'eating', 'relationship']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can bring about a new relationship and a positive change.
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Prawn Crackers      |
-| Lucky Instrument    | Bass Drum |
-| Lucky Flower        | Aster    |
-| Lucky Job           | Flight Attendant       |
-| Lucky Exercise      | Calisthenics  |
-| Lucky Country       | Mongolia    |
+| Lucky Food          | Vegetable Stir Fry      |
+| Lucky Instrument    | Ney |
+| Lucky Flower        | Narcissus    |
+| Lucky Job           | Art Director       |
+| Lucky Exercise      | Snowshoeing  |
+| Lucky Country       | Brazil    |
 
 
 ##  Final Reflections on Dreams

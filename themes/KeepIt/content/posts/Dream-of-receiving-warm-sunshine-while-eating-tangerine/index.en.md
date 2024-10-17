@@ -1,8 +1,8 @@
 ---
     weight: 51
     title: "Dream of receiving warm sunshine while eating tangerine"  # Assuming 'title' column exists
-    date: 2024-10-13T09:15:00+08:00
-    lastmod: 2024-10-13T09:15:00+08:00
+    date: 2024-10-15T16:01:00+08:00
+    lastmod: 2024-10-15T16:01:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['receiving', 'eating', 'sunshine', 'Dream', 'warm', 'tangerine', 'of', 'while']
+    tags: ['while', 'Dream', 'warm', 'eating', 'receiving', 'tangerine', 'sunshine']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can show good luck and positive change.It can suggest that getting wa
 | Lucky Animal        | Otter |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Omelette      |
-| Lucky Instrument    | Xylophone |
-| Lucky Flower        | Geranium    |
-| Lucky Job           | Recruiter       |
-| Lucky Exercise      | CrossFit  |
-| Lucky Country       | Kazakhstan    |
+| Lucky Food          | Caprese Salad      |
+| Lucky Instrument    | Ney |
+| Lucky Flower        | Jasmine    |
+| Lucky Job           | Lawyer       |
+| Lucky Exercise      | Pilates  |
+| Lucky Country       | Mexico    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1294
     title: "Dream of being blamed for a traffic accident"  # Assuming 'title' column exists
-    date: 2024-10-13T03:46:00+08:00
-    lastmod: 2024-10-13T03:46:00+08:00
+    date: 2024-10-15T23:35:00+08:00
+    lastmod: 2024-10-15T23:35:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['blamed', 'Dream', 'for', 'being', 'a', 'accident', 'of', 'traffic']
+    tags: ['being', 'blamed', 'traffic', 'Dream', 'accident']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ In terms of luck, this dream may serve as a reminder to be mindful of your choic
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Caramel Flan      |
-| Lucky Instrument    | Guitar |
-| Lucky Flower        | Firecracker Plant    |
-| Lucky Job           | Musician       |
-| Lucky Exercise      | Capoeira  |
-| Lucky Country       | Brunei    |
+| Lucky Food          | Chia Pudding      |
+| Lucky Instrument    | Marimba |
+| Lucky Flower        | Heather    |
+| Lucky Job           | Data Analyst       |
+| Lucky Exercise      | Calisthenics  |
+| Lucky Country       | Azerbaijan    |
 
 
 ##  Final Reflections on Dreams

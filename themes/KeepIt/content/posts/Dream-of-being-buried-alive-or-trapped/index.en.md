@@ -1,8 +1,8 @@
 ---
     weight: 1380
     title: "Dream of being buried alive or trapped"  # Assuming 'title' column exists
-    date: 2024-10-13T17:34:00+08:00
-    lastmod: 2024-10-13T17:34:00+08:00
+    date: 2024-10-14T10:27:00+08:00
+    lastmod: 2024-10-14T10:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'buried', 'alive', 'Dream', 'being', 'trapped', 'of']
+    tags: ['being', 'Dream', 'alive', 'trapped', 'buried']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream does not necessarily bring luck in the traditional sense. However, it
 | Lucky Animal        | Dog |
 | Lucky Place         | Theater     |
 | Lucky Color         | Red     |
-| Lucky Food          | Potato Skins      |
-| Lucky Instrument    | Soprano Recorder |
-| Lucky Flower        | Hollyhock    |
-| Lucky Job           | Pastry Chef       |
-| Lucky Exercise      | Swimming Laps  |
-| Lucky Country       | Bulgaria    |
+| Lucky Food          | Beef Stroganoff      |
+| Lucky Instrument    | Guitar |
+| Lucky Flower        | Chrysanthemum    |
+| Lucky Job           | Historian       |
+| Lucky Exercise      | Resistance Training  |
+| Lucky Country       | Lebanon    |
 
 
 ##  Final Reflections on Dreams

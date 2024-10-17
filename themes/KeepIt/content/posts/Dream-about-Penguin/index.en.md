@@ -1,8 +1,8 @@
 ---
     weight: 1047
     title: "Dream about Penguin"  # Assuming 'title' column exists
-    date: 2024-10-13T15:02:00+08:00
-    lastmod: 2024-10-13T15:02:00+08:00
+    date: 2024-10-13T15:23:00+08:00
+    lastmod: 2024-10-13T15:23:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Penguin', 'about', 'Dream']
+    tags: ['Dream', 'Penguin']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Seeing a penguin in a dream can give you a luck to deal with everyday things and
 | Lucky Animal        | Otter |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Paella      |
-| Lucky Instrument    | Clavichord |
-| Lucky Flower        | Jasmine    |
-| Lucky Job           | Firefighter       |
-| Lucky Exercise      | Horseback Riding  |
-| Lucky Country       | Georgia    |
+| Lucky Food          | Buffalo Wings      |
+| Lucky Instrument    | Bass Drum |
+| Lucky Flower        | Butterfly Bush    |
+| Lucky Job           | Producer       |
+| Lucky Exercise      | Resistance Training  |
+| Lucky Country       | Laos    |
 
 
 ##  Final Reflections on Dreams

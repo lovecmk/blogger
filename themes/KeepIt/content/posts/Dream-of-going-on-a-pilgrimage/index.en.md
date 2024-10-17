@@ -1,8 +1,8 @@
 ---
     weight: 1328
     title: "Dream of going on a pilgrimage"  # Assuming 'title' column exists
-    date: 2024-10-13T23:37:00+08:00
-    lastmod: 2024-10-13T23:37:00+08:00
+    date: 2024-10-11T17:15:00+08:00
+    lastmod: 2024-10-11T17:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['pilgrimage', 'Dream', 'going', 'a', 'on', 'of']
+    tags: ['Dream', 'going', 'pilgrimage']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Mouse |
 | Lucky Place         | Museum     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Muffin      |
-| Lucky Instrument    | Recorder |
-| Lucky Flower        | Safflower    |
-| Lucky Job           | Postman       |
-| Lucky Exercise      | Body Pump  |
-| Lucky Country       | Thailand    |
+| Lucky Food          | Fruit Smoothie      |
+| Lucky Instrument    | Zither |
+| Lucky Flower        | Clover    |
+| Lucky Job           | Flight Attendant       |
+| Lucky Exercise      | Futsal  |
+| Lucky Country       | United Arab Emirates    |
 
 
 ##  Final Reflections on Dreams

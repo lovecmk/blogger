@@ -1,8 +1,8 @@
 ---
     weight: 2027
     title: "Dream of your cat being playful"  # Assuming 'title' column exists
-    date: 2024-10-13T00:28:00+08:00
-    lastmod: 2024-10-13T00:28:00+08:00
+    date: 2024-10-13T22:59:00+08:00
+    lastmod: 2024-10-13T22:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'cat', 'playful', 'Dream', 'being', 'of']
+    tags: ['being', 'Dream', 'playful', 'cat']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Bear |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Roast Chicken      |
-| Lucky Instrument    | Tenor Saxophone |
-| Lucky Flower        | Tiger Lily    |
-| Lucky Job           | Game Developer       |
-| Lucky Exercise      | Bouldering  |
-| Lucky Country       | Czech Republic    |
+| Lucky Food          | Pico de Gallo      |
+| Lucky Instrument    | Ukulele |
+| Lucky Flower        | Mums    |
+| Lucky Job           | Engineer       |
+| Lucky Exercise      | Pull-Ups  |
+| Lucky Country       | Sweden    |
 
 
 ##  Final Reflections on Dreams

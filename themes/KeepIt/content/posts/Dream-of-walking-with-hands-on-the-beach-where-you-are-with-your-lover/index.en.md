@@ -1,8 +1,8 @@
 ---
     weight: 657
     title: "Dream of walking with hands on the beach where you are with your lover"  # Assuming 'title' column exists
-    date: 2024-10-13T03:55:00+08:00
-    lastmod: 2024-10-13T03:55:00+08:00
+    date: 2024-10-13T05:55:00+08:00
+    lastmod: 2024-10-13T05:55:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['are', 'you', 'the', 'your', 'beach', 'lover', 'Dream', 'on', 'hands', 'of', 'where', 'with', 'walking']
+    tags: ['Dream', 'walking', 'hands', 'where', 'beach', 'lover', 'are', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -64,12 +64,12 @@ This dream symbolizes the luck of affection and support.Walking with hands shows
 | Lucky Animal        | Otter |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Scallops      |
-| Lucky Instrument    | Accordion Synth |
-| Lucky Flower        | Bellflower    |
-| Lucky Job           | Firefighter       |
-| Lucky Exercise      | Mobility Training  |
-| Lucky Country       | Poland    |
+| Lucky Food          | Pizza      |
+| Lucky Instrument    | Cello |
+| Lucky Flower        | Foxglove    |
+| Lucky Job           | Electrician       |
+| Lucky Exercise      | Cricket  |
+| Lucky Country       | Iceland    |
 
 
 ##  Final Reflections on Dreams

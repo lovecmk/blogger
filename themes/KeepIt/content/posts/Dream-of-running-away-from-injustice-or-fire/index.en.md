@@ -1,8 +1,8 @@
 ---
     weight: 418
     title: "Dream of running away from injustice or fire"  # Assuming 'title' column exists
-    date: 2024-10-13T08:30:00+08:00
-    lastmod: 2024-10-13T08:30:00+08:00
+    date: 2024-10-13T11:30:00+08:00
+    lastmod: 2024-10-13T11:30:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['injustice', 'or', 'running', 'away', 'Dream', 'fire', 'from', 'of']
+    tags: ['Dream', 'running', 'fire', 'from', 'away', 'injustice']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'dreams of running away from injustice or fire' is generally difficu
 | Lucky Animal        | Monkey |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Chowder      |
-| Lucky Instrument    | Timpani |
-| Lucky Flower        | Petal Plant    |
-| Lucky Job           | Mechanic       |
-| Lucky Exercise      | Juggling  |
-| Lucky Country       | Samoa    |
+| Lucky Food          | Caramel Flan      |
+| Lucky Instrument    | Clavichord |
+| Lucky Flower        | Bellflower    |
+| Lucky Job           | Logistician       |
+| Lucky Exercise      | Swimming  |
+| Lucky Country       | Ireland    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1024
     title: "Dream of feeling gratitude"  # Assuming 'title' column exists
-    date: 2024-10-13T21:13:00+08:00
-    lastmod: 2024-10-13T21:13:00+08:00
+    date: 2024-10-11T14:57:00+08:00
+    lastmod: 2024-10-11T14:57:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'feeling', 'gratitude', 'Dream']
+    tags: ['gratitude', 'Dream', 'feeling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ What are the luck of this dream?This dream can bring you good luck if you have a
 | Lucky Animal        | Dog |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Stuffed Mushrooms      |
-| Lucky Instrument    | Bassoon |
-| Lucky Flower        | Thunbergia    |
-| Lucky Job           | Fitness Instructor       |
-| Lucky Exercise      | Swimming  |
-| Lucky Country       | Solomon Islands    |
+| Lucky Food          | Buffalo Wings      |
+| Lucky Instrument    | Harp |
+| Lucky Flower        | Fuchsia    |
+| Lucky Job           | Social Worker       |
+| Lucky Exercise      | CrossFit  |
+| Lucky Country       | Nauru    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1538
     title: "Dream of finding hidden treasures or valuable items for sale."  # Assuming 'title' column exists
-    date: 2024-10-13T15:48:00+08:00
-    lastmod: 2024-10-13T15:48:00+08:00
+    date: 2024-10-13T04:41:00+08:00
+    lastmod: 2024-10-13T04:41:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['treasures', 'or', 'valuable', 'sale.', 'Dream', 'for', 'items', 'of', 'finding', 'hidden']
+    tags: ['Dream', 'finding', 'items', 'treasures', 'hidden', 'valuable', 'sale']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Black     |
-| Lucky Food          | Chowder      |
-| Lucky Instrument    | Sackbut |
-| Lucky Flower        | Feverfew    |
-| Lucky Job           | Web Designer       |
-| Lucky Exercise      | Foam Rolling  |
-| Lucky Country       | Western Sahara    |
+| Lucky Food          | Ice Cream      |
+| Lucky Instrument    | Harmonica |
+| Lucky Flower        | Mums    |
+| Lucky Job           | Firefighter       |
+| Lucky Exercise      | Skating  |
+| Lucky Country       | Japan    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 243
     title: "Dream like walking on the water"  # Assuming 'title' column exists
-    date: 2024-10-13T15:07:00+08:00
-    lastmod: 2024-10-13T15:07:00+08:00
+    date: 2024-10-11T21:52:00+08:00
+    lastmod: 2024-10-11T21:52:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['water', 'like', 'the', 'Dream', 'on', 'walking']
+    tags: ['water', 'Dream', 'walking', 'like']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can deliver a message that can cause good luck when you have confiden
 | Lucky Animal        | Rhino |
 | Lucky Place         | Sea     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Fruit Smoothie      |
-| Lucky Instrument    | Charango |
-| Lucky Flower        | Scented Geranium    |
-| Lucky Job           | Nurse       |
-| Lucky Exercise      | Kickboxing  |
-| Lucky Country       | Western Sahara    |
+| Lucky Food          | Prawn Crackers      |
+| Lucky Instrument    | Castanets |
+| Lucky Flower        | Rudbeckia    |
+| Lucky Job           | Physical Therapist       |
+| Lucky Exercise      | Pilates  |
+| Lucky Country       | Solomon Islands    |
 
 
 ##  Final Reflections on Dreams

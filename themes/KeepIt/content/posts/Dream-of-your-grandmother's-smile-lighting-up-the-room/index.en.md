@@ -1,8 +1,8 @@
 ---
     weight: 2006
     title: "Dream of fighting for truth"  # Assuming 'title' column exists
-    date: 2024-10-13T11:49:00+08:00
-    lastmod: 2024-10-13T11:49:00+08:00
+    date: 2024-10-13T14:49:00+08:00
+    lastmod: 2024-10-13T14:49:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['truth', 'fighting', 'Dream', 'for', 'of']
+    tags: ['Dream', 'truth', 'fighting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Ostrich |
 | Lucky Place         | Beach     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Cornbread      |
-| Lucky Instrument    | French Horn |
-| Lucky Flower        | Chive Blossom    |
-| Lucky Job           | Sales Representative       |
-| Lucky Exercise      | High-Intensity Interval Training (HIIT)  |
-| Lucky Country       | Eswatini    |
+| Lucky Food          | Bruschetta      |
+| Lucky Instrument    | Tuba Horn |
+| Lucky Flower        | Tithonia    |
+| Lucky Job           | Teacher       |
+| Lucky Exercise      | Resistance Bands  |
+| Lucky Country       | Estonia    |
 
 
 ##  Final Reflections on Dreams

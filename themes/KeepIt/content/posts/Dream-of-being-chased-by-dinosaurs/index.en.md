@@ -1,8 +1,8 @@
 ---
     weight: 927
     title: "Dream of being chased by dinosaurs"  # Assuming 'title' column exists
-    date: 2024-10-13T04:48:00+08:00
-    lastmod: 2024-10-13T04:48:00+08:00
+    date: 2024-10-15T11:12:00+08:00
+    lastmod: 2024-10-15T11:12:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'dinosaurs', 'being', 'by', 'of', 'chased']
+    tags: ['being', 'dinosaurs', 'chased', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The dream of being chased by dinosaurs is generally not associated with positive
 | Lucky Animal        | Hippo |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Vegetable Stir Fry      |
-| Lucky Instrument    | Claves |
-| Lucky Flower        | Lobelia    |
-| Lucky Job           | Insurance Agent       |
-| Lucky Exercise      | Tai Chi  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Mango Sticky Rice      |
+| Lucky Instrument    | Harmonic Piano |
+| Lucky Flower        | Stephanotis    |
+| Lucky Job           | Philosopher       |
+| Lucky Exercise      | Obstacle Course Racing  |
+| Lucky Country       | Angola    |
 
 
 ##  Final Reflections on Dreams

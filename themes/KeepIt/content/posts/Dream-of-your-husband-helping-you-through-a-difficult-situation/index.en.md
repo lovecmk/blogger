@@ -1,8 +1,8 @@
 ---
     weight: 1992
     title: "Dream of having enough money to support loved ones and family."  # Assuming 'title' column exists
-    date: 2024-10-13T20:09:00+08:00
-    lastmod: 2024-10-13T20:09:00+08:00
+    date: 2024-10-15T20:23:00+08:00
+    lastmod: 2024-10-15T20:23:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['enough', 'to', 'family.', 'money', 'Dream', 'ones', 'loved', 'and', 'of', 'support', 'having']
+    tags: ['family', 'Dream', 'money', 'support', 'loved', 'to', 'ones', 'enough', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Bear |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Fajitas      |
-| Lucky Instrument    | Snare Drum |
-| Lucky Flower        | Cosmos    |
-| Lucky Job           | Chemist       |
-| Lucky Exercise      | Belly Dancing  |
-| Lucky Country       | Singapore    |
+| Lucky Food          | Cheesecake      |
+| Lucky Instrument    | Tenor Banjo |
+| Lucky Flower        | Lobelia    |
+| Lucky Job           | Recruiter       |
+| Lucky Exercise      | Ultimate Frisbee  |
+| Lucky Country       | Kiribati    |
 
 
 ##  Final Reflections on Dreams

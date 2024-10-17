@@ -1,8 +1,8 @@
 ---
     weight: 613
     title: "Dream of playing soccer under the brilliant sun"  # Assuming 'title' column exists
-    date: 2024-10-13T00:25:00+08:00
-    lastmod: 2024-10-13T00:25:00+08:00
+    date: 2024-10-14T23:11:00+08:00
+    lastmod: 2024-10-14T23:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['soccer', 'brilliant', 'playing', 'the', 'Dream', 'of', 'under', 'sun']
+    tags: ['sun', 'Dream', 'brilliant', 'playing', 'under', 'soccer']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you good luck and success.The sun symbolizes good luck and 
 | Lucky Animal        | Lion |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Potato Skins      |
-| Lucky Instrument    | Drums |
-| Lucky Flower        | Peach Blossom    |
-| Lucky Job           | Art Director       |
-| Lucky Exercise      | Kayaking  |
-| Lucky Country       | Brunei    |
+| Lucky Food          | Gnocchi      |
+| Lucky Instrument    | Wooden Flute |
+| Lucky Flower        | Bouvardia    |
+| Lucky Job           | UX Designer       |
+| Lucky Exercise      | Snowshoeing  |
+| Lucky Country       | Azerbaijan    |
 
 
 ##  Final Reflections on Dreams

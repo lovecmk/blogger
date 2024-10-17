@@ -1,8 +1,8 @@
 ---
     weight: 2048
     title: "Dream of feeling a deep sense of belonging to your ancestral heritage."  # Assuming 'title' column exists
-    date: 2024-10-13T09:34:00+08:00
-    lastmod: 2024-10-13T09:34:00+08:00
+    date: 2024-10-14T21:25:00+08:00
+    lastmod: 2024-10-14T21:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['feeling', 'your', 'deep', 'to', 'Dream', 'ancestral', 'a', 'heritage.', 'belonging', 'of', 'sense']
+    tags: ['Dream', 'to', 'heritage', 'sense', 'deep', 'belonging', 'feeling', 'ancestral']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ The luck associated with this dream is not necessarily positive or negative. How
 | Lucky Animal        | Bear |
 | Lucky Place         | Theater     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Salad      |
-| Lucky Instrument    | Conga |
-| Lucky Flower        | Tansy    |
-| Lucky Job           | Physical Therapist       |
-| Lucky Exercise      | Pilates  |
-| Lucky Country       | Pakistan    |
+| Lucky Food          | Hummus      |
+| Lucky Instrument    | Tromba |
+| Lucky Flower        | Borage    |
+| Lucky Job           | Dentist       |
+| Lucky Exercise      | Trail Running  |
+| Lucky Country       | Tanzania    |
 
 
 ##  Final Reflections on Dreams

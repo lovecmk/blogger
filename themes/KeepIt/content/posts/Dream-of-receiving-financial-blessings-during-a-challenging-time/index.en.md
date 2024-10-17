@@ -1,8 +1,8 @@
 ---
     weight: 1943
     title: "Dream of your husband supporting your decisions wholeheartedly."  # Assuming 'title' column exists
-    date: 2024-10-13T07:39:00+08:00
-    lastmod: 2024-10-13T07:39:00+08:00
+    date: 2024-10-12T09:26:00+08:00
+    lastmod: 2024-10-12T09:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'Dream', 'husband', 'decisions', 'of', 'supporting', 'wholeheartedly.']
+    tags: ['Dream', 'supporting', 'wholeheartedly', 'decisions', 'husband']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Duck |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Gnocchi      |
-| Lucky Instrument    | Saxophone |
-| Lucky Flower        | Scabiosa    |
-| Lucky Job           | Statistician       |
-| Lucky Exercise      | Belly Dancing  |
-| Lucky Country       | Portugal    |
+| Lucky Food          | Omelette      |
+| Lucky Instrument    | Ocarina |
+| Lucky Flower        | Begonia    |
+| Lucky Job           | Scientist       |
+| Lucky Exercise      | Bench Press  |
+| Lucky Country       | Netherlands    |
 
 
 ##  Final Reflections on Dreams

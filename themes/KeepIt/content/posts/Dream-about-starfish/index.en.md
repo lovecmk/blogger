@@ -1,8 +1,8 @@
 ---
     weight: 1038
     title: "Dream about starfish"  # Assuming 'title' column exists
-    date: 2024-10-13T08:05:00+08:00
-    lastmod: 2024-10-13T08:05:00+08:00
+    date: 2024-10-12T02:36:00+08:00
+    lastmod: 2024-10-12T02:36:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['starfish', 'about', 'Dream']
+    tags: ['starfish', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Dreams often reflect the inner and unconsciousness of individuals rather than pr
 | Lucky Animal        | Seal |
 | Lucky Place         | Park     |
 | Lucky Color         | Red     |
-| Lucky Food          | Caprese Salad      |
-| Lucky Instrument    | Fiddle |
-| Lucky Flower        | Thistle    |
-| Lucky Job           | Video Editor       |
-| Lucky Exercise      | Active Recovery  |
-| Lucky Country       | China    |
+| Lucky Food          | Stuffed Mushrooms      |
+| Lucky Instrument    | Tenor Saxophone |
+| Lucky Flower        | Marigold    |
+| Lucky Job           | Game Developer       |
+| Lucky Exercise      | Pull-Ups  |
+| Lucky Country       | Eswatini    |
 
 
 ##  Final Reflections on Dreams

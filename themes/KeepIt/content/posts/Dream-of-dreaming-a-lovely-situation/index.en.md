@@ -1,8 +1,8 @@
 ---
     weight: 1031
     title: "Dream of dreaming a lovely situation"  # Assuming 'title' column exists
-    date: 2024-10-13T03:15:00+08:00
-    lastmod: 2024-10-13T03:15:00+08:00
+    date: 2024-10-14T04:25:00+08:00
+    lastmod: 2024-10-14T04:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lovely', 'Dream', 'dreaming', 'situation', 'a', 'of']
+    tags: ['lovely', 'Dream', 'situation', 'dreaming']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring good luck and positive change.Works that have been longing 
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Sea     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Vegetarian Chili      |
-| Lucky Instrument    | Timpani |
-| Lucky Flower        | Tulip    |
-| Lucky Job           | Dentist       |
-| Lucky Exercise      | Squats  |
-| Lucky Country       | Yemen    |
+| Lucky Food          | Caprese Skewers      |
+| Lucky Instrument    | Tenor Guitar |
+| Lucky Flower        | Butterfly Bush    |
+| Lucky Job           | Actor       |
+| Lucky Exercise      | Jumping Rope  |
+| Lucky Country       | Marshall Islands    |
 
 
 ##  Final Reflections on Dreams

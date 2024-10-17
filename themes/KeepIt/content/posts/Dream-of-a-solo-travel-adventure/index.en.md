@@ -1,8 +1,8 @@
 ---
     weight: 1501
     title: "Dream of a solo travel adventure"  # Assuming 'title' column exists
-    date: 2024-10-13T05:45:00+08:00
-    lastmod: 2024-10-13T05:45:00+08:00
+    date: 2024-10-14T04:45:00+08:00
+    lastmod: 2024-10-14T04:45:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['solo', 'adventure', 'Dream', 'travel', 'a', 'of']
+    tags: ['Dream', 'travel', 'adventure', 'solo']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Duck |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Fish and Chips      |
-| Lucky Instrument    | Tromba |
-| Lucky Flower        | Mullein    |
-| Lucky Job           | Doctor       |
-| Lucky Exercise      | Salsa  |
-| Lucky Country       | Brazil    |
+| Lucky Food          | Stuffed Mushrooms      |
+| Lucky Instrument    | Cello |
+| Lucky Flower        | Foxglove    |
+| Lucky Job           | Librarian       |
+| Lucky Exercise      | Rock Climbing  |
+| Lucky Country       | New Zealand    |
 
 
 ##  Final Reflections on Dreams

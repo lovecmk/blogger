@@ -1,8 +1,8 @@
 ---
     weight: 136
     title: "Dream of making crafts with daughter"  # Assuming 'title' column exists
-    date: 2024-10-13T04:22:00+08:00
-    lastmod: 2024-10-13T04:22:00+08:00
+    date: 2024-10-15T02:19:00+08:00
+    lastmod: 2024-10-15T02:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'making', 'crafts', 'daughter', 'of', 'with']
+    tags: ['Dream', 'crafts', 'making', 'daughter']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual's interpretation.But
 | Lucky Animal        | Duck |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Zucchini Noodles      |
-| Lucky Instrument    | Mandolin |
-| Lucky Flower        | Primrose    |
-| Lucky Job           | Doctor       |
-| Lucky Exercise      | Futsal  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Baked Ziti      |
+| Lucky Instrument    | Snare Drum |
+| Lucky Flower        | Edelweiss    |
+| Lucky Job           | Operations Manager       |
+| Lucky Exercise      | Golf  |
+| Lucky Country       | Oman    |
 
 
 ##  Final Reflections on Dreams

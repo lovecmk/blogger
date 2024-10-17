@@ -1,8 +1,8 @@
 ---
     weight: 1824
     title: "Dream of your cat investigating new scents"  # Assuming 'title' column exists
-    date: 2024-10-13T22:38:00+08:00
-    lastmod: 2024-10-13T22:38:00+08:00
+    date: 2024-10-13T12:30:00+08:00
+    lastmod: 2024-10-13T12:30:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['new', 'your', 'cat', 'Dream', 'scents', 'of', 'investigating']
+    tags: ['investigating', 'Dream', 'cat', 'new', 'scents']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Polar bear |
 | Lucky Place         | Sea     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Spring Roll      |
-| Lucky Instrument    | Melodica |
-| Lucky Flower        | Sweet William    |
-| Lucky Job           | Database Administrator       |
-| Lucky Exercise      | Swimming Laps  |
-| Lucky Country       | Iceland    |
+| Lucky Food          | Shepherd's Pie      |
+| Lucky Instrument    | French Horn |
+| Lucky Flower        | Bougainvillea    |
+| Lucky Job           | Farmer       |
+| Lucky Exercise      | Lunges  |
+| Lucky Country       | Argentina    |
 
 
 ##  Final Reflections on Dreams

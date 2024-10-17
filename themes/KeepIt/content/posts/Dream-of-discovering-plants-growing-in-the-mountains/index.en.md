@@ -1,8 +1,8 @@
 ---
     weight: 595
     title: "Dream of discovering plants growing in the mountains"  # Assuming 'title' column exists
-    date: 2024-10-13T15:07:00+08:00
-    lastmod: 2024-10-13T15:07:00+08:00
+    date: 2024-10-15T12:37:00+08:00
+    lastmod: 2024-10-15T12:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['mountains', 'plants', 'the', 'Dream', 'growing', 'in', 'of', 'discovering']
+    tags: ['mountains', 'Dream', 'growing', 'discovering', 'plants']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can show good luck and positive prospects.Plants found in the mountai
 | Lucky Animal        | Hyena |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Duck Confit      |
-| Lucky Instrument    | Darabuka |
-| Lucky Flower        | Bleeding Heart    |
-| Lucky Job           | Content Creator       |
-| Lucky Exercise      | Running  |
-| Lucky Country       | Estonia    |
+| Lucky Food          | Minestrone      |
+| Lucky Instrument    | Synthesizer |
+| Lucky Flower        | Clover Blossom    |
+| Lucky Job           | Makeup Artist       |
+| Lucky Exercise      | Spin Class  |
+| Lucky Country       | Maldives    |
 
 
 ##  Final Reflections on Dreams

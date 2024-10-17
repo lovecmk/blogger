@@ -1,8 +1,8 @@
 ---
     weight: 852
     title: "Dream of a rabbit"  # Assuming 'title' column exists
-    date: 2024-10-13T20:54:00+08:00
-    lastmod: 2024-10-13T20:54:00+08:00
+    date: 2024-10-15T18:15:00+08:00
+    lastmod: 2024-10-15T18:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'rabbit', 'a', 'Dream']
+    tags: ['rabbit', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ In this dream, the rabbit symbolizes luck and miracles.Rabbits can showcase the 
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Museum     |
 | Lucky Color         | Black     |
-| Lucky Food          | Vegetable Stir Fry      |
-| Lucky Instrument    | Saxello |
-| Lucky Flower        | Chive Blossom    |
-| Lucky Job           | Neuroscientist       |
-| Lucky Exercise      | Sledge Hockey  |
-| Lucky Country       | Czech Republic    |
+| Lucky Food          | Pork Chops      |
+| Lucky Instrument    | Basset Horn |
+| Lucky Flower        | Daffodil    |
+| Lucky Job           | Customer Service Representative       |
+| Lucky Exercise      | Kripalu Yoga  |
+| Lucky Country       | Egypt    |
 
 
 ##  Final Reflections on Dreams

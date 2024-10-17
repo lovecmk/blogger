@@ -1,8 +1,8 @@
 ---
     weight: 1348
     title: "Dream of going on a train journey through mountains"  # Assuming 'title' column exists
-    date: 2024-10-13T10:09:00+08:00
-    lastmod: 2024-10-13T10:09:00+08:00
+    date: 2024-10-13T16:17:00+08:00
+    lastmod: 2024-10-13T16:17:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['mountains', 'journey', 'Dream', 'going', 'through', 'a', 'train', 'on', 'of']
+    tags: ['mountains', 'Dream', 'journey', 'going', 'train']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Otter |
 | Lucky Place         | School     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Duck Confit      |
-| Lucky Instrument    | Basset Horn |
-| Lucky Flower        | Narcissus    |
-| Lucky Job           | Lawyer       |
-| Lucky Exercise      | Active Recovery  |
-| Lucky Country       | Romania    |
+| Lucky Food          | Tart      |
+| Lucky Instrument    | Erhu |
+| Lucky Flower        | Poppy    |
+| Lucky Job           | Data Analyst       |
+| Lucky Exercise      | Stretching  |
+| Lucky Country       | Malaysia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 439
     title: "Dream of running away from difficulties or trouble"  # Assuming 'title' column exists
-    date: 2024-10-13T01:46:00+08:00
-    lastmod: 2024-10-13T01:46:00+08:00
+    date: 2024-10-12T06:19:00+08:00
+    lastmod: 2024-10-12T06:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'running', 'difficulties', 'away', 'Dream', 'from', 'of', 'trouble']
+    tags: ['Dream', 'running', 'from', 'away', 'difficulties', 'trouble']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual.In general, if you h
 | Lucky Animal        | Chick |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Chowder      |
-| Lucky Instrument    | Tama |
-| Lucky Flower        | Marigold    |
-| Lucky Job           | Art Director       |
-| Lucky Exercise      | Rock Climbing  |
-| Lucky Country       | Germany    |
+| Lucky Food          | Pizza      |
+| Lucky Instrument    | Lute |
+| Lucky Flower        | Rudbeckia    |
+| Lucky Job           | Sales Representative       |
+| Lucky Exercise      | Lunges  |
+| Lucky Country       | Kenya    |
 
 
 ##  Final Reflections on Dreams

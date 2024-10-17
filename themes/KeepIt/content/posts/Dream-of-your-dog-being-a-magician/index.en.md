@@ -1,8 +1,8 @@
 ---
     weight: 1228
     title: "Dream of your dog being a magician"  # Assuming 'title' column exists
-    date: 2024-10-13T06:43:00+08:00
-    lastmod: 2024-10-13T06:43:00+08:00
+    date: 2024-10-15T15:29:00+08:00
+    lastmod: 2024-10-15T15:29:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['magician', 'your', 'Dream', 'being', 'a', 'of', 'dog']
+    tags: ['being', 'Dream', 'magician', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Fox |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Eggplant Parmesan      |
-| Lucky Instrument    | Melodic Percussion |
-| Lucky Flower        | Poppy    |
-| Lucky Job           | Sous Chef       |
-| Lucky Exercise      | Horseback Riding  |
-| Lucky Country       | Kiribati    |
+| Lucky Food          | Croissant      |
+| Lucky Instrument    | Bass Clarinet |
+| Lucky Flower        | Periwinkle    |
+| Lucky Job           | Insurance Underwriter       |
+| Lucky Exercise      | Mountain Climbers  |
+| Lucky Country       | Sweden    |
 
 
 ##  Final Reflections on Dreams

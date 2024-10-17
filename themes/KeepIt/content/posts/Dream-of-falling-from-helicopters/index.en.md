@@ -1,8 +1,8 @@
 ---
     weight: 950
     title: "Dream of falling from helicopters"  # Assuming 'title' column exists
-    date: 2024-10-13T05:51:00+08:00
-    lastmod: 2024-10-13T05:51:00+08:00
+    date: 2024-10-14T00:42:00+08:00
+    lastmod: 2024-10-14T00:42:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['falling', 'helicopters', 'Dream', 'from', 'of']
+    tags: ['Dream', 'helicopters', 'falling', 'from']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ In general, this dream can be accepted as a warning of the current difficult sit
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Baklava      |
-| Lucky Instrument    | Ocarina |
-| Lucky Flower        | Bougainvillea    |
-| Lucky Job           | Life Coach       |
-| Lucky Exercise      | Step Aerobics  |
-| Lucky Country       | Laos    |
+| Lucky Food          | Casserole      |
+| Lucky Instrument    | Ukulele |
+| Lucky Flower        | Jade Plant    |
+| Lucky Job           | Social Worker       |
+| Lucky Exercise      | Crunches  |
+| Lucky Country       | Brunei    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 281
     title: "Dream of finding treasures hidden in mysterious forests"  # Assuming 'title' column exists
-    date: 2024-10-13T11:44:00+08:00
-    lastmod: 2024-10-13T11:44:00+08:00
+    date: 2024-10-15T06:00:00+08:00
+    lastmod: 2024-10-15T06:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['treasures', 'forests', 'Dream', 'mysterious', 'in', 'of', 'finding', 'hidden']
+    tags: ['Dream', 'forests', 'finding', 'treasures', 'hidden', 'mysterious']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can suggest good luck for new opportunities, self -development, and s
 | Lucky Animal        | Parrot |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Guacamole      |
-| Lucky Instrument    | Tabor |
-| Lucky Flower        | Sea Lavender    |
-| Lucky Job           | Artist       |
-| Lucky Exercise      | Water Polo  |
-| Lucky Country       | Italy    |
+| Lucky Food          | Corn on the Cob      |
+| Lucky Instrument    | Horn |
+| Lucky Flower        | Celosia    |
+| Lucky Job           | Catering Manager       |
+| Lucky Exercise      | Cross-Country Skiing  |
+| Lucky Country       | Yemen    |
 
 
 ##  Final Reflections on Dreams

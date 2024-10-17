@@ -1,8 +1,8 @@
 ---
     weight: 1493
     title: "Dream of being in a relationship with someone unexpected"  # Assuming 'title' column exists
-    date: 2024-10-13T18:52:00+08:00
-    lastmod: 2024-10-13T18:52:00+08:00
+    date: 2024-10-15T16:13:00+08:00
+    lastmod: 2024-10-15T16:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'being', 'a', 'relationship', 'someone', 'in', 'unexpected', 'of', 'with']
+    tags: ['being', 'Dream', 'unexpected', 'someone', 'relationship']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Prawn Crackers      |
-| Lucky Instrument    | Keyboard |
-| Lucky Flower        | Mandevilla    |
-| Lucky Job           | Financial Analyst       |
-| Lucky Exercise      | Bouldering  |
-| Lucky Country       | Serbia    |
+| Lucky Food          | Crab      |
+| Lucky Instrument    | Cymbals |
+| Lucky Flower        | Safflower    |
+| Lucky Job           | Veterinarian       |
+| Lucky Exercise      | Boxing  |
+| Lucky Country       | Brunei    |
 
 
 ##  Final Reflections on Dreams

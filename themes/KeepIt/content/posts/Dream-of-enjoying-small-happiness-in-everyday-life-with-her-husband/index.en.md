@@ -1,8 +1,8 @@
 ---
     weight: 87
     title: "Dream of enjoying small happiness in everyday life with her husband"  # Assuming 'title' column exists
-    date: 2024-10-13T17:07:00+08:00
-    lastmod: 2024-10-13T17:07:00+08:00
+    date: 2024-10-15T08:31:00+08:00
+    lastmod: 2024-10-15T08:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['happiness', 'small', 'enjoying', 'her', 'life', 'everyday', 'Dream', 'husband', 'in', 'of', 'with']
+    tags: ['life', 'Dream', 'small', 'enjoying', 'her', 'happiness', 'husband', 'everyday']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Luck in this dream is mainly about the ability to discover and experience small 
 | Lucky Animal        | Otter |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Sushi      |
-| Lucky Instrument    | Tambourine |
-| Lucky Flower        | Forget-Me-Not    |
-| Lucky Job           | SEO Specialist       |
-| Lucky Exercise      | Pole Vaulting  |
-| Lucky Country       | Nauru    |
+| Lucky Food          | Caprese Salad      |
+| Lucky Instrument    | Tenor Guitar |
+| Lucky Flower        | Mullein    |
+| Lucky Job           | Pilot       |
+| Lucky Exercise      | Resistance Bands  |
+| Lucky Country       | Finland    |
 
 
 ##  Final Reflections on Dreams

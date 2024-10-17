@@ -1,8 +1,8 @@
 ---
     weight: 1933
     title: "Dream of your cat sitting on a window sill"  # Assuming 'title' column exists
-    date: 2024-10-13T08:39:00+08:00
-    lastmod: 2024-10-13T08:39:00+08:00
+    date: 2024-10-15T21:13:00+08:00
+    lastmod: 2024-10-15T21:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['sill', 'window', 'your', 'cat', 'Dream', 'sitting', 'a', 'on', 'of']
+    tags: ['Dream', 'window', 'sitting', 'sill', 'cat']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Mouse |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Stuffed Peppers      |
-| Lucky Instrument    | Violin Bow |
-| Lucky Flower        | Firecracker Plant    |
-| Lucky Job           | Mechanic       |
-| Lucky Exercise      | Aqua Aerobics  |
-| Lucky Country       | Botswana    |
+| Lucky Food          | Seafood Paella      |
+| Lucky Instrument    | Cajón |
+| Lucky Flower        | Yarrow    |
+| Lucky Job           | Dentist       |
+| Lucky Exercise      | Bodyweight Training  |
+| Lucky Country       | Belgium    |
 
 
 ##  Final Reflections on Dreams

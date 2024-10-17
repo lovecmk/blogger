@@ -1,8 +1,8 @@
 ---
     weight: 691
     title: "Dream of talking with friends while walking with hands"  # Assuming 'title' column exists
-    date: 2024-10-13T22:14:00+08:00
-    lastmod: 2024-10-13T22:14:00+08:00
+    date: 2024-10-15T06:48:00+08:00
+    lastmod: 2024-10-15T06:48:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['while', 'walking', 'talking', 'Dream', 'hands', 'of', 'with', 'friends']
+    tags: ['while', 'Dream', 'walking', 'talking', 'hands', 'friends']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can indicate that you can have a relationship with friend
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Mango Sticky Rice      |
-| Lucky Instrument    | Harp |
-| Lucky Flower        | Tithonia    |
-| Lucky Job           | Nuclear Engineer       |
-| Lucky Exercise      | Squats  |
-| Lucky Country       | Ireland    |
+| Lucky Food          | Stir Fry      |
+| Lucky Instrument    | Banjo |
+| Lucky Flower        | Strelitzia    |
+| Lucky Job           | Biologist       |
+| Lucky Exercise      | Stair Climbing  |
+| Lucky Country       | Malaysia    |
 
 
 ##  Final Reflections on Dreams

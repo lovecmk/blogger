@@ -1,8 +1,8 @@
 ---
     weight: 1977
     title: "Dream of being unable to prevent a death"  # Assuming 'title' column exists
-    date: 2024-10-13T22:26:00+08:00
-    lastmod: 2024-10-13T22:26:00+08:00
+    date: 2024-10-11T17:20:00+08:00
+    lastmod: 2024-10-11T17:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['death', 'unable', 'to', 'Dream', 'being', 'a', 'prevent', 'of']
+    tags: ['being', 'Dream', 'to', 'death', 'prevent', 'unable']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ The luck associated with this dream may manifest as opportunities for self-disco
 | Lucky Animal        | Kangaroo |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Tart      |
-| Lucky Instrument    | Electric Cello |
-| Lucky Flower        | Ornamental Pepper    |
-| Lucky Job           | Director       |
-| Lucky Exercise      | Kite Surfing  |
-| Lucky Country       | South Africa    |
+| Lucky Food          | Sandwich      |
+| Lucky Instrument    | Cajón |
+| Lucky Flower        | Ranunculus    |
+| Lucky Job           | Financial Analyst       |
+| Lucky Exercise      | Gymnastics  |
+| Lucky Country       | Portugal    |
 
 
 ##  Final Reflections on Dreams

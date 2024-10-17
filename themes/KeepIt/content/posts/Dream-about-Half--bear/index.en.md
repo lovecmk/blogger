@@ -1,8 +1,8 @@
 ---
     weight: 1074
     title: "Dream about Half -bear"  # Assuming 'title' column exists
-    date: 2024-10-13T16:31:00+08:00
-    lastmod: 2024-10-13T16:31:00+08:00
+    date: 2024-10-15T16:01:00+08:00
+    lastmod: 2024-10-15T16:01:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Half', 'about', 'Dream', '-bear']
+    tags: ['-bear', 'Half', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Vandal bears are traditionally considered an animal that symbolizes good luck an
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Tuna Tartare      |
-| Lucky Instrument    | Electric Cello |
-| Lucky Flower        | Gladiolus    |
-| Lucky Job           | Artist       |
-| Lucky Exercise      | Swimming Laps  |
-| Lucky Country       | Australia    |
+| Lucky Food          | Hummus      |
+| Lucky Instrument    | Pipa |
+| Lucky Flower        | Peony    |
+| Lucky Job           | Architect       |
+| Lucky Exercise      | Discus Throw  |
+| Lucky Country       | South Korea    |
 
 
 ##  Final Reflections on Dreams

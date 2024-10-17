@@ -1,8 +1,8 @@
 ---
     weight: 223
     title: "Dream of sharing kisses with lovers"  # Assuming 'title' column exists
-    date: 2024-10-13T21:51:00+08:00
-    lastmod: 2024-10-13T21:51:00+08:00
+    date: 2024-10-15T13:42:00+08:00
+    lastmod: 2024-10-15T13:42:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['kisses', 'lovers', 'Dream', 'sharing', 'of', 'with']
+    tags: ['kisses', 'lovers', 'Dream', 'sharing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual's situation and inte
 | Lucky Animal        | Fox |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Vegetable Stir Fry      |
-| Lucky Instrument    | Keyboard Synthesizer |
-| Lucky Flower        | Stock    |
-| Lucky Job           | Financial Analyst       |
-| Lucky Exercise      | Lunges  |
-| Lucky Country       | Lithuania    |
+| Lucky Food          | Bruschetta      |
+| Lucky Instrument    | Tabla |
+| Lucky Flower        | Narcissus    |
+| Lucky Job           | Archaeologist       |
+| Lucky Exercise      | Salsa  |
+| Lucky Country       | Malta    |
 
 
 ##  Final Reflections on Dreams

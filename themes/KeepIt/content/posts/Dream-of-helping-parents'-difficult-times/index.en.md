@@ -1,8 +1,8 @@
 ---
     weight: 182
     title: "Dream of helping parents' difficult times"  # Assuming 'title' column exists
-    date: 2024-10-13T20:44:00+08:00
-    lastmod: 2024-10-13T20:44:00+08:00
+    date: 2024-10-13T02:29:00+08:00
+    lastmod: 2024-10-13T02:29:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'helping', 'difficult', "parents'", 'of', 'times']
+    tags: ["parents'", 'helping', 'difficult', 'Dream', 'times']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ What are the luck of this dream?The luck of 'Dream of helping your parents' hard
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Beef Stroganoff      |
-| Lucky Instrument    | Snare Drum |
-| Lucky Flower        | Aster    |
-| Lucky Job           | Social Worker       |
-| Lucky Exercise      | Cycling  |
-| Lucky Country       | Kazakhstan    |
+| Lucky Food          | Vegetable Stir Fry      |
+| Lucky Instrument    | Horn |
+| Lucky Flower        | Sage    |
+| Lucky Job           | Content Creator       |
+| Lucky Exercise      | High-Intensity Interval Training (HIIT)  |
+| Lucky Country       | Solomon Islands    |
 
 
 ##  Final Reflections on Dreams

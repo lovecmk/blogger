@@ -1,8 +1,8 @@
 ---
     weight: 807
     title: "Dream of overturning a car in an accident"  # Assuming 'title' column exists
-    date: 2024-10-13T23:17:00+08:00
-    lastmod: 2024-10-13T23:17:00+08:00
+    date: 2024-10-14T14:19:00+08:00
+    lastmod: 2024-10-14T14:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'overturning', 'a', 'an', 'accident', 'in', 'car', 'of']
+    tags: ['Dream', 'an', 'accident', 'car', 'overturning']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ In general, the dream of overturning the vehicle in an accident does not show go
 | Lucky Animal        | Otter |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Croissant      |
-| Lucky Instrument    | Fujara |
-| Lucky Flower        | Lilac    |
-| Lucky Job           | Doctor       |
-| Lucky Exercise      | Hammer Throw  |
-| Lucky Country       | Afghanistan    |
+| Lucky Food          | Corn on the Cob      |
+| Lucky Instrument    | Harmonium |
+| Lucky Flower        | Clover    |
+| Lucky Job           | Construction Worker       |
+| Lucky Exercise      | Javelin  |
+| Lucky Country       | Estonia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1741
     title: "Dream of starting a new hobby together with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T09:21:00+08:00
-    lastmod: 2024-10-13T09:21:00+08:00
+    date: 2024-10-11T12:49:00+08:00
+    lastmod: 2024-10-11T12:49:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['new', 'together', 'your', 'boyfriend', 'Dream', 'hobby', 'starting', 'a', 'of', 'with']
+    tags: ['Dream', 'boyfriend', 'starting', 'hobby', 'new', 'together']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Duck |
 | Lucky Place         | Museum     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Lentil Soup      |
-| Lucky Instrument    | Steel Pan |
-| Lucky Flower        | Butterfly Bush    |
-| Lucky Job           | Philosopher       |
-| Lucky Exercise      | Kripalu Yoga  |
-| Lucky Country       | Germany    |
+| Lucky Food          | Chowder      |
+| Lucky Instrument    | Bass Clarinet |
+| Lucky Flower        | Tiger Lily    |
+| Lucky Job           | Security Guard       |
+| Lucky Exercise      | Fencing  |
+| Lucky Country       | Canada    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1052
     title: "Dream about monkey"  # Assuming 'title' column exists
-    date: 2024-10-13T19:22:00+08:00
-    lastmod: 2024-10-13T19:22:00+08:00
+    date: 2024-10-13T20:36:00+08:00
+    lastmod: 2024-10-13T20:36:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['monkey', 'about', 'Dream']
+    tags: ['monkey', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,11 +59,11 @@ The luck of this dream can be expressed in pleasant events, new experiences, and
 | Lucky Animal        | Duck |
 | Lucky Place         | Sea     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Kale Salad      |
-| Lucky Instrument    | Flute |
-| Lucky Flower        | Lantana    |
-| Lucky Job           | Fitness Instructor       |
-| Lucky Exercise      | Circuit Workout  |
+| Lucky Food          | Dumplings      |
+| Lucky Instrument    | Piccolo Trumpet |
+| Lucky Flower        | Bleeding Heart    |
+| Lucky Job           | Photographer       |
+| Lucky Exercise      | Bench Press  |
 | Lucky Country       | Papua New Guinea    |
 
 

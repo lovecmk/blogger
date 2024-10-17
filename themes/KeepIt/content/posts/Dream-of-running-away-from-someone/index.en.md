@@ -1,8 +1,8 @@
 ---
     weight: 386
     title: "Dream of running away from someone"  # Assuming 'title' column exists
-    date: 2024-10-13T08:22:00+08:00
-    lastmod: 2024-10-13T08:22:00+08:00
+    date: 2024-10-12T16:26:00+08:00
+    lastmod: 2024-10-12T16:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['running', 'away', 'Dream', 'someone', 'from', 'of']
+    tags: ['Dream', 'running', 'from', 'someone', 'away']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is to help you detect, avoid or respond to risks in the p
 | Lucky Animal        | Hyena |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Sushi      |
-| Lucky Instrument    | Accordion |
-| Lucky Flower        | Kalanchoe    |
-| Lucky Job           | Physical Therapist       |
-| Lucky Exercise      | Slacklining  |
-| Lucky Country       | Mongolia    |
+| Lucky Food          | Gnocchi      |
+| Lucky Instrument    | Steel Pan |
+| Lucky Flower        | Hydrangea    |
+| Lucky Job           | Photographer       |
+| Lucky Exercise      | Hula Hooping  |
+| Lucky Country       | Angola    |
 
 
 ##  Final Reflections on Dreams

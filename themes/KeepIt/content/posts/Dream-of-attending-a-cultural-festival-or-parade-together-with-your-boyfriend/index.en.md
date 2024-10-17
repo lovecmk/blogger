@@ -1,8 +1,8 @@
 ---
     weight: 1624
     title: "Dream of a bowl of fresh blueberries"  # Assuming 'title' column exists
-    date: 2024-10-13T01:23:00+08:00
-    lastmod: 2024-10-13T01:23:00+08:00
+    date: 2024-10-12T05:57:00+08:00
+    lastmod: 2024-10-12T05:57:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fresh', 'bowl', 'blueberries', 'Dream', 'a', 'of']
+    tags: ['fresh', 'Dream', 'blueberries', 'bowl']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Lizard |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Baklava      |
-| Lucky Instrument    | Lyre |
-| Lucky Flower        | Perennial Aster    |
-| Lucky Job           | Plumber       |
-| Lucky Exercise      | Ultimate Frisbee  |
-| Lucky Country       | Nauru    |
+| Lucky Food          | Beef Tacos      |
+| Lucky Instrument    | Bass Drum |
+| Lucky Flower        | Firecracker Plant    |
+| Lucky Job           | SEO Specialist       |
+| Lucky Exercise      | Leg Press  |
+| Lucky Country       | Ukraine    |
 
 
 ##  Final Reflections on Dreams

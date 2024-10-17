@@ -1,8 +1,8 @@
 ---
     weight: 252
     title: "Dream of defeating all nightmares"  # Assuming 'title' column exists
-    date: 2024-10-13T05:09:00+08:00
-    lastmod: 2024-10-13T05:09:00+08:00
+    date: 2024-10-13T14:04:00+08:00
+    lastmod: 2024-10-13T14:04:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['nightmares', 'Dream', 'all', 'of', 'defeating']
+    tags: ['nightmares', 'Dream', 'all', 'defeating']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Dreams of defeating all nightmares can be a sign of overcoming inner conflict an
 | Lucky Animal        | Camel |
 | Lucky Place         | Sea     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Stuffed Mushrooms      |
-| Lucky Instrument    | Clarinet |
-| Lucky Flower        | Iris    |
-| Lucky Job           | Data Analyst       |
-| Lucky Exercise      | Step Aerobics  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Mango Sticky Rice      |
+| Lucky Instrument    | Oboe |
+| Lucky Flower        | Maranta    |
+| Lucky Job           | Astrophysicist       |
+| Lucky Exercise      | Aqua Aerobics  |
+| Lucky Country       | Latvia    |
 
 
 ##  Final Reflections on Dreams

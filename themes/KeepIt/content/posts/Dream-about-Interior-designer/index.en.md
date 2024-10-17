@@ -1,8 +1,8 @@
 ---
     weight: 1143
     title: "Dream about Interior designer"  # Assuming 'title' column exists
-    date: 2024-10-13T12:44:00+08:00
-    lastmod: 2024-10-13T12:44:00+08:00
+    date: 2024-10-11T14:24:00+08:00
+    lastmod: 2024-10-11T14:24:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Interior', 'designer', 'about', 'Dream']
+    tags: ['Interior', 'designer', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can mean that you can bring you a variety of opportunitie
 | Lucky Animal        | Hyena |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Ratatouille      |
-| Lucky Instrument    | Tabla |
-| Lucky Flower        | Gladiolus    |
-| Lucky Job           | Interpreter       |
-| Lucky Exercise      | Circuit Workout  |
-| Lucky Country       | Kiribati    |
+| Lucky Food          | Noodles      |
+| Lucky Instrument    | Didgeridoo |
+| Lucky Flower        | Feverfew    |
+| Lucky Job           | Plumber       |
+| Lucky Exercise      | Golf  |
+| Lucky Country       | Belgium    |
 
 
 ##  Final Reflections on Dreams

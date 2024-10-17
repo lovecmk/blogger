@@ -1,8 +1,8 @@
 ---
     weight: 721
     title: "Dream of talking in a small cafe with a friend I met for a long time"  # Assuming 'title' column exists
-    date: 2024-10-13T18:32:00+08:00
-    lastmod: 2024-10-13T18:32:00+08:00
+    date: 2024-10-11T02:59:00+08:00
+    lastmod: 2024-10-11T02:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['friend', 'small', 'long', 'talking', 'Dream', 'cafe', 'I', 'a', 'for', 'time', 'in', 'met', 'of', 'with']
+    tags: ['Dream', 'small', 'talking', 'I', 'friend', 'long', 'met', 'time', 'cafe']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can indicate the possibility you can enjoy luck in your precious rela
 | Lucky Animal        | Snake |
 | Lucky Place         | River     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Dumplings      |
-| Lucky Instrument    | Oboe |
-| Lucky Flower        | Chrysanthemum    |
-| Lucky Job           | Human Resources Manager       |
-| Lucky Exercise      | Calisthenics  |
-| Lucky Country       | Eswatini    |
+| Lucky Food          | Caramel Flan      |
+| Lucky Instrument    | Zither |
+| Lucky Flower        | Stock    |
+| Lucky Job           | Database Administrator       |
+| Lucky Exercise      | Circuit Training  |
+| Lucky Country       | Saudi Arabia    |
 
 
 ##  Final Reflections on Dreams

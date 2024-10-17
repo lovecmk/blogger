@@ -1,8 +1,8 @@
 ---
     weight: 1843
     title: "Dream of expressing gratitude to your ancestors for their contributions."  # Assuming 'title' column exists
-    date: 2024-10-13T12:09:00+08:00
-    lastmod: 2024-10-13T12:09:00+08:00
+    date: 2024-10-13T16:37:00+08:00
+    lastmod: 2024-10-13T16:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['ancestors', 'expressing', 'gratitude', 'your', 'to', 'Dream', 'for', 'their', 'of', 'contributions.']
+    tags: ['contributions', 'Dream', 'gratitude', 'to', 'expressing', 'ancestors', 'their']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Scallops      |
-| Lucky Instrument    | Accordion Synth |
-| Lucky Flower        | Stock    |
-| Lucky Job           | Stockbroker       |
-| Lucky Exercise      | Rock Climbing  |
-| Lucky Country       | Eswatini    |
+| Lucky Food          | Chicken Curry      |
+| Lucky Instrument    | Saz |
+| Lucky Flower        | Nymphaea    |
+| Lucky Job           | Sous Chef       |
+| Lucky Exercise      | Jump Squats  |
+| Lucky Country       | Nepal    |
 
 
 ##  Final Reflections on Dreams

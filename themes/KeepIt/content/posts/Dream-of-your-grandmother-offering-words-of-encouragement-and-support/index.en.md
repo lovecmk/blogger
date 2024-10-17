@@ -1,8 +1,8 @@
 ---
     weight: 1704
     title: "Dream of being lost and unable to find your way"  # Assuming 'title' column exists
-    date: 2024-10-13T20:40:00+08:00
-    lastmod: 2024-10-13T20:40:00+08:00
+    date: 2024-10-14T04:49:00+08:00
+    lastmod: 2024-10-14T04:49:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lost', 'unable', 'way', 'your', 'to', 'Dream', 'being', 'and', 'of', 'find']
+    tags: ['being', 'lost', 'Dream', 'way', 'to', 'unable', 'find']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ While this dream may not directly bring luck, it serves as a reminder to appreci
 | Lucky Animal        | Ostrich |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Deviled Eggs      |
-| Lucky Instrument    | Tuba Horn |
-| Lucky Flower        | Ragged Robin    |
-| Lucky Job           | Field Technician       |
-| Lucky Exercise      | Pull-Ups  |
-| Lucky Country       | China    |
+| Lucky Food          | Ceviche      |
+| Lucky Instrument    | Violin |
+| Lucky Flower        | Primrose    |
+| Lucky Job           | Mathematician       |
+| Lucky Exercise      | Step Aerobics  |
+| Lucky Country       | Tanzania    |
 
 
 ##  Final Reflections on Dreams

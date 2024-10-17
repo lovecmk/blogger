@@ -1,8 +1,8 @@
 ---
     weight: 1029
     title: "Dream of overcoming fear"  # Assuming 'title' column exists
-    date: 2024-10-13T15:01:00+08:00
-    lastmod: 2024-10-13T15:01:00+08:00
+    date: 2024-10-13T15:07:00+08:00
+    lastmod: 2024-10-13T15:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['overcoming', 'of', 'fear', 'Dream']
+    tags: ['overcoming', 'Dream', 'fear']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can give you good luck and positive results.If you overcome your inne
 | Lucky Animal        | Owl |
 | Lucky Place         | Sea     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Waffles      |
-| Lucky Instrument    | Sackbut |
+| Lucky Food          | Caprese Salad      |
+| Lucky Instrument    | Sarangi |
 | Lucky Flower        | Bluebell    |
-| Lucky Job           | Quality Assurance Tester       |
-| Lucky Exercise      | Squash  |
-| Lucky Country       | Italy    |
+| Lucky Job           | Customer Service Representative       |
+| Lucky Exercise      | Slacklining  |
+| Lucky Country       | Turkey    |
 
 
 ##  Final Reflections on Dreams

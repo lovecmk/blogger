@@ -1,8 +1,8 @@
 ---
     weight: 425
     title: "Dream of running away from adventure or unknown place"  # Assuming 'title' column exists
-    date: 2024-10-13T05:52:00+08:00
-    lastmod: 2024-10-13T05:52:00+08:00
+    date: 2024-10-12T13:37:00+08:00
+    lastmod: 2024-10-12T13:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['adventure', 'or', 'running', 'away', 'Dream', 'place', 'unknown', 'from', 'of']
+    tags: ['Dream', 'running', 'unknown', 'place', 'adventure', 'from', 'away']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be a new experience, challenge and freedom.If you get
 | Lucky Animal        | Cat |
 | Lucky Place         | Park     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Caprese Skewers      |
-| Lucky Instrument    | Maracas |
-| Lucky Flower        | Crown Daisy    |
-| Lucky Job           | Engineer       |
-| Lucky Exercise      | Shot Put  |
-| Lucky Country       | South Korea    |
+| Lucky Food          | Caramel Flan      |
+| Lucky Instrument    | Zither |
+| Lucky Flower        | Iris    |
+| Lucky Job           | Doctor       |
+| Lucky Exercise      | Jumping Rope  |
+| Lucky Country       | Kiribati    |
 
 
 ##  Final Reflections on Dreams

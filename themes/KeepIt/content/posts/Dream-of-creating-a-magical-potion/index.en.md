@@ -1,8 +1,8 @@
 ---
     weight: 275
     title: "Dream of creating a magical potion"  # Assuming 'title' column exists
-    date: 2024-10-13T05:21:00+08:00
-    lastmod: 2024-10-13T05:21:00+08:00
+    date: 2024-10-11T11:29:00+08:00
+    lastmod: 2024-10-11T11:29:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['potion', 'Dream', 'a', 'magical', 'creating', 'of']
+    tags: ['creating', 'Dream', 'magical', 'potion']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can vary depending on the individual.The dream of creatin
 | Lucky Animal        | Sparrow |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Guacamole      |
-| Lucky Instrument    | Synthesizer |
-| Lucky Flower        | Peach Blossom    |
-| Lucky Job           | Data Analyst       |
-| Lucky Exercise      | Soccer  |
-| Lucky Country       | Solomon Islands    |
+| Lucky Food          | Pizza      |
+| Lucky Instrument    | Sarangi |
+| Lucky Flower        | Feverfew    |
+| Lucky Job           | Stockbroker       |
+| Lucky Exercise      | Body Pump  |
+| Lucky Country       | Kazakhstan    |
 
 
 ##  Final Reflections on Dreams

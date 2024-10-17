@@ -1,8 +1,8 @@
 ---
     weight: 1435
     title: "Dream of a motorcycle accident"  # Assuming 'title' column exists
-    date: 2024-10-13T11:17:00+08:00
-    lastmod: 2024-10-13T11:17:00+08:00
+    date: 2024-10-11T00:41:00+08:00
+    lastmod: 2024-10-11T00:41:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['motorcycle', 'Dream', 'a', 'accident', 'of']
+    tags: ['Dream', 'motorcycle', 'accident']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Panda |
 | Lucky Place         | River     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Hot Dog      |
-| Lucky Instrument    | Cymbals |
-| Lucky Flower        | Pansy    |
-| Lucky Job           | Firefighter       |
-| Lucky Exercise      | Skating  |
-| Lucky Country       | Tanzania    |
+| Lucky Food          | Scone      |
+| Lucky Instrument    | Zither |
+| Lucky Flower        | Calla Lily    |
+| Lucky Job           | Personal Trainer       |
+| Lucky Exercise      | Resistance Training  |
+| Lucky Country       | South Africa    |
 
 
 ##  Final Reflections on Dreams

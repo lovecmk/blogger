@@ -1,8 +1,8 @@
 ---
     weight: 2050
     title: "Dream of your grandmother giving you a valuable family heirloom."  # Assuming 'title' column exists
-    date: 2024-10-13T06:54:00+08:00
-    lastmod: 2024-10-13T06:54:00+08:00
+    date: 2024-10-14T14:11:00+08:00
+    lastmod: 2024-10-14T14:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['grandmother', 'family', 'your', 'valuable', 'giving', 'heirloom.', 'Dream', 'a', 'of', 'you']
+    tags: ['family', 'Dream', 'heirloom', 'grandmother', 'giving', 'valuable', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream may bring luck and positive energy in terms of your ability to tackle
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Zoo     |
 | Lucky Color         | White     |
-| Lucky Food          | Shrimp      |
-| Lucky Instrument    | Cowbell |
+| Lucky Food          | Casserole      |
+| Lucky Instrument    | Pandeiro |
 | Lucky Flower        | Zinnia    |
-| Lucky Job           | Anthropologist       |
-| Lucky Exercise      | Water Polo  |
-| Lucky Country       | Micronesia    |
+| Lucky Job           | Pilot       |
+| Lucky Exercise      | Slacklining  |
+| Lucky Country       | Pakistan    |
 
 
 ##  Final Reflections on Dreams

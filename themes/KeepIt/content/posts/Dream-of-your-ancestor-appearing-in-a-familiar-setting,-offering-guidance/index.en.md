@@ -1,8 +1,8 @@
 ---
     weight: 2209
     title: "Dream of witnessing a suicide"  # Assuming 'title' column exists
-    date: 2024-10-13T05:12:00+08:00
-    lastmod: 2024-10-13T05:12:00+08:00
+    date: 2024-10-14T16:08:00+08:00
+    lastmod: 2024-10-14T16:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['witnessing', 'Dream', 'a', 'of', 'suicide']
+    tags: ['suicide', 'Dream', 'witnessing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ The luck associated with this dream is that it signifies a strong connection to 
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Burrito      |
-| Lucky Instrument    | Timpani |
-| Lucky Flower        | Daisy    |
-| Lucky Job           | Anthropologist       |
-| Lucky Exercise      | CrossFit  |
-| Lucky Country       | Cambodia    |
+| Lucky Food          | Ratatouille      |
+| Lucky Instrument    | Tenor Banjo |
+| Lucky Flower        | Bleeding Heart    |
+| Lucky Job           | Event Planner       |
+| Lucky Exercise      | Box Jumps  |
+| Lucky Country       | Malawi    |
 
 
 ##  Final Reflections on Dreams

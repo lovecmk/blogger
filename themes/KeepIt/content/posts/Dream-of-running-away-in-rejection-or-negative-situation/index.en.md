@@ -1,8 +1,8 @@
 ---
     weight: 413
     title: "Dream of running away in rejection or negative situation"  # Assuming 'title' column exists
-    date: 2024-10-13T15:52:00+08:00
-    lastmod: 2024-10-13T15:52:00+08:00
+    date: 2024-10-12T00:19:00+08:00
+    lastmod: 2024-10-12T00:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['rejection', 'or', 'running', 'away', 'Dream', 'situation', 'in', 'of', 'negative']
+    tags: ['Dream', 'running', 'rejection', 'away', 'situation', 'negative']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can not be lucky, but also suggests the improvement of internal chang
 | Lucky Animal        | Chicken |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Chocolate Mousse      |
-| Lucky Instrument    | Saz |
-| Lucky Flower        | Tithonia    |
-| Lucky Job           | Social Worker       |
-| Lucky Exercise      | Running  |
-| Lucky Country       | Switzerland    |
+| Lucky Food          | Caprese Salad      |
+| Lucky Instrument    | Piccolo |
+| Lucky Flower        | Zinnia    |
+| Lucky Job           | Researcher       |
+| Lucky Exercise      | Obstacle Course Racing  |
+| Lucky Country       | Kiribati    |
 
 
 ##  Final Reflections on Dreams

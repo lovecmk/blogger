@@ -1,8 +1,8 @@
 ---
     weight: 849
     title: "Dream of a puppy"  # Assuming 'title' column exists
-    date: 2024-10-13T15:42:00+08:00
-    lastmod: 2024-10-13T15:42:00+08:00
+    date: 2024-10-13T23:02:00+08:00
+    lastmod: 2024-10-13T23:02:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['puppy', 'of', 'a', 'Dream']
+    tags: ['Dream', 'puppy']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Since the dream of a puppy is generally a positive symbol, the luck of this drea
 | Lucky Animal        | Sparrow |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Noodles      |
-| Lucky Instrument    | Bass Guitar |
-| Lucky Flower        | Vinca    |
-| Lucky Job           | Insurance Underwriter       |
-| Lucky Exercise      | Beach Volleyball  |
-| Lucky Country       | Mongolia    |
+| Lucky Food          | Gnocchi      |
+| Lucky Instrument    | Koto |
+| Lucky Flower        | Cyclamen    |
+| Lucky Job           | Event Coordinator       |
+| Lucky Exercise      | Surf Lifesaving  |
+| Lucky Country       | Kazakhstan    |
 
 
 ##  Final Reflections on Dreams

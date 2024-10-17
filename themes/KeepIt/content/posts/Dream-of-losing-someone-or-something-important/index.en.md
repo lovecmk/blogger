@@ -1,8 +1,8 @@
 ---
     weight: 1459
     title: "Dream of losing someone or something important"  # Assuming 'title' column exists
-    date: 2024-10-13T08:40:00+08:00
-    lastmod: 2024-10-13T08:40:00+08:00
+    date: 2024-10-11T15:31:00+08:00
+    lastmod: 2024-10-11T15:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'Dream', 'important', 'someone', 'of', 'something', 'losing']
+    tags: ['Dream', 'losing', 'important', 'someone', 'something']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hippo |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Green     |
-| Lucky Food          | Salad      |
-| Lucky Instrument    | Tenor Banjo |
-| Lucky Flower        | Dandelion    |
-| Lucky Job           | Journalist       |
-| Lucky Exercise      | Hammer Throw  |
-| Lucky Country       | Poland    |
+| Lucky Food          | Ice Cream      |
+| Lucky Instrument    | Lute |
+| Lucky Flower        | Kalanchoe    |
+| Lucky Job           | Electrician       |
+| Lucky Exercise      | Body Pump  |
+| Lucky Country       | Belgium    |
 
 
 ##  Final Reflections on Dreams

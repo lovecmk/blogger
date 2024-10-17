@@ -1,8 +1,8 @@
 ---
     weight: 1035
     title: "Dream of sharing love"  # Assuming 'title' column exists
-    date: 2024-10-13T11:47:00+08:00
-    lastmod: 2024-10-13T11:47:00+08:00
+    date: 2024-10-15T18:07:00+08:00
+    lastmod: 2024-10-15T18:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['sharing', 'of', 'Dream', 'love']
+    tags: ['love', 'sharing', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can appear in terms of your love.Dreams of sharing love c
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Mart     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Ice Cream      |
-| Lucky Instrument    | Bass Clarinet |
-| Lucky Flower        | Marigold    |
-| Lucky Job           | Welder       |
-| Lucky Exercise      | Handball  |
-| Lucky Country       | Belgium    |
+| Lucky Food          | Quiche      |
+| Lucky Instrument    | Electric Violin |
+| Lucky Flower        | Pincushion Flower    |
+| Lucky Job           | Operations Manager       |
+| Lucky Exercise      | Resistance Training  |
+| Lucky Country       | Bahrain    |
 
 
 ##  Final Reflections on Dreams

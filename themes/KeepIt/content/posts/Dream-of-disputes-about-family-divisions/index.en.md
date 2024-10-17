@@ -1,8 +1,8 @@
 ---
     weight: 2064
     title: "Dream of being trapped or imprisoned"  # Assuming 'title' column exists
-    date: 2024-10-13T08:26:00+08:00
-    lastmod: 2024-10-13T08:26:00+08:00
+    date: 2024-10-11T15:29:00+08:00
+    lastmod: 2024-10-11T15:29:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'imprisoned', 'Dream', 'being', 'trapped', 'of']
+    tags: ['being', 'Dream', 'imprisoned', 'trapped']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Green     |
-| Lucky Food          | Steak      |
-| Lucky Instrument    | Bouzouki |
-| Lucky Flower        | Iris    |
-| Lucky Job           | Artist       |
-| Lucky Exercise      | High-Intensity Interval Training (HIIT)  |
-| Lucky Country       | Egypt    |
+| Lucky Food          | Seafood Paella      |
+| Lucky Instrument    | Melodic Percussion |
+| Lucky Flower        | Sunflower    |
+| Lucky Job           | Historian       |
+| Lucky Exercise      | Juggling  |
+| Lucky Country       | Nepal    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1099
     title: "Dream about snake"  # Assuming 'title' column exists
-    date: 2024-10-13T23:34:00+08:00
-    lastmod: 2024-10-13T23:34:00+08:00
+    date: 2024-10-12T09:15:00+08:00
+    lastmod: 2024-10-12T09:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['snake', 'about', 'Dream']
+    tags: ['snake', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The meaning of 'snake' dreams may vary to individuals.In general, 'snakes' often
 | Lucky Animal        | Chameleon |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Lasagna      |
-| Lucky Instrument    | Pipa |
-| Lucky Flower        | Stephanotis    |
-| Lucky Job           | Nurse       |
-| Lucky Exercise      | Mountain Climbers  |
-| Lucky Country       | Marshall Islands    |
+| Lucky Food          | Coconut Shrimp      |
+| Lucky Instrument    | Electric Guitar |
+| Lucky Flower        | Iris    |
+| Lucky Job           | Logistician       |
+| Lucky Exercise      | Squash  |
+| Lucky Country       | Qatar    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1002
     title: "Dream of feeling anxiety and tension"  # Assuming 'title' column exists
-    date: 2024-10-13T12:52:00+08:00
-    lastmod: 2024-10-13T12:52:00+08:00
+    date: 2024-10-13T22:01:00+08:00
+    lastmod: 2024-10-13T22:01:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['feeling', 'anxiety', 'Dream', 'tension', 'and', 'of']
+    tags: ['tension', 'Dream', 'anxiety', 'feeling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ It is not possible to guarantee that 'anxiety and tension dreams' bring good luc
 | Lucky Animal        | Rhino |
 | Lucky Place         | Museum     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Fruit Salad      |
-| Lucky Instrument    | Tenor Saxophone |
-| Lucky Flower        | Sunflower    |
-| Lucky Job           | Catering Manager       |
+| Lucky Food          | Hummus      |
+| Lucky Instrument    | Bass Drum |
+| Lucky Flower        | Bouvardia    |
+| Lucky Job           | Philosopher       |
 | Lucky Exercise      | Bodyweight Training  |
-| Lucky Country       | Maldives    |
+| Lucky Country       | Eswatini    |
 
 
 ##  Final Reflections on Dreams

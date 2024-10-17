@@ -1,8 +1,8 @@
 ---
     weight: 1972
     title: "Dream of feeling a sense of nostalgia for a time tied to your ancestry."  # Assuming 'title' column exists
-    date: 2024-10-13T09:32:00+08:00
-    lastmod: 2024-10-13T09:32:00+08:00
+    date: 2024-10-12T08:52:00+08:00
+    lastmod: 2024-10-12T08:52:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['feeling', 'nostalgia', 'your', 'to', 'Dream', 'for', 'a', 'time', 'of', 'sense', 'tied', 'ancestry.']
+    tags: ['Dream', 'to', 'sense', 'time', 'feeling', 'tied', 'nostalgia', 'ancestry']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams are not directly related to luck, but this dream could be interpreted as 
 | Lucky Animal        | Chicken |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Fried Rice      |
-| Lucky Instrument    | Basset Horn |
-| Lucky Flower        | Bee Balm    |
-| Lucky Job           | Interpreter       |
-| Lucky Exercise      | Bouldering  |
-| Lucky Country       | Italy    |
+| Lucky Food          | Quiche      |
+| Lucky Instrument    | Accordion Synth |
+| Lucky Flower        | Clover    |
+| Lucky Job           | Pilot       |
+| Lucky Exercise      | Bodyweight Training  |
+| Lucky Country       | Mongolia    |
 
 
 ##  Final Reflections on Dreams

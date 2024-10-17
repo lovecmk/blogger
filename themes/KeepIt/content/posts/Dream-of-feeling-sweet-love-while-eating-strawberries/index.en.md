@@ -1,8 +1,8 @@
 ---
     weight: 56
     title: "Dream of feeling sweet love while eating strawberries"  # Assuming 'title' column exists
-    date: 2024-10-13T17:29:00+08:00
-    lastmod: 2024-10-13T17:29:00+08:00
+    date: 2024-10-11T03:21:00+08:00
+    lastmod: 2024-10-11T03:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['feeling', 'eating', 'while', 'Dream', 'strawberries', 'love', 'of', 'sweet']
+    tags: ['while', 'Dream', 'love', 'eating', 'sweet', 'feeling', 'strawberries']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you good luck and satisfaction.The dream of feeling sweet l
 | Lucky Animal        | Snake |
 | Lucky Place         | Park     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Onion Rings      |
-| Lucky Instrument    | Guitar |
-| Lucky Flower        | Sweet William    |
-| Lucky Job           | Postman       |
-| Lucky Exercise      | Ashtanga Yoga  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Pizza      |
+| Lucky Instrument    | Violin Bow |
+| Lucky Flower        | Poinsettia    |
+| Lucky Job           | Taxi Driver       |
+| Lucky Exercise      | Gymnastics  |
+| Lucky Country       | Lebanon    |
 
 
 ##  Final Reflections on Dreams

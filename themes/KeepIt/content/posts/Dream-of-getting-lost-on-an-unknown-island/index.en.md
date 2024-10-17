@@ -1,8 +1,8 @@
 ---
     weight: 607
     title: "Dream of getting lost on an unknown island"  # Assuming 'title' column exists
-    date: 2024-10-13T07:03:00+08:00
-    lastmod: 2024-10-13T07:03:00+08:00
+    date: 2024-10-12T21:07:00+08:00
+    lastmod: 2024-10-12T21:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lost', 'Dream', 'an', 'island', 'on', 'unknown', 'of', 'getting']
+    tags: ['lost', 'island', 'Dream', 'unknown', 'getting', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream shows the desire to find a lost self and can symbolize the will to ov
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Caramel Flan      |
-| Lucky Instrument    | Clarinet |
-| Lucky Flower        | Tiger Lily    |
-| Lucky Job           | Project Manager       |
-| Lucky Exercise      | Yoga Flow  |
-| Lucky Country       | Turkmenistan    |
+| Lucky Food          | Dumplings      |
+| Lucky Instrument    | Bandoneon |
+| Lucky Flower        | Pincushion Flower    |
+| Lucky Job           | Recruiter       |
+| Lucky Exercise      | Underwater Diving  |
+| Lucky Country       | Angola    |
 
 
 ##  Final Reflections on Dreams

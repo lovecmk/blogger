@@ -1,8 +1,8 @@
 ---
     weight: 296
     title: "Dream of feeling nature while walking with a puppy"  # Assuming 'title' column exists
-    date: 2024-10-13T19:37:00+08:00
-    lastmod: 2024-10-13T19:37:00+08:00
+    date: 2024-10-15T13:07:00+08:00
+    lastmod: 2024-10-15T13:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['with', 'feeling', 'Dream', 'puppy', 'a', 'nature', 'of', 'while', 'walking']
+    tags: ['while', 'Dream', 'walking', 'puppy', 'nature', 'feeling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream will bring you peace and good luck.Through a walk with your dog, you 
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Academy     |
 | Lucky Color         | Green     |
-| Lucky Food          | Waffles      |
-| Lucky Instrument    | Cajón |
-| Lucky Flower        | Kalanchoe    |
-| Lucky Job           | Fitness Instructor       |
-| Lucky Exercise      | Mountain Climbers  |
-| Lucky Country       | Qatar    |
+| Lucky Food          | Scallops      |
+| Lucky Instrument    | Bongo Drums |
+| Lucky Flower        | Edelweiss    |
+| Lucky Job           | Real Estate Agent       |
+| Lucky Exercise      | Plank  |
+| Lucky Country       | Kiribati    |
 
 
 ##  Final Reflections on Dreams

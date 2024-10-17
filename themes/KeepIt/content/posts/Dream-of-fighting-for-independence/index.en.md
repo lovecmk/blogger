@@ -1,8 +1,8 @@
 ---
     weight: 1739
     title: "Dream of dying in your sleep"  # Assuming 'title' column exists
-    date: 2024-10-13T08:50:00+08:00
-    lastmod: 2024-10-13T08:50:00+08:00
+    date: 2024-10-14T08:02:00+08:00
+    lastmod: 2024-10-14T08:02:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dying', 'sleep', 'your', 'Dream', 'in', 'of']
+    tags: ['Dream', 'dying', 'sleep']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Gelato      |
-| Lucky Instrument    | Horn |
-| Lucky Flower        | Gillyflower    |
-| Lucky Job           | Accountant       |
-| Lucky Exercise      | Baseball  |
-| Lucky Country       | Tonga    |
+| Lucky Food          | Caprese Salad      |
+| Lucky Instrument    | Harmonium |
+| Lucky Flower        | Freesia    |
+| Lucky Job           | Doctor       |
+| Lucky Exercise      | Ultimate Frisbee  |
+| Lucky Country       | Malawi    |
 
 
 ##  Final Reflections on Dreams

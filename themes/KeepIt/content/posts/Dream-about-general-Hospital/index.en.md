@@ -1,8 +1,8 @@
 ---
     weight: 1138
     title: "Dream about general Hospital"  # Assuming 'title' column exists
-    date: 2024-10-13T13:50:00+08:00
-    lastmod: 2024-10-13T13:50:00+08:00
+    date: 2024-10-14T14:09:00+08:00
+    lastmod: 2024-10-14T14:09:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['general', 'Hospital', 'about', 'Dream']
+    tags: ['Hospital', 'Dream', 'general']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Good luck in 'General Hospital' dreams can vary by individual interpretation.Sin
 | Lucky Animal        | Dog |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Stuffed Peppers      |
-| Lucky Instrument    | Bagpipes |
-| Lucky Flower        | Cyclamen    |
-| Lucky Job           | IT Specialist       |
-| Lucky Exercise      | Swimming  |
-| Lucky Country       | United Arab Emirates    |
+| Lucky Food          | Omelette      |
+| Lucky Instrument    | Sitar |
+| Lucky Flower        | Ragged Robin    |
+| Lucky Job           | Electrician       |
+| Lucky Exercise      | Skiing  |
+| Lucky Country       | Thailand    |
 
 
 ##  Final Reflections on Dreams

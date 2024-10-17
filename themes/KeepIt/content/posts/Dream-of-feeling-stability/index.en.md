@@ -1,8 +1,8 @@
 ---
     weight: 1030
     title: "Dream of feeling stability"  # Assuming 'title' column exists
-    date: 2024-10-13T17:46:00+08:00
-    lastmod: 2024-10-13T17:46:00+08:00
+    date: 2024-10-12T18:45:00+08:00
+    lastmod: 2024-10-12T18:45:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'feeling', 'stability', 'Dream']
+    tags: ['stability', 'Dream', 'feeling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'dreams of stability' shows the willingness to find good luck in rea
 | Lucky Animal        | Dog |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Bruschetta      |
-| Lucky Instrument    | Oboe |
-| Lucky Flower        | Agapanthus    |
-| Lucky Job           | Dentist       |
-| Lucky Exercise      | Pilates  |
-| Lucky Country       | Syria    |
+| Lucky Food          | Chocolate      |
+| Lucky Instrument    | Xylophone |
+| Lucky Flower        | Firecracker Plant    |
+| Lucky Job           | Pastry Chef       |
+| Lucky Exercise      | Hot Yoga  |
+| Lucky Country       | Canada    |
 
 
 ##  Final Reflections on Dreams

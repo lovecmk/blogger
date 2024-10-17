@@ -1,8 +1,8 @@
 ---
     weight: 673
     title: "Dream of expressing gratitude to a loved one"  # Assuming 'title' column exists
-    date: 2024-10-13T16:47:00+08:00
-    lastmod: 2024-10-13T16:47:00+08:00
+    date: 2024-10-11T22:00:00+08:00
+    lastmod: 2024-10-11T22:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['one', 'expressing', 'gratitude', 'to', 'Dream', 'a', 'loved', 'of']
+    tags: ['Dream', 'one', 'gratitude', 'loved', 'to', 'expressing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can have a lucky and positive effect on you.Expressing your appreciat
 | Lucky Animal        | Hippo |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Black     |
-| Lucky Food          | Lasagna      |
-| Lucky Instrument    | Saxello |
-| Lucky Flower        | Gladiolus    |
-| Lucky Job           | Video Editor       |
-| Lucky Exercise      | Kettlebell Training  |
-| Lucky Country       | Greece    |
+| Lucky Food          | Fish and Chips      |
+| Lucky Instrument    | Rudra Veena |
+| Lucky Flower        | Lotus    |
+| Lucky Job           | SEO Specialist       |
+| Lucky Exercise      | Horseback Riding  |
+| Lucky Country       | Kazakhstan    |
 
 
 ##  Final Reflections on Dreams

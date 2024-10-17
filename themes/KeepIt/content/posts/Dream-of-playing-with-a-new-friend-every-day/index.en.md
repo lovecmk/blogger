@@ -1,8 +1,8 @@
 ---
     weight: 644
     title: "Dream of playing with a new friend every day"  # Assuming 'title' column exists
-    date: 2024-10-13T19:50:00+08:00
-    lastmod: 2024-10-13T19:50:00+08:00
+    date: 2024-10-13T20:34:00+08:00
+    lastmod: 2024-10-13T20:34:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['every', 'day', 'friend', 'new', 'playing', 'Dream', 'a', 'of', 'with']
+    tags: ['Dream', 'every', 'playing', 'friend', 'new', 'day']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can suggest that you can bring good luck by connecting with new inter
 | Lucky Animal        | Gorilla |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Sushi      |
-| Lucky Instrument    | Dulcimer |
-| Lucky Flower        | Tiger Lily    |
-| Lucky Job           | Data Scientist       |
-| Lucky Exercise      | Swimming Laps  |
-| Lucky Country       | Marshall Islands    |
+| Lucky Food          | Chowder      |
+| Lucky Instrument    | Conga Drum |
+| Lucky Flower        | Borage    |
+| Lucky Job           | Real Estate Agent       |
+| Lucky Exercise      | Stair Climbing  |
+| Lucky Country       | Malta    |
 
 
 ##  Final Reflections on Dreams

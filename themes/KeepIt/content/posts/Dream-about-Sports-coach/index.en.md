@@ -1,8 +1,8 @@
 ---
     weight: 1171
     title: "Dream about Sports coach"  # Assuming 'title' column exists
-    date: 2024-10-13T19:19:00+08:00
-    lastmod: 2024-10-13T19:19:00+08:00
+    date: 2024-10-13T22:31:00+08:00
+    lastmod: 2024-10-13T22:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Sports', 'about', 'Dream', 'coach']
+    tags: ['Sports', 'Dream', 'coach']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual's experience and sit
 | Lucky Animal        | Chameleon |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Pizza      |
-| Lucky Instrument    | Marimba |
-| Lucky Flower        | Poppy    |
-| Lucky Job           | Police Officer       |
-| Lucky Exercise      | Bouldering  |
-| Lucky Country       | Malta    |
+| Lucky Food          | Vegetable Stir Fry      |
+| Lucky Instrument    | Electric Violin |
+| Lucky Flower        | Heather    |
+| Lucky Job           | Farmer       |
+| Lucky Exercise      | Stretching  |
+| Lucky Country       | Palau    |
 
 
 ##  Final Reflections on Dreams

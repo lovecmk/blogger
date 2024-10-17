@@ -1,8 +1,8 @@
 ---
     weight: 1742
     title: "Dream of your husband being a source of inspiration and motivation for you."  # Assuming 'title' column exists
-    date: 2024-10-13T10:01:00+08:00
-    lastmod: 2024-10-13T10:01:00+08:00
+    date: 2024-10-12T02:47:00+08:00
+    lastmod: 2024-10-12T02:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['you.', 'motivation', 'your', 'Dream', 'for', 'being', 'husband', 'a', 'inspiration', 'and', 'of', 'source']
+    tags: ['being', 'motivation', 'you', 'Dream', 'inspiration', 'husband', 'source']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ While dreams themselves don't directly bring luck, the 'Dream of a visitation fr
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Museum     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Clams      |
-| Lucky Instrument    | Sitar |
-| Lucky Flower        | Marigold    |
-| Lucky Job           | Construction Worker       |
-| Lucky Exercise      | Body Pump  |
-| Lucky Country       | Cambodia    |
+| Lucky Food          | Corn on the Cob      |
+| Lucky Instrument    | Shakuhachi |
+| Lucky Flower        | Scented Geranium    |
+| Lucky Job           | Data Analyst       |
+| Lucky Exercise      | Jumping Rope  |
+| Lucky Country       | Kyrgyzstan    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 506
     title: "Dream of trail running"  # Assuming 'title' column exists
-    date: 2024-10-13T02:52:00+08:00
-    lastmod: 2024-10-13T02:52:00+08:00
+    date: 2024-10-15T13:29:00+08:00
+    lastmod: 2024-10-15T13:29:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['running', 'of', 'Dream', 'trail']
+    tags: ['running', 'Dream', 'trail']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The dream of running trails can give you a lot of luck.This dream can provide go
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Scone      |
-| Lucky Instrument    | Tenor Guitar |
-| Lucky Flower        | Primrose    |
-| Lucky Job           | IT Specialist       |
-| Lucky Exercise      | Dancing  |
-| Lucky Country       | Angola    |
+| Lucky Food          | Guacamole      |
+| Lucky Instrument    | Cymbals |
+| Lucky Flower        | Lantana    |
+| Lucky Job           | Architect       |
+| Lucky Exercise      | Horseback Riding  |
+| Lucky Country       | Iceland    |
 
 
 ##  Final Reflections on Dreams

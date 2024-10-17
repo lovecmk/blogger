@@ -1,8 +1,8 @@
 ---
     weight: 226
     title: "Dream of swimming the sea"  # Assuming 'title' column exists
-    date: 2024-10-13T21:57:00+08:00
-    lastmod: 2024-10-13T21:57:00+08:00
+    date: 2024-10-15T17:10:00+08:00
+    lastmod: 2024-10-15T17:10:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'sea', 'Dream', 'of', 'swimming']
+    tags: ['sea', 'Dream', 'swimming']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream may have elements that give good luck depending on the individual's s
 | Lucky Animal        | Panda |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Red     |
-| Lucky Food          | Gelato      |
-| Lucky Instrument    | Clavichord |
-| Lucky Flower        | Peach Blossom    |
-| Lucky Job           | Game Developer       |
-| Lucky Exercise      | Handball  |
-| Lucky Country       | Nauru    |
+| Lucky Food          | Tart      |
+| Lucky Instrument    | Darabuka |
+| Lucky Flower        | Swan River Daisy    |
+| Lucky Job           | Dentist       |
+| Lucky Exercise      | Paddleboarding  |
+| Lucky Country       | Estonia    |
 
 
 ##  Final Reflections on Dreams

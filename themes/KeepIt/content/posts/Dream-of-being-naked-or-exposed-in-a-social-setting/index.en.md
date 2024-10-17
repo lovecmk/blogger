@@ -1,8 +1,8 @@
 ---
     weight: 1333
     title: "Dream of being naked or exposed in a social setting"  # Assuming 'title' column exists
-    date: 2024-10-13T11:57:00+08:00
-    lastmod: 2024-10-13T11:57:00+08:00
+    date: 2024-10-15T18:45:00+08:00
+    lastmod: 2024-10-15T18:45:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['setting', 'exposed', 'or', 'social', 'Dream', 'being', 'a', 'naked', 'in', 'of']
+    tags: ['being', 'Dream', 'naked', 'setting', 'exposed', 'social']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream does not necessarily bring luck in the traditional sense. However, ex
 | Lucky Animal        | Heron |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Dumplings      |
-| Lucky Instrument    | Electric Cello |
-| Lucky Flower        | Balsam    |
-| Lucky Job           | Video Editor       |
-| Lucky Exercise      | Deadlifts  |
-| Lucky Country       | Sri Lanka    |
+| Lucky Food          | Hummus      |
+| Lucky Instrument    | Sitar |
+| Lucky Flower        | Rose    |
+| Lucky Job           | Customer Service Representative       |
+| Lucky Exercise      | Walking  |
+| Lucky Country       | Switzerland    |
 
 
 ##  Final Reflections on Dreams

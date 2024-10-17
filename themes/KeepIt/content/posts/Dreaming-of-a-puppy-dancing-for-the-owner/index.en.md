@@ -1,8 +1,8 @@
 ---
     weight: 313
     title: "Dreaming of a puppy dancing for the owner"  # Assuming 'title' column exists
-    date: 2024-10-13T22:38:00+08:00
-    lastmod: 2024-10-13T22:38:00+08:00
+    date: 2024-10-11T04:59:00+08:00
+    lastmod: 2024-10-11T04:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dancing', 'Dreaming', 'the', 'for', 'a', 'of', 'owner', 'puppy']
+    tags: ['owner', 'puppy', 'Dreaming', 'dancing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be an opportunity to experience deeper bonds and conn
 | Lucky Animal        | Panda |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Curry      |
+| Lucky Food          | Fruit Smoothie      |
 | Lucky Instrument    | Kettledrum |
-| Lucky Flower        | Mandevilla    |
-| Lucky Job           | Sous Chef       |
-| Lucky Exercise      | Swimming Laps  |
-| Lucky Country       | Sri Lanka    |
+| Lucky Flower        | Larkspur    |
+| Lucky Job           | Taxi Driver       |
+| Lucky Exercise      | Squats  |
+| Lucky Country       | Belgium    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 27
     title: "Dream of choosing citrus fruits with the recommendation of the owner at a fruit shop"  # Assuming 'title' column exists
-    date: 2024-10-13T01:37:00+08:00
-    lastmod: 2024-10-13T01:37:00+08:00
+    date: 2024-10-13T15:41:00+08:00
+    lastmod: 2024-10-13T15:41:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fruits', 'fruit', 'the', 'recommendation', 'Dream', 'citrus', 'a', 'choosing', 'shop', 'of', 'owner', 'with', 'at']
+    tags: ['fruits', 'Dream', 'owner', 'choosing', 'shop', 'fruit', 'citrus', 'recommendation']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can indicate that you can get a richer satisfaction and a
 | Lucky Animal        | Hyena |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Green     |
-| Lucky Food          | Guacamole      |
-| Lucky Instrument    | Rudra Veena |
-| Lucky Flower        | Verbena    |
+| Lucky Food          | Scone      |
+| Lucky Instrument    | Snare Drum |
+| Lucky Flower        | Ornamental Pepper    |
 | Lucky Job           | Technical Writer       |
-| Lucky Exercise      | Tennis  |
-| Lucky Country       | Netherlands    |
+| Lucky Exercise      | Juggling  |
+| Lucky Country       | Switzerland    |
 
 
 ##  Final Reflections on Dreams

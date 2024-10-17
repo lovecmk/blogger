@@ -1,8 +1,8 @@
 ---
     weight: 542
     title: "Dream of walking forest"  # Assuming 'title' column exists
-    date: 2024-10-13T13:17:00+08:00
-    lastmod: 2024-10-13T13:17:00+08:00
+    date: 2024-10-15T01:17:00+08:00
+    lastmod: 2024-10-15T01:17:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'walking', 'forest', 'Dream']
+    tags: ['forest', 'Dream', 'walking']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can vary depending on the individual.In general, forests 
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Pico de Gallo      |
-| Lucky Instrument    | Keyboard Synthesizer |
-| Lucky Flower        | Chrysanthemum    |
-| Lucky Job           | Field Technician       |
-| Lucky Exercise      | Squash  |
-| Lucky Country       | Laos    |
+| Lucky Food          | Tiramisu      |
+| Lucky Instrument    | Harmonica |
+| Lucky Flower        | Bluebell    |
+| Lucky Job           | Consultant       |
+| Lucky Exercise      | Bouldering  |
+| Lucky Country       | Romania    |
 
 
 ##  Final Reflections on Dreams

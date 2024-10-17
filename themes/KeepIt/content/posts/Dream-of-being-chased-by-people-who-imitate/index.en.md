@@ -1,8 +1,8 @@
 ---
     weight: 929
     title: "Dream of being chased by people who imitate"  # Assuming 'title' column exists
-    date: 2024-10-13T10:57:00+08:00
-    lastmod: 2024-10-13T10:57:00+08:00
+    date: 2024-10-15T02:40:00+08:00
+    lastmod: 2024-10-15T02:40:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['who', 'people', 'Dream', 'being', 'by', 'of', 'imitate', 'chased']
+    tags: ['being', 'chased', 'Dream', 'imitate', 'people', 'who']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can mean that you can find good luck from the criticism o
 | Lucky Animal        | Horse |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Noodles      |
-| Lucky Instrument    | Kettledrum |
-| Lucky Flower        | Sea Lavender    |
-| Lucky Job           | Insurance Agent       |
-| Lucky Exercise      | Paddleboarding  |
-| Lucky Country       | Angola    |
+| Lucky Food          | Cheesecake      |
+| Lucky Instrument    | Djembe |
+| Lucky Flower        | Bluebell    |
+| Lucky Job           | Welder       |
+| Lucky Exercise      | Circuit Training  |
+| Lucky Country       | Botswana    |
 
 
 ##  Final Reflections on Dreams

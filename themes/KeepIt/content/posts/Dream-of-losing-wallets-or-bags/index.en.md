@@ -1,8 +1,8 @@
 ---
     weight: 371
     title: "Dream of losing wallets or bags"  # Assuming 'title' column exists
-    date: 2024-10-13T09:43:00+08:00
-    lastmod: 2024-10-13T09:43:00+08:00
+    date: 2024-10-11T12:59:00+08:00
+    lastmod: 2024-10-11T12:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'Dream', 'wallets', 'bags', 'of', 'losing']
+    tags: ['Dream', 'losing', 'bags', 'wallets']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream is generally not a symbol of good luck, but it can be said as a warni
 | Lucky Animal        | Panda |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Red     |
-| Lucky Food          | Paella      |
-| Lucky Instrument    | Cowbell |
-| Lucky Flower        | Jade Plant    |
-| Lucky Job           | Taxi Driver       |
-| Lucky Exercise      | Capoeira  |
-| Lucky Country       | Botswana    |
+| Lucky Food          | Fish and Chips      |
+| Lucky Instrument    | Bass Guitar |
+| Lucky Flower        | Clover Blossom    |
+| Lucky Job           | Scientist       |
+| Lucky Exercise      | Ashtanga Yoga  |
+| Lucky Country       | Finland    |
 
 
 ##  Final Reflections on Dreams

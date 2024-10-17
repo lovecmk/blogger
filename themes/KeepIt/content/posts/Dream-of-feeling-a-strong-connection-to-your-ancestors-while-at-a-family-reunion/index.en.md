@@ -1,8 +1,8 @@
 ---
     weight: 1844
     title: "Dream of your cat exploring a new toy"  # Assuming 'title' column exists
-    date: 2024-10-13T00:49:00+08:00
-    lastmod: 2024-10-13T00:49:00+08:00
+    date: 2024-10-12T01:30:00+08:00
+    lastmod: 2024-10-12T01:30:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['new', 'toy', 'your', 'cat', 'Dream', 'a', 'of', 'exploring']
+    tags: ['Dream', 'exploring', 'toy', 'cat', 'new']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Gorilla |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Spring Roll      |
-| Lucky Instrument    | Tuba |
-| Lucky Flower        | Nasturtium    |
-| Lucky Job           | Content Creator       |
-| Lucky Exercise      | Stretching  |
-| Lucky Country       | Maldives    |
+| Lucky Food          | Zucchini Noodles      |
+| Lucky Instrument    | Electric Cello |
+| Lucky Flower        | Jasmine    |
+| Lucky Job           | Social Worker       |
+| Lucky Exercise      | Calisthenics  |
+| Lucky Country       | Kenya    |
 
 
 ##  Final Reflections on Dreams

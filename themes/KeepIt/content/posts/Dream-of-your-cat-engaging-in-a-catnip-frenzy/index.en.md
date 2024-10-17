@@ -1,8 +1,8 @@
 ---
     weight: 2103
     title: "Dream of receiving a scholarship or grant for education or training."  # Assuming 'title' column exists
-    date: 2024-10-13T11:21:00+08:00
-    lastmod: 2024-10-13T11:21:00+08:00
+    date: 2024-10-11T18:04:00+08:00
+    lastmod: 2024-10-11T18:04:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['receiving', 'or', 'education', 'grant', 'training.', 'Dream', 'for', 'a', 'of', 'scholarship']
+    tags: ['education', 'grant', 'Dream', 'scholarship', 'receiving', 'training']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream may bring a sense of luck or fortune in terms of personal growth, sel
 | Lucky Animal        | Parrot |
 | Lucky Place         | Library     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Falafel      |
-| Lucky Instrument    | Timpani |
-| Lucky Flower        | Scabiosa    |
-| Lucky Job           | Consultant       |
-| Lucky Exercise      | Rugby  |
-| Lucky Country       | Azerbaijan    |
+| Lucky Food          | Caprese Salad      |
+| Lucky Instrument    | Banjo |
+| Lucky Flower        | Ragged Robin    |
+| Lucky Job           | Web Developer       |
+| Lucky Exercise      | Juggling  |
+| Lucky Country       | Ireland    |
 
 
 ##  Final Reflections on Dreams

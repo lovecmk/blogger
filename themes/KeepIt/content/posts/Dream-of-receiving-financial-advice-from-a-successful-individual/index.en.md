@@ -1,8 +1,8 @@
 ---
     weight: 2080
     title: "Dream of a ghost trying to communicate"  # Assuming 'title' column exists
-    date: 2024-10-13T18:18:00+08:00
-    lastmod: 2024-10-13T18:18:00+08:00
+    date: 2024-10-11T13:06:00+08:00
+    lastmod: 2024-10-11T13:06:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['communicate', 'ghost', 'to', 'Dream', 'trying', 'a', 'of']
+    tags: ['ghost', 'trying', 'Dream', 'to', 'communicate']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams do not necessarily bring luck or predict favorable outcomes. However, if 
 | Lucky Animal        | Owl |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Casserole      |
-| Lucky Instrument    | Harmonica |
-| Lucky Flower        | Hydrangea    |
-| Lucky Job           | Veterinarian       |
-| Lucky Exercise      | Interval Training  |
-| Lucky Country       | Nauru    |
+| Lucky Food          | Hot Dog      |
+| Lucky Instrument    | Castanets |
+| Lucky Flower        | Sweet Pea    |
+| Lucky Job           | Librarian       |
+| Lucky Exercise      | Running  |
+| Lucky Country       | Bahrain    |
 
 
 ##  Final Reflections on Dreams

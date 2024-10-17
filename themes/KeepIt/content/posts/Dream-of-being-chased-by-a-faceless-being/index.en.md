@@ -1,8 +1,8 @@
 ---
     weight: 928
     title: "Dream of being chased by a faceless being"  # Assuming 'title' column exists
-    date: 2024-10-13T05:54:00+08:00
-    lastmod: 2024-10-13T05:54:00+08:00
+    date: 2024-10-15T05:50:00+08:00
+    lastmod: 2024-10-15T05:50:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'being', 'a', 'faceless', 'by', 'of', 'chased']
+    tags: ['being', 'chased', 'Dream', 'faceless']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ In general, the dream of being chased by a faceless being is not a dream of brin
 | Lucky Animal        | Chicken |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Stir Fry      |
-| Lucky Instrument    | Viola |
-| Lucky Flower        | Swan River Daisy    |
-| Lucky Job           | Operations Manager       |
-| Lucky Exercise      | Aqua Aerobics  |
-| Lucky Country       | Norway    |
+| Lucky Food          | Corn on the Cob      |
+| Lucky Instrument    | Dulcimer |
+| Lucky Flower        | Geranium    |
+| Lucky Job           | Nuclear Engineer       |
+| Lucky Exercise      | Underwater Diving  |
+| Lucky Country       | Vanuatu    |
 
 
 ##  Final Reflections on Dreams

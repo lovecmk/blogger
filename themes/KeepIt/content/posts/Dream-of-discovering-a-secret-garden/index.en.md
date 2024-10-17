@@ -1,8 +1,8 @@
 ---
     weight: 743
     title: "Dream of discovering a secret garden"  # Assuming 'title' column exists
-    date: 2024-10-13T18:34:00+08:00
-    lastmod: 2024-10-13T18:34:00+08:00
+    date: 2024-10-12T05:08:00+08:00
+    lastmod: 2024-10-12T05:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['secret', 'Dream', 'a', 'of', 'discovering', 'garden']
+    tags: ['Dream', 'garden', 'discovering', 'secret']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can indicate new luck and the possibility of success.Discovering a se
 | Lucky Animal        | Parrot |
 | Lucky Place         | Library     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Ratatouille      |
-| Lucky Instrument    | Ney |
-| Lucky Flower        | Nymphaea    |
-| Lucky Job           | App Developer       |
-| Lucky Exercise      | Underwater Diving  |
-| Lucky Country       | Slovakia    |
+| Lucky Food          | Beef Wellington      |
+| Lucky Instrument    | Sarangi |
+| Lucky Flower        | Sweet Pea    |
+| Lucky Job           | Customer Service Representative       |
+| Lucky Exercise      | Pull-Ups  |
+| Lucky Country       | Cambodia    |
 
 
 ##  Final Reflections on Dreams

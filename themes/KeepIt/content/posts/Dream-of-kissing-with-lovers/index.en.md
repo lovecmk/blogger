@@ -1,8 +1,8 @@
 ---
     weight: 193
     title: "Dream of kissing with lovers"  # Assuming 'title' column exists
-    date: 2024-10-13T04:07:00+08:00
-    lastmod: 2024-10-13T04:07:00+08:00
+    date: 2024-10-14T21:25:00+08:00
+    lastmod: 2024-10-14T21:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lovers', 'Dream', 'kissing', 'of', 'with']
+    tags: ['lovers', 'Dream', 'kissing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be diverse.Kissing with lovers in dreams often symbol
 | Lucky Animal        | Hyena |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Red     |
-| Lucky Food          | Buffalo Wings      |
-| Lucky Instrument    | Bouzouki |
-| Lucky Flower        | Sweet Pea    |
-| Lucky Job           | Operations Manager       |
-| Lucky Exercise      | Body Pump  |
-| Lucky Country       | Marshall Islands    |
+| Lucky Food          | Shepherd's Pie      |
+| Lucky Instrument    | Accordion Synth |
+| Lucky Flower        | Wisteria    |
+| Lucky Job           | Security Guard       |
+| Lucky Exercise      | Active Recovery  |
+| Lucky Country       | Ukraine    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1830
     title: "Dream of an unknown person dying"  # Assuming 'title' column exists
-    date: 2024-10-13T22:40:00+08:00
-    lastmod: 2024-10-13T22:40:00+08:00
+    date: 2024-10-15T08:49:00+08:00
+    lastmod: 2024-10-15T08:49:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dying', 'Dream', 'an', 'unknown', 'person', 'of']
+    tags: ['person', 'Dream', 'unknown', 'dying', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Omelette      |
-| Lucky Instrument    | Glockenspiel |
-| Lucky Flower        | Lavender    |
-| Lucky Job           | Makeup Artist       |
-| Lucky Exercise      | Hiking  |
-| Lucky Country       | Armenia    |
+| Lucky Food          | Paella      |
+| Lucky Instrument    | Triangle |
+| Lucky Flower        | Nymphaea    |
+| Lucky Job           | Brand Manager       |
+| Lucky Exercise      | Kettlebell Training  |
+| Lucky Country       | Kuwait    |
 
 
 ##  Final Reflections on Dreams

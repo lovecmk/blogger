@@ -1,8 +1,8 @@
 ---
     weight: 2037
     title: "Dream of losing a loved one"  # Assuming 'title' column exists
-    date: 2024-10-13T16:21:00+08:00
-    lastmod: 2024-10-13T16:21:00+08:00
+    date: 2024-10-12T04:20:00+08:00
+    lastmod: 2024-10-12T04:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['one', 'Dream', 'a', 'loved', 'of', 'losing']
+    tags: ['Dream', 'one', 'loved', 'losing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Gorilla |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Green     |
-| Lucky Food          | Zucchini Noodles      |
-| Lucky Instrument    | Glockenspiel |
-| Lucky Flower        | Bee Balm    |
-| Lucky Job           | Personal Trainer       |
-| Lucky Exercise      | Circuit Training  |
-| Lucky Country       | Netherlands    |
+| Lucky Food          | Nachos      |
+| Lucky Instrument    | Harmonium |
+| Lucky Flower        | Yarrow    |
+| Lucky Job           | Data Scientist       |
+| Lucky Exercise      | Powerlifting  |
+| Lucky Country       | Malta    |
 
 
 ##  Final Reflections on Dreams

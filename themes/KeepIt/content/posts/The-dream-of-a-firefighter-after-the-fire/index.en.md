@@ -1,8 +1,8 @@
 ---
     weight: 842
     title: "The dream of a firefighter after the fire"  # Assuming 'title' column exists
-    date: 2024-10-13T22:18:00+08:00
-    lastmod: 2024-10-13T22:18:00+08:00
+    date: 2024-10-11T11:26:00+08:00
+    lastmod: 2024-10-11T11:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'after', 'firefighter', 'fire', 'a', 'dream', 'The', 'of']
+    tags: ['The', 'dream', 'firefighter', 'fire', 'after']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can convey a message that you can meet good luck even in difficult si
 | Lucky Animal        | Beaver |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Pasta Salad      |
-| Lucky Instrument    | Lyre |
-| Lucky Flower        | Zinnia    |
-| Lucky Job           | Plumber       |
-| Lucky Exercise      | Beach Volleyball  |
-| Lucky Country       | Turkey    |
+| Lucky Food          | Scallops      |
+| Lucky Instrument    | Pipa |
+| Lucky Flower        | Alstroemeria    |
+| Lucky Job           | Veterinarian       |
+| Lucky Exercise      | Hot Yoga  |
+| Lucky Country       | Nauru    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 2150
     title: "Dream of going on a boat ride or sailing together with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T18:39:00+08:00
-    lastmod: 2024-10-13T18:39:00+08:00
+    date: 2024-10-14T05:11:00+08:00
+    lastmod: 2024-10-14T05:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['ride', 'together', 'boat', 'or', 'your', 'boyfriend', 'Dream', 'going', 'sailing', 'a', 'on', 'of', 'with']
+    tags: ['Dream', 'boyfriend', 'ride', 'sailing', 'going', 'boat', 'together']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams do not directly bring luck. However, if you perceive this dream as a posi
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Bagel      |
-| Lucky Instrument    | Bandoneon |
-| Lucky Flower        | Zantedeschia    |
-| Lucky Job           | Data Analyst       |
-| Lucky Exercise      | Handball  |
-| Lucky Country       | Bulgaria    |
+| Lucky Food          | Baklava      |
+| Lucky Instrument    | Chimes |
+| Lucky Flower        | Begonia    |
+| Lucky Job           | Social Worker       |
+| Lucky Exercise      | Kickboxing  |
+| Lucky Country       | Namibia    |
 
 
 ##  Final Reflections on Dreams

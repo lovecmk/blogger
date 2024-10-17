@@ -1,8 +1,8 @@
 ---
     weight: 191
     title: "Dream of holding hands with lovers"  # Assuming 'title' column exists
-    date: 2024-10-13T05:53:00+08:00
-    lastmod: 2024-10-13T05:53:00+08:00
+    date: 2024-10-14T05:15:00+08:00
+    lastmod: 2024-10-14T05:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['holding', 'lovers', 'Dream', 'hands', 'of', 'with']
+    tags: ['lovers', 'Dream', 'hands', 'holding']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can lead to good luck and positive change in relationships with lover
 | Lucky Animal        | Hippo |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Pudding      |
-| Lucky Instrument    | Electric Violin |
-| Lucky Flower        | Lavender    |
-| Lucky Job           | Data Scientist       |
-| Lucky Exercise      | Ashtanga Yoga  |
-| Lucky Country       | China    |
+| Lucky Food          | Ratatouille      |
+| Lucky Instrument    | Djembe |
+| Lucky Flower        | Sweet William    |
+| Lucky Job           | Art Director       |
+| Lucky Exercise      | Kripalu Yoga  |
+| Lucky Country       | Lesotho    |
 
 
 ##  Final Reflections on Dreams

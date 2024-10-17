@@ -1,8 +1,8 @@
 ---
     weight: 407
     title: "Dream of running away from your own duty or responsibility"  # Assuming 'title' column exists
-    date: 2024-10-13T01:12:00+08:00
-    lastmod: 2024-10-13T01:12:00+08:00
+    date: 2024-10-14T01:11:00+08:00
+    lastmod: 2024-10-14T01:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['own', 'duty', 'or', 'running', 'your', 'away', 'Dream', 'from', 'of', 'responsibility']
+    tags: ['Dream', 'duty', 'running', 'from', 'own', 'responsibility', 'away']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can mean the opportunity to get out of realistic duty or 
 | Lucky Animal        | Seagull |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Sushi      |
-| Lucky Instrument    | Flute |
-| Lucky Flower        | Lotus    |
-| Lucky Job           | Journalist       |
-| Lucky Exercise      | Mobility Training  |
-| Lucky Country       | Mongolia    |
+| Lucky Food          | Caramel Flan      |
+| Lucky Instrument    | Tuba |
+| Lucky Flower        | Larkspur    |
+| Lucky Job           | Taxi Driver       |
+| Lucky Exercise      | Pole Vaulting  |
+| Lucky Country       | Solomon Islands    |
 
 
 ##  Final Reflections on Dreams

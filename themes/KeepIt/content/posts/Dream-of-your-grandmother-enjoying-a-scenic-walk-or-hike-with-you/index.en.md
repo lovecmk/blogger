@@ -1,8 +1,8 @@
 ---
     weight: 1575
     title: "Dream of receiving financial support from friends or family."  # Assuming 'title' column exists
-    date: 2024-10-13T01:44:00+08:00
-    lastmod: 2024-10-13T01:44:00+08:00
+    date: 2024-10-15T19:42:00+08:00
+    lastmod: 2024-10-15T19:42:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['receiving', 'or', 'financial', 'family.', 'Dream', 'from', 'of', 'support', 'friends']
+    tags: ['family', 'Dream', 'support', 'receiving', 'from', 'financial', 'friends']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Deviled Eggs      |
-| Lucky Instrument    | Didgeridoo |
-| Lucky Flower        | Zinnia    |
-| Lucky Job           | Researcher       |
-| Lucky Exercise      | Skiing  |
-| Lucky Country       | Bangladesh    |
+| Lucky Food          | Pico de Gallo      |
+| Lucky Instrument    | Clavichord |
+| Lucky Flower        | Cherry Blossom    |
+| Lucky Job           | Writer       |
+| Lucky Exercise      | Surf Lifesaving  |
+| Lucky Country       | Japan    |
 
 
 ##  Final Reflections on Dreams

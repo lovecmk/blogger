@@ -1,8 +1,8 @@
 ---
     weight: 1827
     title: "Dream of your cat being mischievous"  # Assuming 'title' column exists
-    date: 2024-10-13T13:44:00+08:00
-    lastmod: 2024-10-13T13:44:00+08:00
+    date: 2024-10-13T23:11:00+08:00
+    lastmod: 2024-10-13T23:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'cat', 'Dream', 'being', 'mischievous', 'of']
+    tags: ['being', 'Dream', 'mischievous', 'cat']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Elephant |
 | Lucky Place         | Mart     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Shrimp      |
-| Lucky Instrument    | Tenor Banjo |
-| Lucky Flower        | Tithonia    |
-| Lucky Job           | Pastry Chef       |
-| Lucky Exercise      | Discus Throw  |
-| Lucky Country       | Pakistan    |
+| Lucky Food          | Chowder      |
+| Lucky Instrument    | Guitarlele |
+| Lucky Flower        | Jade Plant    |
+| Lucky Job           | Event Coordinator       |
+| Lucky Exercise      | Beach Volleyball  |
+| Lucky Country       | New Zealand    |
 
 
 ##  Final Reflections on Dreams

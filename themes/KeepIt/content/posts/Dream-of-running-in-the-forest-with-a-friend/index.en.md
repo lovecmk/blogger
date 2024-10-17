@@ -1,8 +1,8 @@
 ---
     weight: 714
     title: "Dream of running in the forest with a friend"  # Assuming 'title' column exists
-    date: 2024-10-13T20:33:00+08:00
-    lastmod: 2024-10-13T20:33:00+08:00
+    date: 2024-10-12T07:26:00+08:00
+    lastmod: 2024-10-12T07:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['friend', 'forest', 'the', 'running', 'Dream', 'a', 'in', 'of', 'with']
+    tags: ['forest', 'Dream', 'running', 'friend']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is an opportunity for new experiences, growth and coopera
 | Lucky Animal        | Parrot |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Red     |
-| Lucky Food          | Stuffed Peppers      |
-| Lucky Instrument    | Rudra Veena |
-| Lucky Flower        | Begonia    |
-| Lucky Job           | Writer       |
-| Lucky Exercise      | Calisthenics  |
-| Lucky Country       | Samoa    |
+| Lucky Food          | Minestrone      |
+| Lucky Instrument    | Bass Guitar |
+| Lucky Flower        | Balsam    |
+| Lucky Job           | Chef       |
+| Lucky Exercise      | Powerlifting  |
+| Lucky Country       | Italy    |
 
 
 ##  Final Reflections on Dreams

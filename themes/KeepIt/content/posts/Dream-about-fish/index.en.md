@@ -1,8 +1,8 @@
 ---
     weight: 1050
     title: "Dream about fish"  # Assuming 'title' column exists
-    date: 2024-10-13T01:55:00+08:00
-    lastmod: 2024-10-13T01:55:00+08:00
+    date: 2024-10-11T07:57:00+08:00
+    lastmod: 2024-10-11T07:57:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fish', 'about', 'Dream']
+    tags: ['fish', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Dreams related to fish can suggest good luck and positive changes.Fish are not c
 | Lucky Animal        | Dog |
 | Lucky Place         | Sea     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Chocolate      |
-| Lucky Instrument    | Chimes |
-| Lucky Flower        | Chrysanthemum    |
-| Lucky Job           | Makeup Artist       |
-| Lucky Exercise      | Hot Yoga  |
-| Lucky Country       | Bulgaria    |
+| Lucky Food          | Stir Fry      |
+| Lucky Instrument    | Trumpet |
+| Lucky Flower        | Fuchsia    |
+| Lucky Job           | Stockbroker       |
+| Lucky Exercise      | Mobility Training  |
+| Lucky Country       | Malta    |
 
 
 ##  Final Reflections on Dreams

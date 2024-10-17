@@ -1,8 +1,8 @@
 ---
     weight: 504
     title: "Dream of scoring in soccer games"  # Assuming 'title' column exists
-    date: 2024-10-13T08:53:00+08:00
-    lastmod: 2024-10-13T08:53:00+08:00
+    date: 2024-10-15T12:55:00+08:00
+    lastmod: 2024-10-15T12:55:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['soccer', 'Dream', 'scoring', 'games', 'in', 'of']
+    tags: ['Dream', 'games', 'scoring', 'soccer']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can deliver a message coming with luck.You can expect good luck throu
 | Lucky Animal        | Camel |
 | Lucky Place         | Museum     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Sandwich      |
-| Lucky Instrument    | Snare Drum |
-| Lucky Flower        | Lantana    |
-| Lucky Job           | Content Creator       |
-| Lucky Exercise      | Paddleboarding  |
-| Lucky Country       | New Zealand    |
+| Lucky Food          | Biryani      |
+| Lucky Instrument    | Sitar |
+| Lucky Flower        | Bee Balm    |
+| Lucky Job           | Research Scientist       |
+| Lucky Exercise      | Squash  |
+| Lucky Country       | Kenya    |
 
 
 ##  Final Reflections on Dreams

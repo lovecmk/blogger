@@ -1,8 +1,8 @@
 ---
     weight: 460
     title: "Dream of not finding something"  # Assuming 'title' column exists
-    date: 2024-10-13T13:33:00+08:00
-    lastmod: 2024-10-13T13:33:00+08:00
+    date: 2024-10-11T13:43:00+08:00
+    lastmod: 2024-10-11T13:43:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'not', 'of', 'something', 'finding']
+    tags: ['Dream', 'finding', 'not', 'something']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the situation and feeling in your d
 | Lucky Animal        | Snake |
 | Lucky Place         | Park     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Minestrone      |
-| Lucky Instrument    | Marimba |
-| Lucky Flower        | Pansy    |
-| Lucky Job           | Plumber       |
-| Lucky Exercise      | Body Pump  |
-| Lucky Country       | Sweden    |
+| Lucky Food          | Fried Rice      |
+| Lucky Instrument    | Synthesizer |
+| Lucky Flower        | Wisteria    |
+| Lucky Job           | User Researcher       |
+| Lucky Exercise      | Yoga  |
+| Lucky Country       | China    |
 
 
 ##  Final Reflections on Dreams

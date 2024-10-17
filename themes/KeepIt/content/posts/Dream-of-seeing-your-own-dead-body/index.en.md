@@ -1,8 +1,8 @@
 ---
     weight: 1582
     title: "Dream of walking through a field of strawberries"  # Assuming 'title' column exists
-    date: 2024-10-13T01:17:00+08:00
-    lastmod: 2024-10-13T01:17:00+08:00
+    date: 2024-10-11T16:56:00+08:00
+    lastmod: 2024-10-11T16:56:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['field', 'Dream', 'through', 'a', 'strawberries', 'of', 'walking']
+    tags: ['Dream', 'walking', 'field', 'strawberries']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings the luck of enjoyment and shared experiences. It indicates tha
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Beef Wellington      |
-| Lucky Instrument    | Ney |
-| Lucky Flower        | Stephanotis    |
-| Lucky Job           | SEO Specialist       |
-| Lucky Exercise      | Racquetball  |
-| Lucky Country       | Malaysia    |
+| Lucky Food          | Brownies      |
+| Lucky Instrument    | Keyboard Synthesizer |
+| Lucky Flower        | Dandelion    |
+| Lucky Job           | Web Designer       |
+| Lucky Exercise      | Hula Hooping  |
+| Lucky Country       | New Zealand    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1416
     title: "Dream of your dog being a film director"  # Assuming 'title' column exists
-    date: 2024-10-13T11:39:00+08:00
-    lastmod: 2024-10-13T11:39:00+08:00
+    date: 2024-10-15T16:46:00+08:00
+    lastmod: 2024-10-15T16:46:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['director', 'film', 'your', 'Dream', 'being', 'a', 'of', 'dog']
+    tags: ['being', 'film', 'Dream', 'director', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Duck |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Sushi Roll      |
-| Lucky Instrument    | Castanets |
-| Lucky Flower        | Edelweiss    |
-| Lucky Job           | Historian       |
-| Lucky Exercise      | Parkour  |
-| Lucky Country       | Malaysia    |
+| Lucky Food          | Waffles      |
+| Lucky Instrument    | Tromba |
+| Lucky Flower        | Gladiolus    |
+| Lucky Job           | Mechanic       |
+| Lucky Exercise      | Bodyweight Training  |
+| Lucky Country       | Latvia    |
 
 
 ##  Final Reflections on Dreams

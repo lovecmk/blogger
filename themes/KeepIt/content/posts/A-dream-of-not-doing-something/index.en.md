@@ -1,8 +1,8 @@
 ---
     weight: 445
     title: "A dream of not doing something"  # Assuming 'title' column exists
-    date: 2024-10-13T10:58:00+08:00
-    lastmod: 2024-10-13T10:58:00+08:00
+    date: 2024-10-15T18:47:00+08:00
+    lastmod: 2024-10-15T18:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['something', 'doing', 'not', 'dream', 'of', 'A']
+    tags: ['doing', 'dream', 'A', 'not', 'something']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream depends on the personal situation and experience of the d
 | Lucky Animal        | Lizard |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Fish and Chips      |
-| Lucky Instrument    | Bass Guitar |
-| Lucky Flower        | Bluebell    |
-| Lucky Job           | SEO Specialist       |
-| Lucky Exercise      | Rowing  |
-| Lucky Country       | Turkey    |
+| Lucky Food          | Beef Wellington      |
+| Lucky Instrument    | Tabla |
+| Lucky Flower        | Anemone    |
+| Lucky Job           | Librarian       |
+| Lucky Exercise      | Trail Running  |
+| Lucky Country       | Malaysia    |
 
 
 ##  Final Reflections on Dreams

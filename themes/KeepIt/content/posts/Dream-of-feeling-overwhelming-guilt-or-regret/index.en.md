@@ -1,8 +1,8 @@
 ---
     weight: 1813
     title: "Dream of dying and feeling lonely"  # Assuming 'title' column exists
-    date: 2024-10-13T20:12:00+08:00
-    lastmod: 2024-10-13T20:12:00+08:00
+    date: 2024-10-11T23:55:00+08:00
+    lastmod: 2024-10-11T23:55:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dying', 'feeling', 'lonely', 'Dream', 'and', 'of']
+    tags: ['Dream', 'lonely', 'feeling', 'dying']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings the luck of having a loving and supportive partner in your lif
 | Lucky Animal        | Owl |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Sushi      |
-| Lucky Instrument    | Ney |
-| Lucky Flower        | Sage    |
-| Lucky Job           | Writer       |
-| Lucky Exercise      | Kayaking  |
-| Lucky Country       | Papua New Guinea    |
+| Lucky Food          | Curry      |
+| Lucky Instrument    | Guitar |
+| Lucky Flower        | Peach Blossom    |
+| Lucky Job           | Recruiter       |
+| Lucky Exercise      | Softball  |
+| Lucky Country       | Marshall Islands    |
 
 
 ##  Final Reflections on Dreams

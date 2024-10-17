@@ -1,8 +1,8 @@
 ---
     weight: 1226
     title: "Dream of your dog starting a podcast"  # Assuming 'title' column exists
-    date: 2024-10-13T23:57:00+08:00
-    lastmod: 2024-10-13T23:57:00+08:00
+    date: 2024-10-11T08:27:00+08:00
+    lastmod: 2024-10-11T08:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'Dream', 'podcast', 'starting', 'a', 'of', 'dog']
+    tags: ['Dream', 'starting', 'podcast', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ The luck associated with this dream could be related to your ability to communic
 | Lucky Animal        | Cat |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Quesadilla      |
-| Lucky Instrument    | Clarinet |
-| Lucky Flower        | Anemone    |
-| Lucky Job           | Philosopher       |
-| Lucky Exercise      | Leg Press  |
-| Lucky Country       | Zimbabwe    |
+| Lucky Food          | Baklava      |
+| Lucky Instrument    | Banjo |
+| Lucky Flower        | Rudbeckia    |
+| Lucky Job           | Physical Therapist       |
+| Lucky Exercise      | Hiking  |
+| Lucky Country       | Argentina    |
 
 
 ##  Final Reflections on Dreams

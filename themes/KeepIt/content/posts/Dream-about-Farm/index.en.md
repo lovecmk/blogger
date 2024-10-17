@@ -1,8 +1,8 @@
 ---
     weight: 1183
     title: "Dream about Farm"  # Assuming 'title' column exists
-    date: 2024-10-13T19:02:00+08:00
-    lastmod: 2024-10-13T19:02:00+08:00
+    date: 2024-10-14T15:04:00+08:00
+    lastmod: 2024-10-14T15:04:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Farm', 'about', 'Dream']
+    tags: ['Farm', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'farm' dream is to maintain the balance and stability of work and li
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Ice Cream      |
-| Lucky Instrument    | French Horn |
-| Lucky Flower        | Sage    |
-| Lucky Job           | Philosopher       |
-| Lucky Exercise      | Box Jumps  |
-| Lucky Country       | Oman    |
+| Lucky Food          | Quiche      |
+| Lucky Instrument    | Clarinet |
+| Lucky Flower        | Sweet William    |
+| Lucky Job           | Musician       |
+| Lucky Exercise      | Stand-Up Paddleboarding  |
+| Lucky Country       | Norway    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 405
     title: "Dream of hiding to avoid trackers"  # Assuming 'title' column exists
-    date: 2024-10-13T22:33:00+08:00
-    lastmod: 2024-10-13T22:33:00+08:00
+    date: 2024-10-14T14:50:00+08:00
+    lastmod: 2024-10-14T14:50:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['avoid', 'to', 'Dream', 'hiding', 'trackers', 'of']
+    tags: ['Dream', 'to', 'hiding', 'trackers', 'avoid']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual's experience and int
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Baked Ziti      |
-| Lucky Instrument    | Fretless Bass |
-| Lucky Flower        | Hibiscus    |
-| Lucky Job           | Logistician       |
-| Lucky Exercise      | Resistance Training  |
-| Lucky Country       | Portugal    |
+| Lucky Food          | Potato Skins      |
+| Lucky Instrument    | Sitar |
+| Lucky Flower        | Bellflower    |
+| Lucky Job           | Flight Attendant       |
+| Lucky Exercise      | Kite Surfing  |
+| Lucky Country       | Botswana    |
 
 
 ##  Final Reflections on Dreams

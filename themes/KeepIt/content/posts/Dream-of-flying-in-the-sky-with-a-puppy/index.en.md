@@ -1,8 +1,8 @@
 ---
     weight: 306
     title: "Dream of flying in the sky with a puppy"  # Assuming 'title' column exists
-    date: 2024-10-13T12:46:00+08:00
-    lastmod: 2024-10-13T12:46:00+08:00
+    date: 2024-10-13T22:25:00+08:00
+    lastmod: 2024-10-13T22:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['flying', 'sky', 'the', 'Dream', 'puppy', 'a', 'in', 'of', 'with']
+    tags: ['Dream', 'flying', 'puppy', 'sky']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can occur in various ways.The dream of flying in the sky 
 | Lucky Animal        | Rhino |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Clams      |
-| Lucky Instrument    | Dulcimer |
-| Lucky Flower        | Zinnia    |
-| Lucky Job           | Data Scientist       |
-| Lucky Exercise      | Foam Rolling  |
-| Lucky Country       | Philippines    |
+| Lucky Food          | Beef Stroganoff      |
+| Lucky Instrument    | Clavichord |
+| Lucky Flower        | Geranium    |
+| Lucky Job           | Oceanographer       |
+| Lucky Exercise      | Stand-Up Paddleboarding  |
+| Lucky Country       | Iceland    |
 
 
 ##  Final Reflections on Dreams

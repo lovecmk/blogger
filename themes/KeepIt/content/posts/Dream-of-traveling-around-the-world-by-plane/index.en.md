@@ -1,8 +1,8 @@
 ---
     weight: 779
     title: "Dream of traveling around the world by plane"  # Assuming 'title' column exists
-    date: 2024-10-13T21:23:00+08:00
-    lastmod: 2024-10-13T21:23:00+08:00
+    date: 2024-10-14T23:18:00+08:00
+    lastmod: 2024-10-14T23:18:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'plane', 'traveling', 'Dream', 'around', 'by', 'world', 'of']
+    tags: ['plane', 'Dream', 'traveling', 'world', 'around']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can indicate that you can expect your luck and success through travel
 | Lucky Animal        | Bear |
 | Lucky Place         | River     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Fruit Smoothie      |
-| Lucky Instrument    | Didgeridoo |
-| Lucky Flower        | Crown Daisy    |
-| Lucky Job           | Fitness Instructor       |
-| Lucky Exercise      | Rowing  |
-| Lucky Country       | Samoa    |
+| Lucky Food          | Biryani      |
+| Lucky Instrument    | Banjo |
+| Lucky Flower        | Hoya    |
+| Lucky Job           | Librarian       |
+| Lucky Exercise      | Bodyweight Training  |
+| Lucky Country       | Papua New Guinea    |
 
 
 ##  Final Reflections on Dreams

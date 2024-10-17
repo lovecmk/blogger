@@ -1,8 +1,8 @@
 ---
     weight: 873
     title: "Dream of other wild animals"  # Assuming 'title' column exists
-    date: 2024-10-13T18:11:00+08:00
-    lastmod: 2024-10-13T18:11:00+08:00
+    date: 2024-10-11T11:28:00+08:00
+    lastmod: 2024-10-11T11:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['other', 'animals', 'Dream', 'of', 'wild']
+    tags: ['Dream', 'other', 'wild', 'animals']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Wildlife from dreams can show that luck is getting better.Some dream interpreter
 | Lucky Animal        | Monkey |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Tiramisu      |
-| Lucky Instrument    | Piccolo Trumpet |
-| Lucky Flower        | Swan River Daisy    |
-| Lucky Job           | User Researcher       |
-| Lucky Exercise      | Rugby  |
-| Lucky Country       | Namibia    |
+| Lucky Food          | Bagel      |
+| Lucky Instrument    | Piano |
+| Lucky Flower        | Carnation    |
+| Lucky Job           | Artist       |
+| Lucky Exercise      | Softball  |
+| Lucky Country       | Tuvalu    |
 
 
 ##  Final Reflections on Dreams

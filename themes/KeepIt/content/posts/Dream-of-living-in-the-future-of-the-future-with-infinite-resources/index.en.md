@@ -1,8 +1,8 @@
 ---
     weight: 628
     title: "Dream of living in the future of the future with infinite resources"  # Assuming 'title' column exists
-    date: 2024-10-13T20:08:00+08:00
-    lastmod: 2024-10-13T20:08:00+08:00
+    date: 2024-10-12T08:12:00+08:00
+    lastmod: 2024-10-12T08:12:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['infinite', 'the', 'resources', 'Dream', 'future', 'in', 'living', 'of', 'with']
+    tags: ['Dream', 'living', 'infinite', 'resources', 'future']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can show a lucky foresight that can lead to positive situations such 
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Fruit Smoothie      |
-| Lucky Instrument    | Guitarlele |
-| Lucky Flower        | Begonia    |
-| Lucky Job           | Public Relations Specialist       |
-| Lucky Exercise      | Slacklining  |
-| Lucky Country       | Denmark    |
+| Lucky Food          | Ratatouille      |
+| Lucky Instrument    | Bandoneon |
+| Lucky Flower        | Zinnia    |
+| Lucky Job           | Graphic Designer       |
+| Lucky Exercise      | Snowboarding  |
+| Lucky Country       | Tonga    |
 
 
 ##  Final Reflections on Dreams

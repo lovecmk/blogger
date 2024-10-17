@@ -1,8 +1,8 @@
 ---
     weight: 375
     title: "Dream of asking for help in people or places you don't know"  # Assuming 'title' column exists
-    date: 2024-10-13T18:20:00+08:00
-    lastmod: 2024-10-13T18:20:00+08:00
+    date: 2024-10-14T11:17:00+08:00
+    lastmod: 2024-10-14T11:17:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['asking', 'or', 'know', "don't", 'people', 'Dream', 'for', 'places', 'in', 'of', 'help', 'you']
+    tags: ['help', 'you', 'Dream', 'asking', 'know', 'places', 'people', "don't"]
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck that this dream gives you a new opportunity in a situation where you ne
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Mart     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Bagel      |
-| Lucky Instrument    | Bagpipes |
-| Lucky Flower        | Nymphaea    |
-| Lucky Job           | Insurance Underwriter       |
-| Lucky Exercise      | Box Jumps  |
-| Lucky Country       | Qatar    |
+| Lucky Food          | Roast Chicken      |
+| Lucky Instrument    | Keyboard Synthesizer |
+| Lucky Flower        | Cherry Blossom    |
+| Lucky Job           | SEO Specialist       |
+| Lucky Exercise      | Pole Vaulting  |
+| Lucky Country       | Kyrgyzstan    |
 
 
 ##  Final Reflections on Dreams

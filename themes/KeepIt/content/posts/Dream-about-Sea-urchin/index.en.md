@@ -1,8 +1,8 @@
 ---
     weight: 1056
     title: "Dream about Sea urchin"  # Assuming 'title' column exists
-    date: 2024-10-13T18:33:00+08:00
-    lastmod: 2024-10-13T18:33:00+08:00
+    date: 2024-10-15T12:44:00+08:00
+    lastmod: 2024-10-15T12:44:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['urchin', 'Sea', 'about', 'Dream']
+    tags: ['Sea', 'Dream', 'urchin']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Sea urchin is an element that symbolizes safety and protection, so the luck that
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Bagel      |
-| Lucky Instrument    | Steel Pan |
-| Lucky Flower        | Zinnia    |
-| Lucky Job           | App Developer       |
-| Lucky Exercise      | Squash  |
-| Lucky Country       | Belgium    |
+| Lucky Food          | Chicken Curry      |
+| Lucky Instrument    | Charango |
+| Lucky Flower        | Perennial Aster    |
+| Lucky Job           | Sales Manager       |
+| Lucky Exercise      | Leg Press  |
+| Lucky Country       | Italy    |
 
 
 ##  Final Reflections on Dreams

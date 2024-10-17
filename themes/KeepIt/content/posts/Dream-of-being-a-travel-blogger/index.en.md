@@ -1,8 +1,8 @@
 ---
     weight: 1295
     title: "Dream of being a travel blogger"  # Assuming 'title' column exists
-    date: 2024-10-13T09:09:00+08:00
-    lastmod: 2024-10-13T09:09:00+08:00
+    date: 2024-10-13T05:06:00+08:00
+    lastmod: 2024-10-13T05:06:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'being', 'travel', 'a', 'blogger', 'of']
+    tags: ['being', 'Dream', 'travel', 'blogger']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Snake |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Fish and Chips      |
-| Lucky Instrument    | Guitar |
-| Lucky Flower        | Crown Daisy    |
-| Lucky Job           | Fitness Instructor       |
-| Lucky Exercise      | Aerobics  |
-| Lucky Country       | Philippines    |
+| Lucky Food          | Coconut Shrimp      |
+| Lucky Instrument    | Shakuhachi |
+| Lucky Flower        | Lilac    |
+| Lucky Job           | Marketing Manager       |
+| Lucky Exercise      | Running  |
+| Lucky Country       | Switzerland    |
 
 
 ##  Final Reflections on Dreams

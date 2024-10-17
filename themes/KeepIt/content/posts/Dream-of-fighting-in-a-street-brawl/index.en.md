@@ -1,8 +1,8 @@
 ---
     weight: 2166
     title: "Dream of taking a pottery or art class together with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T11:13:00+08:00
-    lastmod: 2024-10-13T11:13:00+08:00
+    date: 2024-10-13T00:59:00+08:00
+    lastmod: 2024-10-13T00:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['with', 'together', 'pottery', 'taking', 'or', 'your', 'boyfriend', 'Dream', 'class', 'a', 'of', 'art']
+    tags: ['Dream', 'art', 'boyfriend', 'taking', 'pottery', 'class', 'together']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams of dying in your sleep are not typically associated with luck. However, t
 | Lucky Animal        | Bear |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Red     |
-| Lucky Food          | Cheesecake      |
-| Lucky Instrument    | Tuba Horn |
+| Lucky Food          | Pasta      |
+| Lucky Instrument    | Rudra Veena |
 | Lucky Flower        | Zinnia    |
-| Lucky Job           | Farmer       |
-| Lucky Exercise      | Skimboarding  |
-| Lucky Country       | Zambia    |
+| Lucky Job           | Copywriter       |
+| Lucky Exercise      | Box Jumps  |
+| Lucky Country       | Iran    |
 
 
 ##  Final Reflections on Dreams

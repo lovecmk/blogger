@@ -1,8 +1,8 @@
 ---
     weight: 438
     title: "Dream of running away from a narrow space"  # Assuming 'title' column exists
-    date: 2024-10-13T23:46:00+08:00
-    lastmod: 2024-10-13T23:46:00+08:00
+    date: 2024-10-12T03:07:00+08:00
+    lastmod: 2024-10-12T03:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['space', 'narrow', 'running', 'away', 'Dream', 'a', 'from', 'of']
+    tags: ['Dream', 'running', 'from', 'narrow', 'away', 'space']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can indicate that you can find freedom and new possibilit
 | Lucky Animal        | Panda |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Muffin      |
-| Lucky Instrument    | Tama |
-| Lucky Flower        | Fuchsia    |
-| Lucky Job           | Art Director       |
-| Lucky Exercise      | Push-Ups  |
-| Lucky Country       | Marshall Islands    |
+| Lucky Food          | Ice Cream      |
+| Lucky Instrument    | Sackbut |
+| Lucky Flower        | Cornflower    |
+| Lucky Job           | Sous Chef       |
+| Lucky Exercise      | Dancing  |
+| Lucky Country       | Kyrgyzstan    |
 
 
 ##  Final Reflections on Dreams

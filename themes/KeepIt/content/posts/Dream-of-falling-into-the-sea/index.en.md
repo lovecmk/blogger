@@ -1,8 +1,8 @@
 ---
     weight: 958
     title: "Dream of falling into the sea"  # Assuming 'title' column exists
-    date: 2024-10-13T01:55:00+08:00
-    lastmod: 2024-10-13T01:55:00+08:00
+    date: 2024-10-13T14:38:00+08:00
+    lastmod: 2024-10-13T14:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'into', 'falling', 'Dream', 'sea', 'of']
+    tags: ['sea', 'Dream', 'into', 'falling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be diverse.The sea symbolizes infinite possibilities 
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Baked Ziti      |
-| Lucky Instrument    | Harp |
-| Lucky Flower        | Cactus Flower    |
-| Lucky Job           | Consultant       |
-| Lucky Exercise      | Rowing  |
-| Lucky Country       | Hungary    |
+| Lucky Food          | Chocolate      |
+| Lucky Instrument    | Timpani |
+| Lucky Flower        | Marigold    |
+| Lucky Job           | Postman       |
+| Lucky Exercise      | Water Polo  |
+| Lucky Country       | Greece    |
 
 
 ##  Final Reflections on Dreams

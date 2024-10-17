@@ -1,8 +1,8 @@
 ---
     weight: 945
     title: "Dream falling on the sea"  # Assuming 'title' column exists
-    date: 2024-10-13T02:26:00+08:00
-    lastmod: 2024-10-13T02:26:00+08:00
+    date: 2024-10-15T14:44:00+08:00
+    lastmod: 2024-10-15T14:44:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'falling', 'sea', 'Dream', 'on']
+    tags: ['sea', 'Dream', 'falling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual.In general, this dre
 | Lucky Animal        | Guinea pig |
 | Lucky Place         | Mart     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Falafel      |
-| Lucky Instrument    | Tabor |
-| Lucky Flower        | Vinca    |
-| Lucky Job           | App Developer       |
-| Lucky Exercise      | Shot Put  |
-| Lucky Country       | Uzbekistan    |
+| Lucky Food          | Bagel      |
+| Lucky Instrument    | Viola |
+| Lucky Flower        | Ranunculus    |
+| Lucky Job           | Lawyer       |
+| Lucky Exercise      | Javelin  |
+| Lucky Country       | Denmark    |
 
 
 ##  Final Reflections on Dreams

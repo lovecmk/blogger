@@ -1,8 +1,8 @@
 ---
     weight: 1552
     title: "Dream of dying and feeling peaceful"  # Assuming 'title' column exists
-    date: 2024-10-13T03:49:00+08:00
-    lastmod: 2024-10-13T03:49:00+08:00
+    date: 2024-10-11T21:54:00+08:00
+    lastmod: 2024-10-11T21:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dying', 'feeling', 'Dream', 'peaceful', 'and', 'of']
+    tags: ['Dream', 'feeling', 'dying', 'peaceful']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings the luck of joyful moments and special memories with your boyf
 | Lucky Animal        | Hyena |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Baba Ganoush      |
-| Lucky Instrument    | Snare Drum |
-| Lucky Flower        | Bouvardia    |
-| Lucky Job           | Engineer       |
-| Lucky Exercise      | Soccer  |
-| Lucky Country       | Netherlands    |
+| Lucky Food          | Minestrone      |
+| Lucky Instrument    | Tama |
+| Lucky Flower        | Lilac    |
+| Lucky Job           | Copywriter       |
+| Lucky Exercise      | Salsa  |
+| Lucky Country       | Afghanistan    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 231
     title: "Dream of foreseeing the future"  # Assuming 'title' column exists
-    date: 2024-10-13T23:01:00+08:00
-    lastmod: 2024-10-13T23:01:00+08:00
+    date: 2024-10-14T06:07:00+08:00
+    lastmod: 2024-10-14T06:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'Dream', 'future', 'foreseeing', 'of']
+    tags: ['foreseeing', 'Dream', 'future']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Sometimes dreams may give good luck.For example, elements that symbolize success
 | Lucky Animal        | Cat |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Vegetable Stir Fry      |
-| Lucky Instrument    | Clarinet |
-| Lucky Flower        | Stephanotis    |
-| Lucky Job           | Firefighter       |
-| Lucky Exercise      | Juggling  |
-| Lucky Country       | Turkey    |
+| Lucky Food          | Chia Pudding      |
+| Lucky Instrument    | Piccolo |
+| Lucky Flower        | Chrysanthemum    |
+| Lucky Job           | Sous Chef       |
+| Lucky Exercise      | Parkour Training  |
+| Lucky Country       | Tanzania    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1713
     title: "Dream of visiting a botanical garden or nature reserve together with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T12:58:00+08:00
-    lastmod: 2024-10-13T12:58:00+08:00
+    date: 2024-10-12T23:29:00+08:00
+    lastmod: 2024-10-12T23:29:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['together', 'or', 'your', 'reserve', 'boyfriend', 'Dream', 'visiting', 'a', 'botanical', 'nature', 'of', 'with', 'garden']
+    tags: ['Dream', 'visiting', 'botanical', 'garden', 'boyfriend', 'nature', 'reserve', 'together']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Chicken |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Ramen      |
-| Lucky Instrument    | Sarangi |
-| Lucky Flower        | Nymphaea    |
-| Lucky Job           | Sales Manager       |
-| Lucky Exercise      | Surfing  |
-| Lucky Country       | Armenia    |
+| Lucky Food          | Hummus      |
+| Lucky Instrument    | Drums |
+| Lucky Flower        | Poppy    |
+| Lucky Job           | Customer Service Representative       |
+| Lucky Exercise      | Boxing  |
+| Lucky Country       | Maldives    |
 
 
 ##  Final Reflections on Dreams

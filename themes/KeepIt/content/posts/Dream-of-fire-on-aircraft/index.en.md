@@ -1,8 +1,8 @@
 ---
     weight: 823
     title: "Dream of fire on aircraft"  # Assuming 'title' column exists
-    date: 2024-10-13T21:23:00+08:00
-    lastmod: 2024-10-13T21:23:00+08:00
+    date: 2024-10-12T19:56:00+08:00
+    lastmod: 2024-10-12T19:56:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fire', 'Dream', 'on', 'of', 'aircraft']
+    tags: ['Dream', 'aircraft', 'fire']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is hard to predict.This is because the dream of fire from
 | Lucky Animal        | Mouse |
 | Lucky Place         | Theater     |
 | Lucky Color         | Green     |
-| Lucky Food          | Pasta Salad      |
-| Lucky Instrument    | Saxophone |
-| Lucky Flower        | Hellebore    |
-| Lucky Job           | Farmer       |
-| Lucky Exercise      | Resistance Training  |
-| Lucky Country       | Azerbaijan    |
+| Lucky Food          | Dumplings      |
+| Lucky Instrument    | Snare Drum |
+| Lucky Flower        | Geranium    |
+| Lucky Job           | Public Relations Specialist       |
+| Lucky Exercise      | Racquetball  |
+| Lucky Country       | Switzerland    |
 
 
 ##  Final Reflections on Dreams

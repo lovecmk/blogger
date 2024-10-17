@@ -1,8 +1,8 @@
 ---
     weight: 1474
     title: "Dream of missing public transportation by seconds"  # Assuming 'title' column exists
-    date: 2024-10-13T02:45:00+08:00
-    lastmod: 2024-10-13T02:45:00+08:00
+    date: 2024-10-15T07:21:00+08:00
+    lastmod: 2024-10-15T07:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['missing', 'Dream', 'transportation', 'public', 'by', 'seconds', 'of']
+    tags: ['Dream', 'missing', 'public', 'transportation', 'seconds']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Crab |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Dumplings      |
-| Lucky Instrument    | Melodic Percussion |
-| Lucky Flower        | Geranium    |
-| Lucky Job           | Lawyer       |
-| Lucky Exercise      | Tennis  |
-| Lucky Country       | Bhutan    |
+| Lucky Food          | Scone      |
+| Lucky Instrument    | Chimes |
+| Lucky Flower        | Lobelia    |
+| Lucky Job           | Insurance Underwriter       |
+| Lucky Exercise      | Snowshoeing  |
+| Lucky Country       | Laos    |
 
 
 ##  Final Reflections on Dreams

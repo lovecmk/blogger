@@ -1,8 +1,8 @@
 ---
     weight: 1017
     title: "Dream of love and understanding"  # Assuming 'title' column exists
-    date: 2024-10-13T22:22:00+08:00
-    lastmod: 2024-10-13T22:22:00+08:00
+    date: 2024-10-13T17:43:00+08:00
+    lastmod: 2024-10-13T17:43:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'and', 'love', 'understanding', 'of']
+    tags: ['Dream', 'love', 'understanding']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is that you can form a richer relationship and feel happi
 | Lucky Animal        | Parrot |
 | Lucky Place         | Beach     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Brownies      |
-| Lucky Instrument    | Trombone |
-| Lucky Flower        | Fuchsia    |
-| Lucky Job           | Welder       |
-| Lucky Exercise      | Jumping Rope  |
-| Lucky Country       | Latvia    |
+| Lucky Food          | Onion Rings      |
+| Lucky Instrument    | Sackbut |
+| Lucky Flower        | Petal Plant    |
+| Lucky Job           | Content Creator       |
+| Lucky Exercise      | Leg Press  |
+| Lucky Country       | Afghanistan    |
 
 
 ##  Final Reflections on Dreams

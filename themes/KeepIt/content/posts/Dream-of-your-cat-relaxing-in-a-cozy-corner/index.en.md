@@ -1,8 +1,8 @@
 ---
     weight: 1832
     title: "Dream of fighting with a partner"  # Assuming 'title' column exists
-    date: 2024-10-13T11:57:00+08:00
-    lastmod: 2024-10-13T11:57:00+08:00
+    date: 2024-10-12T04:55:00+08:00
+    lastmod: 2024-10-12T04:55:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fighting', 'Dream', 'a', 'partner', 'of', 'with']
+    tags: ['Dream', 'partner', 'fighting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings forth a sense of good luck and positive energy. It symbolizes 
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Tacos      |
-| Lucky Instrument    | Harmonic Piano |
-| Lucky Flower        | Maranta    |
-| Lucky Job           | Event Planner       |
-| Lucky Exercise      | Bench Press  |
-| Lucky Country       | Cyprus    |
+| Lucky Food          | Fish and Chips      |
+| Lucky Instrument    | Erhu |
+| Lucky Flower        | Cornflower    |
+| Lucky Job           | Mathematician       |
+| Lucky Exercise      | Surfing  |
+| Lucky Country       | Denmark    |
 
 
 ##  Final Reflections on Dreams

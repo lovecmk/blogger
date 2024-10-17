@@ -1,8 +1,8 @@
 ---
     weight: 1651
     title: "Dream of your grandmother braiding your hair or sharing beauty tips."  # Assuming 'title' column exists
-    date: 2024-10-13T17:49:00+08:00
-    lastmod: 2024-10-13T17:49:00+08:00
+    date: 2024-10-15T02:55:00+08:00
+    lastmod: 2024-10-15T02:55:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['grandmother', 'or', 'your', 'hair', 'Dream', 'sharing', 'braiding', 'of', 'beauty', 'tips.']
+    tags: ['Dream', 'braiding', 'hair', 'tips', 'sharing', 'grandmother', 'beauty']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Panda |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Baked Ziti      |
-| Lucky Instrument    | Dulcimer |
-| Lucky Flower        | Rose    |
-| Lucky Job           | Electrician       |
-| Lucky Exercise      | Tennis  |
-| Lucky Country       | Spain    |
+| Lucky Food          | Shepherd's Pie      |
+| Lucky Instrument    | Lyre |
+| Lucky Flower        | Sweet Pea    |
+| Lucky Job           | Sales Manager       |
+| Lucky Exercise      | Step Aerobics  |
+| Lucky Country       | Malawi    |
 
 
 ##  Final Reflections on Dreams

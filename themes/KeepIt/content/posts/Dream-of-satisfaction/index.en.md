@@ -1,8 +1,8 @@
 ---
     weight: 991
     title: "Dream of satisfaction"  # Assuming 'title' column exists
-    date: 2024-10-13T19:09:00+08:00
-    lastmod: 2024-10-13T19:09:00+08:00
+    date: 2024-10-12T21:04:00+08:00
+    lastmod: 2024-10-12T21:04:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'Dream', 'satisfaction']
+    tags: ['satisfaction', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The dream of satisfaction can be an expression of everyday luck and positive ene
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Lake     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Pico de Gallo      |
-| Lucky Instrument    | Cello |
-| Lucky Flower        | Heliotrope    |
-| Lucky Job           | Web Developer       |
-| Lucky Exercise      | Pull-Ups  |
-| Lucky Country       | Tanzania    |
+| Lucky Food          | Croissant      |
+| Lucky Instrument    | Horn |
+| Lucky Flower        | Edelweiss    |
+| Lucky Job           | Translator       |
+| Lucky Exercise      | Yoga Flow  |
+| Lucky Country       | South Korea    |
 
 
 ##  Final Reflections on Dreams

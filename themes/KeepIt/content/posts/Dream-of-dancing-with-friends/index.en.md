@@ -1,8 +1,8 @@
 ---
     weight: 698
     title: "Dream of dancing with friends"  # Assuming 'title' column exists
-    date: 2024-10-13T20:41:00+08:00
-    lastmod: 2024-10-13T20:41:00+08:00
+    date: 2024-10-13T09:58:00+08:00
+    lastmod: 2024-10-13T09:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dancing', 'Dream', 'of', 'with', 'friends']
+    tags: ['Dream', 'dancing', 'friends']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can indicate that there is a chance to bring good luck through joy, s
 | Lucky Animal        | Guinea pig |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Red     |
-| Lucky Food          | Seafood Paella      |
-| Lucky Instrument    | Bass Drum |
-| Lucky Flower        | Pelargonium    |
-| Lucky Job           | Pharmacist       |
-| Lucky Exercise      | Kite Surfing  |
-| Lucky Country       | Vanuatu    |
+| Lucky Food          | Caramel Flan      |
+| Lucky Instrument    | Cajón |
+| Lucky Flower        | Larkspur    |
+| Lucky Job           | Translator       |
+| Lucky Exercise      | Dance Aerobics  |
+| Lucky Country       | Mexico    |
 
 
 ##  Final Reflections on Dreams

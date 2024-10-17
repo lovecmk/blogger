@@ -1,8 +1,8 @@
 ---
     weight: 871
     title: "The dream of a fox"  # Assuming 'title' column exists
-    date: 2024-10-13T08:56:00+08:00
-    lastmod: 2024-10-13T08:56:00+08:00
+    date: 2024-10-12T03:05:00+08:00
+    lastmod: 2024-10-12T03:05:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fox', 'a', 'dream', 'The', 'of']
+    tags: ['The', 'dream', 'fox']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The fox symbolizes the weakness and cunning of the weakness, so this dream can s
 | Lucky Animal        | Raccoon |
 | Lucky Place         | School     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Caprese Skewers      |
-| Lucky Instrument    | Lute |
-| Lucky Flower        | Peony    |
-| Lucky Job           | Translator       |
-| Lucky Exercise      | Rowing  |
-| Lucky Country       | Armenia    |
+| Lucky Food          | Coconut Shrimp      |
+| Lucky Instrument    | Djembe |
+| Lucky Flower        | Cornflower    |
+| Lucky Job           | Chemist       |
+| Lucky Exercise      | Active Recovery  |
+| Lucky Country       | Bahrain    |
 
 
 ##  Final Reflections on Dreams

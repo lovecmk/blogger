@@ -1,8 +1,8 @@
 ---
     weight: 2067
     title: "Dream of being overlooked or forgotten"  # Assuming 'title' column exists
-    date: 2024-10-13T01:01:00+08:00
-    lastmod: 2024-10-13T01:01:00+08:00
+    date: 2024-10-15T10:29:00+08:00
+    lastmod: 2024-10-15T10:29:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'Dream', 'being', 'overlooked', 'forgotten', 'of']
+    tags: ['being', 'Dream', 'forgotten', 'overlooked']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Baklava      |
-| Lucky Instrument    | Tromba |
-| Lucky Flower        | Jade Plant    |
-| Lucky Job           | Mathematician       |
-| Lucky Exercise      | Spin Class  |
-| Lucky Country       | Kuwait    |
+| Lucky Food          | Minestrone      |
+| Lucky Instrument    | Pandeiro |
+| Lucky Flower        | Lotus    |
+| Lucky Job           | Data Analyst       |
+| Lucky Exercise      | Sledge Hockey  |
+| Lucky Country       | Pakistan    |
 
 
 ##  Final Reflections on Dreams

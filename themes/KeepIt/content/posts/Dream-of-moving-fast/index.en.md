@@ -1,8 +1,8 @@
 ---
     weight: 384
     title: "Dream of moving fast"  # Assuming 'title' column exists
-    date: 2024-10-13T15:11:00+08:00
-    lastmod: 2024-10-13T15:11:00+08:00
+    date: 2024-10-13T13:09:00+08:00
+    lastmod: 2024-10-13T13:09:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['moving', 'of', 'fast', 'Dream']
+    tags: ['fast', 'moving', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can show positive luck.Quick movements can symbolize the situation of
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Pork Chops      |
-| Lucky Instrument    | Erhu |
-| Lucky Flower        | Foxglove    |
-| Lucky Job           | Chef       |
-| Lucky Exercise      | Push-Ups  |
-| Lucky Country       | Australia    |
+| Lucky Food          | Shrimp      |
+| Lucky Instrument    | Piano |
+| Lucky Flower        | Lantana    |
+| Lucky Job           | Director       |
+| Lucky Exercise      | Shot Put  |
+| Lucky Country       | Western Sahara    |
 
 
 ##  Final Reflections on Dreams

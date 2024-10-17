@@ -1,8 +1,8 @@
 ---
     weight: 528
     title: "Dream of discovering green plants"  # Assuming 'title' column exists
-    date: 2024-10-13T21:07:00+08:00
-    lastmod: 2024-10-13T21:07:00+08:00
+    date: 2024-10-11T13:09:00+08:00
+    lastmod: 2024-10-11T13:09:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['plants', 'Dream', 'green', 'of', 'discovering']
+    tags: ['Dream', 'discovering', 'plants', 'green']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be shown in many forms, including freshness, growth, 
 | Lucky Animal        | Camel |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Lasagna      |
-| Lucky Instrument    | Keyboard |
-| Lucky Flower        | Cosmos    |
-| Lucky Job           | Human Resources Manager       |
-| Lucky Exercise      | Slacklining  |
-| Lucky Country       | Kenya    |
+| Lucky Food          | Baba Ganoush      |
+| Lucky Instrument    | Ocarina |
+| Lucky Flower        | Ragged Robin    |
+| Lucky Job           | Writer       |
+| Lucky Exercise      | Cricket  |
+| Lucky Country       | Tuvalu    |
 
 
 ##  Final Reflections on Dreams

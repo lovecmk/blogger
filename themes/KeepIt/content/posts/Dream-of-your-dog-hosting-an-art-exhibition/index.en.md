@@ -1,8 +1,8 @@
 ---
     weight: 1407
     title: "Dream of your dog hosting an art exhibition"  # Assuming 'title' column exists
-    date: 2024-10-13T01:19:00+08:00
-    lastmod: 2024-10-13T01:19:00+08:00
+    date: 2024-10-12T08:36:00+08:00
+    lastmod: 2024-10-12T08:36:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['hosting', 'your', 'Dream', 'an', 'exhibition', 'of', 'art', 'dog']
+    tags: ['Dream', 'art', 'exhibition', 'dog', 'hosting', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Otter |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Black     |
-| Lucky Food          | Bruschetta      |
-| Lucky Instrument    | Pandeiro |
-| Lucky Flower        | Chive Blossom    |
-| Lucky Job           | Insurance Underwriter       |
-| Lucky Exercise      | Hammer Throw  |
-| Lucky Country       | Vanuatu    |
+| Lucky Food          | Pasta Primavera      |
+| Lucky Instrument    | Bass Clarinet |
+| Lucky Flower        | Ornamental Pepper    |
+| Lucky Job           | Sales Representative       |
+| Lucky Exercise      | Resistance Bands  |
+| Lucky Country       | Samoa    |
 
 
 ##  Final Reflections on Dreams

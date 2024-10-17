@@ -1,8 +1,8 @@
 ---
     weight: 2054
     title: "Dream of disputes about family divisions"  # Assuming 'title' column exists
-    date: 2024-10-13T15:44:00+08:00
-    lastmod: 2024-10-13T15:44:00+08:00
+    date: 2024-10-13T17:02:00+08:00
+    lastmod: 2024-10-13T17:02:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'about', 'Dream', 'divisions', 'of', 'disputes']
+    tags: ['family', 'Dream', 'disputes', 'divisions']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Baklava      |
-| Lucky Instrument    | Drums |
-| Lucky Flower        | Petunia    |
-| Lucky Job           | Catering Manager       |
-| Lucky Exercise      | Soccer  |
-| Lucky Country       | Argentina    |
+| Lucky Food          | Beef Wellington      |
+| Lucky Instrument    | Oboe |
+| Lucky Flower        | Monkey Grass    |
+| Lucky Job           | Journalist       |
+| Lucky Exercise      | Snowshoeing  |
+| Lucky Country       | Azerbaijan    |
 
 
 ##  Final Reflections on Dreams

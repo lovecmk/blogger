@@ -1,8 +1,8 @@
 ---
     weight: 774
     title: "Dream of living in a peaceful rural village"  # Assuming 'title' column exists
-    date: 2024-10-13T21:46:00+08:00
-    lastmod: 2024-10-13T21:46:00+08:00
+    date: 2024-10-13T15:55:00+08:00
+    lastmod: 2024-10-13T15:55:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'peaceful', 'a', 'village', 'in', 'living', 'of', 'rural']
+    tags: ['Dream', 'living', 'village', 'peaceful', 'rural']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -60,11 +60,11 @@ The luck that this dream gives you a chance to find the inner calm, stability an
 | Lucky Place         | Sea     |
 | Lucky Color         | Light pink     |
 | Lucky Food          | Crab      |
-| Lucky Instrument    | Sarangi |
-| Lucky Flower        | Peony    |
-| Lucky Job           | Psychologist       |
-| Lucky Exercise      | Swimming Laps  |
-| Lucky Country       | Ukraine    |
+| Lucky Instrument    | Melodica |
+| Lucky Flower        | Jatropha    |
+| Lucky Job           | Financial Analyst       |
+| Lucky Exercise      | Pull-Ups  |
+| Lucky Country       | China    |
 
 
 ##  Final Reflections on Dreams

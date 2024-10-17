@@ -1,8 +1,8 @@
 ---
     weight: 962
     title: "Dream of falling into a bathtub"  # Assuming 'title' column exists
-    date: 2024-10-13T14:34:00+08:00
-    lastmod: 2024-10-13T14:34:00+08:00
+    date: 2024-10-15T16:19:00+08:00
+    lastmod: 2024-10-15T16:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['bathtub', 'into', 'falling', 'Dream', 'a', 'of']
+    tags: ['Dream', 'bathtub', 'into', 'falling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can give you a chance to find rest and comfort.The bathtu
 | Lucky Animal        | Elephant |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Shrimp      |
-| Lucky Instrument    | Trombone |
-| Lucky Flower        | Pansy    |
-| Lucky Job           | Sales Representative       |
-| Lucky Exercise      | Mobility Training  |
-| Lucky Country       | Micronesia    |
+| Lucky Food          | Mango Sticky Rice      |
+| Lucky Instrument    | Balalaika |
+| Lucky Flower        | Thunbergia    |
+| Lucky Job           | Operations Manager       |
+| Lucky Exercise      | Sprinting  |
+| Lucky Country       | Jordan    |
 
 
 ##  Final Reflections on Dreams

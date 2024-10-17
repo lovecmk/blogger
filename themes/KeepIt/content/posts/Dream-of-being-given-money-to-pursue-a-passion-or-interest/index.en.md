@@ -1,8 +1,8 @@
 ---
     weight: 1703
     title: "Dream of being separated from a pet or beloved animal"  # Assuming 'title' column exists
-    date: 2024-10-13T23:01:00+08:00
-    lastmod: 2024-10-13T23:01:00+08:00
+    date: 2024-10-11T23:59:00+08:00
+    lastmod: 2024-10-11T23:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['beloved', 'separated', 'or', 'Dream', 'being', 'a', 'animal', 'pet', 'from', 'of']
+    tags: ['being', 'animal', 'Dream', 'separated', 'beloved', 'from', 'pet']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Panda |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Baba Ganoush      |
-| Lucky Instrument    | Wooden Flute |
-| Lucky Flower        | Cherry Blossom    |
-| Lucky Job           | Logistician       |
-| Lucky Exercise      | Running  |
-| Lucky Country       | Bhutan    |
+| Lucky Food          | Fajitas      |
+| Lucky Instrument    | Violin |
+| Lucky Flower        | Marigold    |
+| Lucky Job           | Makeup Artist       |
+| Lucky Exercise      | Burpees  |
+| Lucky Country       | Laos    |
 
 
 ##  Final Reflections on Dreams

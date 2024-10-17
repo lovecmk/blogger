@@ -1,8 +1,8 @@
 ---
     weight: 1065
     title: "Dream about sheep"  # Assuming 'title' column exists
-    date: 2024-10-13T19:52:00+08:00
-    lastmod: 2024-10-13T19:52:00+08:00
+    date: 2024-10-11T14:59:00+08:00
+    lastmod: 2024-10-11T14:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['sheep', 'about', 'Dream']
+    tags: ['Dream', 'sheep']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ If you see 'Yang' in a dream, you may have a good opportunity.The sheep symboliz
 | Lucky Animal        | Otter |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Ice Cream      |
-| Lucky Instrument    | Piccolo |
-| Lucky Flower        | Sweet Pea    |
-| Lucky Job           | Nuclear Engineer       |
-| Lucky Exercise      | Stretching  |
-| Lucky Country       | China    |
+| Lucky Food          | Falafel      |
+| Lucky Instrument    | Steel Pan |
+| Lucky Flower        | Marigold    |
+| Lucky Job           | Field Technician       |
+| Lucky Exercise      | Active Recovery  |
+| Lucky Country       | Tajikistan    |
 
 
 ##  Final Reflections on Dreams

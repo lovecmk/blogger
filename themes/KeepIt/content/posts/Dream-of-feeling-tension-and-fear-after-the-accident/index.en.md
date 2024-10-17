@@ -1,8 +1,8 @@
 ---
     weight: 814
     title: "Dream of feeling tension and fear after the accident"  # Assuming 'title' column exists
-    date: 2024-10-13T22:58:00+08:00
-    lastmod: 2024-10-13T22:58:00+08:00
+    date: 2024-10-11T23:59:00+08:00
+    lastmod: 2024-10-11T23:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['feeling', 'the', 'after', 'Dream', 'tension', 'and', 'accident', 'fear', 'of']
+    tags: ['tension', 'Dream', 'fear', 'feeling', 'after', 'accident']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream mainly shows negative feelings and experiences, so it's hard to say g
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Stuffed Peppers      |
-| Lucky Instrument    | Harp |
-| Lucky Flower        | Lavender    |
-| Lucky Job           | Journalist       |
-| Lucky Exercise      | Slacklining  |
-| Lucky Country       | Nauru    |
+| Lucky Food          | Zucchini Noodles      |
+| Lucky Instrument    | Tuba Horn |
+| Lucky Flower        | Tulip    |
+| Lucky Job           | Field Technician       |
+| Lucky Exercise      | Skimboarding  |
+| Lucky Country       | Netherlands    |
 
 
 ##  Final Reflections on Dreams

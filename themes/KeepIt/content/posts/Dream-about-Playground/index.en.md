@@ -1,8 +1,8 @@
 ---
     weight: 1212
     title: "Dream about Playground"  # Assuming 'title' column exists
-    date: 2024-10-13T02:51:00+08:00
-    lastmod: 2024-10-13T02:51:00+08:00
+    date: 2024-10-13T01:54:00+08:00
+    lastmod: 2024-10-13T01:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Playground', 'about', 'Dream']
+    tags: ['Dream', 'Playground']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'playground' dreams can provide an opportunity to further exert acti
 | Lucky Animal        | Lizard |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Brownies      |
-| Lucky Instrument    | Recorder |
-| Lucky Flower        | Chrysanthemum    |
-| Lucky Job           | Landscaper       |
-| Lucky Exercise      | Deadlifts  |
-| Lucky Country       | Kenya    |
+| Lucky Food          | Salad      |
+| Lucky Instrument    | Steel Pan |
+| Lucky Flower        | Daffodil    |
+| Lucky Job           | SEO Specialist       |
+| Lucky Exercise      | Resistance Training  |
+| Lucky Country       | Samoa    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 266
     title: "Dream of becoming the world's best chef"  # Assuming 'title' column exists
-    date: 2024-10-13T14:56:00+08:00
-    lastmod: 2024-10-13T14:56:00+08:00
+    date: 2024-10-14T16:30:00+08:00
+    lastmod: 2024-10-14T16:30:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ["world's", 'the', 'best', 'Dream', 'chef', 'of', 'becoming']
+    tags: ['Dream', "world's", 'best', 'becoming', 'chef']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can suggest the possibility of bringing good luck if you have enough 
 | Lucky Animal        | Cat |
 | Lucky Place         | Park     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Chia Pudding      |
-| Lucky Instrument    | Piano |
-| Lucky Flower        | Safflower    |
-| Lucky Job           | Veterinarian       |
-| Lucky Exercise      | Bench Press  |
-| Lucky Country       | Belgium    |
+| Lucky Food          | Hummus      |
+| Lucky Instrument    | Darbuka |
+| Lucky Flower        | Gillyflower    |
+| Lucky Job           | Life Coach       |
+| Lucky Exercise      | Swimming Laps  |
+| Lucky Country       | Spain    |
 
 
 ##  Final Reflections on Dreams

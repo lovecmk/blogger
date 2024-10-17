@@ -1,8 +1,8 @@
 ---
     weight: 1637
     title: "Dream of feeling the presence of an ancestor during a personal achievement."  # Assuming 'title' column exists
-    date: 2024-10-13T13:20:00+08:00
-    lastmod: 2024-10-13T13:20:00+08:00
+    date: 2024-10-11T14:53:00+08:00
+    lastmod: 2024-10-11T14:53:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['presence', 'feeling', 'the', 'achievement.', 'Dream', 'during', 'personal', 'a', 'an', 'ancestor', 'of']
+    tags: ['Dream', 'ancestor', 'feeling', 'achievement', 'presence', 'personal', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Snake |
 | Lucky Place         | Sea     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Eggplant Parmesan      |
-| Lucky Instrument    | Didgeridoo |
-| Lucky Flower        | Anemone    |
-| Lucky Job           | Software Engineer       |
-| Lucky Exercise      | Stair Climbing  |
-| Lucky Country       | Tuvalu    |
+| Lucky Food          | Chicken Curry      |
+| Lucky Instrument    | Trombone Slide |
+| Lucky Flower        | Lilac    |
+| Lucky Job           | Baker       |
+| Lucky Exercise      | Sit-Ups  |
+| Lucky Country       | Croatia    |
 
 
 ##  Final Reflections on Dreams

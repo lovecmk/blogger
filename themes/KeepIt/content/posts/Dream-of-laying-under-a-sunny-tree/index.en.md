@@ -1,8 +1,8 @@
 ---
     weight: 573
     title: "Dream of laying under a sunny tree"  # Assuming 'title' column exists
-    date: 2024-10-13T22:55:00+08:00
-    lastmod: 2024-10-13T22:55:00+08:00
+    date: 2024-10-14T15:11:00+08:00
+    lastmod: 2024-10-14T15:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['tree', 'laying', 'Dream', 'a', 'of', 'sunny', 'under']
+    tags: ['Dream', 'sunny', 'laying', 'tree', 'under']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can symbolize good luck and positive change.The image of the sunshine
 | Lucky Animal        | Horse |
 | Lucky Place         | Library     |
 | Lucky Color         | White     |
-| Lucky Food          | Guacamole      |
-| Lucky Instrument    | Bass Guitar |
-| Lucky Flower        | Cactus Flower    |
-| Lucky Job           | Public Relations Specialist       |
-| Lucky Exercise      | Hammer Throw  |
-| Lucky Country       | Marshall Islands    |
+| Lucky Food          | Caramel Flan      |
+| Lucky Instrument    | Conga Drum |
+| Lucky Flower        | Bleeding Heart    |
+| Lucky Job           | Interpreter       |
+| Lucky Exercise      | Hot Yoga  |
+| Lucky Country       | Belgium    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 225
     title: "Dream of expecting future plans with lovers"  # Assuming 'title' column exists
-    date: 2024-10-13T10:18:00+08:00
-    lastmod: 2024-10-13T10:18:00+08:00
+    date: 2024-10-11T20:46:00+08:00
+    lastmod: 2024-10-11T20:46:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['plans', 'lovers', 'expecting', 'Dream', 'future', 'of', 'with']
+    tags: ['lovers', 'Dream', 'expecting', 'plans', 'future']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can have many luck and positive influence on you.This may indicate th
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | White     |
-| Lucky Food          | Fruit Tart      |
-| Lucky Instrument    | Bassoon |
-| Lucky Flower        | Ornamental Pepper    |
-| Lucky Job           | Technical Writer       |
-| Lucky Exercise      | Kayaking  |
-| Lucky Country       | United Arab Emirates    |
+| Lucky Food          | Baklava      |
+| Lucky Instrument    | Viola |
+| Lucky Flower        | Mums    |
+| Lucky Job           | Pastry Chef       |
+| Lucky Exercise      | Futsal  |
+| Lucky Country       | Netherlands    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1989
     title: "Dream of receiving money as recognition for hard work or dedication."  # Assuming 'title' column exists
-    date: 2024-10-13T23:49:00+08:00
-    lastmod: 2024-10-13T23:49:00+08:00
+    date: 2024-10-12T15:01:00+08:00
+    lastmod: 2024-10-12T15:01:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['receiving', 'or', 'recognition', 'hard', 'money', 'Dream', 'for', 'as', 'dedication.', 'of', 'work']
+    tags: ['Dream', 'hard', 'money', 'as', 'receiving', 'recognition', 'work', 'dedication']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Cheeseboard      |
-| Lucky Instrument    | Hang Drum |
-| Lucky Flower        | Chrysanthemum    |
-| Lucky Job           | Financial Analyst       |
-| Lucky Exercise      | Leg Press  |
-| Lucky Country       | Samoa    |
+| Lucky Food          | Baba Ganoush      |
+| Lucky Instrument    | Conga Drum |
+| Lucky Flower        | Tansy    |
+| Lucky Job           | Business Analyst       |
+| Lucky Exercise      | Powerlifting  |
+| Lucky Country       | Angola    |
 
 
 ##  Final Reflections on Dreams

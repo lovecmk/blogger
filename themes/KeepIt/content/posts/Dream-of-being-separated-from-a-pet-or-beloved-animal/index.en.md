@@ -1,8 +1,8 @@
 ---
     weight: 1707
     title: "Dream of your cat being inquisitive"  # Assuming 'title' column exists
-    date: 2024-10-13T23:02:00+08:00
-    lastmod: 2024-10-13T23:02:00+08:00
+    date: 2024-10-12T04:13:00+08:00
+    lastmod: 2024-10-12T04:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['inquisitive', 'your', 'cat', 'Dream', 'being', 'of']
+    tags: ['being', 'Dream', 'inquisitive', 'cat']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hyena |
 | Lucky Place         | Lake     |
 | Lucky Color         | Black     |
-| Lucky Food          | Baked Ziti      |
-| Lucky Instrument    | Wooden Flute |
-| Lucky Flower        | Pansy    |
-| Lucky Job           | Interpreter       |
-| Lucky Exercise      | Bench Press  |
-| Lucky Country       | Mozambique    |
+| Lucky Food          | Buffalo Wings      |
+| Lucky Instrument    | Fujara |
+| Lucky Flower        | Gladiolus    |
+| Lucky Job           | Pharmacist       |
+| Lucky Exercise      | Squash  |
+| Lucky Country       | Eswatini    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 500
     title: "Dream of participating in a basketball game"  # Assuming 'title' column exists
-    date: 2024-10-13T13:09:00+08:00
-    lastmod: 2024-10-13T13:09:00+08:00
+    date: 2024-10-14T14:31:00+08:00
+    lastmod: 2024-10-14T14:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['game', 'basketball', 'Dream', 'participating', 'a', 'in', 'of']
+    tags: ['Dream', 'participating', 'game', 'basketball']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ What kind of luck can this dream gives you?This dream may be a lucky luck to ach
 | Lucky Animal        | Hippo |
 | Lucky Place         | Academy     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Gnocchi      |
-| Lucky Instrument    | Sackbut |
-| Lucky Flower        | Lotus    |
-| Lucky Job           | Archaeologist       |
+| Lucky Food          | Sushi      |
+| Lucky Instrument    | Guitarlele |
+| Lucky Flower        | Sunflower    |
+| Lucky Job           | Insurance Underwriter       |
 | Lucky Exercise      | Circuit Workout  |
-| Lucky Country       | Pakistan    |
+| Lucky Country       | Kenya    |
 
 
 ##  Final Reflections on Dreams

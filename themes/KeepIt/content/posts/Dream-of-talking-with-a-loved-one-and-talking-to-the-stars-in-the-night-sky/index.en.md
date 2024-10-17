@@ -1,8 +1,8 @@
 ---
     weight: 680
     title: "Dream of talking with a loved one and talking to the stars in the night sky"  # Assuming 'title' column exists
-    date: 2024-10-13T11:07:00+08:00
-    lastmod: 2024-10-13T11:07:00+08:00
+    date: 2024-10-13T12:34:00+08:00
+    lastmod: 2024-10-13T12:34:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['one', 'in', 'sky', 'the', 'to', 'night', 'talking', 'Dream', 'a', 'loved', 'and', 'of', 'stars', 'with']
+    tags: ['Dream', 'one', 'loved', 'talking', 'to', 'stars', 'night', 'sky']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can give you a positive luck.Deep connections and communication with 
 | Lucky Animal        | Camel |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Scallops      |
-| Lucky Instrument    | Zouaves |
-| Lucky Flower        | Agapanthus    |
-| Lucky Job           | Lawyer       |
-| Lucky Exercise      | Hammer Throw  |
-| Lucky Country       | United Kingdom    |
+| Lucky Food          | Ratatouille      |
+| Lucky Instrument    | Dulcimer |
+| Lucky Flower        | Balsam    |
+| Lucky Job           | Neuroscientist       |
+| Lucky Exercise      | Gymnastics  |
+| Lucky Country       | Micronesia    |
 
 
 ##  Final Reflections on Dreams

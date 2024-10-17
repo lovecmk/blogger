@@ -1,8 +1,8 @@
 ---
     weight: 1326
     title: "Dream of going on a volunteer trip"  # Assuming 'title' column exists
-    date: 2024-10-13T02:14:00+08:00
-    lastmod: 2024-10-13T02:14:00+08:00
+    date: 2024-10-13T01:07:00+08:00
+    lastmod: 2024-10-13T01:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['volunteer', 'trip', 'Dream', 'going', 'a', 'on', 'of']
+    tags: ['Dream', 'volunteer', 'going', 'trip']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Pig |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Beef Stroganoff      |
-| Lucky Instrument    | Clarinet |
-| Lucky Flower        | Peach Blossom    |
-| Lucky Job           | Dentist       |
-| Lucky Exercise      | Circuit Training  |
-| Lucky Country       | Singapore    |
+| Lucky Food          | Baba Ganoush      |
+| Lucky Instrument    | Bandoneon |
+| Lucky Flower        | Magnolia    |
+| Lucky Job           | Artist       |
+| Lucky Exercise      | Pull-Ups  |
+| Lucky Country       | Slovakia    |
 
 
 ##  Final Reflections on Dreams

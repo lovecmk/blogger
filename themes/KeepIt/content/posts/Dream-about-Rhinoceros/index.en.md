@@ -1,8 +1,8 @@
 ---
     weight: 1124
     title: "Dream about Rhinoceros"  # Assuming 'title' column exists
-    date: 2024-10-13T20:32:00+08:00
-    lastmod: 2024-10-13T20:32:00+08:00
+    date: 2024-10-13T10:12:00+08:00
+    lastmod: 2024-10-13T10:12:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Rhinoceros', 'about', 'Dream']
+    tags: ['Rhinoceros', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is to use your strength and ability to help you overcome 
 | Lucky Animal        | Fox |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Omelette      |
-| Lucky Instrument    | Oboe |
-| Lucky Flower        | Lobelia    |
-| Lucky Job           | Psychologist       |
-| Lucky Exercise      | Skimboarding  |
-| Lucky Country       | Micronesia    |
+| Lucky Food          | Corn on the Cob      |
+| Lucky Instrument    | Darbuka |
+| Lucky Flower        | Lotus    |
+| Lucky Job           | Mechanic       |
+| Lucky Exercise      | Hiking  |
+| Lucky Country       | Iceland    |
 
 
 ##  Final Reflections on Dreams

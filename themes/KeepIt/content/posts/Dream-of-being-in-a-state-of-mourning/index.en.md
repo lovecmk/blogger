@@ -1,8 +1,8 @@
 ---
     weight: 1647
     title: "Dream of your grandmother's wisdom bringing clarity to your thoughts."  # Assuming 'title' column exists
-    date: 2024-10-13T14:30:00+08:00
-    lastmod: 2024-10-13T14:30:00+08:00
+    date: 2024-10-12T09:07:00+08:00
+    lastmod: 2024-10-12T09:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['wisdom', 'bringing', 'thoughts.', 'your', 'to', 'Dream', 'clarity', "grandmother's", 'of']
+    tags: ['Dream', 'clarity', 'bringing', 'to', 'thoughts', 'wisdom', "grandmother's"]
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Horse |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Green     |
-| Lucky Food          | Quesadilla      |
-| Lucky Instrument    | Bass Guitar |
-| Lucky Flower        | Bluebell    |
-| Lucky Job           | Stockbroker       |
-| Lucky Exercise      | Ashtanga Yoga  |
-| Lucky Country       | India    |
+| Lucky Food          | Ratatouille      |
+| Lucky Instrument    | Trombone Slide |
+| Lucky Flower        | Iris    |
+| Lucky Job           | Postman       |
+| Lucky Exercise      | Mobility Training  |
+| Lucky Country       | Finland    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1334
     title: "Dream of being late or missing a train, bus, or important event"  # Assuming 'title' column exists
-    date: 2024-10-13T11:59:00+08:00
-    lastmod: 2024-10-13T11:59:00+08:00
+    date: 2024-10-13T07:01:00+08:00
+    lastmod: 2024-10-13T07:01:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['missing', 'or', 'train,', 'late', 'Dream', 'being', 'a', 'event', 'of', 'bus,', 'important']
+    tags: ['being', 'event', 'bus,', 'Dream', 'missing', 'train,', 'important', 'late']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream does not necessarily bring luck, but rather serves as a prompt to ref
 | Lucky Animal        | Parrot |
 | Lucky Place         | Museum     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Curry      |
-| Lucky Instrument    | Pandeiro |
-| Lucky Flower        | Magnolia    |
-| Lucky Job           | Statistician       |
-| Lucky Exercise      | Shot Put  |
-| Lucky Country       | Switzerland    |
+| Lucky Food          | Risotto      |
+| Lucky Instrument    | Tenor Banjo |
+| Lucky Flower        | Narcissus    |
+| Lucky Job           | Personal Trainer       |
+| Lucky Exercise      | Surf Lifesaving  |
+| Lucky Country       | Mexico    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1172
     title: "Dream about Youtube"  # Assuming 'title' column exists
-    date: 2024-10-13T03:38:00+08:00
-    lastmod: 2024-10-13T03:38:00+08:00
+    date: 2024-10-12T00:29:00+08:00
+    lastmod: 2024-10-12T00:29:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Youtube', 'about', 'Dream']
+    tags: ['Dream', 'Youtube']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ If you feel good luck in your dreams or find elements that symbolize good luck, 
 | Lucky Animal        | Tiger |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Tuna Tartare      |
-| Lucky Instrument    | Electric Guitar |
-| Lucky Flower        | Thistle    |
-| Lucky Job           | Archaeologist       |
-| Lucky Exercise      | Yoga  |
-| Lucky Country       | Iran    |
+| Lucky Food          | Gelato      |
+| Lucky Instrument    | Xylophone |
+| Lucky Flower        | Mums    |
+| Lucky Job           | Catering Manager       |
+| Lucky Exercise      | Circuit Training  |
+| Lucky Country       | Malta    |
 
 
 ##  Final Reflections on Dreams

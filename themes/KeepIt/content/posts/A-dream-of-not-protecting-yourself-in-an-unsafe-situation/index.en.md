@@ -1,8 +1,8 @@
 ---
     weight: 365
     title: "A dream of not protecting yourself in an unsafe situation"  # Assuming 'title' column exists
-    date: 2024-10-13T04:02:00+08:00
-    lastmod: 2024-10-13T04:02:00+08:00
+    date: 2024-10-13T13:21:00+08:00
+    lastmod: 2024-10-13T13:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['in', 'unsafe', 'yourself', 'situation', 'not', 'an', 'dream', 'protecting', 'of', 'A']
+    tags: ['dream', 'yourself', 'A', 'not', 'unsafe', 'situation', 'protecting', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The good luck of this dream is that you can maintain a safe state by being alert
 | Lucky Animal        | Polar bear |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Guacamole      |
-| Lucky Instrument    | Saxello |
-| Lucky Flower        | Lilac    |
-| Lucky Job           | Research Scientist       |
-| Lucky Exercise      | Burpees  |
-| Lucky Country       | Jordan    |
+| Lucky Food          | Nachos      |
+| Lucky Instrument    | Electric Guitar |
+| Lucky Flower        | Cherry Blossom    |
+| Lucky Job           | Game Developer       |
+| Lucky Exercise      | Soccer  |
+| Lucky Country       | China    |
 
 
 ##  Final Reflections on Dreams

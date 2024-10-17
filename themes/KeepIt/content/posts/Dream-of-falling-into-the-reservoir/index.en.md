@@ -1,8 +1,8 @@
 ---
     weight: 964
     title: "Dream of falling into the reservoir"  # Assuming 'title' column exists
-    date: 2024-10-13T23:04:00+08:00
-    lastmod: 2024-10-13T23:04:00+08:00
+    date: 2024-10-12T17:36:00+08:00
+    lastmod: 2024-10-12T17:36:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'into', 'falling', 'Dream', 'reservoir', 'of']
+    tags: ['Dream', 'into', 'falling', 'reservoir']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ In this dream, good luck can mainly expect a more stable condition or realistic 
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Eggplant Parmesan      |
-| Lucky Instrument    | Sarangi |
-| Lucky Flower        | Scented Geranium    |
-| Lucky Job           | User Researcher       |
-| Lucky Exercise      | Cricket  |
-| Lucky Country       | Kiribati    |
+| Lucky Food          | Pancakes      |
+| Lucky Instrument    | Hang Drum |
+| Lucky Flower        | Bee Balm    |
+| Lucky Job           | Director       |
+| Lucky Exercise      | Stair Climbing  |
+| Lucky Country       | France    |
 
 
 ##  Final Reflections on Dreams

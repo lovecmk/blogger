@@ -1,8 +1,8 @@
 ---
     weight: 473
     title: "Dream of uncertain choices or decisions"  # Assuming 'title' column exists
-    date: 2024-10-13T15:26:00+08:00
-    lastmod: 2024-10-13T15:26:00+08:00
+    date: 2024-10-15T18:13:00+08:00
+    lastmod: 2024-10-15T18:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'choices', 'Dream', 'decisions', 'of', 'uncertain']
+    tags: ['uncertain', 'Dream', 'decisions', 'choices']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can remind you of the opportunity to bring you good luck.Through this
 | Lucky Animal        | Sparrow |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Pork Chops      |
-| Lucky Instrument    | Tuba |
-| Lucky Flower        | Peony    |
-| Lucky Job           | Life Coach       |
-| Lucky Exercise      | Ballet  |
-| Lucky Country       | Denmark    |
+| Lucky Food          | Brownies      |
+| Lucky Instrument    | Bagpipes |
+| Lucky Flower        | Vinca    |
+| Lucky Job           | Brand Manager       |
+| Lucky Exercise      | Pull-Ups  |
+| Lucky Country       | Serbia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1441
     title: "Dream of missing a flight or train"  # Assuming 'title' column exists
-    date: 2024-10-13T09:57:00+08:00
-    lastmod: 2024-10-13T09:57:00+08:00
+    date: 2024-10-15T11:18:00+08:00
+    lastmod: 2024-10-15T11:18:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['missing', 'or', 'flight', 'Dream', 'a', 'train', 'of']
+    tags: ['flight', 'Dream', 'missing', 'train']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Horse |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Seafood Paella      |
-| Lucky Instrument    | Trompeta |
-| Lucky Flower        | Heliotrope    |
-| Lucky Job           | Writer       |
-| Lucky Exercise      | Mountain Climbers  |
-| Lucky Country       | Iceland    |
+| Lucky Food          | Caprese Salad      |
+| Lucky Instrument    | Claves |
+| Lucky Flower        | Ornamental Pepper    |
+| Lucky Job           | Journalist       |
+| Lucky Exercise      | Sprinting  |
+| Lucky Country       | South Korea    |
 
 
 ##  Final Reflections on Dreams

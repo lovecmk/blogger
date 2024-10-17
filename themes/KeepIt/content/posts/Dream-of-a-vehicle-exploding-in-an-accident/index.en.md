@@ -1,8 +1,8 @@
 ---
     weight: 808
     title: "Dream of a vehicle exploding in an accident"  # Assuming 'title' column exists
-    date: 2024-10-13T14:25:00+08:00
-    lastmod: 2024-10-13T14:25:00+08:00
+    date: 2024-10-13T09:16:00+08:00
+    lastmod: 2024-10-13T09:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['exploding', 'Dream', 'a', 'an', 'accident', 'in', 'of', 'vehicle']
+    tags: ['Dream', 'vehicle', 'accident', 'exploding', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is to develop the ability to prevent or cope with acciden
 | Lucky Animal        | Horse |
 | Lucky Place         | River     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Caprese Salad      |
-| Lucky Instrument    | Harp |
-| Lucky Flower        | Mullein    |
-| Lucky Job           | Architect       |
-| Lucky Exercise      | Plank  |
-| Lucky Country       | South Africa    |
+| Lucky Food          | Steak      |
+| Lucky Instrument    | Lap Steel Guitar |
+| Lucky Flower        | Lavender    |
+| Lucky Job           | Content Creator       |
+| Lucky Exercise      | Tai Chi  |
+| Lucky Country       | Malaysia    |
 
 
 ##  Final Reflections on Dreams

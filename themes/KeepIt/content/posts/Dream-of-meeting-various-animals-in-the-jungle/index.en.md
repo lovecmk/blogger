@@ -1,8 +1,8 @@
 ---
     weight: 640
     title: "Dream of meeting various animals in the jungle"  # Assuming 'title' column exists
-    date: 2024-10-13T16:01:00+08:00
-    lastmod: 2024-10-13T16:01:00+08:00
+    date: 2024-10-13T05:39:00+08:00
+    lastmod: 2024-10-13T05:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['animals', 'jungle', 'the', 'Dream', 'meeting', 'various', 'in', 'of']
+    tags: ['Dream', 'meeting', 'jungle', 'animals', 'various']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can symbolize many luck.With the open mind of freedom, adventure, and
 | Lucky Animal        | Red fox |
 | Lucky Place         | Mart     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Falafel      |
-| Lucky Instrument    | Xylophone |
-| Lucky Flower        | Scented Geranium    |
-| Lucky Job           | Game Developer       |
-| Lucky Exercise      | Gymnastics  |
-| Lucky Country       | Tajikistan    |
+| Lucky Food          | Ramen      |
+| Lucky Instrument    | Tenor Banjo |
+| Lucky Flower        | Balsam    |
+| Lucky Job           | Journalist       |
+| Lucky Exercise      | Salsa  |
+| Lucky Country       | Serbia    |
 
 
 ##  Final Reflections on Dreams

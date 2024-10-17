@@ -1,8 +1,8 @@
 ---
     weight: 1892
     title: "Dream of a near-death experience"  # Assuming 'title' column exists
-    date: 2024-10-13T17:12:00+08:00
-    lastmod: 2024-10-13T17:12:00+08:00
+    date: 2024-10-11T00:26:00+08:00
+    lastmod: 2024-10-11T00:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['near-death', 'Dream', 'a', 'experience', 'of']
+    tags: ['Dream', 'experience', 'near-death']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Cat |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Roast Chicken      |
-| Lucky Instrument    | Tuba Horn |
-| Lucky Flower        | Maranta    |
-| Lucky Job           | Accountant       |
-| Lucky Exercise      | Water Polo  |
-| Lucky Country       | Mozambique    |
+| Lucky Food          | Salad      |
+| Lucky Instrument    | Bass Guitar |
+| Lucky Flower        | Butterfly Bush    |
+| Lucky Job           | Insurance Underwriter       |
+| Lucky Exercise      | Skimboarding  |
+| Lucky Country       | Austria    |
 
 
 ##  Final Reflections on Dreams

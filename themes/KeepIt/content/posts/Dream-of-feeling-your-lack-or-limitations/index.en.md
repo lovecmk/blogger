@@ -1,8 +1,8 @@
 ---
     weight: 471
     title: "Dream of feeling your lack or limitations"  # Assuming 'title' column exists
-    date: 2024-10-13T02:35:00+08:00
-    lastmod: 2024-10-13T02:35:00+08:00
+    date: 2024-10-14T06:01:00+08:00
+    lastmod: 2024-10-14T06:01:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['feeling', 'or', 'your', 'lack', 'Dream', 'limitations', 'of']
+    tags: ['Dream', 'lack', 'limitations', 'feeling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Good luck in this dream is a reward for the will to challenge and overcome the l
 | Lucky Animal        | Owl |
 | Lucky Place         | Lake     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Scallops      |
-| Lucky Instrument    | Banjo |
-| Lucky Flower        | Crown Daisy    |
-| Lucky Job           | Construction Worker       |
-| Lucky Exercise      | Kripalu Yoga  |
-| Lucky Country       | Kyrgyzstan    |
+| Lucky Food          | Vegetarian Chili      |
+| Lucky Instrument    | Djembe |
+| Lucky Flower        | Mandevilla    |
+| Lucky Job           | Financial Analyst       |
+| Lucky Exercise      | Gymnastics  |
+| Lucky Country       | United Arab Emirates    |
 
 
 ##  Final Reflections on Dreams

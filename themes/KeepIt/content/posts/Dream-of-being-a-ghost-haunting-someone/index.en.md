@@ -1,8 +1,8 @@
 ---
     weight: 1981
     title: "Dream of being in a state of extreme disappointment"  # Assuming 'title' column exists
-    date: 2024-10-13T12:11:00+08:00
-    lastmod: 2024-10-13T12:11:00+08:00
+    date: 2024-10-13T19:04:00+08:00
+    lastmod: 2024-10-13T19:04:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['state', 'Dream', 'being', 'a', 'disappointment', 'extreme', 'in', 'of']
+    tags: ['being', 'extreme', 'Dream', 'disappointment', 'state']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Sloth |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Hot Dog      |
-| Lucky Instrument    | Drums |
-| Lucky Flower        | Jatropha    |
-| Lucky Job           | Psychologist       |
-| Lucky Exercise      | Stand-Up Paddleboarding  |
-| Lucky Country       | Austria    |
+| Lucky Food          | Prawn Crackers      |
+| Lucky Instrument    | Snare Drum |
+| Lucky Flower        | Clover    |
+| Lucky Job           | Marketing Manager       |
+| Lucky Exercise      | Juggling  |
+| Lucky Country       | Yemen    |
 
 
 ##  Final Reflections on Dreams

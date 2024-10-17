@@ -1,8 +1,8 @@
 ---
     weight: 1916
     title: "Dream of your grandmother being your confidante and trusted advisor."  # Assuming 'title' column exists
-    date: 2024-10-13T23:59:00+08:00
-    lastmod: 2024-10-13T23:59:00+08:00
+    date: 2024-10-12T00:36:00+08:00
+    lastmod: 2024-10-12T00:36:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['grandmother', 'your', 'Dream', 'being', 'trusted', 'advisor.', 'and', 'confidante', 'of']
+    tags: ['being', 'Dream', 'confidante', 'grandmother', 'advisor', 'trusted']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hyena |
 | Lucky Place         | School     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Fruit Tart      |
-| Lucky Instrument    | Zither |
-| Lucky Flower        | Agapanthus    |
-| Lucky Job           | Chef de Cuisine       |
-| Lucky Exercise      | Hammer Throw  |
-| Lucky Country       | Mongolia    |
+| Lucky Food          | Biryani      |
+| Lucky Instrument    | Darbuka |
+| Lucky Flower        | Cosmos    |
+| Lucky Job           | Welder       |
+| Lucky Exercise      | Discus Throw  |
+| Lucky Country       | Bulgaria    |
 
 
 ##  Final Reflections on Dreams

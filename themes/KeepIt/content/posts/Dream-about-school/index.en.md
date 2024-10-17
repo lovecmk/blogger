@@ -1,8 +1,8 @@
 ---
     weight: 1199
     title: "Dream about school"  # Assuming 'title' column exists
-    date: 2024-10-13T15:41:00+08:00
-    lastmod: 2024-10-13T15:41:00+08:00
+    date: 2024-10-11T07:08:00+08:00
+    lastmod: 2024-10-11T07:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['school', 'about', 'Dream']
+    tags: ['school', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'school' dreams can vary from person to person.This dream can forese
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Pudding      |
-| Lucky Instrument    | Zouaves |
-| Lucky Flower        | Marigold    |
-| Lucky Job           | Data Scientist       |
-| Lucky Exercise      | Leg Press  |
-| Lucky Country       | Armenia    |
+| Lucky Food          | Crab      |
+| Lucky Instrument    | Calimba |
+| Lucky Flower        | Tiger Lily    |
+| Lucky Job           | Historian       |
+| Lucky Exercise      | Kayaking  |
+| Lucky Country       | Iraq    |
 
 
 ##  Final Reflections on Dreams

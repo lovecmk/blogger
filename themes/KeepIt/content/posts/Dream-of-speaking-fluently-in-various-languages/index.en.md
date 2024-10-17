@@ -1,8 +1,8 @@
 ---
     weight: 620
     title: "Dream of speaking fluently in various languages"  # Assuming 'title' column exists
-    date: 2024-10-13T13:28:00+08:00
-    lastmod: 2024-10-13T13:28:00+08:00
+    date: 2024-10-11T23:13:00+08:00
+    lastmod: 2024-10-11T23:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['languages', 'Dream', 'various', 'speaking', 'in', 'of', 'fluently']
+    tags: ['speaking', 'Dream', 'languages', 'fluently', 'various']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can mean that you can have a chance to form good relation
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Mart     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Stir Fry      |
-| Lucky Instrument    | Charango |
-| Lucky Flower        | Maranta    |
-| Lucky Job           | Security Guard       |
-| Lucky Exercise      | Jump Squats  |
-| Lucky Country       | Austria    |
+| Lucky Food          | Baked Potato      |
+| Lucky Instrument    | Guitar |
+| Lucky Flower        | Lobelia    |
+| Lucky Job           | Bus Driver       |
+| Lucky Exercise      | Spin Class  |
+| Lucky Country       | Hungary    |
 
 
 ##  Final Reflections on Dreams

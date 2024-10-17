@@ -1,8 +1,8 @@
 ---
     weight: 1104
     title: "Dream about Brown bear"  # Assuming 'title' column exists
-    date: 2024-10-13T13:33:00+08:00
-    lastmod: 2024-10-13T13:33:00+08:00
+    date: 2024-10-13T02:17:00+08:00
+    lastmod: 2024-10-13T02:17:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['bear', 'Brown', 'about', 'Dream']
+    tags: ['bear', 'Brown', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The dream of 'brown bear' can bring you good luck.This dream can convey your mes
 | Lucky Animal        | Hyena |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Fried Rice      |
-| Lucky Instrument    | Triangle |
-| Lucky Flower        | Sweet William    |
-| Lucky Job           | Stockbroker       |
-| Lucky Exercise      | Surfing  |
-| Lucky Country       | Portugal    |
+| Lucky Food          | Quiche      |
+| Lucky Instrument    | Zouaves |
+| Lucky Flower        | Ornamental Pepper    |
+| Lucky Job           | Customer Service Representative       |
+| Lucky Exercise      | Active Recovery  |
+| Lucky Country       | Qatar    |
 
 
 ##  Final Reflections on Dreams

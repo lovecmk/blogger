@@ -1,8 +1,8 @@
 ---
     weight: 1734
     title: "Dream of failing an important exam"  # Assuming 'title' column exists
-    date: 2024-10-13T08:07:00+08:00
-    lastmod: 2024-10-13T08:07:00+08:00
+    date: 2024-10-14T18:35:00+08:00
+    lastmod: 2024-10-14T18:35:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['failing', 'exam', 'Dream', 'an', 'of', 'important']
+    tags: ['Dream', 'important', 'exam', 'failing', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Steak      |
-| Lucky Instrument    | Triangle |
-| Lucky Flower        | Clover    |
-| Lucky Job           | Veterinarian       |
-| Lucky Exercise      | Salsa  |
-| Lucky Country       | Brunei    |
+| Lucky Food          | Pork Belly      |
+| Lucky Instrument    | Castanets |
+| Lucky Flower        | Sweet Pea    |
+| Lucky Job           | Researcher       |
+| Lucky Exercise      | Sprinting  |
+| Lucky Country       | Finland    |
 
 
 ##  Final Reflections on Dreams

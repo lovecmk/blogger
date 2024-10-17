@@ -1,8 +1,8 @@
 ---
     weight: 205
     title: "Dream of relaxing with lovers"  # Assuming 'title' column exists
-    date: 2024-10-13T18:58:00+08:00
-    lastmod: 2024-10-13T18:58:00+08:00
+    date: 2024-10-13T15:35:00+08:00
+    lastmod: 2024-10-13T15:35:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lovers', 'Dream', 'relaxing', 'of', 'with']
+    tags: ['lovers', 'Dream', 'relaxing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring good luck, positive condition, and satisfaction.It can also
 | Lucky Animal        | Rabbit |
 | Lucky Place         | School     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Kebab      |
-| Lucky Instrument    | Snare Drum |
-| Lucky Flower        | Hoya    |
-| Lucky Job           | Mathematician       |
-| Lucky Exercise      | Beach Volleyball  |
-| Lucky Country       | Bahrain    |
+| Lucky Food          | Vegetarian Chili      |
+| Lucky Instrument    | Pipa |
+| Lucky Flower        | Magnolia    |
+| Lucky Job           | Sales Manager       |
+| Lucky Exercise      | Paddleboarding  |
+| Lucky Country       | Nepal    |
 
 
 ##  Final Reflections on Dreams

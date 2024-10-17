@@ -1,8 +1,8 @@
 ---
     weight: 1831
     title: "Dream of your grandmother helping you with a challenging situation."  # Assuming 'title' column exists
-    date: 2024-10-13T00:10:00+08:00
-    lastmod: 2024-10-13T00:10:00+08:00
+    date: 2024-10-12T19:01:00+08:00
+    lastmod: 2024-10-12T19:01:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['situation.', 'with', 'grandmother', 'your', 'Dream', 'helping', 'challenging', 'a', 'of', 'you']
+    tags: ['Dream', 'helping', 'grandmother', 'challenging', 'situation', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Green     |
-| Lucky Food          | Cheeseboard      |
-| Lucky Instrument    | Darabuka |
-| Lucky Flower        | Anemone    |
-| Lucky Job           | Field Technician       |
-| Lucky Exercise      | Kite Surfing  |
-| Lucky Country       | Malaysia    |
+| Lucky Food          | Baked Ziti      |
+| Lucky Instrument    | Didgeridoo |
+| Lucky Flower        | Borage    |
+| Lucky Job           | Doctor       |
+| Lucky Exercise      | Snowshoeing  |
+| Lucky Country       | Laos    |
 
 
 ##  Final Reflections on Dreams

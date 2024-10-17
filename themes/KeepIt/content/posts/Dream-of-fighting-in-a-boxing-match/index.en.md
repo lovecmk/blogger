@@ -1,8 +1,8 @@
 ---
     weight: 1845
     title: "Dream of receiving royalties or passive income from an investment."  # Assuming 'title' column exists
-    date: 2024-10-13T08:21:00+08:00
-    lastmod: 2024-10-13T08:21:00+08:00
+    date: 2024-10-15T07:58:00+08:00
+    lastmod: 2024-10-15T07:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['income', 'receiving', 'or', 'investment.', 'Dream', 'an', 'from', 'of', 'passive', 'royalties']
+    tags: ['investment', 'Dream', 'receiving', 'royalties', 'from', 'passive', 'income', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ The luck brought by this dream is connected to a sense of happiness and contentm
 | Lucky Animal        | Dog |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Samosa      |
-| Lucky Instrument    | Saxello |
-| Lucky Flower        | Thistle    |
-| Lucky Job           | Chef       |
-| Lucky Exercise      | Capoeira  |
-| Lucky Country       | Poland    |
+| Lucky Food          | Paella      |
+| Lucky Instrument    | Horn |
+| Lucky Flower        | Bluebell    |
+| Lucky Job           | Doctor       |
+| Lucky Exercise      | Gymnastics  |
+| Lucky Country       | Australia    |
 
 
 ##  Final Reflections on Dreams

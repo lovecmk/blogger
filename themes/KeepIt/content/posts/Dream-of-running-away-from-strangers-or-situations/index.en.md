@@ -1,8 +1,8 @@
 ---
     weight: 417
     title: "Dream of running away from strangers or situations"  # Assuming 'title' column exists
-    date: 2024-10-13T02:19:00+08:00
-    lastmod: 2024-10-13T02:19:00+08:00
+    date: 2024-10-15T06:29:00+08:00
+    lastmod: 2024-10-15T06:29:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['strangers', 'situations', 'or', 'running', 'away', 'Dream', 'from', 'of']
+    tags: ['situations', 'Dream', 'running', 'from', 'strangers', 'away']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream does not show special about luck.Rather, this dream can indicate that
 | Lucky Animal        | Rhino |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Curry      |
-| Lucky Instrument    | Ocarina |
-| Lucky Flower        | Lobelia    |
-| Lucky Job           | Sous Chef       |
-| Lucky Exercise      | Beach Volleyball  |
-| Lucky Country       | Bahrain    |
+| Lucky Food          | Fish and Chips      |
+| Lucky Instrument    | Steel Pan |
+| Lucky Flower        | Marigold    |
+| Lucky Job           | Database Administrator       |
+| Lucky Exercise      | Lifting  |
+| Lucky Country       | Laos    |
 
 
 ##  Final Reflections on Dreams

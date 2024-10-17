@@ -1,8 +1,8 @@
 ---
     weight: 1709
     title: "Dream of your husband making a significant positive change in his life."  # Assuming 'title' column exists
-    date: 2024-10-13T14:01:00+08:00
-    lastmod: 2024-10-13T14:01:00+08:00
+    date: 2024-10-11T16:30:00+08:00
+    lastmod: 2024-10-11T16:30:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['in', 'significant', 'your', 'Dream', 'his', 'husband', 'making', 'a', 'change', 'positive', 'of', 'life.']
+    tags: ['life', 'Dream', 'significant', 'making', 'his', 'change', 'husband', 'positive']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Deer |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Tart      |
-| Lucky Instrument    | Fujara |
-| Lucky Flower        | Feverfew    |
-| Lucky Job           | Web Developer       |
-| Lucky Exercise      | Foam Rolling  |
-| Lucky Country       | Mongolia    |
+| Lucky Food          | Deviled Eggs      |
+| Lucky Instrument    | Electric Cello |
+| Lucky Flower        | Thunbergia    |
+| Lucky Job           | Historian       |
+| Lucky Exercise      | Circuit Workout  |
+| Lucky Country       | Norway    |
 
 
 ##  Final Reflections on Dreams

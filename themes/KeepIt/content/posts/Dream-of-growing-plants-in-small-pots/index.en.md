@@ -1,8 +1,8 @@
 ---
     weight: 592
     title: "Dream of growing plants in small pots"  # Assuming 'title' column exists
-    date: 2024-10-13T22:14:00+08:00
-    lastmod: 2024-10-13T22:14:00+08:00
+    date: 2024-10-15T12:20:00+08:00
+    lastmod: 2024-10-15T12:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['small', 'plants', 'Dream', 'pots', 'growing', 'in', 'of']
+    tags: ['Dream', 'small', 'growing', 'pots', 'plants']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can speak of achievement and success through personal gro
 | Lucky Animal        | Spider |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Shepherd's Pie      |
-| Lucky Instrument    | Tabla |
-| Lucky Flower        | Sage    |
-| Lucky Job           | Anthropologist       |
-| Lucky Exercise      | Crunches  |
-| Lucky Country       | Bhutan    |
+| Lucky Food          | Buffalo Wings      |
+| Lucky Instrument    | Harmonica |
+| Lucky Flower        | Chrysanthemum    |
+| Lucky Job           | Operations Manager       |
+| Lucky Exercise      | Handball  |
+| Lucky Country       | Iraq    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 935
     title: "Dream of falling from bridges"  # Assuming 'title' column exists
-    date: 2024-10-13T21:33:00+08:00
-    lastmod: 2024-10-13T21:33:00+08:00
+    date: 2024-10-11T20:49:00+08:00
+    lastmod: 2024-10-11T20:49:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['bridges', 'falling', 'Dream', 'from', 'of']
+    tags: ['Dream', 'falling', 'from', 'bridges']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Dreams of falling from bridges mainly symbolize danger and anxiety, but this dre
 | Lucky Animal        | Tiger |
 | Lucky Place         | Museum     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Baked Ziti      |
-| Lucky Instrument    | Keyboard Synthesizer |
-| Lucky Flower        | Lily    |
-| Lucky Job           | Marketing Manager       |
-| Lucky Exercise      | Lunges  |
-| Lucky Country       | Egypt    |
+| Lucky Food          | Chowder      |
+| Lucky Instrument    | Chimes |
+| Lucky Flower        | Hibiscus    |
+| Lucky Job           | Project Manager       |
+| Lucky Exercise      | Stand-Up Paddleboarding  |
+| Lucky Country       | United Arab Emirates    |
 
 
 ##  Final Reflections on Dreams

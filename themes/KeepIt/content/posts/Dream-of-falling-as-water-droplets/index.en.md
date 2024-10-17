@@ -1,8 +1,8 @@
 ---
     weight: 237
     title: "Dream of falling as water droplets"  # Assuming 'title' column exists
-    date: 2024-10-13T16:33:00+08:00
-    lastmod: 2024-10-13T16:33:00+08:00
+    date: 2024-10-12T13:27:00+08:00
+    lastmod: 2024-10-12T13:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['water', 'droplets', 'falling', 'Dream', 'as', 'of']
+    tags: ['water', 'Dream', 'falling', 'droplets', 'as']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream is ready to move away from the burden or conflict and to move to find
 | Lucky Animal        | Parrot |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Fish and Chips      |
-| Lucky Instrument    | French Horn |
-| Lucky Flower        | Poinsettia    |
-| Lucky Job           | Public Relations Specialist       |
-| Lucky Exercise      | Stair Climbing  |
-| Lucky Country       | Brunei    |
+| Lucky Food          | Kale Salad      |
+| Lucky Instrument    | Maracas |
+| Lucky Flower        | Primrose    |
+| Lucky Job           | Bus Driver       |
+| Lucky Exercise      | Belly Dancing  |
+| Lucky Country       | Bangladesh    |
 
 
 ##  Final Reflections on Dreams

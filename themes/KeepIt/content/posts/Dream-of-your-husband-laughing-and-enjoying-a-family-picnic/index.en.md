@@ -1,8 +1,8 @@
 ---
     weight: 1752
     title: "Dream of enjoying a peach cobbler"  # Assuming 'title' column exists
-    date: 2024-10-13T07:49:00+08:00
-    lastmod: 2024-10-13T07:49:00+08:00
+    date: 2024-10-12T19:46:00+08:00
+    lastmod: 2024-10-12T19:46:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['enjoying', 'Dream', 'a', 'peach', 'of', 'cobbler']
+    tags: ['Dream', 'cobbler', 'enjoying', 'peach']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream suggests that luck is on your side in terms of facing and overcoming 
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Scone      |
-| Lucky Instrument    | Chimes |
-| Lucky Flower        | Nymphaea    |
-| Lucky Job           | Insurance Underwriter       |
-| Lucky Exercise      | Salsa  |
-| Lucky Country       | Solomon Islands    |
+| Lucky Food          | Buffalo Wings      |
+| Lucky Instrument    | Fujara |
+| Lucky Flower        | Heather    |
+| Lucky Job           | Astrophysicist       |
+| Lucky Exercise      | Baseball  |
+| Lucky Country       | Uzbekistan    |
 
 
 ##  Final Reflections on Dreams

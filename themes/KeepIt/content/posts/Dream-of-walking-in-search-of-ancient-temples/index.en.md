@@ -1,8 +1,8 @@
 ---
     weight: 748
     title: "Dream of walking in search of ancient temples"  # Assuming 'title' column exists
-    date: 2024-10-13T01:33:00+08:00
-    lastmod: 2024-10-13T01:33:00+08:00
+    date: 2024-10-14T21:21:00+08:00
+    lastmod: 2024-10-14T21:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['search', 'ancient', 'temples', 'Dream', 'in', 'of', 'walking']
+    tags: ['ancient', 'Dream', 'walking', 'temples', 'search']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream depends on the personal situation and interpretation of t
 | Lucky Animal        | Hyena |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Scone      |
-| Lucky Instrument    | Rudra Veena |
-| Lucky Flower        | Scented Geranium    |
-| Lucky Job           | Oceanographer       |
-| Lucky Exercise      | Obstacle Course Racing  |
-| Lucky Country       | South Korea    |
+| Lucky Food          | Baked Potato      |
+| Lucky Instrument    | Banjo |
+| Lucky Flower        | Stephanotis    |
+| Lucky Job           | Financial Analyst       |
+| Lucky Exercise      | Kettlebell Training  |
+| Lucky Country       | Spain    |
 
 
 ##  Final Reflections on Dreams

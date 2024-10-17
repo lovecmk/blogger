@@ -1,8 +1,8 @@
 ---
     weight: 198
     title: "Dream of having a lovely conversation with lovers"  # Assuming 'title' column exists
-    date: 2024-10-13T11:27:00+08:00
-    lastmod: 2024-10-13T11:27:00+08:00
+    date: 2024-10-15T03:52:00+08:00
+    lastmod: 2024-10-15T03:52:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lovely', 'lovers', 'Dream', 'a', 'of', 'conversation', 'with', 'having']
+    tags: ['conversation', 'lovely', 'lovers', 'Dream', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck that this dream gives you a happier and satisfactory time in your relat
 | Lucky Animal        | Lion |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Red     |
-| Lucky Food          | Nachos      |
-| Lucky Instrument    | Banjo |
-| Lucky Flower        | Sunflower    |
-| Lucky Job           | Dentist       |
-| Lucky Exercise      | Handball  |
-| Lucky Country       | Kiribati    |
+| Lucky Food          | Coconut Shrimp      |
+| Lucky Instrument    | Rudra Veena |
+| Lucky Flower        | Calla Lily    |
+| Lucky Job           | Human Resources Manager       |
+| Lucky Exercise      | Slacklining  |
+| Lucky Country       | Estonia    |
 
 
 ##  Final Reflections on Dreams

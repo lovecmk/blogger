@@ -1,8 +1,8 @@
 ---
     weight: 274
     title: "Dream of understanding the language of all living things"  # Assuming 'title' column exists
-    date: 2024-10-13T06:57:00+08:00
-    lastmod: 2024-10-13T06:57:00+08:00
+    date: 2024-10-13T15:43:00+08:00
+    lastmod: 2024-10-13T15:43:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['language', 'things', 'the', 'Dream', 'all', 'living', 'understanding', 'of']
+    tags: ['Dream', 'living', 'language', 'all', 'things', 'understanding']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Luck in this dream is due to smooth communication and understanding with others.
 | Lucky Animal        | Polar bear |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Roast Chicken      |
-| Lucky Instrument    | Saxophone |
-| Lucky Flower        | Bleeding Heart    |
-| Lucky Job           | Graphic Designer       |
-| Lucky Exercise      | Body Pump  |
-| Lucky Country       | Samoa    |
+| Lucky Food          | Fish and Chips      |
+| Lucky Instrument    | Djembe |
+| Lucky Flower        | Cactus Flower    |
+| Lucky Job           | Quality Assurance Tester       |
+| Lucky Exercise      | Deadlifts  |
+| Lucky Country       | Belgium    |
 
 
 ##  Final Reflections on Dreams

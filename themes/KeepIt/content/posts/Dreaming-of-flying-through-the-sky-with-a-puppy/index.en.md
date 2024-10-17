@@ -1,8 +1,8 @@
 ---
     weight: 314
     title: "Dreaming of flying through the sky with a puppy"  # Assuming 'title' column exists
-    date: 2024-10-13T21:32:00+08:00
-    lastmod: 2024-10-13T21:32:00+08:00
+    date: 2024-10-15T17:34:00+08:00
+    lastmod: 2024-10-15T17:34:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['flying', 'Dreaming', 'sky', 'the', 'through', 'a', 'puppy', 'of', 'with']
+    tags: ['flying', 'puppy', 'Dreaming', 'sky']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck that dreams of 'flying through the sky with a puppy' can occur in vario
 | Lucky Animal        | Chicken |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Nachos      |
-| Lucky Instrument    | Claves |
-| Lucky Flower        | Peony    |
-| Lucky Job           | Graphic Designer       |
-| Lucky Exercise      | Obstacle Course Racing  |
-| Lucky Country       | Syria    |
+| Lucky Food          | Seafood Paella      |
+| Lucky Instrument    | Clavichord |
+| Lucky Flower        | Narcissus    |
+| Lucky Job           | Business Analyst       |
+| Lucky Exercise      | Sprinting  |
+| Lucky Country       | Canada    |
 
 
 ##  Final Reflections on Dreams

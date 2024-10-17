@@ -1,8 +1,8 @@
 ---
     weight: 1166
     title: "Dream about nurse"  # Assuming 'title' column exists
-    date: 2024-10-13T04:57:00+08:00
-    lastmod: 2024-10-13T04:57:00+08:00
+    date: 2024-10-15T07:37:00+08:00
+    lastmod: 2024-10-15T07:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['nurse', 'about', 'Dream']
+    tags: ['nurse', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ If you have a nurse, this dream can symbolize your luck and benefits, with your 
 | Lucky Animal        | Seagull |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Pasta Primavera      |
-| Lucky Instrument    | Tuba Horn |
-| Lucky Flower        | Tansy    |
-| Lucky Job           | Photographer       |
-| Lucky Exercise      | Tennis  |
-| Lucky Country       | Namibia    |
+| Lucky Food          | Caramel Flan      |
+| Lucky Instrument    | Conga |
+| Lucky Flower        | Forget-Me-Not    |
+| Lucky Job           | Researcher       |
+| Lucky Exercise      | Kickboxing  |
+| Lucky Country       | Estonia    |
 
 
 ##  Final Reflections on Dreams

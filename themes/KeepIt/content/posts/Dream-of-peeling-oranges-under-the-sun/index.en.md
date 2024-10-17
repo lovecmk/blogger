@@ -1,8 +1,8 @@
 ---
     weight: 2190
     title: "Dream of visiting a graveyard"  # Assuming 'title' column exists
-    date: 2024-10-13T08:53:00+08:00
-    lastmod: 2024-10-13T08:53:00+08:00
+    date: 2024-10-14T06:37:00+08:00
+    lastmod: 2024-10-14T06:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['graveyard', 'Dream', 'visiting', 'a', 'of']
+    tags: ['Dream', 'visiting', 'graveyard']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Chick |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Buffalo Wings      |
-| Lucky Instrument    | Balalaika |
-| Lucky Flower        | Dahlia    |
-| Lucky Job           | Brand Manager       |
-| Lucky Exercise      | Body Pump  |
-| Lucky Country       | Laos    |
+| Lucky Food          | Brownies      |
+| Lucky Instrument    | Cello |
+| Lucky Flower        | Crown Daisy    |
+| Lucky Job           | Plumber       |
+| Lucky Exercise      | Capoeira  |
+| Lucky Country       | Brazil    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 75
     title: "Dream of feeling love and compassion while eating bananas"  # Assuming 'title' column exists
-    date: 2024-10-13T11:06:00+08:00
-    lastmod: 2024-10-13T11:06:00+08:00
+    date: 2024-10-15T22:23:00+08:00
+    lastmod: 2024-10-15T22:23:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['feeling', 'eating', 'while', 'Dream', 'bananas', 'and', 'love', 'of', 'compassion']
+    tags: ['while', 'Dream', 'love', 'eating', 'bananas', 'feeling', 'compassion']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream suggests the possibility of luck by feeling love and compassion.Feeli
 | Lucky Animal        | Heron |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Beef Stroganoff      |
-| Lucky Instrument    | Bandoneon |
-| Lucky Flower        | Stephanotis    |
-| Lucky Job           | Psychologist       |
-| Lucky Exercise      | Belly Dancing  |
-| Lucky Country       | Czech Republic    |
+| Lucky Food          | Noodles      |
+| Lucky Instrument    | Marimba |
+| Lucky Flower        | Petunia    |
+| Lucky Job           | Stockbroker       |
+| Lucky Exercise      | Mobility Training  |
+| Lucky Country       | Egypt    |
 
 
 ##  Final Reflections on Dreams

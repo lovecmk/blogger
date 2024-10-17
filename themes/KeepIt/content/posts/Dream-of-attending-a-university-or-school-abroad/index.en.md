@@ -1,8 +1,8 @@
 ---
     weight: 1249
     title: "Dream of attending a university or school abroad"  # Assuming 'title' column exists
-    date: 2024-10-13T15:32:00+08:00
-    lastmod: 2024-10-13T15:32:00+08:00
+    date: 2024-10-13T05:05:00+08:00
+    lastmod: 2024-10-13T05:05:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['abroad', 'or', 'university', 'Dream', 'a', 'of', 'attending', 'school']
+    tags: ['university', 'school', 'Dream', 'abroad', 'attending']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings the luck of educational opportunities and personal development
 | Lucky Animal        | Panda |
 | Lucky Place         | Lake     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Chia Pudding      |
-| Lucky Instrument    | Soprano Recorder |
-| Lucky Flower        | Monkey Grass    |
-| Lucky Job           | Security Guard       |
-| Lucky Exercise      | Ballet  |
-| Lucky Country       | New Zealand    |
+| Lucky Food          | Chips      |
+| Lucky Instrument    | Lyre |
+| Lucky Flower        | Sundew    |
+| Lucky Job           | Operations Manager       |
+| Lucky Exercise      | Sledge Hockey  |
+| Lucky Country       | South Korea    |
 
 
 ##  Final Reflections on Dreams

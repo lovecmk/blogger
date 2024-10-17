@@ -1,8 +1,8 @@
 ---
     weight: 861
     title: "Dream of birds (chickens, ducks, pigeons, etc.)"  # Assuming 'title' column exists
-    date: 2024-10-13T13:40:00+08:00
-    lastmod: 2024-10-13T13:40:00+08:00
+    date: 2024-10-15T23:03:00+08:00
+    lastmod: 2024-10-15T23:03:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['pigeons,', 'ducks,', 'Dream', '(chickens,', 'etc.)', 'birds', 'of']
+    tags: ['(chickens,', 'Dream', 'birds', 'ducks,', 'pigeons,', 'etc)']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Dreams of algae can symbolize many luck.Algae symbolize freedom and change, so y
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Fruit Smoothie      |
-| Lucky Instrument    | Erhu |
-| Lucky Flower        | Lotus    |
-| Lucky Job           | Insurance Agent       |
-| Lucky Exercise      | Fencing  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Scallops      |
+| Lucky Instrument    | Cymbals |
+| Lucky Flower        | Nasturtium    |
+| Lucky Job           | Taxi Driver       |
+| Lucky Exercise      | Belly Dancing  |
+| Lucky Country       | Switzerland    |
 
 
 ##  Final Reflections on Dreams

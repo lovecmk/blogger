@@ -1,8 +1,8 @@
 ---
     weight: 171
     title: "Dreaming of reconciliation with family"  # Assuming 'title' column exists
-    date: 2024-10-13T17:34:00+08:00
-    lastmod: 2024-10-13T17:34:00+08:00
+    date: 2024-10-12T02:46:00+08:00
+    lastmod: 2024-10-12T02:46:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'Dreaming', 'reconciliation', 'of', 'with']
+    tags: ['family', 'Dreaming', 'reconciliation']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can indicate that a harmonious moment with the family will bring good
 | Lucky Animal        | Hamster |
 | Lucky Place         | Lake     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Guacamole      |
-| Lucky Instrument    | Kettledrum |
-| Lucky Flower        | Scented Geranium    |
-| Lucky Job           | Quality Assurance Tester       |
-| Lucky Exercise      | Paddleboarding  |
-| Lucky Country       | Armenia    |
+| Lucky Food          | Scone      |
+| Lucky Instrument    | Ocarina |
+| Lucky Flower        | Sage    |
+| Lucky Job           | Pastry Chef       |
+| Lucky Exercise      | Kite Surfing  |
+| Lucky Country       | Afghanistan    |
 
 
 ##  Final Reflections on Dreams

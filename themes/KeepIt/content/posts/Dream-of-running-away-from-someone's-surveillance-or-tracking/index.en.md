@@ -1,8 +1,8 @@
 ---
     weight: 430
     title: "Dream of running away from someone's surveillance or tracking"  # Assuming 'title' column exists
-    date: 2024-10-13T02:24:00+08:00
-    lastmod: 2024-10-13T02:24:00+08:00
+    date: 2024-10-15T05:38:00+08:00
+    lastmod: 2024-10-15T05:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'running', 'away', 'Dream', "someone's", 'tracking', 'from', 'of', 'surveillance']
+    tags: ['tracking', 'Dream', 'surveillance', 'running', 'from', "someone's", 'away']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the interpretation and situation of
 | Lucky Animal        | Turtle |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Coconut Shrimp      |
-| Lucky Instrument    | Bassoon |
-| Lucky Flower        | Bougainvillea    |
-| Lucky Job           | Accountant       |
-| Lucky Exercise      | Spin Class  |
-| Lucky Country       | Greece    |
+| Lucky Food          | Fruit Salad      |
+| Lucky Instrument    | Mandolin |
+| Lucky Flower        | Scabiosa    |
+| Lucky Job           | Director       |
+| Lucky Exercise      | Swimming Laps  |
+| Lucky Country       | Romania    |
 
 
 ##  Final Reflections on Dreams

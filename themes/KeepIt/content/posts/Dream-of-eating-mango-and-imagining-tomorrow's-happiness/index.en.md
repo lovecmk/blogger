@@ -1,8 +1,8 @@
 ---
     weight: 32
     title: "Dream of eating mango and imagining tomorrow's happiness"  # Assuming 'title' column exists
-    date: 2024-10-13T22:21:00+08:00
-    lastmod: 2024-10-13T22:21:00+08:00
+    date: 2024-10-13T03:57:00+08:00
+    lastmod: 2024-10-13T03:57:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['happiness', 'eating', "tomorrow's", 'mango', 'imagining', 'Dream', 'and', 'of']
+    tags: ['Dream', 'eating', 'imagining', 'happiness', "tomorrow's", 'mango']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you good luck and positive opportunities.Eating mangoes and
 | Lucky Animal        | Koala |
 | Lucky Place         | Mart     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Paella      |
-| Lucky Instrument    | Ney |
-| Lucky Flower        | Heather    |
-| Lucky Job           | Neuroscientist       |
-| Lucky Exercise      | Martial Arts  |
-| Lucky Country       | Switzerland    |
+| Lucky Food          | Biryani      |
+| Lucky Instrument    | Fretless Bass |
+| Lucky Flower        | Hibiscus    |
+| Lucky Job           | Software Engineer       |
+| Lucky Exercise      | Interval Training  |
+| Lucky Country       | Nepal    |
 
 
 ##  Final Reflections on Dreams

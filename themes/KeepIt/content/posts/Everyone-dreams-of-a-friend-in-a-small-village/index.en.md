@@ -1,8 +1,8 @@
 ---
     weight: 646
     title: "Everyone dreams of a friend in a small village"  # Assuming 'title' column exists
-    date: 2024-10-13T21:24:00+08:00
-    lastmod: 2024-10-13T21:24:00+08:00
+    date: 2024-10-12T20:19:00+08:00
+    lastmod: 2024-10-12T20:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['friend', 'small', 'a', 'dreams', 'village', 'in', 'of', 'Everyone']
+    tags: ['Everyone', 'small', 'friend', 'village', 'dreams']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is that you can be socially connected, feel belonging, an
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Coconut Shrimp      |
-| Lucky Instrument    | Hang Drum |
-| Lucky Flower        | Chive Blossom    |
-| Lucky Job           | Insurance Underwriter       |
-| Lucky Exercise      | Hot Yoga  |
-| Lucky Country       | Kenya    |
+| Lucky Food          | Pork Chops      |
+| Lucky Instrument    | Claves |
+| Lucky Flower        | Cornflower    |
+| Lucky Job           | Mathematician       |
+| Lucky Exercise      | Deadlifts  |
+| Lucky Country       | Canada    |
 
 
 ##  Final Reflections on Dreams

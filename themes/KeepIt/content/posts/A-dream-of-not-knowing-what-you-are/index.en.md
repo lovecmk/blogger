@@ -1,8 +1,8 @@
 ---
     weight: 352
     title: "A dream of not knowing what you are"  # Assuming 'title' column exists
-    date: 2024-10-13T05:37:00+08:00
-    lastmod: 2024-10-13T05:37:00+08:00
+    date: 2024-10-12T23:57:00+08:00
+    lastmod: 2024-10-12T23:57:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['are', 'what', 'not', 'dream', 'of', 'A', 'you', 'knowing']
+    tags: ['what', 'dream', 'A', 'not', 'knowing', 'are', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can be foretelling the luck of self -consciousness and internal growt
 | Lucky Animal        | Owl |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Sushi      |
-| Lucky Instrument    | Saz |
-| Lucky Flower        | Sage    |
-| Lucky Job           | Real Estate Agent       |
-| Lucky Exercise      | Squats  |
-| Lucky Country       | Czech Republic    |
+| Lucky Food          | Pasta Primavera      |
+| Lucky Instrument    | Lyre |
+| Lucky Flower        | Rose    |
+| Lucky Job           | Musician       |
+| Lucky Exercise      | Mobility Training  |
+| Lucky Country       | New Zealand    |
 
 
 ##  Final Reflections on Dreams

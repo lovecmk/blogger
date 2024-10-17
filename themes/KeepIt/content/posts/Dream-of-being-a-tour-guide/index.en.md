@@ -1,8 +1,8 @@
 ---
     weight: 1512
     title: "Dream of being a tour guide"  # Assuming 'title' column exists
-    date: 2024-10-13T15:15:00+08:00
-    lastmod: 2024-10-13T15:15:00+08:00
+    date: 2024-10-13T13:01:00+08:00
+    lastmod: 2024-10-13T13:01:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['tour', 'Dream', 'being', 'a', 'guide', 'of']
+    tags: ['being', 'tour', 'Dream', 'guide']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Guinea pig |
 | Lucky Place         | Museum     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Pancakes      |
-| Lucky Instrument    | Accordion |
-| Lucky Flower        | Lilac    |
-| Lucky Job           | Business Analyst       |
-| Lucky Exercise      | Resistance Training  |
-| Lucky Country       | Maldives    |
+| Lucky Food          | Tart      |
+| Lucky Instrument    | Zouaves |
+| Lucky Flower        | Stephanotis    |
+| Lucky Job           | Fashion Designer       |
+| Lucky Exercise      | Aqua Aerobics  |
+| Lucky Country       | Marshall Islands    |
 
 
 ##  Final Reflections on Dreams

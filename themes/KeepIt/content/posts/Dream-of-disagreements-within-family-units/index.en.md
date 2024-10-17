@@ -1,8 +1,8 @@
 ---
     weight: 1769
     title: "Dream of attending a concert or event with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T11:49:00+08:00
-    lastmod: 2024-10-13T11:49:00+08:00
+    date: 2024-10-15T05:24:00+08:00
+    lastmod: 2024-10-15T05:24:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'your', 'boyfriend', 'Dream', 'a', 'event', 'concert', 'of', 'attending', 'with']
+    tags: ['event', 'Dream', 'concert', 'boyfriend', 'attending']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings a sense of luck and abundance in the realm of your career and 
 | Lucky Animal        | Heron |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Green     |
-| Lucky Food          | Muffin      |
-| Lucky Instrument    | Pandeiro |
-| Lucky Flower        | Pincushion Flower    |
-| Lucky Job           | Statistician       |
-| Lucky Exercise      | Circuit Workout  |
-| Lucky Country       | Tajikistan    |
+| Lucky Food          | Casserole      |
+| Lucky Instrument    | Fujara |
+| Lucky Flower        | Tulip    |
+| Lucky Job           | Firefighter       |
+| Lucky Exercise      | Swimming Laps  |
+| Lucky Country       | Israel    |
 
 
 ##  Final Reflections on Dreams

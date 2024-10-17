@@ -1,8 +1,8 @@
 ---
     weight: 155
     title: "Dreaming of a successful moment with your child"  # Assuming 'title' column exists
-    date: 2024-10-13T00:06:00+08:00
-    lastmod: 2024-10-13T00:06:00+08:00
+    date: 2024-10-14T23:06:00+08:00
+    lastmod: 2024-10-14T23:06:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dreaming', 'moment', 'your', 'a', 'of', 'child', 'with', 'successful']
+    tags: ['Dreaming', 'child', 'moment', 'successful']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can show positive luck.Dreaming a successful moment with your child c
 | Lucky Animal        | Camel |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Tofu      |
-| Lucky Instrument    | Oboe |
-| Lucky Flower        | Chrysanthemum    |
-| Lucky Job           | Historian       |
-| Lucky Exercise      | Weightlifting  |
-| Lucky Country       | Nepal    |
+| Lucky Food          | Samosa      |
+| Lucky Instrument    | Balalaika |
+| Lucky Flower        | Daisy    |
+| Lucky Job           | Insurance Underwriter       |
+| Lucky Exercise      | Martial Arts  |
+| Lucky Country       | Nauru    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1198
     title: "Dream about actor"  # Assuming 'title' column exists
-    date: 2024-10-13T02:49:00+08:00
-    lastmod: 2024-10-13T02:49:00+08:00
+    date: 2024-10-13T23:15:00+08:00
+    lastmod: 2024-10-13T23:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['about', 'Dream', 'actor']
+    tags: ['Dream', 'actor']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be found mainly in self -expression and relationships
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Ratatouille      |
-| Lucky Instrument    | Ukulele |
-| Lucky Flower        | Poppy    |
-| Lucky Job           | Life Coach       |
-| Lucky Exercise      | Running  |
-| Lucky Country       | Jordan    |
+| Lucky Food          | Baba Ganoush      |
+| Lucky Instrument    | Saxophone |
+| Lucky Flower        | Pansy    |
+| Lucky Job           | Electrician       |
+| Lucky Exercise      | Sledge Hockey  |
+| Lucky Country       | Bangladesh    |
 
 
 ##  Final Reflections on Dreams

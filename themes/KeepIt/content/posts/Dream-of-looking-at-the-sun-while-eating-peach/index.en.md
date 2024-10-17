@@ -1,8 +1,8 @@
 ---
     weight: 43
     title: "Dream of looking at the sun while eating peach"  # Assuming 'title' column exists
-    date: 2024-10-13T00:16:00+08:00
-    lastmod: 2024-10-13T00:16:00+08:00
+    date: 2024-10-11T17:21:00+08:00
+    lastmod: 2024-10-11T17:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['eating', 'the', 'Dream', 'peach', 'of', 'looking', 'while', 'sun', 'at']
+    tags: ['while', 'sun', 'Dream', 'eating', 'looking', 'peach']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream foresee good luck and rich situation.Peach symbolizes richness and sa
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Beach     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Ceviche      |
-| Lucky Instrument    | Cymbals |
-| Lucky Flower        | Bluebell    |
-| Lucky Job           | Astrophysicist       |
-| Lucky Exercise      | Burpees  |
-| Lucky Country       | Micronesia    |
+| Lucky Food          | Caprese Skewers      |
+| Lucky Instrument    | Zither |
+| Lucky Flower        | Agapanthus    |
+| Lucky Job           | Veterinarian       |
+| Lucky Exercise      | Swimming Laps  |
+| Lucky Country       | South Korea    |
 
 
 ##  Final Reflections on Dreams

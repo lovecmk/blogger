@@ -1,8 +1,8 @@
 ---
     weight: 83
     title: "Dream of shopping with her husband"  # Assuming 'title' column exists
-    date: 2024-10-13T11:11:00+08:00
-    lastmod: 2024-10-13T11:11:00+08:00
+    date: 2024-10-11T21:27:00+08:00
+    lastmod: 2024-10-11T21:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['her', 'shopping', 'Dream', 'husband', 'of', 'with']
+    tags: ['shopping', 'Dream', 'her', 'husband']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can have a lucky and positive effect on you.Shopping with your husban
 | Lucky Animal        | Elephant |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Ceviche      |
-| Lucky Instrument    | Timpani |
-| Lucky Flower        | Monkey Grass    |
-| Lucky Job           | Human Resources Manager       |
-| Lucky Exercise      | Crunches  |
-| Lucky Country       | Papua New Guinea    |
+| Lucky Food          | Beef Wellington      |
+| Lucky Instrument    | Piano |
+| Lucky Flower        | Pansy    |
+| Lucky Job           | Bus Driver       |
+| Lucky Exercise      | Fencing  |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

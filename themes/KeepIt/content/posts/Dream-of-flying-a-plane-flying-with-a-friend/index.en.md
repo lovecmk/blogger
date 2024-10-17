@@ -1,8 +1,8 @@
 ---
     weight: 711
     title: "Dream of flying a plane flying with a friend"  # Assuming 'title' column exists
-    date: 2024-10-13T10:10:00+08:00
-    lastmod: 2024-10-13T10:10:00+08:00
+    date: 2024-10-13T21:13:00+08:00
+    lastmod: 2024-10-13T21:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['flying', 'friend', 'plane', 'Dream', 'a', 'of', 'with']
+    tags: ['plane', 'Dream', 'flying', 'friend']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be related to achievement, cooperation, freedom, and 
 | Lucky Animal        | Snake |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Brownies      |
-| Lucky Instrument    | Basset Horn |
-| Lucky Flower        | Jatropha    |
-| Lucky Job           | Web Developer       |
-| Lucky Exercise      | Hiking  |
-| Lucky Country       | Iraq    |
+| Lucky Food          | Tofu      |
+| Lucky Instrument    | Darbuka |
+| Lucky Flower        | Dandelion    |
+| Lucky Job           | Scientist       |
+| Lucky Exercise      | Box Jumps  |
+| Lucky Country       | Czech Republic    |
 
 
 ##  Final Reflections on Dreams

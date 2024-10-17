@@ -1,8 +1,8 @@
 ---
     weight: 329
     title: "Dream of sharing interesting stories with boyfriends in dreams"  # Assuming 'title' column exists
-    date: 2024-10-13T00:55:00+08:00
-    lastmod: 2024-10-13T00:55:00+08:00
+    date: 2024-10-13T21:13:00+08:00
+    lastmod: 2024-10-13T21:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['stories', 'interesting', 'Dream', 'sharing', 'dreams', 'in', 'boyfriends', 'of', 'with']
+    tags: ['Dream', 'sharing', 'dreams', 'boyfriends', 'stories', 'interesting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is to feel more pleasure and bonds in the relationship be
 | Lucky Animal        | Camel |
 | Lucky Place         | Sea     |
 | Lucky Color         | Black     |
-| Lucky Food          | Fruit Salad      |
-| Lucky Instrument    | Dulcimer |
-| Lucky Flower        | Anemone    |
-| Lucky Job           | Sales Manager       |
-| Lucky Exercise      | Hiking  |
-| Lucky Country       | Tonga    |
+| Lucky Food          | Samosa      |
+| Lucky Instrument    | Sarangi |
+| Lucky Flower        | Feverfew    |
+| Lucky Job           | Translator       |
+| Lucky Exercise      | Slacklining  |
+| Lucky Country       | Lithuania    |
 
 
 ##  Final Reflections on Dreams

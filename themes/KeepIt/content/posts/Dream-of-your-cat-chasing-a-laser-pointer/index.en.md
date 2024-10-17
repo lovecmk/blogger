@@ -1,8 +1,8 @@
 ---
     weight: 1873
     title: "Dream of waking up with your cat"  # Assuming 'title' column exists
-    date: 2024-10-13T11:34:00+08:00
-    lastmod: 2024-10-13T11:34:00+08:00
+    date: 2024-10-12T00:21:00+08:00
+    lastmod: 2024-10-12T00:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['waking', 'your', 'cat', 'up', 'Dream', 'of', 'with']
+    tags: ['Dream', 'cat', 'waking', 'up']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ In terms of luck, this dream signifies that you have a strong support system tha
 | Lucky Animal        | Chicken |
 | Lucky Place         | Theater     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Quesadilla      |
-| Lucky Instrument    | Drums |
-| Lucky Flower        | Daffodil    |
-| Lucky Job           | Hair Stylist       |
-| Lucky Exercise      | Pilates  |
-| Lucky Country       | Kazakhstan    |
+| Lucky Food          | Casserole      |
+| Lucky Instrument    | Darabuka |
+| Lucky Flower        | Perennial Aster    |
+| Lucky Job           | Librarian       |
+| Lucky Exercise      | Fencing  |
+| Lucky Country       | Nigeria    |
 
 
 ##  Final Reflections on Dreams

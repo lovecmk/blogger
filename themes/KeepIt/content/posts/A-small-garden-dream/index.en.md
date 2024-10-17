@@ -1,8 +1,8 @@
 ---
     weight: 527
     title: "A small garden dream"  # Assuming 'title' column exists
-    date: 2024-10-13T03:23:00+08:00
-    lastmod: 2024-10-13T03:23:00+08:00
+    date: 2024-10-11T00:21:00+08:00
+    lastmod: 2024-10-11T00:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dream', 'small', 'A', 'garden']
+    tags: ['small', 'dream', 'garden', 'A']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can indicate that you can draw luck when you pay attention to small t
 | Lucky Animal        | Mouse |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Green     |
-| Lucky Food          | Onion Rings      |
-| Lucky Instrument    | Tenor Banjo |
-| Lucky Flower        | Rudbeckia    |
-| Lucky Job           | SEO Specialist       |
-| Lucky Exercise      | Walking  |
-| Lucky Country       | Kuwait    |
+| Lucky Food          | Ramen      |
+| Lucky Instrument    | Bongo Drums |
+| Lucky Flower        | Lobelia    |
+| Lucky Job           | Landscaper       |
+| Lucky Exercise      | Circuit Training  |
+| Lucky Country       | Mozambique    |
 
 
 ##  Final Reflections on Dreams

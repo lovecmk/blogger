@@ -1,8 +1,8 @@
 ---
     weight: 37
     title: "Dream of finding a new taste by mixing kiwi and pineapple"  # Assuming 'title' column exists
-    date: 2024-10-13T10:34:00+08:00
-    lastmod: 2024-10-13T10:34:00+08:00
+    date: 2024-10-12T15:07:00+08:00
+    lastmod: 2024-10-12T15:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['new', 'Dream', 'pineapple', 'mixing', 'a', 'by', 'and', 'taste', 'of', 'finding', 'kiwi']
+    tags: ['kiwi', 'Dream', 'pineapple', 'finding', 'taste', 'new', 'mixing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream may have luck for you.This dream can suggest that new attempts and ch
 | Lucky Animal        | Owl |
 | Lucky Place         | Museum     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Eggplant Parmesan      |
-| Lucky Instrument    | Oboe |
-| Lucky Flower        | Firecracker Plant    |
-| Lucky Job           | Baker       |
-| Lucky Exercise      | Parkour  |
-| Lucky Country       | Turkmenistan    |
+| Lucky Food          | Ratatouille      |
+| Lucky Instrument    | Recorder |
+| Lucky Flower        | Ranunculus    |
+| Lucky Job           | Archaeologist       |
+| Lucky Exercise      | Dance Aerobics  |
+| Lucky Country       | Portugal    |
 
 
 ##  Final Reflections on Dreams

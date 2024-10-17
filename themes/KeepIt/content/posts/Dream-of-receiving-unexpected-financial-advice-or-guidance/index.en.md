@@ -1,8 +1,8 @@
 ---
     weight: 1895
     title: "Dream of your grandmother telling you tales of her adventurous spirit."  # Assuming 'title' column exists
-    date: 2024-10-13T07:39:00+08:00
-    lastmod: 2024-10-13T07:39:00+08:00
+    date: 2024-10-11T16:25:00+08:00
+    lastmod: 2024-10-11T16:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['grandmother', 'her', 'your', 'telling', 'Dream', 'tales', 'adventurous', 'of', 'you', 'spirit.']
+    tags: ['Dream', 'tales', 'adventurous', 'grandmother', 'spirit', 'her', 'telling', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Mouse |
 | Lucky Place         | Museum     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Onion Rings      |
-| Lucky Instrument    | Tabla |
-| Lucky Flower        | Clover Blossom    |
-| Lucky Job           | Welder       |
-| Lucky Exercise      | Stair Climbing  |
-| Lucky Country       | Bhutan    |
+| Lucky Food          | Vegetarian Chili      |
+| Lucky Instrument    | Triangle |
+| Lucky Flower        | Cyclamen    |
+| Lucky Job           | Archaeologist       |
+| Lucky Exercise      | Hiking  |
+| Lucky Country       | Bulgaria    |
 
 
 ##  Final Reflections on Dreams

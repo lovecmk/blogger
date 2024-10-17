@@ -1,8 +1,8 @@
 ---
     weight: 233
     title: "Dream of controlling everything with magic"  # Assuming 'title' column exists
-    date: 2024-10-13T20:41:00+08:00
-    lastmod: 2024-10-13T20:41:00+08:00
+    date: 2024-10-12T22:23:00+08:00
+    lastmod: 2024-10-12T22:23:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['magic', 'Dream', 'controlling', 'of', 'with', 'everything']
+    tags: ['controlling', 'Dream', 'everything', 'magic']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The meaning of 'dream of controlling everything with magic' can depend on indivi
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Scallops      |
-| Lucky Instrument    | Bandoneon |
-| Lucky Flower        | Rose    |
-| Lucky Job           | Astrophysicist       |
-| Lucky Exercise      | Body Pump  |
-| Lucky Country       | Poland    |
+| Lucky Food          | Ceviche      |
+| Lucky Instrument    | Xylophone |
+| Lucky Flower        | Chive Blossom    |
+| Lucky Job           | Event Coordinator       |
+| Lucky Exercise      | Pull-Ups  |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

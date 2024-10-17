@@ -1,8 +1,8 @@
 ---
     weight: 1351
     title: "Dream of trying to escape from a collision"  # Assuming 'title' column exists
-    date: 2024-10-13T18:00:00+08:00
-    lastmod: 2024-10-13T18:00:00+08:00
+    date: 2024-10-13T09:08:00+08:00
+    lastmod: 2024-10-13T09:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['to', 'Dream', 'trying', 'a', 'collision', 'escape', 'from', 'of']
+    tags: ['trying', 'collision', 'Dream', 'escape', 'to', 'from']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Fox |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Pulled Pork      |
-| Lucky Instrument    | Accordion |
-| Lucky Flower        | Freesia    |
-| Lucky Job           | Translator       |
-| Lucky Exercise      | Crunches  |
-| Lucky Country       | Saudi Arabia    |
+| Lucky Food          | Burrito      |
+| Lucky Instrument    | Violin |
+| Lucky Flower        | Cyclamen    |
+| Lucky Job           | Interpreter       |
+| Lucky Exercise      | Resistance Bands  |
+| Lucky Country       | Netherlands    |
 
 
 ##  Final Reflections on Dreams

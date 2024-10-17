@@ -1,8 +1,8 @@
 ---
     weight: 701
     title: "Dream of holding hands in the sea with hands in hand"  # Assuming 'title' column exists
-    date: 2024-10-13T02:56:00+08:00
-    lastmod: 2024-10-13T02:56:00+08:00
+    date: 2024-10-15T00:00:00+08:00
+    lastmod: 2024-10-15T00:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['holding', 'the', 'Dream', 'sea', 'hand', 'hands', 'in', 'of', 'with']
+    tags: ['sea', 'Dream', 'hand', 'hands', 'holding']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can convey a message that you can get a variety of good luck through 
 | Lucky Animal        | Bear |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Gnocchi      |
-| Lucky Instrument    | Keyboard Synthesizer |
-| Lucky Flower        | Agapanthus    |
-| Lucky Job           | Database Administrator       |
-| Lucky Exercise      | Hot Yoga  |
-| Lucky Country       | Yemen    |
+| Lucky Food          | Baked Potato      |
+| Lucky Instrument    | Bagpipes |
+| Lucky Flower        | Calla Lily    |
+| Lucky Job           | Director       |
+| Lucky Exercise      | Stand-Up Paddleboarding  |
+| Lucky Country       | Ukraine    |
 
 
 ##  Final Reflections on Dreams

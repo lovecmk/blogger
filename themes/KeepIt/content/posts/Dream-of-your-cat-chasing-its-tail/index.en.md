@@ -1,8 +1,8 @@
 ---
     weight: 2146
     title: "Dream of a fig tree in the backyard"  # Assuming 'title' column exists
-    date: 2024-10-13T04:15:00+08:00
-    lastmod: 2024-10-13T04:15:00+08:00
+    date: 2024-10-12T21:12:00+08:00
+    lastmod: 2024-10-12T21:12:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['tree', 'the', 'backyard', 'Dream', 'a', 'in', 'of', 'fig']
+    tags: ['fig', 'Dream', 'tree', 'backyard']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Gorilla |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Shepherd's Pie      |
-| Lucky Instrument    | Tuba Horn |
-| Lucky Flower        | Magnolia    |
-| Lucky Job           | Chemist       |
-| Lucky Exercise      | Stretching  |
-| Lucky Country       | Belgium    |
+| Lucky Food          | Sushi      |
+| Lucky Instrument    | Ukulele |
+| Lucky Flower        | Nasturtium    |
+| Lucky Job           | Actor       |
+| Lucky Exercise      | Lacrosse  |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

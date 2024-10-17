@@ -1,8 +1,8 @@
 ---
     weight: 1510
     title: "Dream of your dog being a professional athlete"  # Assuming 'title' column exists
-    date: 2024-10-13T05:07:00+08:00
-    lastmod: 2024-10-13T05:07:00+08:00
+    date: 2024-10-14T10:07:00+08:00
+    lastmod: 2024-10-14T10:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['athlete', 'professional', 'your', 'Dream', 'being', 'a', 'of', 'dog']
+    tags: ['being', 'Dream', 'athlete', 'dog', 'professional']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams do not bring luck directly, but this dream can be seen as an encouraging 
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Dumplings      |
-| Lucky Instrument    | Sackbut |
-| Lucky Flower        | Lilac    |
-| Lucky Job           | Statistician       |
-| Lucky Exercise      | Foam Rolling  |
-| Lucky Country       | Cyprus    |
+| Lucky Food          | Buffalo Wings      |
+| Lucky Instrument    | Bongo Drums |
+| Lucky Flower        | Bluebell    |
+| Lucky Job           | Web Designer       |
+| Lucky Exercise      | Hot Yoga  |
+| Lucky Country       | Hungary    |
 
 
 ##  Final Reflections on Dreams

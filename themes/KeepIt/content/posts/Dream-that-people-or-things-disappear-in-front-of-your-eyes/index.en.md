@@ -1,8 +1,8 @@
 ---
     weight: 356
     title: "Dream that people or things disappear in front of your eyes"  # Assuming 'title' column exists
-    date: 2024-10-13T08:37:00+08:00
-    lastmod: 2024-10-13T08:37:00+08:00
+    date: 2024-10-12T17:47:00+08:00
+    lastmod: 2024-10-12T17:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['things', 'front', 'or', 'your', 'people', 'eyes', 'Dream', 'in', 'of', 'that', 'disappear']
+    tags: ['Dream', 'front', 'eyes', 'things', 'that', 'people', 'disappear']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is hard to guess.In general, disappearing symbolizes loss
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Pasta Salad      |
-| Lucky Instrument    | Sarangi |
-| Lucky Flower        | Safflower    |
-| Lucky Job           | Psychologist       |
-| Lucky Exercise      | Parkour Training  |
-| Lucky Country       | Finland    |
+| Lucky Food          | Casserole      |
+| Lucky Instrument    | Bagpipes |
+| Lucky Flower        | Balsam    |
+| Lucky Job           | Operations Manager       |
+| Lucky Exercise      | Powerlifting  |
+| Lucky Country       | Canada    |
 
 
 ##  Final Reflections on Dreams

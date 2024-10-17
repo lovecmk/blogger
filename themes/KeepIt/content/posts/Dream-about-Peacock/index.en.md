@@ -1,8 +1,8 @@
 ---
     weight: 1092
     title: "Dream about Peacock"  # Assuming 'title' column exists
-    date: 2024-10-13T15:16:00+08:00
-    lastmod: 2024-10-13T15:16:00+08:00
+    date: 2024-10-15T09:47:00+08:00
+    lastmod: 2024-10-15T09:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['about', 'Dream', 'Peacock']
+    tags: ['Dream', 'Peacock']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The 'Duke' dream can show positive messages and luck.This dream can have a chanc
 | Lucky Animal        | Chicken |
 | Lucky Place         | Lake     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Beef Tacos      |
-| Lucky Instrument    | Ocarina |
-| Lucky Flower        | Lavender    |
-| Lucky Job           | Archaeologist       |
-| Lucky Exercise      | Gymnastics  |
-| Lucky Country       | Serbia    |
+| Lucky Food          | Coconut Shrimp      |
+| Lucky Instrument    | Clavichord |
+| Lucky Flower        | Anemone    |
+| Lucky Job           | Architect       |
+| Lucky Exercise      | Kickboxing  |
+| Lucky Country       | Hungary    |
 
 
 ##  Final Reflections on Dreams

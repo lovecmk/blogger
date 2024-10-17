@@ -1,8 +1,8 @@
 ---
     weight: 2030
     title: "Dream of a deceased pet returning"  # Assuming 'title' column exists
-    date: 2024-10-13T16:09:00+08:00
-    lastmod: 2024-10-13T16:09:00+08:00
+    date: 2024-10-13T09:18:00+08:00
+    lastmod: 2024-10-13T09:18:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'a', 'pet', 'returning', 'of', 'deceased']
+    tags: ['Dream', 'deceased', 'pet', 'returning']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Leopard |
 | Lucky Place         | Park     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Deviled Eggs      |
-| Lucky Instrument    | Cymbals |
-| Lucky Flower        | Cyclamen    |
-| Lucky Job           | Doctor       |
-| Lucky Exercise      | Snowshoeing  |
-| Lucky Country       | Afghanistan    |
+| Lucky Food          | Lasagna      |
+| Lucky Instrument    | Slide Guitar |
+| Lucky Flower        | Bellflower    |
+| Lucky Job           | Sales Manager       |
+| Lucky Exercise      | Crunches  |
+| Lucky Country       | Fiji    |
 
 
 ##  Final Reflections on Dreams

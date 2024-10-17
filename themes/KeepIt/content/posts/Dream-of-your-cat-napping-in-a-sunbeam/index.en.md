@@ -1,8 +1,8 @@
 ---
     weight: 1710
     title: "Dream of your ancestor comforting you during a challenging time in your life."  # Assuming 'title' column exists
-    date: 2024-10-13T14:37:00+08:00
-    lastmod: 2024-10-13T14:37:00+08:00
+    date: 2024-10-11T19:40:00+08:00
+    lastmod: 2024-10-11T19:40:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'comforting', 'Dream', 'during', 'challenging', 'a', 'time', 'ancestor', 'in', 'of', 'life.', 'you']
+    tags: ['life', 'comforting', 'Dream', 'challenging', 'ancestor', 'time', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings a stroke of luck and signifies the potential for increased fin
 | Lucky Animal        | Guinea pig |
 | Lucky Place         | Lake     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Baba Ganoush      |
-| Lucky Instrument    | Keyboard |
-| Lucky Flower        | Safflower    |
-| Lucky Job           | Statistician       |
-| Lucky Exercise      | Pull-Ups  |
-| Lucky Country       | Egypt    |
+| Lucky Food          | Scone      |
+| Lucky Instrument    | Wooden Flute |
+| Lucky Flower        | Firecracker Plant    |
+| Lucky Job           | Insurance Underwriter       |
+| Lucky Exercise      | Discus Throw  |
+| Lucky Country       | United Kingdom    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 635
     title: "Dream of singing freely and singing freely"  # Assuming 'title' column exists
-    date: 2024-10-13T05:52:00+08:00
-    lastmod: 2024-10-13T05:52:00+08:00
+    date: 2024-10-13T15:18:00+08:00
+    lastmod: 2024-10-13T15:18:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['freely', 'singing', 'Dream', 'and', 'of']
+    tags: ['Dream', 'singing', 'freely']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may include experiences of freedom and expressing yoursel
 | Lucky Animal        | Chicken |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Pork Belly      |
-| Lucky Instrument    | Guitar |
-| Lucky Flower        | Petal Plant    |
-| Lucky Job           | Business Analyst       |
-| Lucky Exercise      | Skating  |
-| Lucky Country       | Iran    |
+| Lucky Food          | Falafel      |
+| Lucky Instrument    | Harp |
+| Lucky Flower        | Lantana    |
+| Lucky Job           | Life Coach       |
+| Lucky Exercise      | Skimboarding  |
+| Lucky Country       | Belgium    |
 
 
 ##  Final Reflections on Dreams

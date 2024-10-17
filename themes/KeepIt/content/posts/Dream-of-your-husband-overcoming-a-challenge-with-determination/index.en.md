@@ -1,8 +1,8 @@
 ---
     weight: 1949
     title: "Dream of fighting against monsters"  # Assuming 'title' column exists
-    date: 2024-10-13T16:27:00+08:00
-    lastmod: 2024-10-13T16:27:00+08:00
+    date: 2024-10-15T09:13:00+08:00
+    lastmod: 2024-10-15T09:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['monsters', 'fighting', 'against', 'Dream', 'of']
+    tags: ['Dream', 'monsters', 'fighting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Polar bear |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | White     |
-| Lucky Food          | Tacos      |
-| Lucky Instrument    | Clarinet |
-| Lucky Flower        | Perennial Aster    |
-| Lucky Job           | Art Director       |
-| Lucky Exercise      | Martial Arts  |
-| Lucky Country       | Cambodia    |
+| Lucky Food          | Steak      |
+| Lucky Instrument    | Koto |
+| Lucky Flower        | Bleeding Heart    |
+| Lucky Job           | Sales Manager       |
+| Lucky Exercise      | Burpees  |
+| Lucky Country       | Mongolia    |
 
 
 ##  Final Reflections on Dreams

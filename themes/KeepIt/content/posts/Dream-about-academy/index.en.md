@@ -1,8 +1,8 @@
 ---
     weight: 1175
     title: "Dream about academy"  # Assuming 'title' column exists
-    date: 2024-10-13T10:12:00+08:00
-    lastmod: 2024-10-13T10:12:00+08:00
+    date: 2024-10-15T18:58:00+08:00
+    lastmod: 2024-10-15T18:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['academy', 'about', 'Dream']
+    tags: ['Dream', 'academy']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'school' dreams can mean the opportunity to get better results throu
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Stuffed Peppers      |
-| Lucky Instrument    | Darabuka |
-| Lucky Flower        | Tansy    |
-| Lucky Job           | Event Planner       |
-| Lucky Exercise      | Belly Dancing  |
-| Lucky Country       | Belgium    |
+| Lucky Food          | Onion Rings      |
+| Lucky Instrument    | Shakuhachi |
+| Lucky Flower        | Vinca    |
+| Lucky Job           | Geologist       |
+| Lucky Exercise      | Gymnastics  |
+| Lucky Country       | Bangladesh    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 420
     title: "Dream about Endless"  # Assuming 'title' column exists
-    date: 2024-10-13T23:12:00+08:00
-    lastmod: 2024-10-13T23:12:00+08:00
+    date: 2024-10-12T05:06:00+08:00
+    lastmod: 2024-10-12T05:06:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Endless', 'about', 'Dream']
+    tags: ['Endless', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'endless dreams' may be mainly in that you have to work hard to solv
 | Lucky Animal        | Heron |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Pasta      |
-| Lucky Instrument    | Bouzouki |
-| Lucky Flower        | Pansy    |
-| Lucky Job           | Brand Manager       |
-| Lucky Exercise      | Rugby  |
-| Lucky Country       | Kiribati    |
+| Lucky Food          | Sandwich      |
+| Lucky Instrument    | Conga Drum |
+| Lucky Flower        | Monkey Grass    |
+| Lucky Job           | Interior Designer       |
+| Lucky Exercise      | Bouldering  |
+| Lucky Country       | Qatar    |
 
 
 ##  Final Reflections on Dreams

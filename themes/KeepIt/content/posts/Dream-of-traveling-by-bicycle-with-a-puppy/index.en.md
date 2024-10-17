@@ -1,8 +1,8 @@
 ---
     weight: 290
     title: "Dream of traveling by bicycle with a puppy"  # Assuming 'title' column exists
-    date: 2024-10-13T14:00:00+08:00
-    lastmod: 2024-10-13T14:00:00+08:00
+    date: 2024-10-13T00:20:00+08:00
+    lastmod: 2024-10-13T00:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['bicycle', 'traveling', 'Dream', 'puppy', 'a', 'by', 'of', 'with']
+    tags: ['Dream', 'puppy', 'bicycle', 'traveling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can symbolize the luck of pursuing freedom and adventure.Traveling on
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Deviled Eggs      |
-| Lucky Instrument    | Bongo Drums |
-| Lucky Flower        | Geranium    |
-| Lucky Job           | Biologist       |
-| Lucky Exercise      | CrossFit  |
-| Lucky Country       | Lithuania    |
+| Lucky Food          | Roast Chicken      |
+| Lucky Instrument    | Tuba Horn |
+| Lucky Flower        | Dahlia    |
+| Lucky Job           | Bus Driver       |
+| Lucky Exercise      | Hot Yoga  |
+| Lucky Country       | Turkey    |
 
 
 ##  Final Reflections on Dreams

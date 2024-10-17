@@ -1,8 +1,8 @@
 ---
     weight: 805
     title: "Dream of others injured in an accident"  # Assuming 'title' column exists
-    date: 2024-10-13T06:16:00+08:00
-    lastmod: 2024-10-13T06:16:00+08:00
+    date: 2024-10-15T04:59:00+08:00
+    lastmod: 2024-10-15T04:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'others', 'an', 'injured', 'accident', 'in', 'of']
+    tags: ['others', 'injured', 'Dream', 'accident', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream tells us of the time to be careful and be careful.It is difficult to 
 | Lucky Animal        | Panda |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Mango Sticky Rice      |
-| Lucky Instrument    | Saz |
-| Lucky Flower        | Heather    |
-| Lucky Job           | Web Designer       |
-| Lucky Exercise      | Pull-Ups  |
-| Lucky Country       | Ukraine    |
+| Lucky Food          | Gumbo      |
+| Lucky Instrument    | Tama |
+| Lucky Flower        | Thistle    |
+| Lucky Job           | Oceanographer       |
+| Lucky Exercise      | Mobility Training  |
+| Lucky Country       | South Africa    |
 
 
 ##  Final Reflections on Dreams

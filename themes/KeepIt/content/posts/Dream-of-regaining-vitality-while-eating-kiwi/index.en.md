@@ -1,8 +1,8 @@
 ---
     weight: 52
     title: "Dream of regaining vitality while eating kiwi"  # Assuming 'title' column exists
-    date: 2024-10-13T23:29:00+08:00
-    lastmod: 2024-10-13T23:29:00+08:00
+    date: 2024-10-14T01:38:00+08:00
+    lastmod: 2024-10-14T01:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['eating', 'vitality', 'Dream', 'regaining', 'of', 'kiwi', 'while']
+    tags: ['while', 'kiwi', 'Dream', 'eating', 'regaining', 'vitality']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck that this dream gives you a chance to regain your vitality and make a p
 | Lucky Animal        | Elephant |
 | Lucky Place         | Library     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Pasta Primavera      |
-| Lucky Instrument    | Tromba |
-| Lucky Flower        | Sweet William    |
-| Lucky Job           | Event Planner       |
-| Lucky Exercise      | Powerlifting  |
-| Lucky Country       | Georgia    |
+| Lucky Food          | Scallops      |
+| Lucky Instrument    | Dulcimer |
+| Lucky Flower        | Bleeding Heart    |
+| Lucky Job           | Farmer       |
+| Lucky Exercise      | Mobility Training  |
+| Lucky Country       | Czech Republic    |
 
 
 ##  Final Reflections on Dreams

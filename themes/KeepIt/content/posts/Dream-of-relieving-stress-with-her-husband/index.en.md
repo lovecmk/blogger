@@ -1,8 +1,8 @@
 ---
     weight: 114
     title: "Dream of relieving stress with her husband"  # Assuming 'title' column exists
-    date: 2024-10-13T17:04:00+08:00
-    lastmod: 2024-10-13T17:04:00+08:00
+    date: 2024-10-11T08:13:00+08:00
+    lastmod: 2024-10-11T08:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['stress', 'relieving', 'her', 'of', 'Dream', 'husband', 'with']
+    tags: ['Dream', 'stress', 'her', 'husband', 'relieving']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual's interpretation and
 | Lucky Animal        | Panda |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Fried Rice      |
-| Lucky Instrument    | Octobass |
+| Lucky Food          | Beef Wellington      |
+| Lucky Instrument    | Tenor Banjo |
 | Lucky Flower        | Zantedeschia    |
-| Lucky Job           | User Researcher       |
-| Lucky Exercise      | Leg Press  |
-| Lucky Country       | Canada    |
+| Lucky Job           | Hair Stylist       |
+| Lucky Exercise      | Kayaking  |
+| Lucky Country       | Malta    |
 
 
 ##  Final Reflections on Dreams

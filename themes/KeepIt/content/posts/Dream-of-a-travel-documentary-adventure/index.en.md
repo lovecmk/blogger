@@ -1,8 +1,8 @@
 ---
     weight: 1478
     title: "Dream of a travel documentary adventure"  # Assuming 'title' column exists
-    date: 2024-10-13T03:30:00+08:00
-    lastmod: 2024-10-13T03:30:00+08:00
+    date: 2024-10-12T03:26:00+08:00
+    lastmod: 2024-10-12T03:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['adventure', 'documentary', 'Dream', 'travel', 'a', 'of']
+    tags: ['Dream', 'travel', 'adventure', 'documentary']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Bear |
 | Lucky Place         | Academy     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Baklava      |
-| Lucky Instrument    | Saxello |
-| Lucky Flower        | Narcissus    |
-| Lucky Job           | Game Developer       |
-| Lucky Exercise      | Sprinting  |
-| Lucky Country       | Malawi    |
+| Lucky Food          | Brownies      |
+| Lucky Instrument    | Sackbut |
+| Lucky Flower        | Clover Blossom    |
+| Lucky Job           | Logistician       |
+| Lucky Exercise      | Zumba  |
+| Lucky Country       | China    |
 
 
 ##  Final Reflections on Dreams

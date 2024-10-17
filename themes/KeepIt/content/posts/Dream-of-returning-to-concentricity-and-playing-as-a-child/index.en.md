@@ -1,8 +1,8 @@
 ---
     weight: 740
     title: "Dream of returning to concentricity and playing as a child"  # Assuming 'title' column exists
-    date: 2024-10-13T04:53:00+08:00
-    lastmod: 2024-10-13T04:53:00+08:00
+    date: 2024-10-15T23:38:00+08:00
+    lastmod: 2024-10-15T23:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['playing', 'to', 'Dream', 'concentricity', 'a', 'as', 'and', 'returning', 'of', 'child']
+    tags: ['Dream', 'to', 'concentricity', 'playing', 'child', 'as', 'returning']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream may be a sign of luck that can bring you inner pleasure and creativit
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Museum     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Chocolate Mousse      |
-| Lucky Instrument    | Chimes |
-| Lucky Flower        | Hellebore    |
-| Lucky Job           | Psychologist       |
-| Lucky Exercise      | Pull-Ups  |
-| Lucky Country       | Laos    |
+| Lucky Food          | Casserole      |
+| Lucky Instrument    | Fretless Bass |
+| Lucky Flower        | Crown Daisy    |
+| Lucky Job           | Journalist       |
+| Lucky Exercise      | Skimboarding  |
+| Lucky Country       | Lithuania    |
 
 
 ##  Final Reflections on Dreams

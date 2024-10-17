@@ -1,8 +1,8 @@
 ---
     weight: 1185
     title: "Dream about Environmental engineer"  # Assuming 'title' column exists
-    date: 2024-10-13T20:51:00+08:00
-    lastmod: 2024-10-13T20:51:00+08:00
+    date: 2024-10-14T17:09:00+08:00
+    lastmod: 2024-10-14T17:09:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Environmental', 'about', 'Dream', 'engineer']
+    tags: ['Environmental', 'engineer', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is the fact that you have interest and passion for enviro
 | Lucky Animal        | Pig |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Black     |
-| Lucky Food          | Tart      |
-| Lucky Instrument    | Electric Guitar |
-| Lucky Flower        | Marigold    |
-| Lucky Job           | SEO Specialist       |
-| Lucky Exercise      | Salsa  |
-| Lucky Country       | South Korea    |
+| Lucky Food          | Ramen      |
+| Lucky Instrument    | Tuba Horn |
+| Lucky Flower        | Primrose    |
+| Lucky Job           | Director       |
+| Lucky Exercise      | Tennis  |
+| Lucky Country       | Malta    |
 
 
 ##  Final Reflections on Dreams

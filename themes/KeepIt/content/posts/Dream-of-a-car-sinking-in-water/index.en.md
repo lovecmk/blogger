@@ -1,8 +1,8 @@
 ---
     weight: 1498
     title: "Dream of a car sinking in water"  # Assuming 'title' column exists
-    date: 2024-10-13T15:37:00+08:00
-    lastmod: 2024-10-13T15:37:00+08:00
+    date: 2024-10-13T11:03:00+08:00
+    lastmod: 2024-10-13T11:03:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['water', 'sinking', 'Dream', 'a', 'in', 'car', 'of']
+    tags: ['water', 'Dream', 'car', 'sinking']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ In terms of luck, this dream reminds you to be cautious and proactive in managin
 | Lucky Animal        | Otter |
 | Lucky Place         | Mart     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Noodles      |
-| Lucky Instrument    | Tabla |
-| Lucky Flower        | Stock    |
-| Lucky Job           | Photographer       |
-| Lucky Exercise      | Lifting  |
-| Lucky Country       | Greece    |
+| Lucky Food          | Fajitas      |
+| Lucky Instrument    | Trombone |
+| Lucky Flower        | Stephanotis    |
+| Lucky Job           | Technical Writer       |
+| Lucky Exercise      | Juggling  |
+| Lucky Country       | Kiribati    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1490
     title: "Dream of attending a music festival abroad"  # Assuming 'title' column exists
-    date: 2024-10-13T08:26:00+08:00
-    lastmod: 2024-10-13T08:26:00+08:00
+    date: 2024-10-11T17:35:00+08:00
+    lastmod: 2024-10-11T17:35:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['abroad', 'festival', 'Dream', 'a', 'of', 'attending', 'music']
+    tags: ['Dream', 'festival', 'music', 'abroad', 'attending']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Chicken |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Samosa      |
-| Lucky Instrument    | Keyboard Synthesizer |
-| Lucky Flower        | Orchid    |
-| Lucky Job           | Environmental Scientist       |
-| Lucky Exercise      | Resistance Training  |
-| Lucky Country       | United Arab Emirates    |
+| Lucky Food          | Fruit Tart      |
+| Lucky Instrument    | Saz |
+| Lucky Flower        | Moss Rose    |
+| Lucky Job           | Physical Therapist       |
+| Lucky Exercise      | Foam Rolling  |
+| Lucky Country       | Austria    |
 
 
 ##  Final Reflections on Dreams

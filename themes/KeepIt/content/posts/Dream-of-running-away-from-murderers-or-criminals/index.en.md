@@ -1,8 +1,8 @@
 ---
     weight: 427
     title: "Dream of running away from murderers or criminals"  # Assuming 'title' column exists
-    date: 2024-10-13T05:29:00+08:00
-    lastmod: 2024-10-13T05:29:00+08:00
+    date: 2024-10-12T05:39:00+08:00
+    lastmod: 2024-10-12T05:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'running', 'away', 'Dream', 'murderers', 'from', 'of', 'criminals']
+    tags: ['Dream', 'running', 'from', 'murderers', 'away', 'criminals']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream is generally a dream that can be awakened to the surrounding risks ra
 | Lucky Animal        | Polar bear |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Cornbread      |
-| Lucky Instrument    | Zither |
-| Lucky Flower        | Bleeding Heart    |
-| Lucky Job           | Research Scientist       |
-| Lucky Exercise      | Ashtanga Yoga  |
-| Lucky Country       | Switzerland    |
+| Lucky Food          | Chowder      |
+| Lucky Instrument    | Tuba Horn |
+| Lucky Flower        | Foxglove    |
+| Lucky Job           | Recruiter       |
+| Lucky Exercise      | Kripalu Yoga  |
+| Lucky Country       | Thailand    |
 
 
 ##  Final Reflections on Dreams

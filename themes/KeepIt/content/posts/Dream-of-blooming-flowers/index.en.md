@@ -1,8 +1,8 @@
 ---
     weight: 538
     title: "Dream of blooming flowers"  # Assuming 'title' column exists
-    date: 2024-10-13T03:35:00+08:00
-    lastmod: 2024-10-13T03:35:00+08:00
+    date: 2024-10-14T04:02:00+08:00
+    lastmod: 2024-10-14T04:02:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'flowers', 'Dream', 'blooming']
+    tags: ['flowers', 'Dream', 'blooming']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can convey a message about luck and positive change.The in full bloom
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Spring Roll      |
-| Lucky Instrument    | Trumpet |
-| Lucky Flower        | Clover Blossom    |
-| Lucky Job           | Biologist       |
-| Lucky Exercise      | Weightlifting  |
-| Lucky Country       | India    |
+| Lucky Food          | Scone      |
+| Lucky Instrument    | Cymbals |
+| Lucky Flower        | Strelitzia    |
+| Lucky Job           | Neuroscientist       |
+| Lucky Exercise      | Tai Chi  |
+| Lucky Country       | Uzbekistan    |
 
 
 ##  Final Reflections on Dreams

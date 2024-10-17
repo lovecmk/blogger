@@ -1,8 +1,8 @@
 ---
     weight: 1509
     title: "Dream of being in a situation with no way out"  # Assuming 'title' column exists
-    date: 2024-10-13T23:21:00+08:00
-    lastmod: 2024-10-13T23:21:00+08:00
+    date: 2024-10-14T15:37:00+08:00
+    lastmod: 2024-10-14T15:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['no', 'way', 'out', 'Dream', 'situation', 'being', 'a', 'in', 'of', 'with']
+    tags: ['being', 'no', 'Dream', 'way', 'out', 'situation']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -60,11 +60,11 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Deep blue     |
 | Lucky Food          | Pasta Primavera      |
-| Lucky Instrument    | Lyre |
-| Lucky Flower        | Fuchsia    |
-| Lucky Job           | Data Analyst       |
-| Lucky Exercise      | Stair Climbing  |
-| Lucky Country       | Japan    |
+| Lucky Instrument    | Banjo |
+| Lucky Flower        | Lilac    |
+| Lucky Job           | Firefighter       |
+| Lucky Exercise      | Sledge Hockey  |
+| Lucky Country       | Brazil    |
 
 
 ##  Final Reflections on Dreams

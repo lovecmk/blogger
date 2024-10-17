@@ -1,8 +1,8 @@
 ---
     weight: 924
     title: "Dream of being chased by criminals"  # Assuming 'title' column exists
-    date: 2024-10-13T08:37:00+08:00
-    lastmod: 2024-10-13T08:37:00+08:00
+    date: 2024-10-14T13:12:00+08:00
+    lastmod: 2024-10-14T13:12:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'being', 'by', 'of', 'chased', 'criminals']
+    tags: ['being', 'chased', 'Dream', 'criminals']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of the dream of being chased by criminals can vary depending on the ind
 | Lucky Animal        | Snake |
 | Lucky Place         | Beach     |
 | Lucky Color         | Red     |
-| Lucky Food          | Pork Belly      |
-| Lucky Instrument    | Ney |
-| Lucky Flower        | Mandevilla    |
-| Lucky Job           | Dentist       |
-| Lucky Exercise      | Aerobics  |
-| Lucky Country       | Lesotho    |
+| Lucky Food          | Tiramisu      |
+| Lucky Instrument    | Piccolo |
+| Lucky Flower        | Fuchsia    |
+| Lucky Job           | Graphic Designer       |
+| Lucky Exercise      | Sprinting  |
+| Lucky Country       | France    |
 
 
 ##  Final Reflections on Dreams

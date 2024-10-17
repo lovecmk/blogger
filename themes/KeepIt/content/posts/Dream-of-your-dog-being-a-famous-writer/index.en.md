@@ -1,8 +1,8 @@
 ---
     weight: 1301
     title: "Dream of your dog being a famous writer"  # Assuming 'title' column exists
-    date: 2024-10-13T03:18:00+08:00
-    lastmod: 2024-10-13T03:18:00+08:00
+    date: 2024-10-12T19:10:00+08:00
+    lastmod: 2024-10-12T19:10:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'Dream', 'writer', 'being', 'a', 'famous', 'of', 'dog']
+    tags: ['being', 'Dream', 'famous', 'writer', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rhino |
 | Lucky Place         | School     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Chocolate Mousse      |
-| Lucky Instrument    | Cymbals |
-| Lucky Flower        | Freesia    |
-| Lucky Job           | Quality Assurance Tester       |
-| Lucky Exercise      | Stand-Up Paddleboarding  |
-| Lucky Country       | Malta    |
+| Lucky Food          | Tuna Tartare      |
+| Lucky Instrument    | Bandoneon |
+| Lucky Flower        | Anemone    |
+| Lucky Job           | Data Analyst       |
+| Lucky Exercise      | Calisthenics  |
+| Lucky Country       | Sri Lanka    |
 
 
 ##  Final Reflections on Dreams

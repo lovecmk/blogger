@@ -1,8 +1,8 @@
 ---
     weight: 1097
     title: "Dream about mole"  # Assuming 'title' column exists
-    date: 2024-10-13T17:27:00+08:00
-    lastmod: 2024-10-13T17:27:00+08:00
+    date: 2024-10-13T11:26:00+08:00
+    lastmod: 2024-10-13T11:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['mole', 'about', 'Dream']
+    tags: ['Dream', 'mole']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'mole' dreams can vary depending on personal experiences and situati
 | Lucky Animal        | Hamster |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Gnocchi      |
-| Lucky Instrument    | Darbuka |
-| Lucky Flower        | Calla Lily    |
-| Lucky Job           | Musician       |
-| Lucky Exercise      | Shot Put  |
-| Lucky Country       | Estonia    |
+| Lucky Food          | Fried Rice      |
+| Lucky Instrument    | Lyre |
+| Lucky Flower        | Lilac    |
+| Lucky Job           | Journalist       |
+| Lucky Exercise      | Push-Ups  |
+| Lucky Country       | Pakistan    |
 
 
 ##  Final Reflections on Dreams

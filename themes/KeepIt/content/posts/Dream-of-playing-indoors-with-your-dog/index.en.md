@@ -1,8 +1,8 @@
 ---
     weight: 1522
     title: "Dream of playing indoors with your dog"  # Assuming 'title' column exists
-    date: 2024-10-13T21:59:00+08:00
-    lastmod: 2024-10-13T21:59:00+08:00
+    date: 2024-10-14T11:26:00+08:00
+    lastmod: 2024-10-14T11:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['playing', 'your', 'Dream', 'indoors', 'of', 'with', 'dog']
+    tags: ['Dream', 'indoors', 'playing', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ The dream might indicate a stroke of luck or positive outcomes in your personal 
 | Lucky Animal        | Red fox |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Pesto      |
-| Lucky Instrument    | Sarangi |
-| Lucky Flower        | Kalanchoe    |
-| Lucky Job           | Journalist       |
-| Lucky Exercise      | Bodyweight Training  |
-| Lucky Country       | Kiribati    |
+| Lucky Food          | Eggplant Parmesan      |
+| Lucky Instrument    | Chimes |
+| Lucky Flower        | Clover    |
+| Lucky Job           | Insurance Underwriter       |
+| Lucky Exercise      | Slacklining  |
+| Lucky Country       | Lesotho    |
 
 
 ##  Final Reflections on Dreams

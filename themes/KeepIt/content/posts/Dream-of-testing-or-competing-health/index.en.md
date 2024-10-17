@@ -1,8 +1,8 @@
 ---
     weight: 517
     title: "Dream of testing or competing health"  # Assuming 'title' column exists
-    date: 2024-10-13T06:56:00+08:00
-    lastmod: 2024-10-13T06:56:00+08:00
+    date: 2024-10-11T21:09:00+08:00
+    lastmod: 2024-10-11T21:09:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'competing', 'testing', 'Dream', 'health', 'of']
+    tags: ['Dream', 'testing', 'competing', 'health']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can strengthen the confidence and determination of new ch
 | Lucky Animal        | Hyena |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Sushi      |
-| Lucky Instrument    | Horn |
-| Lucky Flower        | Marigold    |
-| Lucky Job           | Event Planner       |
-| Lucky Exercise      | Skimboarding  |
-| Lucky Country       | Marshall Islands    |
+| Lucky Food          | Burrito      |
+| Lucky Instrument    | Saxello |
+| Lucky Flower        | Daffodil    |
+| Lucky Job           | Architect       |
+| Lucky Exercise      | Step Aerobics  |
+| Lucky Country       | Iceland    |
 
 
 ##  Final Reflections on Dreams

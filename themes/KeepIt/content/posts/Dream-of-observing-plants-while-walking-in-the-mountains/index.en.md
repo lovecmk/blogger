@@ -1,8 +1,8 @@
 ---
     weight: 590
     title: "Dream of observing plants while walking in the mountains"  # Assuming 'title' column exists
-    date: 2024-10-13T23:26:00+08:00
-    lastmod: 2024-10-13T23:26:00+08:00
+    date: 2024-10-11T20:11:00+08:00
+    lastmod: 2024-10-11T20:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['observing', 'mountains', 'plants', 'the', 'Dream', 'in', 'of', 'while', 'walking']
+    tags: ['while', 'mountains', 'Dream', 'walking', 'plants', 'observing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream symbolizes peace and harmony, which can lead to luck and positive cha
 | Lucky Animal        | Chicken |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Coconut Shrimp      |
-| Lucky Instrument    | Conga |
-| Lucky Flower        | Zantedeschia    |
-| Lucky Job           | Project Manager       |
-| Lucky Exercise      | Ballet  |
-| Lucky Country       | Nauru    |
+| Lucky Food          | Shepherd's Pie      |
+| Lucky Instrument    | Tabla |
+| Lucky Flower        | Hollyhock    |
+| Lucky Job           | Quality Assurance Tester       |
+| Lucky Exercise      | Sit-Ups  |
+| Lucky Country       | Jordan    |
 
 
 ##  Final Reflections on Dreams

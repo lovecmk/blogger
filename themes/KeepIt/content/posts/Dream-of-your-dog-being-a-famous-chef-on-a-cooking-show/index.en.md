@@ -1,8 +1,8 @@
 ---
     weight: 1514
     title: "Dream of your dog being a famous chef on a cooking show"  # Assuming 'title' column exists
-    date: 2024-10-13T01:52:00+08:00
-    lastmod: 2024-10-13T01:52:00+08:00
+    date: 2024-10-11T09:44:00+08:00
+    lastmod: 2024-10-11T09:44:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['cooking', 'your', 'Dream', 'show', 'being', 'chef', 'a', 'famous', 'on', 'of', 'dog']
+    tags: ['being', 'cooking', 'Dream', 'famous', 'show', 'dog', 'chef']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream can indicate a stroke of good luck or positive outcomes in creative v
 | Lucky Animal        | Lion |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Kebab      |
-| Lucky Instrument    | Saz |
-| Lucky Flower        | Peony    |
-| Lucky Job           | Electrician       |
-| Lucky Exercise      | Lacrosse  |
-| Lucky Country       | Ukraine    |
+| Lucky Food          | Paella      |
+| Lucky Instrument    | Horn |
+| Lucky Flower        | Cherry Blossom    |
+| Lucky Job           | Public Relations Specialist       |
+| Lucky Exercise      | Shot Put  |
+| Lucky Country       | Bulgaria    |
 
 
 ##  Final Reflections on Dreams

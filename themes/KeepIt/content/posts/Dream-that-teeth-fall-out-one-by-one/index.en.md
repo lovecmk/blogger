@@ -1,8 +1,8 @@
 ---
     weight: 881
     title: "Dream that teeth fall out one by one"  # Assuming 'title' column exists
-    date: 2024-10-13T19:53:00+08:00
-    lastmod: 2024-10-13T19:53:00+08:00
+    date: 2024-10-15T13:08:00+08:00
+    lastmod: 2024-10-15T13:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['one', 'teeth', 'out', 'Dream', 'fall', 'by', 'that']
+    tags: ['Dream', 'one', 'out', 'teeth', 'fall', 'that']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream gives you a chance to regain strength and courage.This dr
 | Lucky Animal        | Sparrow |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Green     |
-| Lucky Food          | Chili      |
-| Lucky Instrument    | Djembe |
-| Lucky Flower        | Calla Lily    |
-| Lucky Job           | Database Administrator       |
-| Lucky Exercise      | Circuit Workout  |
-| Lucky Country       | Brazil    |
+| Lucky Food          | Gnocchi      |
+| Lucky Instrument    | Accordion |
+| Lucky Flower        | Stephanotis    |
+| Lucky Job           | Writer       |
+| Lucky Exercise      | Lacrosse  |
+| Lucky Country       | Kuwait    |
 
 
 ##  Final Reflections on Dreams

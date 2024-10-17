@@ -1,8 +1,8 @@
 ---
     weight: 1786
     title: "Dream of taking a walk together with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T08:40:00+08:00
-    lastmod: 2024-10-13T08:40:00+08:00
+    date: 2024-10-12T22:11:00+08:00
+    lastmod: 2024-10-12T22:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['together', 'taking', 'your', 'walk', 'boyfriend', 'Dream', 'a', 'of', 'with']
+    tags: ['walk', 'Dream', 'boyfriend', 'taking', 'together']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Gumbo      |
-| Lucky Instrument    | Mandolin |
-| Lucky Flower        | Borage    |
-| Lucky Job           | Nurse       |
-| Lucky Exercise      | Resistance Bands  |
-| Lucky Country       | Romania    |
+| Lucky Food          | Stuffed Peppers      |
+| Lucky Instrument    | Piccolo |
+| Lucky Flower        | Rose    |
+| Lucky Job           | Veterinarian       |
+| Lucky Exercise      | Cricket  |
+| Lucky Country       | Yemen    |
 
 
 ##  Final Reflections on Dreams

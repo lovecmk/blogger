@@ -1,8 +1,8 @@
 ---
     weight: 1312
     title: "Dream of a highway collision"  # Assuming 'title' column exists
-    date: 2024-10-13T21:23:00+08:00
-    lastmod: 2024-10-13T21:23:00+08:00
+    date: 2024-10-15T20:00:00+08:00
+    lastmod: 2024-10-15T20:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['highway', 'Dream', 'a', 'collision', 'of']
+    tags: ['collision', 'Dream', 'highway']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Nachos      |
-| Lucky Instrument    | Saz |
-| Lucky Flower        | Wisteria    |
-| Lucky Job           | Biologist       |
-| Lucky Exercise      | Circuit Workout  |
-| Lucky Country       | Vanuatu    |
+| Lucky Food          | Bagel      |
+| Lucky Instrument    | Didgeridoo |
+| Lucky Flower        | Sweet William    |
+| Lucky Job           | Chemist       |
+| Lucky Exercise      | Plank  |
+| Lucky Country       | Romania    |
 
 
 ##  Final Reflections on Dreams

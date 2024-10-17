@@ -1,8 +1,8 @@
 ---
     weight: 626
     title: "Dream of looking back on one's life in a dream"  # Assuming 'title' column exists
-    date: 2024-10-13T15:48:00+08:00
-    lastmod: 2024-10-13T15:48:00+08:00
+    date: 2024-10-14T05:49:00+08:00
+    lastmod: 2024-10-14T05:49:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['life', 'Dream', "one's", 'a', 'dream', 'on', 'in', 'of', 'looking', 'back']
+    tags: ['life', 'Dream', 'dream', 'back', "one's", 'looking']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck that this dream gives you a look back on your past events, and offers o
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Tofu      |
-| Lucky Instrument    | Lyre |
-| Lucky Flower        | Balsam    |
-| Lucky Job           | Graphic Designer       |
-| Lucky Exercise      | Skiing  |
-| Lucky Country       | Austria    |
+| Lucky Food          | Quesadilla      |
+| Lucky Instrument    | Recorder |
+| Lucky Flower        | Bleeding Heart    |
+| Lucky Job           | Public Relations Specialist       |
+| Lucky Exercise      | Parkour Training  |
+| Lucky Country       | Botswana    |
 
 
 ##  Final Reflections on Dreams

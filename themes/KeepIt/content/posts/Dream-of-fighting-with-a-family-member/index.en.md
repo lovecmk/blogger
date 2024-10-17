@@ -1,8 +1,8 @@
 ---
     weight: 2132
     title: "Dream of coconut water on a tropical island"  # Assuming 'title' column exists
-    date: 2024-10-13T20:35:00+08:00
-    lastmod: 2024-10-13T20:35:00+08:00
+    date: 2024-10-15T22:35:00+08:00
+    lastmod: 2024-10-15T22:35:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['water', 'coconut', 'Dream', 'a', 'island', 'on', 'of', 'tropical']
+    tags: ['water', 'island', 'Dream', 'tropical', 'coconut']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Lake     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Waffles      |
-| Lucky Instrument    | Cymbals |
-| Lucky Flower        | Celosia    |
-| Lucky Job           | Chemist       |
-| Lucky Exercise      | Cross-Country Skiing  |
-| Lucky Country       | Armenia    |
+| Lucky Food          | Baked Potato      |
+| Lucky Instrument    | Piccolo Trumpet |
+| Lucky Flower        | Poinsettia    |
+| Lucky Job           | Musician       |
+| Lucky Exercise      | Walking  |
+| Lucky Country       | Portugal    |
 
 
 ##  Final Reflections on Dreams

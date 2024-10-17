@@ -1,8 +1,8 @@
 ---
     weight: 1281
     title: "Dream of visiting a famous film location"  # Assuming 'title' column exists
-    date: 2024-10-13T20:42:00+08:00
-    lastmod: 2024-10-13T20:42:00+08:00
+    date: 2024-10-12T15:19:00+08:00
+    lastmod: 2024-10-12T15:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['film', 'Dream', 'visiting', 'location', 'a', 'famous', 'of']
+    tags: ['film', 'Dream', 'visiting', 'famous', 'location']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Spider |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Baked Ziti      |
-| Lucky Instrument    | Bass Clarinet |
-| Lucky Flower        | Heliotrope    |
-| Lucky Job           | Marketing Manager       |
-| Lucky Exercise      | Bodyweight Training  |
-| Lucky Country       | Fiji    |
+| Lucky Food          | Tiramisu      |
+| Lucky Instrument    | Ukulele |
+| Lucky Flower        | Foxglove    |
+| Lucky Job           | Fashion Designer       |
+| Lucky Exercise      | Pull-Ups  |
+| Lucky Country       | Italy    |
 
 
 ##  Final Reflections on Dreams

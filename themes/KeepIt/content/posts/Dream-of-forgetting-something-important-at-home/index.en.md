@@ -1,8 +1,8 @@
 ---
     weight: 1298
     title: "Dream of forgetting something important at home"  # Assuming 'title' column exists
-    date: 2024-10-13T13:01:00+08:00
-    lastmod: 2024-10-13T13:01:00+08:00
+    date: 2024-10-11T12:55:00+08:00
+    lastmod: 2024-10-11T12:55:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['home', 'forgetting', 'at', 'Dream', 'of', 'something', 'important']
+    tags: ['Dream', 'home', 'important', 'forgetting', 'something']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Pork Belly      |
-| Lucky Instrument    | Timpani |
-| Lucky Flower        | Borage    |
-| Lucky Job           | Biologist       |
-| Lucky Exercise      | Squash  |
-| Lucky Country       | Uzbekistan    |
+| Lucky Food          | Vegetable Stir Fry      |
+| Lucky Instrument    | Fretless Bass |
+| Lucky Flower        | Ornamental Pepper    |
+| Lucky Job           | UX Designer       |
+| Lucky Exercise      | Kite Surfing  |
+| Lucky Country       | Australia    |
 
 
 ##  Final Reflections on Dreams

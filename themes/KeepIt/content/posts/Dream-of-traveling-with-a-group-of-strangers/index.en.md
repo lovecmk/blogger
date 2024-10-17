@@ -1,8 +1,8 @@
 ---
     weight: 1310
     title: "Dream of traveling with a group of strangers"  # Assuming 'title' column exists
-    date: 2024-10-13T01:04:00+08:00
-    lastmod: 2024-10-13T01:04:00+08:00
+    date: 2024-10-12T09:54:00+08:00
+    lastmod: 2024-10-12T09:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['strangers', 'of', 'traveling', 'Dream', 'a', 'group', 'with']
+    tags: ['Dream', 'traveling', 'group', 'strangers']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Deer |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Pasta Salad      |
-| Lucky Instrument    | Octobass |
-| Lucky Flower        | Gillyflower    |
-| Lucky Job           | Accountant       |
-| Lucky Exercise      | Bodyweight Training  |
-| Lucky Country       | Tonga    |
+| Lucky Food          | Scallops      |
+| Lucky Instrument    | Saxophone |
+| Lucky Flower        | Hollyhock    |
+| Lucky Job           | Interior Designer       |
+| Lucky Exercise      | CrossFit  |
+| Lucky Country       | Papua New Guinea    |
 
 
 ##  Final Reflections on Dreams

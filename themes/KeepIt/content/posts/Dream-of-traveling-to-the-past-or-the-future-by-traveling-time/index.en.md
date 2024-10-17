@@ -1,8 +1,8 @@
 ---
     weight: 758
     title: "Dream of traveling to the past or the future by traveling time"  # Assuming 'title' column exists
-    date: 2024-10-13T04:13:00+08:00
-    lastmod: 2024-10-13T04:13:00+08:00
+    date: 2024-10-12T02:46:00+08:00
+    lastmod: 2024-10-12T02:46:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'the', 'to', 'traveling', 'Dream', 'future', 'time', 'by', 'of', 'past']
+    tags: ['Dream', 'past', 'traveling', 'to', 'time', 'future']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can show new opportunities for the future or good luck for change.You
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Theater     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Guacamole      |
-| Lucky Instrument    | Harp |
-| Lucky Flower        | Aster    |
-| Lucky Job           | Network Administrator       |
-| Lucky Exercise      | Aerobics  |
-| Lucky Country       | Estonia    |
+| Lucky Food          | Chili      |
+| Lucky Instrument    | Steel Pan |
+| Lucky Flower        | Tulip    |
+| Lucky Job           | Bus Driver       |
+| Lucky Exercise      | Hammer Throw  |
+| Lucky Country       | Kenya    |
 
 
 ##  Final Reflections on Dreams

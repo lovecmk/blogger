@@ -1,8 +1,8 @@
 ---
     weight: 1485
     title: "Dream of being in a haunted or scary place"  # Assuming 'title' column exists
-    date: 2024-10-13T07:11:00+08:00
-    lastmod: 2024-10-13T07:11:00+08:00
+    date: 2024-10-15T16:01:00+08:00
+    lastmod: 2024-10-15T16:01:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'haunted', 'Dream', 'being', 'a', 'in', 'place', 'of', 'scary']
+    tags: ['being', 'scary', 'haunted', 'Dream', 'place']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Mole |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Quesadilla      |
-| Lucky Instrument    | Pipa |
-| Lucky Flower        | Verbena    |
-| Lucky Job           | Real Estate Agent       |
-| Lucky Exercise      | Trail Running  |
-| Lucky Country       | Mexico    |
+| Lucky Food          | Ratatouille      |
+| Lucky Instrument    | Saxello |
+| Lucky Flower        | Aster    |
+| Lucky Job           | Researcher       |
+| Lucky Exercise      | Circuit Workout  |
+| Lucky Country       | Qatar    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1342
     title: "Dream of going on a spiritual retreat"  # Assuming 'title' column exists
-    date: 2024-10-13T15:57:00+08:00
-    lastmod: 2024-10-13T15:57:00+08:00
+    date: 2024-10-13T12:04:00+08:00
+    lastmod: 2024-10-13T12:04:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['retreat', 'Dream', 'going', 'spiritual', 'a', 'on', 'of']
+    tags: ['Dream', 'going', 'retreat', 'spiritual']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Sushi Roll      |
-| Lucky Instrument    | Trombone Slide |
-| Lucky Flower        | Marigold    |
-| Lucky Job           | Project Manager       |
-| Lucky Exercise      | Bouldering  |
-| Lucky Country       | Serbia    |
+| Lucky Food          | Bruschetta      |
+| Lucky Instrument    | Accordion |
+| Lucky Flower        | Petunia    |
+| Lucky Job           | Director       |
+| Lucky Exercise      | Weightlifting  |
+| Lucky Country       | Mongolia    |
 
 
 ##  Final Reflections on Dreams

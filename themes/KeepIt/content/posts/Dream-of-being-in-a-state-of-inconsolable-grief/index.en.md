@@ -1,8 +1,8 @@
 ---
     weight: 1690
     title: "Dream of your husband planning a weekend getaway for both of you."  # Assuming 'title' column exists
-    date: 2024-10-13T18:50:00+08:00
-    lastmod: 2024-10-13T18:50:00+08:00
+    date: 2024-10-13T19:45:00+08:00
+    lastmod: 2024-10-13T19:45:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['weekend', 'you.', 'your', 'getaway', 'Dream', 'for', 'husband', 'a', 'planning', 'of', 'both']
+    tags: ['weekend', 'you', 'Dream', 'both', 'husband', 'planning', 'getaway']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ The luck brought by this dream may be related to the opportunity for resolution 
 | Lucky Animal        | Spider |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Gumbo      |
-| Lucky Instrument    | Sitar |
-| Lucky Flower        | Bluebell    |
-| Lucky Job           | Firefighter       |
-| Lucky Exercise      | Pull-Ups  |
-| Lucky Country       | Papua New Guinea    |
+| Lucky Food          | Baked Ziti      |
+| Lucky Instrument    | Bass Clarinet |
+| Lucky Flower        | Primrose    |
+| Lucky Job           | Marketing Manager       |
+| Lucky Exercise      | Hammer Throw  |
+| Lucky Country       | Armenia    |
 
 
 ##  Final Reflections on Dreams

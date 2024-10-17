@@ -1,8 +1,8 @@
 ---
     weight: 437
     title: "Dream of running away from any threat or danger"  # Assuming 'title' column exists
-    date: 2024-10-13T11:52:00+08:00
-    lastmod: 2024-10-13T11:52:00+08:00
+    date: 2024-10-12T10:21:00+08:00
+    lastmod: 2024-10-12T10:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'running', 'away', 'Dream', 'danger', 'from', 'of', 'any', 'threat']
+    tags: ['Dream', 'running', 'threat', 'from', 'away', 'any', 'danger']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be accepted as an opportunity to emphasize the willin
 | Lucky Animal        | Beaver |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Red     |
-| Lucky Food          | Kale Salad      |
-| Lucky Instrument    | Piccolo Trumpet |
-| Lucky Flower        | Nymphaea    |
-| Lucky Job           | Personal Trainer       |
-| Lucky Exercise      | Ballet  |
-| Lucky Country       | Kiribati    |
+| Lucky Food          | Burrito      |
+| Lucky Instrument    | Cajón |
+| Lucky Flower        | Mums    |
+| Lucky Job           | Philosopher       |
+| Lucky Exercise      | Trail Running  |
+| Lucky Country       | Sweden    |
 
 
 ##  Final Reflections on Dreams

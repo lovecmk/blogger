@@ -1,8 +1,8 @@
 ---
     weight: 1293
     title: "Dream of being arrested or in trouble with the law"  # Assuming 'title' column exists
-    date: 2024-10-13T14:01:00+08:00
-    lastmod: 2024-10-13T14:01:00+08:00
+    date: 2024-10-11T23:01:00+08:00
+    lastmod: 2024-10-11T23:01:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['arrested', 'law', 'or', 'the', 'Dream', 'being', 'in', 'of', 'with', 'trouble']
+    tags: ['being', 'Dream', 'law', 'arrested', 'trouble']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Lion |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Chowder      |
-| Lucky Instrument    | Saxophone |
-| Lucky Flower        | Tithonia    |
-| Lucky Job           | Database Administrator       |
-| Lucky Exercise      | Hot Yoga  |
-| Lucky Country       | Bangladesh    |
+| Lucky Food          | Paella      |
+| Lucky Instrument    | Electric Violin |
+| Lucky Flower        | Poppy    |
+| Lucky Job           | Scientist       |
+| Lucky Exercise      | Snowboarding  |
+| Lucky Country       | Azerbaijan    |
 
 
 ##  Final Reflections on Dreams

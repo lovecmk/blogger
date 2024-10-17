@@ -1,8 +1,8 @@
 ---
     weight: 401
     title: "Dream of running away in a situation where you have to hide"  # Assuming 'title' column exists
-    date: 2024-10-13T01:52:00+08:00
-    lastmod: 2024-10-13T01:52:00+08:00
+    date: 2024-10-14T09:11:00+08:00
+    lastmod: 2024-10-14T09:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['hide', 'running', 'to', 'away', 'Dream', 'situation', 'a', 'have', 'in', 'of', 'where', 'you']
+    tags: ['hide', 'Dream', 'have', 'running', 'to', 'where', 'away', 'situation', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can vary depending on the individual's situation and inte
 | Lucky Animal        | Beaver |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Pasta Primavera      |
-| Lucky Instrument    | Castanets |
-| Lucky Flower        | Lobelia    |
-| Lucky Job           | Quality Assurance Tester       |
-| Lucky Exercise      | Hula Hooping  |
-| Lucky Country       | Malaysia    |
+| Lucky Food          | Brownies      |
+| Lucky Instrument    | Harmonium |
+| Lucky Flower        | Poinsettia    |
+| Lucky Job           | Journalist       |
+| Lucky Exercise      | Kite Surfing  |
+| Lucky Country       | Tanzania    |
 
 
 ##  Final Reflections on Dreams

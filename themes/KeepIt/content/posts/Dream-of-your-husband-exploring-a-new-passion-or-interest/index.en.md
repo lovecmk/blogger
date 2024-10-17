@@ -1,8 +1,8 @@
 ---
     weight: 2185
     title: "Dream of disputes about family loyalties"  # Assuming 'title' column exists
-    date: 2024-10-13T03:47:00+08:00
-    lastmod: 2024-10-13T03:47:00+08:00
+    date: 2024-10-13T16:03:00+08:00
+    lastmod: 2024-10-13T16:03:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'about', 'loyalties', 'Dream', 'of', 'disputes']
+    tags: ['family', 'Dream', 'loyalties', 'disputes']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Koala |
 | Lucky Place         | Park     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Baked Potato      |
-| Lucky Instrument    | Timpani |
-| Lucky Flower        | Jatropha    |
-| Lucky Job           | Data Scientist       |
-| Lucky Exercise      | Underwater Diving  |
-| Lucky Country       | Czech Republic    |
+| Lucky Food          | Pork Chops      |
+| Lucky Instrument    | Saxophone |
+| Lucky Flower        | Marigold    |
+| Lucky Job           | Scientist       |
+| Lucky Exercise      | Trail Running  |
+| Lucky Country       | Qatar    |
 
 
 ##  Final Reflections on Dreams

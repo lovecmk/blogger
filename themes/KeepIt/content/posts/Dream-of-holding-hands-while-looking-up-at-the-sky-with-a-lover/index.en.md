@@ -1,8 +1,8 @@
 ---
     weight: 666
     title: "Dream of holding hands while looking up at the sky with a lover"  # Assuming 'title' column exists
-    date: 2024-10-13T14:09:00+08:00
-    lastmod: 2024-10-13T14:09:00+08:00
+    date: 2024-10-14T10:41:00+08:00
+    lastmod: 2024-10-14T10:41:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['holding', 'with', 'sky', 'the', 'lover', 'Dream', 'up', 'a', 'hands', 'of', 'looking', 'while', 'at']
+    tags: ['while', 'Dream', 'hands', 'looking', 'sky', 'holding', 'up', 'lover']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can have good luck and positive results.Looking up at the sky with yo
 | Lucky Animal        | Rhino |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Scone      |
-| Lucky Instrument    | Cajón |
-| Lucky Flower        | Ornamental Pepper    |
-| Lucky Job           | UX Designer       |
-| Lucky Exercise      | Circuit Training  |
-| Lucky Country       | Romania    |
+| Lucky Food          | Tiramisu      |
+| Lucky Instrument    | Electric Cello |
+| Lucky Flower        | Pelargonium    |
+| Lucky Job           | Psychologist       |
+| Lucky Exercise      | Capoeira  |
+| Lucky Country       | Finland    |
 
 
 ##  Final Reflections on Dreams

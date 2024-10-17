@@ -1,8 +1,8 @@
 ---
     weight: 540
     title: "Outdoor garden dream"  # Assuming 'title' column exists
-    date: 2024-10-13T06:02:00+08:00
-    lastmod: 2024-10-13T06:02:00+08:00
+    date: 2024-10-14T16:15:00+08:00
+    lastmod: 2024-10-14T16:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dream', 'Outdoor', 'garden']
+    tags: ['dream', 'garden', 'Outdoor']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can help to achieve growth and development in my life.Sin
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Tuna Tartare      |
-| Lucky Instrument    | Lyre |
-| Lucky Flower        | Lilac    |
-| Lucky Job           | User Researcher       |
-| Lucky Exercise      | Box Jumps  |
-| Lucky Country       | Syria    |
+| Lucky Food          | Pico de Gallo      |
+| Lucky Instrument    | Wooden Flute |
+| Lucky Flower        | Agapanthus    |
+| Lucky Job           | Makeup Artist       |
+| Lucky Exercise      | Aerobics  |
+| Lucky Country       | Jordan    |
 
 
 ##  Final Reflections on Dreams

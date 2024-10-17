@@ -1,8 +1,8 @@
 ---
     weight: 1467
     title: "Dream of a bus accident"  # Assuming 'title' column exists
-    date: 2024-10-13T22:44:00+08:00
-    lastmod: 2024-10-13T22:44:00+08:00
+    date: 2024-10-12T09:32:00+08:00
+    lastmod: 2024-10-12T09:32:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'a', 'bus', 'accident', 'of']
+    tags: ['bus', 'Dream', 'accident']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams rarely indicate specific luck or fortune. However, if you interpret this 
 | Lucky Animal        | Leopard |
 | Lucky Place         | Bakery     |
 | Lucky Color         | White     |
-| Lucky Food          | Caramel Flan      |
-| Lucky Instrument    | Marimba |
-| Lucky Flower        | Snapdragon    |
-| Lucky Job           | Lawyer       |
-| Lucky Exercise      | Martial Arts  |
-| Lucky Country       | Estonia    |
+| Lucky Food          | Ramen      |
+| Lucky Instrument    | Oboe |
+| Lucky Flower        | Mums    |
+| Lucky Job           | Real Estate Agent       |
+| Lucky Exercise      | Shot Put  |
+| Lucky Country       | India    |
 
 
 ##  Final Reflections on Dreams

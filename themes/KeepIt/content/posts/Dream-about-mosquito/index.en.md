@@ -1,8 +1,8 @@
 ---
     weight: 1081
     title: "Dream about mosquito"  # Assuming 'title' column exists
-    date: 2024-10-13T19:22:00+08:00
-    lastmod: 2024-10-13T19:22:00+08:00
+    date: 2024-10-12T20:49:00+08:00
+    lastmod: 2024-10-12T20:49:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['mosquito', 'about', 'Dream']
+    tags: ['Dream', 'mosquito']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ It may not be easy to feel good in the 'mosquito' dream.In general, mosquitoes a
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Beef Wellington      |
-| Lucky Instrument    | Trombone Slide |
-| Lucky Flower        | Iris    |
-| Lucky Job           | Data Analyst       |
-| Lucky Exercise      | Bodyweight Training  |
-| Lucky Country       | New Zealand    |
+| Lucky Food          | Hummus      |
+| Lucky Instrument    | Erhu |
+| Lucky Flower        | Mullein    |
+| Lucky Job           | Mechanic       |
+| Lucky Exercise      | Javelin  |
+| Lucky Country       | Slovakia    |
 
 
 ##  Final Reflections on Dreams

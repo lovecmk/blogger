@@ -1,8 +1,8 @@
 ---
     weight: 2007
     title: "Dream of experiencing a family custom or ritual alongside an ancestor."  # Assuming 'title' column exists
-    date: 2024-10-13T03:08:00+08:00
-    lastmod: 2024-10-13T03:08:00+08:00
+    date: 2024-10-15T18:11:00+08:00
+    lastmod: 2024-10-15T18:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'or', 'ancestor.', 'ritual', 'alongside', 'experiencing', 'Dream', 'a', 'an', 'of', 'custom']
+    tags: ['experiencing', 'family', 'Dream', 'ritual', 'alongside', 'ancestor', 'custom', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings a sense of good luck and auspiciousness to your journey. The a
 | Lucky Animal        | Otter |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Chowder      |
-| Lucky Instrument    | Darabuka |
-| Lucky Flower        | Sea Holly    |
-| Lucky Job           | Director       |
-| Lucky Exercise      | Cycling  |
-| Lucky Country       | Kazakhstan    |
+| Lucky Food          | Baklava      |
+| Lucky Instrument    | Marimba |
+| Lucky Flower        | Daffodil    |
+| Lucky Job           | Software Engineer       |
+| Lucky Exercise      | Plank  |
+| Lucky Country       | Norway    |
 
 
 ##  Final Reflections on Dreams

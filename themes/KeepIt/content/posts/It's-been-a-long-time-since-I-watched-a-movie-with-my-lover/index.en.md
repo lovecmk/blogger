@@ -1,8 +1,8 @@
 ---
     weight: 677
     title: "It's been a long time since I watched a movie with my lover"  # Assuming 'title' column exists
-    date: 2024-10-13T17:31:00+08:00
-    lastmod: 2024-10-13T17:31:00+08:00
+    date: 2024-10-12T19:15:00+08:00
+    lastmod: 2024-10-12T19:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['watched', 'movie', 'long', 'my', 'lover', 'I', 'a', 'time', 'since', 'been', 'with', "It's"]
+    tags: ['watched', 'since', 'my', 'I', 'movie', 'long', 'time', 'lover', 'been', "It's"]
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be more valuable and grateful for your special time w
 | Lucky Animal        | Monkey |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Pesto      |
-| Lucky Instrument    | Piano |
-| Lucky Flower        | Orchid    |
-| Lucky Job           | Nurse       |
-| Lucky Exercise      | Underwater Diving  |
-| Lucky Country       | Russia    |
+| Lucky Food          | Burger      |
+| Lucky Instrument    | Zither |
+| Lucky Flower        | Ornamental Pepper    |
+| Lucky Job           | Brand Manager       |
+| Lucky Exercise      | Snowshoeing  |
+| Lucky Country       | Syria    |
 
 
 ##  Final Reflections on Dreams

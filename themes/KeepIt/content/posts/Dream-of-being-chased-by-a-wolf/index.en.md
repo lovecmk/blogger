@@ -1,8 +1,8 @@
 ---
     weight: 912
     title: "Dream of being chased by a wolf"  # Assuming 'title' column exists
-    date: 2024-10-13T22:34:00+08:00
-    lastmod: 2024-10-13T22:34:00+08:00
+    date: 2024-10-15T21:20:00+08:00
+    lastmod: 2024-10-15T21:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['wolf', 'Dream', 'being', 'a', 'by', 'of', 'chased']
+    tags: ['being', 'chased', 'Dream', 'wolf']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ In general, the dream of being chased by a wolf can indicate that it is time to 
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Red     |
-| Lucky Food          | Pork Chops      |
-| Lucky Instrument    | Darabuka |
-| Lucky Flower        | Zinnia    |
-| Lucky Job           | UX Designer       |
-| Lucky Exercise      | Stand-Up Paddleboarding  |
-| Lucky Country       | Brunei    |
+| Lucky Food          | Chia Pudding      |
+| Lucky Instrument    | Clarinet |
+| Lucky Flower        | Poinsettia    |
+| Lucky Job           | Statistician       |
+| Lucky Exercise      | Crunches  |
+| Lucky Country       | Bhutan    |
 
 
 ##  Final Reflections on Dreams

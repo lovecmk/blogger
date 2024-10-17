@@ -1,8 +1,8 @@
 ---
     weight: 2092
     title: "Dream of your cat engaging in a catnip frenzy"  # Assuming 'title' column exists
-    date: 2024-10-13T06:29:00+08:00
-    lastmod: 2024-10-13T06:29:00+08:00
+    date: 2024-10-11T21:22:00+08:00
+    lastmod: 2024-10-11T21:22:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['catnip', 'your', 'cat', 'frenzy', 'Dream', 'engaging', 'a', 'in', 'of']
+    tags: ['Dream', 'frenzy', 'engaging', 'cat', 'catnip']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Horse |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Coconut Shrimp      |
-| Lucky Instrument    | Pipa |
-| Lucky Flower        | Marigold    |
-| Lucky Job           | Police Officer       |
-| Lucky Exercise      | Kettlebell Training  |
-| Lucky Country       | South Korea    |
+| Lucky Food          | Chocolate Mousse      |
+| Lucky Instrument    | Bass Clarinet |
+| Lucky Flower        | Mandevilla    |
+| Lucky Job           | Sales Manager       |
+| Lucky Exercise      | Bodyweight Training  |
+| Lucky Country       | Georgia    |
 
 
 ##  Final Reflections on Dreams

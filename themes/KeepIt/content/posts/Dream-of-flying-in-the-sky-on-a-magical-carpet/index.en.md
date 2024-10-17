@@ -1,8 +1,8 @@
 ---
     weight: 786
     title: "Dream of flying in the sky on a magical carpet"  # Assuming 'title' column exists
-    date: 2024-10-13T23:21:00+08:00
-    lastmod: 2024-10-13T23:21:00+08:00
+    date: 2024-10-12T23:27:00+08:00
+    lastmod: 2024-10-12T23:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['flying', 'sky', 'the', 'carpet', 'Dream', 'a', 'magical', 'on', 'in', 'of']
+    tags: ['Dream', 'flying', 'carpet', 'magical', 'sky']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can give you a sense of good luck and positive results.You can get fr
 | Lucky Animal        | Koala |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Risotto      |
-| Lucky Instrument    | Chimes |
-| Lucky Flower        | Pincushion Flower    |
-| Lucky Job           | Data Scientist       |
-| Lucky Exercise      | Kripalu Yoga  |
-| Lucky Country       | Armenia    |
+| Lucky Food          | Fried Rice      |
+| Lucky Instrument    | Soprano Recorder |
+| Lucky Flower        | Cosmos    |
+| Lucky Job           | Dentist       |
+| Lucky Exercise      | Parkour Training  |
+| Lucky Country       | Canada    |
 
 
 ##  Final Reflections on Dreams

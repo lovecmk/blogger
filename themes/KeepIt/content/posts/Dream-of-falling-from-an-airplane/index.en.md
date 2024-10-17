@@ -1,8 +1,8 @@
 ---
     weight: 932
     title: "Dream of falling from an airplane"  # Assuming 'title' column exists
-    date: 2024-10-13T02:54:00+08:00
-    lastmod: 2024-10-13T02:54:00+08:00
+    date: 2024-10-15T16:39:00+08:00
+    lastmod: 2024-10-15T16:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['falling', 'Dream', 'airplane', 'an', 'from', 'of']
+    tags: ['Dream', 'falling', 'from', 'airplane', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The dream of falling from the plane has a negative meaning in general, so it is 
 | Lucky Animal        | Deer |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Zucchini Noodles      |
-| Lucky Instrument    | Glockenspiel |
-| Lucky Flower        | Yarrow    |
-| Lucky Job           | Taxi Driver       |
-| Lucky Exercise      | Bench Press  |
-| Lucky Country       | Lithuania    |
+| Lucky Food          | Lasagna      |
+| Lucky Instrument    | Castanets |
+| Lucky Flower        | Wisteria    |
+| Lucky Job           | Hair Stylist       |
+| Lucky Exercise      | Futsal  |
+| Lucky Country       | Portugal    |
 
 
 ##  Final Reflections on Dreams

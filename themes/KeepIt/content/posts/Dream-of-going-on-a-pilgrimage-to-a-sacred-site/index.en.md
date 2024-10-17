@@ -1,8 +1,8 @@
 ---
     weight: 1279
     title: "Dream of going on a pilgrimage to a sacred site"  # Assuming 'title' column exists
-    date: 2024-10-13T21:31:00+08:00
-    lastmod: 2024-10-13T21:31:00+08:00
+    date: 2024-10-15T11:34:00+08:00
+    lastmod: 2024-10-15T11:34:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['pilgrimage', 'to', 'Dream', 'going', 'a', 'on', 'sacred', 'site', 'of']
+    tags: ['Dream', 'sacred', 'to', 'going', 'site', 'pilgrimage']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ The luck associated with this dream is linked to spiritual growth, self-discover
 | Lucky Animal        | Deer |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Omelette      |
-| Lucky Instrument    | Ocarina |
-| Lucky Flower        | Dandelion    |
-| Lucky Job           | Environmental Scientist       |
-| Lucky Exercise      | Soccer  |
-| Lucky Country       | Bahrain    |
+| Lucky Food          | Beef Tacos      |
+| Lucky Instrument    | Piccolo Trumpet |
+| Lucky Flower        | Orchid    |
+| Lucky Job           | Writer       |
+| Lucky Exercise      | Ballet  |
+| Lucky Country       | Eswatini    |
 
 
 ##  Final Reflections on Dreams

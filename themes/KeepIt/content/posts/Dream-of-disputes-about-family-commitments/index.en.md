@@ -1,8 +1,8 @@
 ---
     weight: 1687
     title: "Dream of dying and seeing deceased relatives"  # Assuming 'title' column exists
-    date: 2024-10-13T05:47:00+08:00
-    lastmod: 2024-10-13T05:47:00+08:00
+    date: 2024-10-11T06:11:00+08:00
+    lastmod: 2024-10-11T06:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dying', 'seeing', 'Dream', 'and', 'relatives', 'of', 'deceased']
+    tags: ['Dream', 'deceased', 'relatives', 'dying', 'seeing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Mouse |
 | Lucky Place         | Museum     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Spring Roll      |
-| Lucky Instrument    | Tromba |
-| Lucky Flower        | Clover Blossom    |
-| Lucky Job           | Chemist       |
-| Lucky Exercise      | Pull-Ups  |
-| Lucky Country       | Armenia    |
+| Lucky Food          | Hummus      |
+| Lucky Instrument    | Violin Bow |
+| Lucky Flower        | Stephanotis    |
+| Lucky Job           | IT Specialist       |
+| Lucky Exercise      | Circuit Training  |
+| Lucky Country       | Nauru    |
 
 
 ##  Final Reflections on Dreams

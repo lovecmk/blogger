@@ -1,8 +1,8 @@
 ---
     weight: 860
     title: "Dream of insects (insects, spiders, etc.)"  # Assuming 'title' column exists
-    date: 2024-10-13T09:27:00+08:00
-    lastmod: 2024-10-13T09:27:00+08:00
+    date: 2024-10-13T02:16:00+08:00
+    lastmod: 2024-10-13T02:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['(insects,', 'Dream', 'etc.)', 'insects', 'spiders,', 'of']
+    tags: ['Dream', 'insects', '(insects,', 'etc)', 'spiders,']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The dream of a worm or spider generally does not show good luck.Rather, it often
 | Lucky Animal        | Owl |
 | Lucky Place         | River     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Scone      |
-| Lucky Instrument    | Lap Steel Guitar |
-| Lucky Flower        | Tansy    |
-| Lucky Job           | Data Analyst       |
-| Lucky Exercise      | Water Polo  |
-| Lucky Country       | Norway    |
+| Lucky Food          | Chia Pudding      |
+| Lucky Instrument    | Claves |
+| Lucky Flower        | Bellflower    |
+| Lucky Job           | Nuclear Engineer       |
+| Lucky Exercise      | Skimboarding  |
+| Lucky Country       | Marshall Islands    |
 
 
 ##  Final Reflections on Dreams

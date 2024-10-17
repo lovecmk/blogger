@@ -1,8 +1,8 @@
 ---
     weight: 1344
     title: "Dream of missing public transportation"  # Assuming 'title' column exists
-    date: 2024-10-13T05:18:00+08:00
-    lastmod: 2024-10-13T05:18:00+08:00
+    date: 2024-10-11T23:17:00+08:00
+    lastmod: 2024-10-11T23:17:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['missing', 'Dream', 'transportation', 'public', 'of']
+    tags: ['Dream', 'missing', 'public', 'transportation']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ The luck associated with this dream lies in recognizing the potential pitfalls o
 | Lucky Animal        | Seal |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Tacos      |
-| Lucky Instrument    | Saz |
-| Lucky Flower        | Butterfly Bush    |
-| Lucky Job           | Art Director       |
-| Lucky Exercise      | Ballet  |
-| Lucky Country       | Kenya    |
+| Lucky Food          | Beef Stroganoff      |
+| Lucky Instrument    | Mandolin |
+| Lucky Flower        | Heather    |
+| Lucky Job           | Business Analyst       |
+| Lucky Exercise      | Kripalu Yoga  |
+| Lucky Country       | Marshall Islands    |
 
 
 ##  Final Reflections on Dreams

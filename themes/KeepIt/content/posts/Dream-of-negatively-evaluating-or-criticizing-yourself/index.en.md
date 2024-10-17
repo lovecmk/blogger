@@ -1,8 +1,8 @@
 ---
     weight: 487
     title: "Dream of negatively evaluating or criticizing yourself"  # Assuming 'title' column exists
-    date: 2024-10-13T14:33:00+08:00
-    lastmod: 2024-10-13T14:33:00+08:00
+    date: 2024-10-15T14:28:00+08:00
+    lastmod: 2024-10-15T14:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['criticizing', 'or', 'negatively', 'Dream', 'yourself', 'evaluating', 'of']
+    tags: ['negatively', 'Dream', 'criticizing', 'evaluating', 'yourself']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is that it can lead to positive changes such as self -emb
 | Lucky Animal        | Snake |
 | Lucky Place         | Cafe     |
 | Lucky Color         | White     |
-| Lucky Food          | Hummus      |
-| Lucky Instrument    | Djembe |
-| Lucky Flower        | Bouvardia    |
-| Lucky Job           | Oceanographer       |
-| Lucky Exercise      | Box Jumps  |
-| Lucky Country       | Tanzania    |
+| Lucky Food          | Scallops      |
+| Lucky Instrument    | Guitar |
+| Lucky Flower        | Jade Plant    |
+| Lucky Job           | Video Editor       |
+| Lucky Exercise      | Cycling  |
+| Lucky Country       | Papua New Guinea    |
 
 
 ##  Final Reflections on Dreams

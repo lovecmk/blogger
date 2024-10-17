@@ -1,8 +1,8 @@
 ---
     weight: 2033
     title: "Dream of being humiliated in public"  # Assuming 'title' column exists
-    date: 2024-10-13T02:33:00+08:00
-    lastmod: 2024-10-13T02:33:00+08:00
+    date: 2024-10-15T00:17:00+08:00
+    lastmod: 2024-10-15T00:17:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['humiliated', 'Dream', 'being', 'public', 'in', 'of']
+    tags: ['being', 'Dream', 'humiliated', 'public']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Duck |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Baked Potato      |
-| Lucky Instrument    | Basset Horn |
-| Lucky Flower        | Cactus Flower    |
+| Lucky Food          | Pesto      |
+| Lucky Instrument    | Sarangi |
+| Lucky Flower        | Orchid    |
 | Lucky Job           | Game Developer       |
-| Lucky Exercise      | Shot Put  |
-| Lucky Country       | Egypt    |
+| Lucky Exercise      | Belly Dancing  |
+| Lucky Country       | Czech Republic    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1896
     title: "Dream of disagreements during a family trip"  # Assuming 'title' column exists
-    date: 2024-10-13T23:58:00+08:00
-    lastmod: 2024-10-13T23:58:00+08:00
+    date: 2024-10-15T10:31:00+08:00
+    lastmod: 2024-10-15T10:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'trip', 'Dream', 'during', 'a', 'disagreements', 'of']
+    tags: ['family', 'Dream', 'disagreements', 'trip']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams themselves do not determine luck, but the dream of fighting in a cosmic b
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Shrimp      |
-| Lucky Instrument    | Bass Clarinet |
-| Lucky Flower        | Stephanotis    |
-| Lucky Job           | Database Administrator       |
-| Lucky Exercise      | Horseback Riding  |
-| Lucky Country       | Sweden    |
+| Lucky Food          | Pasta Salad      |
+| Lucky Instrument    | Cajón |
+| Lucky Flower        | Zinnia    |
+| Lucky Job           | Historian       |
+| Lucky Exercise      | Mobility Training  |
+| Lucky Country       | Romania    |
 
 
 ##  Final Reflections on Dreams

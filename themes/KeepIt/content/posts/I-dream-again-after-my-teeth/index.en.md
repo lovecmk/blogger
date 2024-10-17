@@ -1,8 +1,8 @@
 ---
     weight: 883
     title: "I dream again after my teeth"  # Assuming 'title' column exists
-    date: 2024-10-13T23:12:00+08:00
-    lastmod: 2024-10-13T23:12:00+08:00
+    date: 2024-10-11T00:22:00+08:00
+    lastmod: 2024-10-11T00:22:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['again', 'my', 'teeth', 'after', 'I', 'dream']
+    tags: ['my', 'dream', 'again', 'I', 'teeth', 'after']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is still before it is found.This dream can be an opportun
 | Lucky Animal        | Chick |
 | Lucky Place         | Park     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Cornbread      |
-| Lucky Instrument    | Darabuka |
-| Lucky Flower        | Sunflower    |
-| Lucky Job           | Researcher       |
-| Lucky Exercise      | Kickboxing  |
-| Lucky Country       | India    |
+| Lucky Food          | Gnocchi      |
+| Lucky Instrument    | Octobass |
+| Lucky Flower        | Moss Rose    |
+| Lucky Job           | Web Developer       |
+| Lucky Exercise      | Lifting  |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

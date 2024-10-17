@@ -1,8 +1,8 @@
 ---
     weight: 841
     title: "The dream of the police appear after the fire"  # Assuming 'title' column exists
-    date: 2024-10-13T13:35:00+08:00
-    lastmod: 2024-10-13T13:35:00+08:00
+    date: 2024-10-12T07:54:00+08:00
+    lastmod: 2024-10-12T07:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'after', 'fire', 'dream', 'The', 'police', 'of', 'appear']
+    tags: ['The', 'police', 'dream', 'appear', 'fire', 'after']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream shows that efforts are needed to overcome the current problems and to
 | Lucky Animal        | Elephant |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Caramel Flan      |
-| Lucky Instrument    | Clarinet |
-| Lucky Flower        | Rudbeckia    |
-| Lucky Job           | Sales Manager       |
-| Lucky Exercise      | Snowboarding  |
-| Lucky Country       | Lesotho    |
+| Lucky Food          | Spring Roll      |
+| Lucky Instrument    | Bagpipes |
+| Lucky Flower        | Lobelia    |
+| Lucky Job           | Event Coordinator       |
+| Lucky Exercise      | Stand-Up Paddleboarding  |
+| Lucky Country       | Maldives    |
 
 
 ##  Final Reflections on Dreams

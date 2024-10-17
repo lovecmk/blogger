@@ -1,8 +1,8 @@
 ---
     weight: 2063
     title: "Dream of receiving money for a job well done or a successful project."  # Assuming 'title' column exists
-    date: 2024-10-13T10:46:00+08:00
-    lastmod: 2024-10-13T10:46:00+08:00
+    date: 2024-10-11T16:02:00+08:00
+    lastmod: 2024-10-11T16:02:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['successful', 'receiving', 'or', 'money', 'Dream', 'for', 'a', 'project.', 'done', 'of', 'job', 'well']
+    tags: ['job', 'Dream', 'money', 'receiving', 'well', 'project', 'done', 'successful']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams of predicting someone's death do not typically bring luck. Instead, they 
 | Lucky Animal        | Cat |
 | Lucky Place         | River     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Roast Chicken      |
-| Lucky Instrument    | Darabuka |
-| Lucky Flower        | Jatropha    |
-| Lucky Job           | Neuroscientist       |
-| Lucky Exercise      | Shot Put  |
-| Lucky Country       | Laos    |
+| Lucky Food          | Pizza      |
+| Lucky Instrument    | Tenor Banjo |
+| Lucky Flower        | Peach Blossom    |
+| Lucky Job           | Web Designer       |
+| Lucky Exercise      | Martial Arts  |
+| Lucky Country       | Marshall Islands    |
 
 
 ##  Final Reflections on Dreams

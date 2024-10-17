@@ -1,8 +1,8 @@
 ---
     weight: 1225
     title: "Dream of your dog being an explorer"  # Assuming 'title' column exists
-    date: 2024-10-13T01:09:00+08:00
-    lastmod: 2024-10-13T01:09:00+08:00
+    date: 2024-10-13T22:28:00+08:00
+    lastmod: 2024-10-13T22:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['explorer', 'your', 'Dream', 'being', 'an', 'of', 'dog']
+    tags: ['being', 'Dream', 'explorer', 'dog', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hyena |
 | Lucky Place         | Lake     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Buffalo Wings      |
-| Lucky Instrument    | Saz |
-| Lucky Flower        | Edelweiss    |
-| Lucky Job           | Baker       |
-| Lucky Exercise      | Bouldering  |
-| Lucky Country       | Belgium    |
+| Lucky Food          | Chicken Parmesan      |
+| Lucky Instrument    | Saxello |
+| Lucky Flower        | Anemone    |
+| Lucky Job           | Event Planner       |
+| Lucky Exercise      | Parkour Training  |
+| Lucky Country       | United States    |
 
 
 ##  Final Reflections on Dreams

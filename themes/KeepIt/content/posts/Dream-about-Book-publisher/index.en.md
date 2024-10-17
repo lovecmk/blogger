@@ -1,8 +1,8 @@
 ---
     weight: 1168
     title: "Dream about Book publisher"  # Assuming 'title' column exists
-    date: 2024-10-13T11:22:00+08:00
-    lastmod: 2024-10-13T11:22:00+08:00
+    date: 2024-10-13T00:47:00+08:00
+    lastmod: 2024-10-13T00:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['publisher', 'about', 'Dream', 'Book']
+    tags: ['Book', 'Dream', 'publisher']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Good luck from dreams depends on the situation and the contents of the dream.Som
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Lasagna      |
-| Lucky Instrument    | Djembe |
-| Lucky Flower        | Sea Holly    |
-| Lucky Job           | Consultant       |
-| Lucky Exercise      | Calisthenics  |
-| Lucky Country       | Fiji    |
+| Lucky Food          | Muffin      |
+| Lucky Instrument    | Castanets |
+| Lucky Flower        | Lily    |
+| Lucky Job           | Security Guard       |
+| Lucky Exercise      | Bench Press  |
+| Lucky Country       | Serbia    |
 
 
 ##  Final Reflections on Dreams

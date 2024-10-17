@@ -1,8 +1,8 @@
 ---
     weight: 1142
     title: "Dream about park"  # Assuming 'title' column exists
-    date: 2024-10-13T23:00:00+08:00
-    lastmod: 2024-10-13T23:00:00+08:00
+    date: 2024-10-13T04:42:00+08:00
+    lastmod: 2024-10-13T04:42:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['park', 'about', 'Dream']
+    tags: ['Dream', 'park']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can symbolize the luck of pursuing relaxing and peaceful rest and ple
 | Lucky Animal        | Pig |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Chocolate      |
-| Lucky Instrument    | Ocarina |
-| Lucky Flower        | Chrysanthemum    |
-| Lucky Job           | Marketing Manager       |
-| Lucky Exercise      | Jumping Rope  |
-| Lucky Country       | Syria    |
+| Lucky Food          | Sandwich      |
+| Lucky Instrument    | Piano |
+| Lucky Flower        | Peony    |
+| Lucky Job           | Chemist       |
+| Lucky Exercise      | Tai Chi  |
+| Lucky Country       | Kiribati    |
 
 
 ##  Final Reflections on Dreams

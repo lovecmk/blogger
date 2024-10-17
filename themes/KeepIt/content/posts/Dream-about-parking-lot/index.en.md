@@ -1,8 +1,8 @@
 ---
     weight: 1194
     title: "Dream about parking lot"  # Assuming 'title' column exists
-    date: 2024-10-13T06:11:00+08:00
-    lastmod: 2024-10-13T06:11:00+08:00
+    date: 2024-10-11T17:03:00+08:00
+    lastmod: 2024-10-11T17:03:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['parking', 'about', 'Dream', 'lot']
+    tags: ['parking', 'lot', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of the 'parking lot' dream can be interpreted as a luck to create new o
 | Lucky Animal        | Fox |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Green     |
-| Lucky Food          | Pudding      |
-| Lucky Instrument    | Trompeta |
-| Lucky Flower        | Thistle    |
-| Lucky Job           | Event Coordinator       |
-| Lucky Exercise      | Foam Rolling  |
-| Lucky Country       | Denmark    |
+| Lucky Food          | Potato Skins      |
+| Lucky Instrument    | Recorder |
+| Lucky Flower        | Stock    |
+| Lucky Job           | Psychologist       |
+| Lucky Exercise      | Zumba  |
+| Lucky Country       | Romania    |
 
 
 ##  Final Reflections on Dreams

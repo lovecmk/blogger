@@ -1,8 +1,8 @@
 ---
     weight: 623
     title: "Dream of enjoying camping with friends"  # Assuming 'title' column exists
-    date: 2024-10-13T02:12:00+08:00
-    lastmod: 2024-10-13T02:12:00+08:00
+    date: 2024-10-11T11:27:00+08:00
+    lastmod: 2024-10-11T11:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['enjoying', 'camping', 'Dream', 'of', 'with', 'friends']
+    tags: ['camping', 'Dream', 'enjoying', 'friends']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can emphasize the rich and happy aspects of life through 
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Green     |
-| Lucky Food          | Baked Ziti      |
-| Lucky Instrument    | Shakuhachi |
-| Lucky Flower        | Alstroemeria    |
-| Lucky Job           | Welder       |
-| Lucky Exercise      | Soccer  |
-| Lucky Country       | Brazil    |
+| Lucky Food          | Caprese Skewers      |
+| Lucky Instrument    | Tenor Banjo |
+| Lucky Flower        | Peony    |
+| Lucky Job           | Database Administrator       |
+| Lucky Exercise      | Foam Rolling  |
+| Lucky Country       | Cambodia    |
 
 
 ##  Final Reflections on Dreams

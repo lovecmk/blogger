@@ -1,8 +1,8 @@
 ---
     weight: 34
     title: "Dream of eating strawberries and feeling a lovely moment"  # Assuming 'title' column exists
-    date: 2024-10-13T10:03:00+08:00
-    lastmod: 2024-10-13T10:03:00+08:00
+    date: 2024-10-15T11:54:00+08:00
+    lastmod: 2024-10-15T11:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lovely', 'eating', 'feeling', 'moment', 'Dream', 'a', 'strawberries', 'and', 'of']
+    tags: ['lovely', 'Dream', 'eating', 'moment', 'feeling', 'strawberries']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be mainly through love and joy.Eating strawberries an
 | Lucky Animal        | Sparrow |
 | Lucky Place         | Sea     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Beef Wellington      |
-| Lucky Instrument    | Melodic Percussion |
-| Lucky Flower        | Bluebell    |
-| Lucky Job           | Farmer       |
-| Lucky Exercise      | Sledge Hockey  |
-| Lucky Country       | Bahrain    |
+| Lucky Food          | Chili      |
+| Lucky Instrument    | Fretless Bass |
+| Lucky Flower        | Geranium    |
+| Lucky Job           | Philosopher       |
+| Lucky Exercise      | Pilates  |
+| Lucky Country       | Kenya    |
 
 
 ##  Final Reflections on Dreams

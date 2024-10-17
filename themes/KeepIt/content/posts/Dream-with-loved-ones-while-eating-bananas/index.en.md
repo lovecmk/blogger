@@ -1,8 +1,8 @@
 ---
     weight: 63
     title: "Dream with loved ones while eating bananas"  # Assuming 'title' column exists
-    date: 2024-10-13T00:34:00+08:00
-    lastmod: 2024-10-13T00:34:00+08:00
+    date: 2024-10-14T03:16:00+08:00
+    lastmod: 2024-10-14T03:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['eating', 'ones', 'Dream', 'bananas', 'loved', 'with', 'while']
+    tags: ['while', 'Dream', 'loved', 'eating', 'bananas', 'ones']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you good luck.The situation with bananas and loved ones sym
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Pasta Primavera      |
-| Lucky Instrument    | Tuba |
-| Lucky Flower        | Aster    |
-| Lucky Job           | Quality Assurance Tester       |
-| Lucky Exercise      | Running  |
-| Lucky Country       | Iceland    |
+| Lucky Food          | Clams      |
+| Lucky Instrument    | Ukulele |
+| Lucky Flower        | Bouvardia    |
+| Lucky Job           | Makeup Artist       |
+| Lucky Exercise      | Obstacle Course Racing  |
+| Lucky Country       | Laos    |
 
 
 ##  Final Reflections on Dreams

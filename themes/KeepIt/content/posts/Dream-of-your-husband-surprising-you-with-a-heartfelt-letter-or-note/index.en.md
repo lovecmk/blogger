@@ -1,8 +1,8 @@
 ---
     weight: 1695
     title: "Dream of fighting in a supernatural confrontation"  # Assuming 'title' column exists
-    date: 2024-10-13T06:01:00+08:00
-    lastmod: 2024-10-13T06:01:00+08:00
+    date: 2024-10-12T14:19:00+08:00
+    lastmod: 2024-10-12T14:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['supernatural', 'confrontation', 'fighting', 'Dream', 'a', 'in', 'of']
+    tags: ['Dream', 'supernatural', 'confrontation', 'fighting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Snake |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Clams      |
-| Lucky Instrument    | Djembe |
-| Lucky Flower        | Gillyflower    |
-| Lucky Job           | Web Developer       |
-| Lucky Exercise      | Stretching  |
-| Lucky Country       | Israel    |
+| Lucky Food          | Hummus      |
+| Lucky Instrument    | Wooden Flute |
+| Lucky Flower        | Clover Blossom    |
+| Lucky Job           | Doctor       |
+| Lucky Exercise      | Parkour Training  |
+| Lucky Country       | Laos    |
 
 
 ##  Final Reflections on Dreams

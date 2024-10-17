@@ -1,8 +1,8 @@
 ---
     weight: 1117
     title: "Dream about shark"  # Assuming 'title' column exists
-    date: 2024-10-13T06:59:00+08:00
-    lastmod: 2024-10-13T06:59:00+08:00
+    date: 2024-10-13T16:22:00+08:00
+    lastmod: 2024-10-13T16:22:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['shark', 'about', 'Dream']
+    tags: ['shark', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The 'shark' dream mainly symbolizes threats and anxiety, but you can talk about 
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Beach     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Burrito      |
-| Lucky Instrument    | Claves |
-| Lucky Flower        | Mums    |
-| Lucky Job           | Mechanic       |
-| Lucky Exercise      | Sledge Hockey  |
-| Lucky Country       | Cyprus    |
+| Lucky Food          | Chia Pudding      |
+| Lucky Instrument    | Conga |
+| Lucky Flower        | Periwinkle    |
+| Lucky Job           | Public Relations Specialist       |
+| Lucky Exercise      | Soccer  |
+| Lucky Country       | Hungary    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1266
     title: "Dream of your dog being a scientist"  # Assuming 'title' column exists
-    date: 2024-10-13T21:21:00+08:00
-    lastmod: 2024-10-13T21:21:00+08:00
+    date: 2024-10-12T04:04:00+08:00
+    lastmod: 2024-10-12T04:04:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['scientist', 'your', 'Dream', 'being', 'a', 'of', 'dog']
+    tags: ['being', 'Dream', 'scientist', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Caprese Skewers      |
-| Lucky Instrument    | Accordion Synth |
-| Lucky Flower        | Borage    |
-| Lucky Job           | Teacher       |
-| Lucky Exercise      | Beach Volleyball  |
-| Lucky Country       | Tonga    |
+| Lucky Food          | Fish and Chips      |
+| Lucky Instrument    | Lap Steel Guitar |
+| Lucky Flower        | Chrysanthemum    |
+| Lucky Job           | IT Specialist       |
+| Lucky Exercise      | Rowing  |
+| Lucky Country       | Pakistan    |
 
 
 ##  Final Reflections on Dreams

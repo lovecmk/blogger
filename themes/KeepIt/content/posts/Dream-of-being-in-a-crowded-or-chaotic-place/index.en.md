@@ -1,8 +1,8 @@
 ---
     weight: 1505
     title: "Dream of being in a crowded or chaotic place"  # Assuming 'title' column exists
-    date: 2024-10-13T14:06:00+08:00
-    lastmod: 2024-10-13T14:06:00+08:00
+    date: 2024-10-11T22:49:00+08:00
+    lastmod: 2024-10-11T22:49:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'chaotic', 'Dream', 'being', 'a', 'crowded', 'in', 'place', 'of']
+    tags: ['being', 'Dream', 'crowded', 'place', 'chaotic']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream may not necessarily bring luck but could serve as a reminder to take 
 | Lucky Animal        | Horse |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Black     |
-| Lucky Food          | Chowder      |
-| Lucky Instrument    | Cajón |
-| Lucky Flower        | Petunia    |
-| Lucky Job           | Research Scientist       |
-| Lucky Exercise      | Obstacle Course Racing  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Chocolate Mousse      |
+| Lucky Instrument    | Sarangi |
+| Lucky Flower        | Fuchsia    |
+| Lucky Job           | Pastry Chef       |
+| Lucky Exercise      | Beach Volleyball  |
+| Lucky Country       | Eswatini    |
 
 
 ##  Final Reflections on Dreams

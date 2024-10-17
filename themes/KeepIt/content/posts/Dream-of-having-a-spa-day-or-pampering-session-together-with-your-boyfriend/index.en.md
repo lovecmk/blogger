@@ -1,8 +1,8 @@
 ---
     weight: 2172
     title: "Dream of your grandmother sharing cherished memories with you."  # Assuming 'title' column exists
-    date: 2024-10-13T10:20:00+08:00
-    lastmod: 2024-10-13T10:20:00+08:00
+    date: 2024-10-11T04:21:00+08:00
+    lastmod: 2024-10-11T04:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['grandmother', 'you.', 'cherished', 'memories', 'your', 'Dream', 'sharing', 'of', 'with']
+    tags: ['Dream', 'sharing', 'grandmother', 'cherished', 'you', 'memories']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams are not directly correlated with luck. However, this dream might be consi
 | Lucky Animal        | Parrot |
 | Lucky Place         | Museum     |
 | Lucky Color         | Black     |
-| Lucky Food          | Quiche      |
-| Lucky Instrument    | Zither |
-| Lucky Flower        | Petal Plant    |
-| Lucky Job           | Technical Writer       |
-| Lucky Exercise      | Hammer Throw  |
-| Lucky Country       | Finland    |
+| Lucky Food          | Tacos      |
+| Lucky Instrument    | Bongo Drums |
+| Lucky Flower        | Clover Blossom    |
+| Lucky Job           | Customer Service Representative       |
+| Lucky Exercise      | Kayaking  |
+| Lucky Country       | Egypt    |
 
 
 ##  Final Reflections on Dreams

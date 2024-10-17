@@ -1,8 +1,8 @@
 ---
     weight: 2174
     title: "Dream of your cat sitting on your lap"  # Assuming 'title' column exists
-    date: 2024-10-13T14:27:00+08:00
-    lastmod: 2024-10-13T14:27:00+08:00
+    date: 2024-10-13T04:21:00+08:00
+    lastmod: 2024-10-13T04:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'cat', 'Dream', 'sitting', 'on', 'lap', 'of']
+    tags: ['Dream', 'sitting', 'lap', 'cat']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream could bring luck in terms of unexpected opportunities or new connecti
 | Lucky Animal        | Elephant |
 | Lucky Place         | School     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Duck Confit      |
-| Lucky Instrument    | Conga |
-| Lucky Flower        | Safflower    |
-| Lucky Job           | Archaeologist       |
-| Lucky Exercise      | Hiking  |
-| Lucky Country       | Nauru    |
+| Lucky Food          | Chowder      |
+| Lucky Instrument    | Bagpipes |
+| Lucky Flower        | Bluebell    |
+| Lucky Job           | Security Guard       |
+| Lucky Exercise      | Dancing  |
+| Lucky Country       | Brunei    |
 
 
 ##  Final Reflections on Dreams

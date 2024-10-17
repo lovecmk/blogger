@@ -1,8 +1,8 @@
 ---
     weight: 429
     title: "Dreams that continue to run away"  # Assuming 'title' column exists
-    date: 2024-10-13T16:00:00+08:00
-    lastmod: 2024-10-13T16:00:00+08:00
+    date: 2024-10-14T23:32:00+08:00
+    lastmod: 2024-10-14T23:32:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['to', 'away', 'run', 'continue', 'Dreams', 'that']
+    tags: ['continue', 'away', 'to', 'Dreams', 'that', 'run']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ It is rare for 'dreams to run away' luck.This dream mainly symbolizes difficulti
 | Lucky Animal        | Owl |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Nachos      |
-| Lucky Instrument    | Guitarlele |
-| Lucky Flower        | Mandevilla    |
-| Lucky Job           | Consultant       |
-| Lucky Exercise      | Plank  |
-| Lucky Country       | Greece    |
+| Lucky Food          | Hummus      |
+| Lucky Instrument    | Cowbell |
+| Lucky Flower        | Periwinkle    |
+| Lucky Job           | Pilot       |
+| Lucky Exercise      | Pull-Ups  |
+| Lucky Country       | Poland    |
 
 
 ##  Final Reflections on Dreams

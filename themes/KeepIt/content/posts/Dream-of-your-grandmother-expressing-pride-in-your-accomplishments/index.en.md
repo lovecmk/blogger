@@ -1,8 +1,8 @@
 ---
     weight: 1995
     title: "Dream of fighting with authority figures"  # Assuming 'title' column exists
-    date: 2024-10-13T22:55:00+08:00
-    lastmod: 2024-10-13T22:55:00+08:00
+    date: 2024-10-14T01:43:00+08:00
+    lastmod: 2024-10-14T01:43:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['authority', 'fighting', 'figures', 'Dream', 'of', 'with']
+    tags: ['Dream', 'figures', 'fighting', 'authority']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Panda |
 | Lucky Place         | Theater     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Brownies      |
-| Lucky Instrument    | Harmonium |
-| Lucky Flower        | Marigold    |
-| Lucky Job           | Plumber       |
-| Lucky Exercise      | Rowing  |
-| Lucky Country       | South Africa    |
+| Lucky Food          | Prawn Crackers      |
+| Lucky Instrument    | Electric Violin |
+| Lucky Flower        | Begonia    |
+| Lucky Job           | Logistician       |
+| Lucky Exercise      | Hiking  |
+| Lucky Country       | France    |
 
 
 ##  Final Reflections on Dreams

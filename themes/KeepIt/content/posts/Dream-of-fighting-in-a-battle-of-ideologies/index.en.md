@@ -1,8 +1,8 @@
 ---
     weight: 1863
     title: "Dream of doing a challenging escape room or puzzle together with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T03:17:00+08:00
-    lastmod: 2024-10-13T03:17:00+08:00
+    date: 2024-10-15T08:52:00+08:00
+    lastmod: 2024-10-15T08:52:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['room', 'together', 'or', 'your', 'boyfriend', 'doing', 'Dream', 'challenging', 'a', 'escape', 'puzzle', 'of', 'with']
+    tags: ['doing', 'Dream', 'boyfriend', 'escape', 'puzzle', 'challenging', 'room', 'together']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hippo |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Black     |
-| Lucky Food          | Vegetarian Chili      |
-| Lucky Instrument    | Tenor Guitar |
-| Lucky Flower        | Pelargonium    |
-| Lucky Job           | Journalist       |
-| Lucky Exercise      | Kayaking  |
-| Lucky Country       | Ukraine    |
+| Lucky Food          | Pasta Primavera      |
+| Lucky Instrument    | Keyboard Synthesizer |
+| Lucky Flower        | Hibiscus    |
+| Lucky Job           | Consultant       |
+| Lucky Exercise      | Weightlifting  |
+| Lucky Country       | Italy    |
 
 
 ##  Final Reflections on Dreams

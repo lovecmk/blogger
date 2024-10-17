@@ -1,8 +1,8 @@
 ---
     weight: 1748
     title: "Dream of your husband laughing and enjoying a family picnic."  # Assuming 'title' column exists
-    date: 2024-10-13T07:25:00+08:00
-    lastmod: 2024-10-13T07:25:00+08:00
+    date: 2024-10-11T10:37:00+08:00
+    lastmod: 2024-10-11T10:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'enjoying', 'laughing', 'your', 'picnic.', 'Dream', 'husband', 'a', 'and', 'of']
+    tags: ['family', 'Dream', 'enjoying', 'husband', 'picnic', 'laughing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Chicken |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Onion Rings      |
-| Lucky Instrument    | Soprano Recorder |
-| Lucky Flower        | Narcissus    |
-| Lucky Job           | Copywriter       |
-| Lucky Exercise      | Cricket  |
-| Lucky Country       | Latvia    |
+| Lucky Food          | Nachos      |
+| Lucky Instrument    | Viola |
+| Lucky Flower        | Mandevilla    |
+| Lucky Job           | Architect       |
+| Lucky Exercise      | Spin Class  |
+| Lucky Country       | Greece    |
 
 
 ##  Final Reflections on Dreams

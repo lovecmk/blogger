@@ -1,8 +1,8 @@
 ---
     weight: 1881
     title: "Dream of fighting against oppression"  # Assuming 'title' column exists
-    date: 2024-10-13T07:51:00+08:00
-    lastmod: 2024-10-13T07:51:00+08:00
+    date: 2024-10-12T18:40:00+08:00
+    lastmod: 2024-10-12T18:40:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fighting', 'against', 'Dream', 'of', 'oppression']
+    tags: ['Dream', 'oppression', 'fighting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream can bring luck in the form of increased self-awareness, a stronger se
 | Lucky Animal        | Sloth |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Baked Potato      |
-| Lucky Instrument    | Mandolin |
-| Lucky Flower        | Fuchsia    |
-| Lucky Job           | Historian       |
-| Lucky Exercise      | Dancing  |
-| Lucky Country       | Malta    |
+| Lucky Food          | Sushi      |
+| Lucky Instrument    | Accordion Synth |
+| Lucky Flower        | Hydrangea    |
+| Lucky Job           | Project Manager       |
+| Lucky Exercise      | Basketball  |
+| Lucky Country       | Georgia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 89
     title: "Dream of talking with her husband"  # Assuming 'title' column exists
-    date: 2024-10-13T12:40:00+08:00
-    lastmod: 2024-10-13T12:40:00+08:00
+    date: 2024-10-13T21:34:00+08:00
+    lastmod: 2024-10-13T21:34:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['her', 'talking', 'Dream', 'husband', 'of', 'with']
+    tags: ['Dream', 'talking', 'her', 'husband']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'dreams of watching stars with her husband' can vary depending on th
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Park     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Fish and Chips      |
-| Lucky Instrument    | Conga |
-| Lucky Flower        | Bellflower    |
-| Lucky Job           | Operations Manager       |
-| Lucky Exercise      | Boxing  |
-| Lucky Country       | Slovakia    |
+| Lucky Food          | Caprese Skewers      |
+| Lucky Instrument    | Synthesizer |
+| Lucky Flower        | Firecracker Plant    |
+| Lucky Job           | Veterinarian       |
+| Lucky Exercise      | Parkour Training  |
+| Lucky Country       | Western Sahara    |
 
 
 ##  Final Reflections on Dreams

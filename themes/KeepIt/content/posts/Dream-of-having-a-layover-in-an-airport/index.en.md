@@ -1,8 +1,8 @@
 ---
     weight: 1430
     title: "Dream of having a layover in an airport"  # Assuming 'title' column exists
-    date: 2024-10-13T17:37:00+08:00
-    lastmod: 2024-10-13T17:37:00+08:00
+    date: 2024-10-12T20:38:00+08:00
+    lastmod: 2024-10-12T20:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'layover', 'a', 'an', 'in', 'airport', 'of', 'having']
+    tags: ['Dream', 'layover', 'airport', 'having', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams are not considered a direct source of luck or fortune. However, this drea
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Park     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Risotto      |
-| Lucky Instrument    | Drums |
-| Lucky Flower        | Poppy    |
-| Lucky Job           | Interpreter       |
-| Lucky Exercise      | Snowboarding  |
-| Lucky Country       | Romania    |
+| Lucky Food          | Stuffed Peppers      |
+| Lucky Instrument    | Xylophone |
+| Lucky Flower        | Calla Lily    |
+| Lucky Job           | Business Analyst       |
+| Lucky Exercise      | Active Recovery  |
+| Lucky Country       | Switzerland    |
 
 
 ##  Final Reflections on Dreams

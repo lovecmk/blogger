@@ -1,8 +1,8 @@
 ---
     weight: 966
     title: "Dream of falling into a puddle"  # Assuming 'title' column exists
-    date: 2024-10-13T12:32:00+08:00
-    lastmod: 2024-10-13T12:32:00+08:00
+    date: 2024-10-13T04:45:00+08:00
+    lastmod: 2024-10-13T04:45:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['into', 'falling', 'Dream', 'a', 'puddle', 'of']
+    tags: ['Dream', 'puddle', 'into', 'falling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream is to be faced in a difficult situation, but at the same time it can 
 | Lucky Animal        | Cheetah |
 | Lucky Place         | River     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Pork Belly      |
-| Lucky Instrument    | Harp |
-| Lucky Flower        | Bee Balm    |
-| Lucky Job           | Bus Driver       |
+| Lucky Food          | Baked Ziti      |
+| Lucky Instrument    | Wooden Flute |
+| Lucky Flower        | Periwinkle    |
+| Lucky Job           | Real Estate Agent       |
 | Lucky Exercise      | Jump Squats  |
-| Lucky Country       | Kuwait    |
+| Lucky Country       | Zambia    |
 
 
 ##  Final Reflections on Dreams

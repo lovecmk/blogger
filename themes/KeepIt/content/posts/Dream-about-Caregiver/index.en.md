@@ -1,8 +1,8 @@
 ---
     weight: 1201
     title: "Dream about Caregiver"  # Assuming 'title' column exists
-    date: 2024-10-13T08:21:00+08:00
-    lastmod: 2024-10-13T08:21:00+08:00
+    date: 2024-10-11T19:02:00+08:00
+    lastmod: 2024-10-11T19:02:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Caregiver', 'about', 'Dream']
+    tags: ['Dream', 'Caregiver']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,11 +59,11 @@ The luck of 'career' dreams means that you can feel happiness and satisfaction t
 | Lucky Animal        | Ostrich |
 | Lucky Place         | Park     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Caprese Skewers      |
-| Lucky Instrument    | Calimba |
-| Lucky Flower        | Heliotrope    |
-| Lucky Job           | Brand Manager       |
-| Lucky Exercise      | Box Jumps  |
+| Lucky Food          | Fruit Salad      |
+| Lucky Instrument    | Harmonica |
+| Lucky Flower        | Hellebore    |
+| Lucky Job           | Copywriter       |
+| Lucky Exercise      | Mountain Climbers  |
 | Lucky Country       | Vietnam    |
 
 

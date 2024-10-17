@@ -1,8 +1,8 @@
 ---
     weight: 1042
     title: "Dream about Koala"  # Assuming 'title' column exists
-    date: 2024-10-13T09:44:00+08:00
-    lastmod: 2024-10-13T09:44:00+08:00
+    date: 2024-10-14T02:32:00+08:00
+    lastmod: 2024-10-14T02:32:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Koala', 'about', 'Dream']
+    tags: ['Koala', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can have a symbolic meaning of luck.Koala is a calm and comfortable s
 | Lucky Animal        | Tiger |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Eggplant Parmesan      |
-| Lucky Instrument    | Piccolo Trumpet |
-| Lucky Flower        | Strelitzia    |
-| Lucky Job           | Dentist       |
-| Lucky Exercise      | Leg Press  |
-| Lucky Country       | Marshall Islands    |
+| Lucky Food          | Baked Potato      |
+| Lucky Instrument    | Trombone Slide |
+| Lucky Flower        | Alyssum    |
+| Lucky Job           | Anthropologist       |
+| Lucky Exercise      | Body Pump  |
+| Lucky Country       | Jordan    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1667
     title: "Dream of being abandoned by a parent"  # Assuming 'title' column exists
-    date: 2024-10-13T14:12:00+08:00
-    lastmod: 2024-10-13T14:12:00+08:00
+    date: 2024-10-13T17:59:00+08:00
+    lastmod: 2024-10-13T17:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['parent', 'Dream', 'being', 'abandoned', 'a', 'by', 'of']
+    tags: ['being', 'abandoned', 'Dream', 'parent']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Goose |
 | Lucky Place         | Beach     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Cornbread      |
-| Lucky Instrument    | Bouzouki |
-| Lucky Flower        | Bougainvillea    |
-| Lucky Job           | Translator       |
-| Lucky Exercise      | Lacrosse  |
-| Lucky Country       | Kenya    |
+| Lucky Food          | Shrimp      |
+| Lucky Instrument    | Clavichord |
+| Lucky Flower        | Monkey Grass    |
+| Lucky Job           | Welder       |
+| Lucky Exercise      | Circuit Training  |
+| Lucky Country       | Poland    |
 
 
 ##  Final Reflections on Dreams

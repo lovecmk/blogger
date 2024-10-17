@@ -1,8 +1,8 @@
 ---
     weight: 1974
     title: "Dream of fighting for freedom"  # Assuming 'title' column exists
-    date: 2024-10-13T01:10:00+08:00
-    lastmod: 2024-10-13T01:10:00+08:00
+    date: 2024-10-14T07:17:00+08:00
+    lastmod: 2024-10-14T07:17:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fighting', 'Dream', 'for', 'freedom', 'of']
+    tags: ['Dream', 'fighting', 'freedom']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Lake     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Shrimp      |
-| Lucky Instrument    | Trumpet |
-| Lucky Flower        | Heather    |
-| Lucky Job           | IT Specialist       |
-| Lucky Exercise      | Basketball  |
-| Lucky Country       | Sweden    |
+| Lucky Food          | Sushi Roll      |
+| Lucky Instrument    | Oboe |
+| Lucky Flower        | Pincushion Flower    |
+| Lucky Job           | Baker       |
+| Lucky Exercise      | Sprinting  |
+| Lucky Country       | Slovakia    |
 
 
 ##  Final Reflections on Dreams

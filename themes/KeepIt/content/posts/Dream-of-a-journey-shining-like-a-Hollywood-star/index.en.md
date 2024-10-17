@@ -1,8 +1,8 @@
 ---
     weight: 759
     title: "Dream of a journey shining like a Hollywood star"  # Assuming 'title' column exists
-    date: 2024-10-13T17:43:00+08:00
-    lastmod: 2024-10-13T17:43:00+08:00
+    date: 2024-10-14T03:31:00+08:00
+    lastmod: 2024-10-14T03:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['like', 'star', 'journey', 'Dream', 'a', 'shining', 'of', 'Hollywood']
+    tags: ['shining', 'Dream', 'star', 'journey', 'Hollywood', 'like']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can be interpreted as a sign of luck.A shining journey like a Hollywo
 | Lucky Animal        | Hamster |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Hot Dog      |
-| Lucky Instrument    | Lyre |
-| Lucky Flower        | Sunflower    |
-| Lucky Job           | Oceanographer       |
-| Lucky Exercise      | Aqua Aerobics  |
-| Lucky Country       | Botswana    |
+| Lucky Food          | Omelette      |
+| Lucky Instrument    | Zouaves |
+| Lucky Flower        | Scabiosa    |
+| Lucky Job           | Hair Stylist       |
+| Lucky Exercise      | Capoeira  |
+| Lucky Country       | Malawi    |
 
 
 ##  Final Reflections on Dreams

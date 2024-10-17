@@ -1,8 +1,8 @@
 ---
     weight: 465
     title: "Dreams of uncomfortable due to guilt or shame"  # Assuming 'title' column exists
-    date: 2024-10-13T04:07:00+08:00
-    lastmod: 2024-10-13T04:07:00+08:00
+    date: 2024-10-13T04:31:00+08:00
+    lastmod: 2024-10-13T04:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'to', 'uncomfortable', 'shame', 'guilt', 'due', 'Dreams', 'of']
+    tags: ['due', 'to', 'guilt', 'Dreams', 'uncomfortable', 'shame']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be accepted differently depending on the individual's
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Onion Rings      |
-| Lucky Instrument    | Banjo |
-| Lucky Flower        | Nasturtium    |
-| Lucky Job           | Scientist       |
-| Lucky Exercise      | Soccer  |
-| Lucky Country       | Saudi Arabia    |
+| Lucky Food          | Duck Confit      |
+| Lucky Instrument    | Violin |
+| Lucky Flower        | Scented Geranium    |
+| Lucky Job           | Writer       |
+| Lucky Exercise      | Slacklining  |
+| Lucky Country       | Turkey    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1156
     title: "Dream about Health club"  # Assuming 'title' column exists
-    date: 2024-10-13T17:17:00+08:00
-    lastmod: 2024-10-13T17:17:00+08:00
+    date: 2024-10-14T19:38:00+08:00
+    lastmod: 2024-10-14T19:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['club', 'about', 'Dream', 'Health']
+    tags: ['club', 'Dream', 'Health']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can show you your health and good luck.Health Club is a symbol of sel
 | Lucky Animal        | Owl |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Cheeseboard      |
-| Lucky Instrument    | Cajón |
-| Lucky Flower        | Hellebore    |
-| Lucky Job           | Sales Manager       |
-| Lucky Exercise      | Rock Climbing  |
-| Lucky Country       | Namibia    |
+| Lucky Food          | Nachos      |
+| Lucky Instrument    | Sackbut |
+| Lucky Flower        | Scented Geranium    |
+| Lucky Job           | Life Coach       |
+| Lucky Exercise      | Crunches  |
+| Lucky Country       | Sweden    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 113
     title: "Dream of visiting your favorite place with your husband"  # Assuming 'title' column exists
-    date: 2024-10-13T16:09:00+08:00
-    lastmod: 2024-10-13T16:09:00+08:00
+    date: 2024-10-12T23:31:00+08:00
+    lastmod: 2024-10-12T23:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'favorite', 'Dream', 'visiting', 'husband', 'place', 'of', 'with']
+    tags: ['favorite', 'Dream', 'visiting', 'place', 'husband']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can provide a variety of luck according to a personal interpretation.
 | Lucky Animal        | Cat |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Black     |
-| Lucky Food          | Pizza      |
-| Lucky Instrument    | Calimba |
-| Lucky Flower        | Lavender    |
-| Lucky Job           | Logistician       |
-| Lucky Exercise      | Gymnastics  |
-| Lucky Country       | Botswana    |
+| Lucky Food          | Bruschetta      |
+| Lucky Instrument    | Snare Drum |
+| Lucky Flower        | Butterfly Bush    |
+| Lucky Job           | Social Worker       |
+| Lucky Exercise      | Discus Throw  |
+| Lucky Country       | Palau    |
 
 
 ##  Final Reflections on Dreams

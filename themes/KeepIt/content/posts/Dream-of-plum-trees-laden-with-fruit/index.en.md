@@ -1,8 +1,8 @@
 ---
     weight: 1656
     title: "Dream of your cat purring contentedly"  # Assuming 'title' column exists
-    date: 2024-10-13T15:18:00+08:00
-    lastmod: 2024-10-13T15:18:00+08:00
+    date: 2024-10-14T20:34:00+08:00
+    lastmod: 2024-10-14T20:34:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'cat', 'Dream', 'contentedly', 'of', 'purring']
+    tags: ['Dream', 'cat', 'purring', 'contentedly']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Baked Potato      |
-| Lucky Instrument    | Triangle |
-| Lucky Flower        | Alstroemeria    |
-| Lucky Job           | User Researcher       |
-| Lucky Exercise      | Step Aerobics  |
-| Lucky Country       | Greece    |
+| Lucky Food          | Pizza      |
+| Lucky Instrument    | Castanets |
+| Lucky Flower        | Tulip    |
+| Lucky Job           | Makeup Artist       |
+| Lucky Exercise      | Ballet  |
+| Lucky Country       | Philippines    |
 
 
 ##  Final Reflections on Dreams

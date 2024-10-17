@@ -1,8 +1,8 @@
 ---
     weight: 1027
     title: "Dream of feeling tranquility"  # Assuming 'title' column exists
-    date: 2024-10-13T12:32:00+08:00
-    lastmod: 2024-10-13T12:32:00+08:00
+    date: 2024-10-12T07:29:00+08:00
+    lastmod: 2024-10-12T07:29:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'feeling', 'tranquility', 'Dream']
+    tags: ['tranquility', 'Dream', 'feeling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be in that it makes you feel inner stability and peac
 | Lucky Animal        | Gorilla |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Zucchini Noodles      |
-| Lucky Instrument    | Bass Drum |
-| Lucky Flower        | Maranta    |
-| Lucky Job           | Philosopher       |
-| Lucky Exercise      | Parkour  |
-| Lucky Country       | Tonga    |
+| Lucky Food          | Beef Wellington      |
+| Lucky Instrument    | Sitar |
+| Lucky Flower        | Clover    |
+| Lucky Job           | Neuroscientist       |
+| Lucky Exercise      | Walking  |
+| Lucky Country       | Greece    |
 
 
 ##  Final Reflections on Dreams

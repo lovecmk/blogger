@@ -1,8 +1,8 @@
 ---
     weight: 2167
     title: "Dream of dying in a tragic accident"  # Assuming 'title' column exists
-    date: 2024-10-13T11:29:00+08:00
-    lastmod: 2024-10-13T11:29:00+08:00
+    date: 2024-10-11T15:43:00+08:00
+    lastmod: 2024-10-11T15:43:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dying', 'Dream', 'tragic', 'a', 'accident', 'in', 'of']
+    tags: ['Dream', 'tragic', 'dying', 'accident']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Scone      |
-| Lucky Instrument    | Sitar |
-| Lucky Flower        | Lotus    |
-| Lucky Job           | Doctor       |
-| Lucky Exercise      | Pull-Ups  |
-| Lucky Country       | Nigeria    |
+| Lucky Food          | Guacamole      |
+| Lucky Instrument    | Harp |
+| Lucky Flower        | Pincushion Flower    |
+| Lucky Job           | Artist       |
+| Lucky Exercise      | Snowboarding  |
+| Lucky Country       | Syria    |
 
 
 ##  Final Reflections on Dreams

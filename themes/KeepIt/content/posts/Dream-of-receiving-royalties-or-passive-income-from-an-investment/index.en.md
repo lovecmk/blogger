@@ -1,8 +1,8 @@
 ---
     weight: 1851
     title: "Dream of your grandmother giving you heartfelt advice about life."  # Assuming 'title' column exists
-    date: 2024-10-13T07:05:00+08:00
-    lastmod: 2024-10-13T07:05:00+08:00
+    date: 2024-10-14T09:59:00+08:00
+    lastmod: 2024-10-14T09:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['grandmother', 'advice', 'about', 'your', 'giving', 'Dream', 'heartfelt', 'of', 'life.', 'you']
+    tags: ['life', 'Dream', 'heartfelt', 'grandmother', 'giving', 'you', 'advice']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Parrot |
 | Lucky Place         | Park     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Cheeseboard      |
-| Lucky Instrument    | French Horn |
-| Lucky Flower        | Heather    |
-| Lucky Job           | Veterinarian       |
-| Lucky Exercise      | Rock Climbing  |
-| Lucky Country       | Canada    |
+| Lucky Food          | Onion Rings      |
+| Lucky Instrument    | Fujara |
+| Lucky Flower        | Stock    |
+| Lucky Job           | Event Coordinator       |
+| Lucky Exercise      | Underwater Diving  |
+| Lucky Country       | Portugal    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1929
     title: "Dream of being visited by an ancestor in a moment of contemplation."  # Assuming 'title' column exists
-    date: 2024-10-13T04:38:00+08:00
-    lastmod: 2024-10-13T04:38:00+08:00
+    date: 2024-10-13T01:36:00+08:00
+    lastmod: 2024-10-13T01:36:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['visited', 'moment', 'Dream', 'being', 'a', 'an', 'ancestor', 'by', 'contemplation.', 'in', 'of']
+    tags: ['being', 'Dream', 'contemplation', 'an', 'moment', 'ancestor', 'visited']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Sushi Roll      |
-| Lucky Instrument    | Sackbut |
-| Lucky Flower        | Narcissus    |
-| Lucky Job           | Event Planner       |
-| Lucky Exercise      | Ultimate Frisbee  |
-| Lucky Country       | Japan    |
+| Lucky Food          | Pico de Gallo      |
+| Lucky Instrument    | Electric Violin |
+| Lucky Flower        | Aster    |
+| Lucky Job           | Chemist       |
+| Lucky Exercise      | Circuit Workout  |
+| Lucky Country       | Azerbaijan    |
 
 
 ##  Final Reflections on Dreams

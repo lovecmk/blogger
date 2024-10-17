@@ -1,8 +1,8 @@
 ---
     weight: 1871
     title: "Dream of receiving financial support during a time of need."  # Assuming 'title' column exists
-    date: 2024-10-13T06:56:00+08:00
-    lastmod: 2024-10-13T06:56:00+08:00
+    date: 2024-10-11T00:53:00+08:00
+    lastmod: 2024-10-11T00:53:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['receiving', 'need.', 'financial', 'Dream', 'during', 'a', 'time', 'of', 'support']
+    tags: ['Dream', 'support', 'receiving', 'need', 'time', 'financial']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings the luck of experiencing a deep and meaningful connection in y
 | Lucky Animal        | Hyena |
 | Lucky Place         | River     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Chowder      |
-| Lucky Instrument    | Bass Drum |
-| Lucky Flower        | Edelweiss    |
-| Lucky Job           | Archaeologist       |
-| Lucky Exercise      | Interval Training  |
-| Lucky Country       | Zimbabwe    |
+| Lucky Food          | Pudding      |
+| Lucky Instrument    | Saxophone |
+| Lucky Flower        | Borage    |
+| Lucky Job           | Graphic Designer       |
+| Lucky Exercise      | Water Polo  |
+| Lucky Country       | Nepal    |
 
 
 ##  Final Reflections on Dreams

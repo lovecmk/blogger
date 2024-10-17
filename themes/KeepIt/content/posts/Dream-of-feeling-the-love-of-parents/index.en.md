@@ -1,8 +1,8 @@
 ---
     weight: 173
     title: "Dream of feeling the love of parents"  # Assuming 'title' column exists
-    date: 2024-10-13T06:24:00+08:00
-    lastmod: 2024-10-13T06:24:00+08:00
+    date: 2024-10-12T21:52:00+08:00
+    lastmod: 2024-10-12T21:52:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['feeling', 'parents', 'the', 'Dream', 'love', 'of']
+    tags: ['Dream', 'love', 'feeling', 'parents']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The dream of feeling the love of parents can generally be lucky because it symbo
 | Lucky Animal        | Seagull |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Tacos      |
-| Lucky Instrument    | Triangle |
-| Lucky Flower        | Zinnia    |
-| Lucky Job           | Nuclear Engineer       |
-| Lucky Exercise      | Sprinting  |
-| Lucky Country       | Namibia    |
+| Lucky Food          | Tofu      |
+| Lucky Instrument    | Kettledrum |
+| Lucky Flower        | Ranunculus    |
+| Lucky Job           | Copywriter       |
+| Lucky Exercise      | Baseball  |
+| Lucky Country       | Kiribati    |
 
 
 ##  Final Reflections on Dreams

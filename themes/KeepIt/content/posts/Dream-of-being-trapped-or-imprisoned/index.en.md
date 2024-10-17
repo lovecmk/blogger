@@ -1,8 +1,8 @@
 ---
     weight: 2075
     title: "Dream of tasting a fig for the first time"  # Assuming 'title' column exists
-    date: 2024-10-13T21:40:00+08:00
-    lastmod: 2024-10-13T21:40:00+08:00
+    date: 2024-10-11T15:46:00+08:00
+    lastmod: 2024-10-11T15:46:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'first', 'Dream', 'for', 'a', 'time', 'tasting', 'of', 'fig']
+    tags: ['fig', 'Dream', 'tasting', 'first', 'time']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hyena |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Tacos      |
-| Lucky Instrument    | Ney |
-| Lucky Flower        | Daffodil    |
-| Lucky Job           | Research Scientist       |
-| Lucky Exercise      | Futsal  |
-| Lucky Country       | Hungary    |
+| Lucky Food          | Pesto      |
+| Lucky Instrument    | Sitar |
+| Lucky Flower        | Chrysanthemum    |
+| Lucky Job           | Interpreter       |
+| Lucky Exercise      | Salsa  |
+| Lucky Country       | Malta    |
 
 
 ##  Final Reflections on Dreams

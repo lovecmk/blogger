@@ -1,8 +1,8 @@
 ---
     weight: 254
     title: "Dream of surfing in a wave"  # Assuming 'title' column exists
-    date: 2024-10-13T19:55:00+08:00
-    lastmod: 2024-10-13T19:55:00+08:00
+    date: 2024-10-13T20:57:00+08:00
+    lastmod: 2024-10-13T20:57:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'wave', 'a', 'in', 'of', 'surfing']
+    tags: ['Dream', 'surfing', 'wave']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can symbolize the energy of luck and positive change.The experience a
 | Lucky Animal        | Mole |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Beef Wellington      |
-| Lucky Instrument    | Castanets |
-| Lucky Flower        | Feverfew    |
-| Lucky Job           | Technical Writer       |
-| Lucky Exercise      | Soccer  |
-| Lucky Country       | Czech Republic    |
+| Lucky Food          | Lentil Soup      |
+| Lucky Instrument    | Accordion Synth |
+| Lucky Flower        | Verbena    |
+| Lucky Job           | Game Developer       |
+| Lucky Exercise      | Spin Class  |
+| Lucky Country       | Mozambique    |
 
 
 ##  Final Reflections on Dreams

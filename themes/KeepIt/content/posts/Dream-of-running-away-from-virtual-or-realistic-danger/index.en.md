@@ -1,8 +1,8 @@
 ---
     weight: 391
     title: "Dream of running away from virtual or realistic danger"  # Assuming 'title' column exists
-    date: 2024-10-13T04:43:00+08:00
-    lastmod: 2024-10-13T04:43:00+08:00
+    date: 2024-10-11T18:33:00+08:00
+    lastmod: 2024-10-11T18:33:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'running', 'away', 'Dream', 'virtual', 'danger', 'realistic', 'from', 'of']
+    tags: ['Dream', 'virtual', 'running', 'from', 'realistic', 'away', 'danger']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can express the ability to get out of danger or difficult
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Sea     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Beef Stroganoff      |
-| Lucky Instrument    | Cymbals |
-| Lucky Flower        | Petunia    |
-| Lucky Job           | Accountant       |
-| Lucky Exercise      | Squash  |
-| Lucky Country       | United States    |
+| Lucky Food          | Crab      |
+| Lucky Instrument    | Maracas |
+| Lucky Flower        | Lily    |
+| Lucky Job           | Social Worker       |
+| Lucky Exercise      | Ashtanga Yoga  |
+| Lucky Country       | Nepal    |
 
 
 ##  Final Reflections on Dreams

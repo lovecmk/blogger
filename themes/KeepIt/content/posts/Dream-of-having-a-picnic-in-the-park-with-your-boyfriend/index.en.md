@@ -1,8 +1,8 @@
 ---
     weight: 2113
     title: "Dream of your husband surprising you with a thoughtful gift."  # Assuming 'title' column exists
-    date: 2024-10-13T15:36:00+08:00
-    lastmod: 2024-10-13T15:36:00+08:00
+    date: 2024-10-15T10:24:00+08:00
+    lastmod: 2024-10-15T10:24:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['with', 'surprising', 'your', 'thoughtful', 'Dream', 'gift.', 'husband', 'a', 'of', 'you']
+    tags: ['Dream', 'gift', 'surprising', 'thoughtful', 'husband', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings a sense of fortune and luck. It signifies that you have the po
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Sea     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Noodles      |
-| Lucky Instrument    | Fujara |
-| Lucky Flower        | Nymphaea    |
-| Lucky Job           | Architect       |
-| Lucky Exercise      | Kayaking  |
-| Lucky Country       | Tanzania    |
+| Lucky Food          | Samosa      |
+| Lucky Instrument    | Guitar |
+| Lucky Flower        | Gladiolus    |
+| Lucky Job           | Geologist       |
+| Lucky Exercise      | Parkour  |
+| Lucky Country       | Thailand    |
 
 
 ##  Final Reflections on Dreams

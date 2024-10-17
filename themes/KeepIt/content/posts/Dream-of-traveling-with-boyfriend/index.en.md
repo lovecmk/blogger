@@ -1,8 +1,8 @@
 ---
     weight: 320
     title: "Dream of traveling with boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T00:38:00+08:00
-    lastmod: 2024-10-13T00:38:00+08:00
+    date: 2024-10-15T10:16:00+08:00
+    lastmod: 2024-10-15T10:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'boyfriend', 'traveling', 'Dream', 'with']
+    tags: ['Dream', 'boyfriend', 'traveling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Luck in 'Dreams of Traveling with Boyfriend' can vary.This dream can symbolize t
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Lake     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Popcorn      |
-| Lucky Instrument    | Conga |
-| Lucky Flower        | Edelweiss    |
-| Lucky Job           | Data Scientist       |
-| Lucky Exercise      | Body Pump  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Omelette      |
+| Lucky Instrument    | Glockenspiel |
+| Lucky Flower        | Sundew    |
+| Lucky Job           | Firefighter       |
+| Lucky Exercise      | Ballet  |
+| Lucky Country       | Portugal    |
 
 
 ##  Final Reflections on Dreams

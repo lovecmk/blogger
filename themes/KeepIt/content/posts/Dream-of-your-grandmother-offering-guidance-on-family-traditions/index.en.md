@@ -1,8 +1,8 @@
 ---
     weight: 1963
     title: "Dream of doing a workout or fitness challenge together with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T16:52:00+08:00
-    lastmod: 2024-10-13T16:52:00+08:00
+    date: 2024-10-15T08:32:00+08:00
+    lastmod: 2024-10-15T08:32:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['workout', 'fitness', 'together', 'or', 'your', 'boyfriend', 'doing', 'Dream', 'a', 'of', 'with', 'challenge']
+    tags: ['doing', 'challenge', 'Dream', 'boyfriend', 'workout', 'fitness', 'together']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Pork Chops      |
-| Lucky Instrument    | Piccolo Trumpet |
-| Lucky Flower        | Magnolia    |
-| Lucky Job           | Actor       |
-| Lucky Exercise      | Parkour  |
-| Lucky Country       | Serbia    |
+| Lucky Food          | Lasagna      |
+| Lucky Instrument    | Lute |
+| Lucky Flower        | Heather    |
+| Lucky Job           | Construction Worker       |
+| Lucky Exercise      | Hula Hooping  |
+| Lucky Country       | Philippines    |
 
 
 ##  Final Reflections on Dreams

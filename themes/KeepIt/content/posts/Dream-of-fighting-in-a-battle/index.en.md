@@ -1,8 +1,8 @@
 ---
     weight: 2187
     title: "Dream of fighting in a schoolyard"  # Assuming 'title' column exists
-    date: 2024-10-13T11:17:00+08:00
-    lastmod: 2024-10-13T11:17:00+08:00
+    date: 2024-10-12T06:18:00+08:00
+    lastmod: 2024-10-12T06:18:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fighting', 'Dream', 'a', 'schoolyard', 'in', 'of']
+    tags: ['Dream', 'schoolyard', 'fighting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hippo |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Green     |
-| Lucky Food          | Pesto      |
-| Lucky Instrument    | Saxophone |
-| Lucky Flower        | Buttercup    |
-| Lucky Job           | Statistician       |
-| Lucky Exercise      | Circuit Training  |
-| Lucky Country       | Hungary    |
+| Lucky Food          | Tofu      |
+| Lucky Instrument    | Calimba |
+| Lucky Flower        | Lobelia    |
+| Lucky Job           | Pastry Chef       |
+| Lucky Exercise      | Powerlifting  |
+| Lucky Country       | Laos    |
 
 
 ##  Final Reflections on Dreams

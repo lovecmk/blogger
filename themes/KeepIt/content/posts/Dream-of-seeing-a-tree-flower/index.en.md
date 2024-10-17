@@ -1,8 +1,8 @@
 ---
     weight: 594
     title: "Dream of seeing a tree flower"  # Assuming 'title' column exists
-    date: 2024-10-13T11:29:00+08:00
-    lastmod: 2024-10-13T11:29:00+08:00
+    date: 2024-10-14T14:49:00+08:00
+    lastmod: 2024-10-14T14:49:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['tree', 'flower', 'seeing', 'Dream', 'a', 'of']
+    tags: ['Dream', 'flower', 'tree', 'seeing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream brings good luck depends on the personal interpretation and situation
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Guacamole      |
-| Lucky Instrument    | Shakuhachi |
-| Lucky Flower        | Bougainvillea    |
-| Lucky Job           | Web Developer       |
-| Lucky Exercise      | Rowing  |
-| Lucky Country       | Laos    |
+| Lucky Food          | Dumplings      |
+| Lucky Instrument    | Saz |
+| Lucky Flower        | Sundew    |
+| Lucky Job           | Life Coach       |
+| Lucky Exercise      | Boxing  |
+| Lucky Country       | Kiribati    |
 
 
 ##  Final Reflections on Dreams

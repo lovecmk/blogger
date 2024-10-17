@@ -1,8 +1,8 @@
 ---
     weight: 2053
     title: "Dream of having a bonfire or barbecue together with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T12:27:00+08:00
-    lastmod: 2024-10-13T12:27:00+08:00
+    date: 2024-10-14T05:45:00+08:00
+    lastmod: 2024-10-14T05:45:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['together', 'or', 'your', 'boyfriend', 'bonfire', 'Dream', 'barbecue', 'a', 'of', 'with', 'having']
+    tags: ['Dream', 'boyfriend', 'barbecue', 'bonfire', 'having', 'together']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Camel |
 | Lucky Place         | Museum     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Nachos      |
-| Lucky Instrument    | Bouzouki |
-| Lucky Flower        | Hollyhock    |
-| Lucky Job           | Biologist       |
-| Lucky Exercise      | Yoga  |
-| Lucky Country       | Tuvalu    |
+| Lucky Food          | Corn on the Cob      |
+| Lucky Instrument    | Horn |
+| Lucky Flower        | Sundew    |
+| Lucky Job           | Psychologist       |
+| Lucky Exercise      | Cycling  |
+| Lucky Country       | Japan    |
 
 
 ##  Final Reflections on Dreams

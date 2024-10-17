@@ -1,8 +1,8 @@
 ---
     weight: 1233
     title: "Dream of being overwhelmed by responsibilities"  # Assuming 'title' column exists
-    date: 2024-10-13T01:52:00+08:00
-    lastmod: 2024-10-13T01:52:00+08:00
+    date: 2024-10-11T20:54:00+08:00
+    lastmod: 2024-10-11T20:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['overwhelmed', 'Dream', 'being', 'responsibilities', 'by', 'of']
+    tags: ['being', 'Dream', 'responsibilities', 'overwhelmed']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Pasta      |
-| Lucky Instrument    | Conga |
-| Lucky Flower        | Yarrow    |
-| Lucky Job           | Art Director       |
-| Lucky Exercise      | Interval Training  |
-| Lucky Country       | Maldives    |
+| Lucky Food          | Fajitas      |
+| Lucky Instrument    | Tabla |
+| Lucky Flower        | Lantana    |
+| Lucky Job           | Environmental Scientist       |
+| Lucky Exercise      | Aerobics  |
+| Lucky Country       | Fiji    |
 
 
 ##  Final Reflections on Dreams

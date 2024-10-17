@@ -1,8 +1,8 @@
 ---
     weight: 433
     title: "Dream of running away from time or realistic constraints"  # Assuming 'title' column exists
-    date: 2024-10-13T13:10:00+08:00
-    lastmod: 2024-10-13T13:10:00+08:00
+    date: 2024-10-13T22:50:00+08:00
+    lastmod: 2024-10-13T22:50:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['constraints', 'or', 'running', 'away', 'Dream', 'time', 'realistic', 'from', 'of']
+    tags: ['Dream', 'running', 'constraints', 'from', 'realistic', 'time', 'away']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream shows the desire to escape freedom and escape, so if you have this dr
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Potato Skins      |
-| Lucky Instrument    | Harmonic Piano |
-| Lucky Flower        | Yarrow    |
-| Lucky Job           | User Researcher       |
-| Lucky Exercise      | Stand-Up Paddleboarding  |
-| Lucky Country       | Czech Republic    |
+| Lucky Food          | Lentil Soup      |
+| Lucky Instrument    | Tenor Banjo |
+| Lucky Flower        | Lobelia    |
+| Lucky Job           | Producer       |
+| Lucky Exercise      | Hot Yoga  |
+| Lucky Country       | Mongolia    |
 
 
 ##  Final Reflections on Dreams

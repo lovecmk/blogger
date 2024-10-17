@@ -1,8 +1,8 @@
 ---
     weight: 802
     title: "Dream of fire after an accident"  # Assuming 'title' column exists
-    date: 2024-10-13T22:13:00+08:00
-    lastmod: 2024-10-13T22:13:00+08:00
+    date: 2024-10-15T21:38:00+08:00
+    lastmod: 2024-10-15T21:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['after', 'fire', 'Dream', 'an', 'accident', 'of']
+    tags: ['Dream', 'fire', 'accident', 'after', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -60,11 +60,11 @@ This dream is more positive.Fire shows change and passion, and thinking also mea
 | Lucky Place         | School     |
 | Lucky Color         | Brown     |
 | Lucky Food          | Waffles      |
-| Lucky Instrument    | Pandeiro |
-| Lucky Flower        | Stephanotis    |
-| Lucky Job           | Copywriter       |
-| Lucky Exercise      | Boxing  |
-| Lucky Country       | Vietnam    |
+| Lucky Instrument    | Electric Violin |
+| Lucky Flower        | Cactus Flower    |
+| Lucky Job           | Nuclear Engineer       |
+| Lucky Exercise      | Cycling  |
+| Lucky Country       | Zimbabwe    |
 
 
 ##  Final Reflections on Dreams

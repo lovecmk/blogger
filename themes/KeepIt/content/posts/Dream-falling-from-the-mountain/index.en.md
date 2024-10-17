@@ -1,8 +1,8 @@
 ---
     weight: 937
     title: "Dream falling from the mountain"  # Assuming 'title' column exists
-    date: 2024-10-13T10:51:00+08:00
-    lastmod: 2024-10-13T10:51:00+08:00
+    date: 2024-10-15T17:22:00+08:00
+    lastmod: 2024-10-15T17:22:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'falling', 'Dream', 'mountain', 'from']
+    tags: ['Dream', 'falling', 'from', 'mountain']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream mainly indicates anxiety and control loss.But it's hard to say that t
 | Lucky Animal        | Lion |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Cornbread      |
-| Lucky Instrument    | Hang Drum |
-| Lucky Flower        | Celosia    |
-| Lucky Job           | Stockbroker       |
-| Lucky Exercise      | Body Pump  |
-| Lucky Country       | Botswana    |
+| Lucky Food          | Beef Tacos      |
+| Lucky Instrument    | Harmonica |
+| Lucky Flower        | Snapdragon    |
+| Lucky Job           | Psychologist       |
+| Lucky Exercise      | Squats  |
+| Lucky Country       | Turkey    |
 
 
 ##  Final Reflections on Dreams

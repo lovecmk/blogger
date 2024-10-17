@@ -1,8 +1,8 @@
 ---
     weight: 1649
     title: "Dream of being a spirit after death"  # Assuming 'title' column exists
-    date: 2024-10-13T00:44:00+08:00
-    lastmod: 2024-10-13T00:44:00+08:00
+    date: 2024-10-14T07:20:00+08:00
+    lastmod: 2024-10-14T07:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['death', 'spirit', 'after', 'Dream', 'being', 'a', 'of']
+    tags: ['being', 'Dream', 'spirit', 'death', 'after']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Prawn Crackers      |
-| Lucky Instrument    | Bouzouki |
-| Lucky Flower        | Hoya    |
-| Lucky Job           | Marketing Manager       |
-| Lucky Exercise      | Jump Squats  |
-| Lucky Country       | Azerbaijan    |
+| Lucky Food          | Fish and Chips      |
+| Lucky Instrument    | Zouaves |
+| Lucky Flower        | Vinca    |
+| Lucky Job           | Interpreter       |
+| Lucky Exercise      | Boxing  |
+| Lucky Country       | Philippines    |
 
 
 ##  Final Reflections on Dreams

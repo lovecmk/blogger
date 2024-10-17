@@ -1,8 +1,8 @@
 ---
     weight: 905
     title: "Dream of being chased by a snake"  # Assuming 'title' column exists
-    date: 2024-10-13T22:45:00+08:00
-    lastmod: 2024-10-13T22:45:00+08:00
+    date: 2024-10-14T18:44:00+08:00
+    lastmod: 2024-10-14T18:44:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['snake', 'Dream', 'being', 'a', 'by', 'of', 'chased']
+    tags: ['being', 'chased', 'Dream', 'snake']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ It can be said that the dream of being chased by a snake can bring good luck.Thi
 | Lucky Animal        | Cat |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Spring Roll      |
-| Lucky Instrument    | Oboe |
-| Lucky Flower        | Sage    |
-| Lucky Job           | Copywriter       |
-| Lucky Exercise      | Resistance Training  |
-| Lucky Country       | Argentina    |
+| Lucky Food          | Samosa      |
+| Lucky Instrument    | Cajón |
+| Lucky Flower        | Cornflower    |
+| Lucky Job           | Web Designer       |
+| Lucky Exercise      | Snowshoeing  |
+| Lucky Country       | Oman    |
 
 
 ##  Final Reflections on Dreams

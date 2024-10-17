@@ -1,8 +1,8 @@
 ---
     weight: 1688
     title: "Dream of your cat listening intently to sounds"  # Assuming 'title' column exists
-    date: 2024-10-13T15:01:00+08:00
-    lastmod: 2024-10-13T15:01:00+08:00
+    date: 2024-10-15T21:02:00+08:00
+    lastmod: 2024-10-15T21:02:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'cat', 'sounds', 'to', 'Dream', 'intently', 'listening', 'of']
+    tags: ['sounds', 'Dream', 'intently', 'listening', 'to', 'cat']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings the luck of a strong and harmonious partnership. It suggests t
 | Lucky Animal        | Raccoon |
 | Lucky Place         | School     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Vegetable Stir Fry      |
-| Lucky Instrument    | Dulcimer |
-| Lucky Flower        | Celosia    |
-| Lucky Job           | Sales Manager       |
-| Lucky Exercise      | Ballet  |
-| Lucky Country       | Sri Lanka    |
+| Lucky Food          | Burger      |
+| Lucky Instrument    | Marimba |
+| Lucky Flower        | Fuchsia    |
+| Lucky Job           | Mathematician       |
+| Lucky Exercise      | Powerlifting  |
+| Lucky Country       | Kiribati    |
 
 
 ##  Final Reflections on Dreams

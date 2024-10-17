@@ -1,8 +1,8 @@
 ---
     weight: 283
     title: "Dream of finding peace of mind"  # Assuming 'title' column exists
-    date: 2024-10-13T06:50:00+08:00
-    lastmod: 2024-10-13T06:50:00+08:00
+    date: 2024-10-13T21:37:00+08:00
+    lastmod: 2024-10-13T21:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['mind', 'Dream', 'of', 'finding', 'peace']
+    tags: ['mind', 'Dream', 'finding', 'peace']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'the dream of finding peace of mind' can give you the opportunity to
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Academy     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Buffalo Wings      |
-| Lucky Instrument    | Electric Cello |
-| Lucky Flower        | Daisy    |
-| Lucky Job           | Sales Representative       |
-| Lucky Exercise      | Boxing  |
-| Lucky Country       | Jordan    |
+| Lucky Food          | Potato Skins      |
+| Lucky Instrument    | Basset Horn |
+| Lucky Flower        | Lantana    |
+| Lucky Job           | Researcher       |
+| Lucky Exercise      | Baseball  |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

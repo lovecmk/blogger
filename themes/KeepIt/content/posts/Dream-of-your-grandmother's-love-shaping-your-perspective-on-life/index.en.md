@@ -1,8 +1,8 @@
 ---
     weight: 1596
     title: "Dream of your husband making you feel cherished and loved in small gestures."  # Assuming 'title' column exists
-    date: 2024-10-13T03:53:00+08:00
-    lastmod: 2024-10-13T03:53:00+08:00
+    date: 2024-10-15T07:39:00+08:00
+    lastmod: 2024-10-15T07:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['in', 'cherished', 'small', 'feel', 'gestures.', 'your', 'Dream', 'husband', 'making', 'and', 'loved', 'of', 'you']
+    tags: ['gestures', 'Dream', 'loved', 'small', 'cherished', 'making', 'feel', 'husband', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Quesadilla      |
-| Lucky Instrument    | Electric Cello |
-| Lucky Flower        | Maranta    |
-| Lucky Job           | Baker       |
-| Lucky Exercise      | Surf Lifesaving  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Vegetable Stir Fry      |
+| Lucky Instrument    | Electric Guitar |
+| Lucky Flower        | Sweet Pea    |
+| Lucky Job           | Plumber       |
+| Lucky Exercise      | Hammer Throw  |
+| Lucky Country       | Germany    |
 
 
 ##  Final Reflections on Dreams

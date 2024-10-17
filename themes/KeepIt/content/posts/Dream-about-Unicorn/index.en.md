@@ -1,8 +1,8 @@
 ---
     weight: 1041
     title: "Dream about Unicorn"  # Assuming 'title' column exists
-    date: 2024-10-13T11:33:00+08:00
-    lastmod: 2024-10-13T11:33:00+08:00
+    date: 2024-10-11T01:44:00+08:00
+    lastmod: 2024-10-11T01:44:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['about', 'Dream', 'Unicorn']
+    tags: ['Dream', 'Unicorn']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'unicorn' dreams may vary depending on the individual's situation.Bu
 | Lucky Animal        | Horse |
 | Lucky Place         | Museum     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Roast Chicken      |
-| Lucky Instrument    | Fretless Bass |
-| Lucky Flower        | Magnolia    |
-| Lucky Job           | Personal Trainer       |
-| Lucky Exercise      | Skimboarding  |
-| Lucky Country       | Qatar    |
+| Lucky Food          | Baba Ganoush      |
+| Lucky Instrument    | Darabuka |
+| Lucky Flower        | Hellebore    |
+| Lucky Job           | Brand Manager       |
+| Lucky Exercise      | Ashtanga Yoga  |
+| Lucky Country       | Canada    |
 
 
 ##  Final Reflections on Dreams

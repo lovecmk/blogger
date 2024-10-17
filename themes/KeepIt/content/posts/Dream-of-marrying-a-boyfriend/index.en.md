@@ -1,8 +1,8 @@
 ---
     weight: 323
     title: "Dream of marrying a boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T18:24:00+08:00
-    lastmod: 2024-10-13T18:24:00+08:00
+    date: 2024-10-14T07:31:00+08:00
+    lastmod: 2024-10-14T07:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['boyfriend', 'Dream', 'marrying', 'a', 'of']
+    tags: ['Dream', 'boyfriend', 'marrying']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can include stability and happiness of relationships and 
 | Lucky Animal        | Chameleon |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Lentil Soup      |
-| Lucky Instrument    | Trumpet |
-| Lucky Flower        | Bluebell    |
-| Lucky Job           | Biologist       |
-| Lucky Exercise      | Discus Throw  |
-| Lucky Country       | Israel    |
+| Lucky Food          | Fruit Smoothie      |
+| Lucky Instrument    | Drums |
+| Lucky Flower        | Sea Lavender    |
+| Lucky Job           | Farmer       |
+| Lucky Exercise      | Swimming Laps  |
+| Lucky Country       | Malawi    |
 
 
 ##  Final Reflections on Dreams

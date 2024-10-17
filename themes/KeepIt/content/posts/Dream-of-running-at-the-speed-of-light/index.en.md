@@ -1,8 +1,8 @@
 ---
     weight: 250
     title: "Dream of running at the speed of light"  # Assuming 'title' column exists
-    date: 2024-10-13T00:03:00+08:00
-    lastmod: 2024-10-13T00:03:00+08:00
+    date: 2024-10-11T23:16:00+08:00
+    lastmod: 2024-10-11T23:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'running', 'light', 'Dream', 'of', 'speed', 'at']
+    tags: ['light', 'Dream', 'running', 'speed']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream shows your willingness to achieve your goals with your pa
 | Lucky Animal        | Hyena |
 | Lucky Place         | Sea     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Vegetable Stir Fry      |
-| Lucky Instrument    | Rudra Veena |
-| Lucky Flower        | Vinca    |
-| Lucky Job           | Interpreter       |
-| Lucky Exercise      | Bouldering  |
-| Lucky Country       | Mexico    |
+| Lucky Food          | Pork Belly      |
+| Lucky Instrument    | Piccolo |
+| Lucky Flower        | Sweet William    |
+| Lucky Job           | Astrophysicist       |
+| Lucky Exercise      | Water Polo  |
+| Lucky Country       | Eswatini    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 661
     title: "Dream of enjoying a big festival with your family"  # Assuming 'title' column exists
-    date: 2024-10-13T23:02:00+08:00
-    lastmod: 2024-10-13T23:02:00+08:00
+    date: 2024-10-14T23:54:00+08:00
+    lastmod: 2024-10-14T23:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'enjoying', 'festival', 'big', 'your', 'Dream', 'a', 'of', 'with']
+    tags: ['family', 'Dream', 'big', 'festival', 'enjoying']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can mean that good luck can come by sharing a deep bond w
 | Lucky Animal        | Horse |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Casserole      |
-| Lucky Instrument    | Clavichord |
-| Lucky Flower        | Begonia    |
-| Lucky Job           | Writer       |
-| Lucky Exercise      | Hot Yoga  |
-| Lucky Country       | Iraq    |
+| Lucky Food          | Pico de Gallo      |
+| Lucky Instrument    | Didgeridoo |
+| Lucky Flower        | Cherry Blossom    |
+| Lucky Job           | Sales Representative       |
+| Lucky Exercise      | Weightlifting  |
+| Lucky Country       | Mozambique    |
 
 
 ##  Final Reflections on Dreams

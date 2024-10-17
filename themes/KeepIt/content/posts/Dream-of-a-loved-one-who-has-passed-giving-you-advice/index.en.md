@@ -1,8 +1,8 @@
 ---
     weight: 1563
     title: "Dream of a loved one who has passed giving you advice"  # Assuming 'title' column exists
-    date: 2024-10-13T19:50:00+08:00
-    lastmod: 2024-10-13T19:50:00+08:00
+    date: 2024-10-13T12:26:00+08:00
+    lastmod: 2024-10-13T12:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['has', 'one', 'advice', 'who', 'passed', 'giving', 'Dream', 'a', 'loved', 'of', 'you']
+    tags: ['you', 'one', 'Dream', 'loved', 'has', 'passed', 'giving', 'who', 'advice']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Guinea pig |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Fish and Chips      |
-| Lucky Instrument    | Bass Guitar |
-| Lucky Flower        | Sweet Pea    |
-| Lucky Job           | Plumber       |
-| Lucky Exercise      | Slacklining  |
-| Lucky Country       | Israel    |
+| Lucky Food          | Pork Belly      |
+| Lucky Instrument    | Mandolin |
+| Lucky Flower        | Ranunculus    |
+| Lucky Job           | Neuroscientist       |
+| Lucky Exercise      | Deadlifts  |
+| Lucky Country       | Palau    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 735
     title: "Dream of exploring alien planets"  # Assuming 'title' column exists
-    date: 2024-10-13T11:04:00+08:00
-    lastmod: 2024-10-13T11:04:00+08:00
+    date: 2024-10-12T11:33:00+08:00
+    lastmod: 2024-10-12T11:33:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['alien', 'Dream', 'exploring', 'of', 'planets']
+    tags: ['Dream', 'exploring', 'planets', 'alien']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on your personal interpretation.But th
 | Lucky Animal        | Guinea pig |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Pesto      |
-| Lucky Instrument    | Tenor Banjo |
-| Lucky Flower        | Chive Blossom    |
-| Lucky Job           | Insurance Underwriter       |
+| Lucky Food          | Buffalo Wings      |
+| Lucky Instrument    | Hang Drum |
+| Lucky Flower        | Foxglove    |
+| Lucky Job           | Veterinarian       |
 | Lucky Exercise      | Powerlifting  |
-| Lucky Country       | Russia    |
+| Lucky Country       | Serbia    |
 
 
 ##  Final Reflections on Dreams

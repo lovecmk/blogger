@@ -1,8 +1,8 @@
 ---
     weight: 78
     title: "Dream of getting new energy by drinking mango juice"  # Assuming 'title' column exists
-    date: 2024-10-13T20:09:00+08:00
-    lastmod: 2024-10-13T20:09:00+08:00
+    date: 2024-10-14T05:59:00+08:00
+    lastmod: 2024-10-14T05:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['new', 'mango', 'juice', 'Dream', 'drinking', 'by', 'energy', 'of', 'getting']
+    tags: ['Dream', 'juice', 'energy', 'getting', 'new', 'mango', 'drinking']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can show a good situation to get new opportunities or ene
 | Lucky Animal        | Cat |
 | Lucky Place         | Park     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Eggplant Parmesan      |
-| Lucky Instrument    | Mandolin |
-| Lucky Flower        | Scented Geranium    |
-| Lucky Job           | Chef de Cuisine       |
-| Lucky Exercise      | Cricket  |
-| Lucky Country       | Pakistan    |
+| Lucky Food          | Baba Ganoush      |
+| Lucky Instrument    | Wooden Flute |
+| Lucky Flower        | Balsam    |
+| Lucky Job           | Astrophysicist       |
+| Lucky Exercise      | Circuit Workout  |
+| Lucky Country       | Spain    |
 
 
 ##  Final Reflections on Dreams

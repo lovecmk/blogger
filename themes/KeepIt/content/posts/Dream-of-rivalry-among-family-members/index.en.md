@@ -1,8 +1,8 @@
 ---
     weight: 1642
     title: "Dream of cuddling with your cat"  # Assuming 'title' column exists
-    date: 2024-10-13T03:00:00+08:00
-    lastmod: 2024-10-13T03:00:00+08:00
+    date: 2024-10-12T03:51:00+08:00
+    lastmod: 2024-10-12T03:51:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'cat', 'Dream', 'cuddling', 'of', 'with']
+    tags: ['Dream', 'cat', 'cuddling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Buffalo Wings      |
-| Lucky Instrument    | Conga Drum |
-| Lucky Flower        | Chive Blossom    |
-| Lucky Job           | Life Coach       |
-| Lucky Exercise      | Squats  |
-| Lucky Country       | Samoa    |
+| Lucky Food          | Quesadilla      |
+| Lucky Instrument    | Pandeiro |
+| Lucky Flower        | Thistle    |
+| Lucky Job           | Farmer       |
+| Lucky Exercise      | Futsal  |
+| Lucky Country       | Japan    |
 
 
 ##  Final Reflections on Dreams

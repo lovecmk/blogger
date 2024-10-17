@@ -1,8 +1,8 @@
 ---
     weight: 235
     title: "Dream of returning to the dinosaur era"  # Assuming 'title' column exists
-    date: 2024-10-13T01:47:00+08:00
-    lastmod: 2024-10-13T01:47:00+08:00
+    date: 2024-10-15T11:22:00+08:00
+    lastmod: 2024-10-15T11:22:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'dinosaur', 'to', 'Dream', 'era', 'returning', 'of']
+    tags: ['Dream', 'era', 'to', 'dinosaur', 'returning']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual's interpretation and
 | Lucky Animal        | Guinea pig |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Casserole      |
-| Lucky Instrument    | Guitar |
-| Lucky Flower        | Foxglove    |
-| Lucky Job           | Hair Stylist       |
-| Lucky Exercise      | Plank  |
-| Lucky Country       | Western Sahara    |
+| Lucky Food          | Pork Chops      |
+| Lucky Instrument    | Triangle |
+| Lucky Flower        | Kalanchoe    |
+| Lucky Job           | Lawyer       |
+| Lucky Exercise      | Burpees  |
+| Lucky Country       | Sweden    |
 
 
 ##  Final Reflections on Dreams

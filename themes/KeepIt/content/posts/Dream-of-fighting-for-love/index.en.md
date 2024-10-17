@@ -1,8 +1,8 @@
 ---
     weight: 1848
     title: "Dream of creating a successful budget and sticking to it."  # Assuming 'title' column exists
-    date: 2024-10-13T10:18:00+08:00
-    lastmod: 2024-10-13T10:18:00+08:00
+    date: 2024-10-14T23:30:00+08:00
+    lastmod: 2024-10-14T23:30:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['to', 'Dream', 'it.', 'a', 'creating', 'budget', 'and', 'of', 'sticking', 'successful']
+    tags: ['creating', 'it', 'Dream', 'sticking', 'to', 'successful', 'budget']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Monkey |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Sandwich      |
-| Lucky Instrument    | Octobass |
-| Lucky Flower        | Lily    |
-| Lucky Job           | Art Director       |
-| Lucky Exercise      | Yoga  |
-| Lucky Country       | Uzbekistan    |
+| Lucky Food          | Croissant      |
+| Lucky Instrument    | Darbuka |
+| Lucky Flower        | Bee Balm    |
+| Lucky Job           | Musician       |
+| Lucky Exercise      | Skimboarding  |
+| Lucky Country       | Namibia    |
 
 
 ##  Final Reflections on Dreams

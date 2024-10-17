@@ -1,8 +1,8 @@
 ---
     weight: 1355
     title: "Dream of taking a family trip to a theme park"  # Assuming 'title' column exists
-    date: 2024-10-13T12:40:00+08:00
-    lastmod: 2024-10-13T12:40:00+08:00
+    date: 2024-10-12T16:29:00+08:00
+    lastmod: 2024-10-12T16:29:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'park', 'taking', 'trip', 'to', 'Dream', 'theme', 'a', 'of']
+    tags: ['family', 'theme', 'Dream', 'taking', 'to', 'trip', 'park']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Polar bear |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Green     |
-| Lucky Food          | Bagel      |
-| Lucky Instrument    | Tuba |
-| Lucky Flower        | Lotus    |
-| Lucky Job           | SEO Specialist       |
-| Lucky Exercise      | Kickboxing  |
-| Lucky Country       | Nepal    |
+| Lucky Food          | Guacamole      |
+| Lucky Instrument    | Viola |
+| Lucky Flower        | Ranunculus    |
+| Lucky Job           | Personal Trainer       |
+| Lucky Exercise      | Slacklining  |
+| Lucky Country       | South Korea    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 900
     title: "Dream of not speaking because my teeth are missing"  # Assuming 'title' column exists
-    date: 2024-10-13T02:45:00+08:00
-    lastmod: 2024-10-13T02:45:00+08:00
+    date: 2024-10-11T22:22:00+08:00
+    lastmod: 2024-10-11T22:22:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['are', 'missing', 'my', 'teeth', 'Dream', 'because', 'not', 'speaking', 'of']
+    tags: ['speaking', 'Dream', 'missing', 'my', 'not', 'teeth', 'are']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can indicate that it can be strengthened by the ability t
 | Lucky Animal        | Hyena |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Falafel      |
-| Lucky Instrument    | Ocarina |
-| Lucky Flower        | Sunflower    |
-| Lucky Job           | Chemist       |
-| Lucky Exercise      | Body Pump  |
-| Lucky Country       | Qatar    |
+| Lucky Food          | Cheeseboard      |
+| Lucky Instrument    | Castanets |
+| Lucky Flower        | Maranta    |
+| Lucky Job           | Security Guard       |
+| Lucky Exercise      | Resistance Bands  |
+| Lucky Country       | Jordan    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 851
     title: "A dream of a monkey"  # Assuming 'title' column exists
-    date: 2024-10-13T04:40:00+08:00
-    lastmod: 2024-10-13T04:40:00+08:00
+    date: 2024-10-12T15:15:00+08:00
+    lastmod: 2024-10-12T15:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['monkey', 'a', 'dream', 'of', 'A']
+    tags: ['monkey', 'dream', 'A']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The dream of a monkey can symbolize good luck.Monkeys are known for their vitali
 | Lucky Animal        | Chameleon |
 | Lucky Place         | Library     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Chocolate Mousse      |
-| Lucky Instrument    | Trombone Slide |
-| Lucky Flower        | Cosmos    |
-| Lucky Job           | Makeup Artist       |
-| Lucky Exercise      | Shot Put  |
-| Lucky Country       | Nauru    |
+| Lucky Food          | Corn on the Cob      |
+| Lucky Instrument    | Keyboard |
+| Lucky Flower        | Scented Geranium    |
+| Lucky Job           | User Researcher       |
+| Lucky Exercise      | Bench Press  |
+| Lucky Country       | Malaysia    |
 
 
 ##  Final Reflections on Dreams

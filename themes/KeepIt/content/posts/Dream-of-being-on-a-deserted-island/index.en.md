@@ -1,8 +1,8 @@
 ---
     weight: 1343
     title: "Dream of being on a deserted island"  # Assuming 'title' column exists
-    date: 2024-10-13T21:02:00+08:00
-    lastmod: 2024-10-13T21:02:00+08:00
+    date: 2024-10-13T00:51:00+08:00
+    lastmod: 2024-10-13T00:51:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'being', 'a', 'deserted', 'island', 'on', 'of']
+    tags: ['being', 'island', 'Dream', 'deserted']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Sea     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Samosa      |
-| Lucky Instrument    | Conga Drum |
-| Lucky Flower        | Maranta    |
-| Lucky Job           | Brand Manager       |
-| Lucky Exercise      | Deadlifts  |
-| Lucky Country       | Marshall Islands    |
+| Lucky Food          | Hummus      |
+| Lucky Instrument    | Clarinet |
+| Lucky Flower        | Edelweiss    |
+| Lucky Job           | Art Director       |
+| Lucky Exercise      | Trail Running  |
+| Lucky Country       | Zambia    |
 
 
 ##  Final Reflections on Dreams

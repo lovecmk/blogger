@@ -1,8 +1,8 @@
 ---
     weight: 98
     title: "Dream of drinking coffee with her husband"  # Assuming 'title' column exists
-    date: 2024-10-13T06:50:00+08:00
-    lastmod: 2024-10-13T06:50:00+08:00
+    date: 2024-10-13T18:25:00+08:00
+    lastmod: 2024-10-13T18:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['her', 'Dream', 'husband', 'drinking', 'coffee', 'of', 'with']
+    tags: ['Dream', 'her', 'husband', 'coffee', 'drinking']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can happen in relationships with people close to you.Talk
 | Lucky Animal        | Sloth |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Duck Confit      |
-| Lucky Instrument    | Cowbell |
-| Lucky Flower        | Petunia    |
-| Lucky Job           | Web Designer       |
-| Lucky Exercise      | Skimboarding  |
-| Lucky Country       | Brazil    |
+| Lucky Food          | Fruit Tart      |
+| Lucky Instrument    | Tuba Horn |
+| Lucky Flower        | Lantana    |
+| Lucky Job           | Stockbroker       |
+| Lucky Exercise      | Body Pump  |
+| Lucky Country       | Netherlands    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 2061
     title: "Dream of giving money to someone in need or providing financial support."  # Assuming 'title' column exists
-    date: 2024-10-13T17:48:00+08:00
-    lastmod: 2024-10-13T17:48:00+08:00
+    date: 2024-10-12T04:53:00+08:00
+    lastmod: 2024-10-12T04:53:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['need', 'or', 'providing', 'giving', 'to', 'financial', 'money', 'Dream', 'support.', 'someone', 'in', 'of']
+    tags: ['Dream', 'money', 'support', 'to', 'need', 'providing', 'giving', 'someone', 'financial']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Chicken Parmesan      |
-| Lucky Instrument    | Saxophone |
-| Lucky Flower        | Dandelion    |
-| Lucky Job           | Personal Trainer       |
-| Lucky Exercise      | Stretching  |
-| Lucky Country       | New Zealand    |
+| Lucky Food          | Casserole      |
+| Lucky Instrument    | Sitar |
+| Lucky Flower        | Maranta    |
+| Lucky Job           | Real Estate Agent       |
+| Lucky Exercise      | Dancing  |
+| Lucky Country       | Egypt    |
 
 
 ##  Final Reflections on Dreams

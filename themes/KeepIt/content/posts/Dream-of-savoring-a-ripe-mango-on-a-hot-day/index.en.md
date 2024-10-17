@@ -1,8 +1,8 @@
 ---
     weight: 1715
     title: "Dream of your husband displaying unwavering loyalty to you."  # Assuming 'title' column exists
-    date: 2024-10-13T03:50:00+08:00
-    lastmod: 2024-10-13T03:50:00+08:00
+    date: 2024-10-14T08:23:00+08:00
+    lastmod: 2024-10-14T08:23:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['unwavering', 'you.', 'displaying', 'your', 'to', 'Dream', 'husband', 'loyalty', 'of']
+    tags: ['Dream', 'loyalty', 'to', 'displaying', 'husband', 'unwavering', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings a sense of luck and positive energy. It signifies that your hu
 | Lucky Animal        | Spider |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Duck Confit      |
-| Lucky Instrument    | Lute |
-| Lucky Flower        | Alyssum    |
-| Lucky Job           | Accountant       |
-| Lucky Exercise      | Leg Press  |
-| Lucky Country       | South Korea    |
+| Lucky Food          | Tiramisu      |
+| Lucky Instrument    | Soprano Recorder |
+| Lucky Flower        | Forget-Me-Not    |
+| Lucky Job           | User Researcher       |
+| Lucky Exercise      | Soccer  |
+| Lucky Country       | Romania    |
 
 
 ##  Final Reflections on Dreams

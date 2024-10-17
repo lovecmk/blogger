@@ -1,8 +1,8 @@
 ---
     weight: 575
     title: "Dream of finding plants in the mountains"  # Assuming 'title' column exists
-    date: 2024-10-13T22:36:00+08:00
-    lastmod: 2024-10-13T22:36:00+08:00
+    date: 2024-10-13T21:03:00+08:00
+    lastmod: 2024-10-13T21:03:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['mountains', 'plants', 'the', 'Dream', 'in', 'of', 'finding']
+    tags: ['mountains', 'Dream', 'finding', 'plants']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can include self -growth, inner abundance, creativity imp
 | Lucky Animal        | Otter |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Pizza      |
-| Lucky Instrument    | Charango |
-| Lucky Flower        | Heliotrope    |
-| Lucky Job           | Operations Manager       |
-| Lucky Exercise      | Mountain Climbers  |
-| Lucky Country       | Germany    |
+| Lucky Food          | Beef Tacos      |
+| Lucky Instrument    | Chimes |
+| Lucky Flower        | Thunbergia    |
+| Lucky Job           | Accountant       |
+| Lucky Exercise      | Cross-Country Skiing  |
+| Lucky Country       | Philippines    |
 
 
 ##  Final Reflections on Dreams

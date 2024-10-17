@@ -1,8 +1,8 @@
 ---
     weight: 1840
     title: "Dream of your husband reaching a personal milestone."  # Assuming 'title' column exists
-    date: 2024-10-13T15:26:00+08:00
-    lastmod: 2024-10-13T15:26:00+08:00
+    date: 2024-10-14T15:33:00+08:00
+    lastmod: 2024-10-14T15:33:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'milestone.', 'reaching', 'Dream', 'personal', 'husband', 'a', 'of']
+    tags: ['Dream', 'reaching', 'milestone', 'husband', 'personal']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Bruschetta      |
-| Lucky Instrument    | Flute |
-| Lucky Flower        | Cyclamen    |
-| Lucky Job           | Technical Writer       |
-| Lucky Exercise      | Interval Training  |
-| Lucky Country       | Tanzania    |
+| Lucky Food          | Eggplant Parmesan      |
+| Lucky Instrument    | Castanets |
+| Lucky Flower        | Cosmos    |
+| Lucky Job           | UX Designer       |
+| Lucky Exercise      | Capoeira  |
+| Lucky Country       | Fiji    |
 
 
 ##  Final Reflections on Dreams

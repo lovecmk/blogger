@@ -1,8 +1,8 @@
 ---
     weight: 971
     title: "Dream of falling into a pond"  # Assuming 'title' column exists
-    date: 2024-10-13T02:18:00+08:00
-    lastmod: 2024-10-13T02:18:00+08:00
+    date: 2024-10-12T01:30:00+08:00
+    lastmod: 2024-10-12T01:30:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['into', 'falling', 'Dream', 'a', 'of', 'pond']
+    tags: ['Dream', 'into', 'falling', 'pond']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of the dream of falling into the pond will be the ability to exert cour
 | Lucky Animal        | Elephant |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Prawn Crackers      |
-| Lucky Instrument    | Piano |
-| Lucky Flower        | Sea Holly    |
-| Lucky Job           | Life Coach       |
-| Lucky Exercise      | Dance Aerobics  |
-| Lucky Country       | Portugal    |
+| Lucky Food          | Pesto      |
+| Lucky Instrument    | Bandoneon |
+| Lucky Flower        | Clover    |
+| Lucky Job           | Customer Service Representative       |
+| Lucky Exercise      | Handball  |
+| Lucky Country       | India    |
 
 
 ##  Final Reflections on Dreams

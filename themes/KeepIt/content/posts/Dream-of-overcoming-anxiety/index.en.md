@@ -1,8 +1,8 @@
 ---
     weight: 1023
     title: "Dream of overcoming anxiety"  # Assuming 'title' column exists
-    date: 2024-10-13T15:10:00+08:00
-    lastmod: 2024-10-13T15:10:00+08:00
+    date: 2024-10-14T00:23:00+08:00
+    lastmod: 2024-10-14T00:23:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['overcoming', 'of', 'anxiety', 'Dream']
+    tags: ['anxiety', 'overcoming', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream delivers a message that can bring you good luck and success.The dream
 | Lucky Animal        | Kangaroo |
 | Lucky Place         | Academy     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Pasta Salad      |
-| Lucky Instrument    | Didgeridoo |
-| Lucky Flower        | Swan River Daisy    |
-| Lucky Job           | Quality Assurance Tester       |
-| Lucky Exercise      | Sit-Ups  |
-| Lucky Country       | Malawi    |
+| Lucky Food          | Hot Dog      |
+| Lucky Instrument    | Tabor |
+| Lucky Flower        | Tiger Lily    |
+| Lucky Job           | Statistician       |
+| Lucky Exercise      | Shot Put  |
+| Lucky Country       | Singapore    |
 
 
 ##  Final Reflections on Dreams

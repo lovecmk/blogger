@@ -1,8 +1,8 @@
 ---
     weight: 809
     title: "The dream of the police appear after the accident"  # Assuming 'title' column exists
-    date: 2024-10-13T18:20:00+08:00
-    lastmod: 2024-10-13T18:20:00+08:00
+    date: 2024-10-14T18:37:00+08:00
+    lastmod: 2024-10-14T18:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'after', 'dream', 'The', 'police', 'accident', 'of', 'appear']
+    tags: ['The', 'police', 'dream', 'appear', 'after', 'accident']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ It is usually not common for the dream of the police to appear after the acciden
 | Lucky Animal        | Turtle |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Green     |
-| Lucky Food          | Shrimp      |
-| Lucky Instrument    | Piano |
-| Lucky Flower        | Safflower    |
-| Lucky Job           | Data Analyst       |
-| Lucky Exercise      | Resistance Training  |
-| Lucky Country       | Nepal    |
+| Lucky Food          | Spring Roll      |
+| Lucky Instrument    | Wooden Flute |
+| Lucky Flower        | Bluebell    |
+| Lucky Job           | Translator       |
+| Lucky Exercise      | Kickboxing  |
+| Lucky Country       | South Africa    |
 
 
 ##  Final Reflections on Dreams

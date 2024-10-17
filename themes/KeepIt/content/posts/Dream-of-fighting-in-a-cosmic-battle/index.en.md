@@ -1,8 +1,8 @@
 ---
     weight: 2205
     title: "Dream of your ancestor guiding you through a challenging decision."  # Assuming 'title' column exists
-    date: 2024-10-13T22:00:00+08:00
-    lastmod: 2024-10-13T22:00:00+08:00
+    date: 2024-10-13T23:12:00+08:00
+    lastmod: 2024-10-13T23:12:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['guiding', 'your', 'Dream', 'through', 'a', 'challenging', 'ancestor', 'decision.', 'of', 'you']
+    tags: ['decision', 'Dream', 'guiding', 'challenging', 'ancestor', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Horse |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Green     |
-| Lucky Food          | Seafood Paella      |
-| Lucky Instrument    | Drums |
-| Lucky Flower        | Clover    |
-| Lucky Job           | Chemist       |
-| Lucky Exercise      | Capoeira  |
-| Lucky Country       | Syria    |
+| Lucky Food          | Cheesecake      |
+| Lucky Instrument    | Piano |
+| Lucky Flower        | Thistle    |
+| Lucky Job           | Scientist       |
+| Lucky Exercise      | Rock Climbing  |
+| Lucky Country       | Laos    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 31
     title: "Dream of attending a party with a fruit basket"  # Assuming 'title' column exists
-    date: 2024-10-13T09:42:00+08:00
-    lastmod: 2024-10-13T09:42:00+08:00
+    date: 2024-10-14T07:53:00+08:00
+    lastmod: 2024-10-14T07:53:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fruit', 'Dream', 'basket', 'a', 'party', 'of', 'attending', 'with']
+    tags: ['Dream', 'party', 'basket', 'fruit', 'attending']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can mainly symbolize positive luck.Fruit baskets symbolize abundance 
 | Lucky Animal        | Gorilla |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Red     |
-| Lucky Food          | Lentil Soup      |
-| Lucky Instrument    | Didgeridoo |
-| Lucky Flower        | Marigold    |
-| Lucky Job           | Operations Manager       |
-| Lucky Exercise      | Sledge Hockey  |
-| Lucky Country       | Nigeria    |
+| Lucky Food          | Tacos      |
+| Lucky Instrument    | Pandeiro |
+| Lucky Flower        | Clover Blossom    |
+| Lucky Job           | Statistician       |
+| Lucky Exercise      | Soccer  |
+| Lucky Country       | Kyrgyzstan    |
 
 
 ##  Final Reflections on Dreams

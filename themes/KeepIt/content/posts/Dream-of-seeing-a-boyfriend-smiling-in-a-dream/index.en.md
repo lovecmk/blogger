@@ -1,8 +1,8 @@
 ---
     weight: 322
     title: "Dream of seeing a boyfriend smiling in a dream"  # Assuming 'title' column exists
-    date: 2024-10-13T23:45:00+08:00
-    lastmod: 2024-10-13T23:45:00+08:00
+    date: 2024-10-12T17:14:00+08:00
+    lastmod: 2024-10-12T17:14:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['seeing', 'boyfriend', 'Dream', 'a', 'dream', 'in', 'of', 'smiling']
+    tags: ['smiling', 'Dream', 'boyfriend', 'dream', 'seeing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can indicate that you are forming a good relationship.The
 | Lucky Animal        | Guinea pig |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Burrito      |
-| Lucky Instrument    | Calimba |
-| Lucky Flower        | Hoya    |
-| Lucky Job           | Business Analyst       |
-| Lucky Exercise      | Javelin  |
-| Lucky Country       | Azerbaijan    |
+| Lucky Food          | Eggplant Parmesan      |
+| Lucky Instrument    | Keyboard |
+| Lucky Flower        | Magnolia    |
+| Lucky Job           | Statistician       |
+| Lucky Exercise      | Handball  |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

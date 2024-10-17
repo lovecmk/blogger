@@ -1,8 +1,8 @@
 ---
     weight: 855
     title: "Dream of eagle"  # Assuming 'title' column exists
-    date: 2024-10-13T04:24:00+08:00
-    lastmod: 2024-10-13T04:24:00+08:00
+    date: 2024-10-12T12:13:00+08:00
+    lastmod: 2024-10-12T12:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['eagle', 'of', 'Dream']
+    tags: ['Dream', 'eagle']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The dream of an eagle can be related to luck.The eagle is a strong and free pers
 | Lucky Animal        | Pig |
 | Lucky Place         | Sea     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Minestrone      |
-| Lucky Instrument    | Bass Drum |
-| Lucky Flower        | Moss Rose    |
-| Lucky Job           | Project Manager       |
-| Lucky Exercise      | Lunges  |
-| Lucky Country       | Sri Lanka    |
+| Lucky Food          | Onion Rings      |
+| Lucky Instrument    | Fiddle |
+| Lucky Flower        | Dahlia    |
+| Lucky Job           | Technical Writer       |
+| Lucky Exercise      | Boxing  |
+| Lucky Country       | Poland    |
 
 
 ##  Final Reflections on Dreams

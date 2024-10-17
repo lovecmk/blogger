@@ -1,8 +1,8 @@
 ---
     weight: 126
     title: "Dream of spending time reading books with daughter"  # Assuming 'title' column exists
-    date: 2024-10-13T16:24:00+08:00
-    lastmod: 2024-10-13T16:24:00+08:00
+    date: 2024-10-14T13:18:00+08:00
+    lastmod: 2024-10-14T13:18:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['reading', 'Dream', 'time', 'books', 'daughter', 'of', 'with', 'spending']
+    tags: ['Dream', 'reading', 'spending', 'time', 'daughter', 'books']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream has a more common meaning than providing a direct message about perso
 | Lucky Animal        | Elephant |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | White     |
-| Lucky Food          | Waffles      |
-| Lucky Instrument    | Steel Pan |
-| Lucky Flower        | Wisteria    |
-| Lucky Job           | Fashion Designer       |
-| Lucky Exercise      | Capoeira  |
-| Lucky Country       | Kyrgyzstan    |
+| Lucky Food          | Baked Potato      |
+| Lucky Instrument    | Cajón |
+| Lucky Flower        | Cornflower    |
+| Lucky Job           | Field Technician       |
+| Lucky Exercise      | Jump Squats  |
+| Lucky Country       | Ukraine    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1107
     title: "Dream about puppy"  # Assuming 'title' column exists
-    date: 2024-10-13T01:25:00+08:00
-    lastmod: 2024-10-13T01:25:00+08:00
+    date: 2024-10-11T08:20:00+08:00
+    lastmod: 2024-10-11T08:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['puppy', 'about', 'Dream']
+    tags: ['Dream', 'puppy']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'puppy' dreams may vary depending on the individual's situation and 
 | Lucky Animal        | Hippo |
 | Lucky Place         | School     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Duck Confit      |
-| Lucky Instrument    | Steel Pan |
-| Lucky Flower        | Tulip    |
-| Lucky Job           | Art Director       |
-| Lucky Exercise      | Squats  |
-| Lucky Country       | Marshall Islands    |
+| Lucky Food          | Lentil Soup      |
+| Lucky Instrument    | Timpani |
+| Lucky Flower        | Sea Lavender    |
+| Lucky Job           | Researcher       |
+| Lucky Exercise      | Foam Rolling  |
+| Lucky Country       | Spain    |
 
 
 ##  Final Reflections on Dreams

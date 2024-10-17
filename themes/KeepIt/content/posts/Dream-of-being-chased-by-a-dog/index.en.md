@@ -1,8 +1,8 @@
 ---
     weight: 906
     title: "Dream of being chased by a dog"  # Assuming 'title' column exists
-    date: 2024-10-13T03:29:00+08:00
-    lastmod: 2024-10-13T03:29:00+08:00
+    date: 2024-10-12T10:37:00+08:00
+    lastmod: 2024-10-12T10:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'being', 'a', 'by', 'of', 'chased', 'dog']
+    tags: ['being', 'chased', 'Dream', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of the dream of being chased by a dog is that it can have a chance to b
 | Lucky Animal        | Dog |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Popcorn      |
-| Lucky Instrument    | Shakuhachi |
-| Lucky Flower        | Cornflower    |
-| Lucky Job           | Astrophysicist       |
-| Lucky Exercise      | Running  |
-| Lucky Country       | Brazil    |
+| Lucky Food          | Chicken Parmesan      |
+| Lucky Instrument    | Tambourine |
+| Lucky Flower        | Daffodil    |
+| Lucky Job           | Pastry Chef       |
+| Lucky Exercise      | Surfing  |
+| Lucky Country       | Kiribati    |
 
 
 ##  Final Reflections on Dreams

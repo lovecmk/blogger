@@ -1,8 +1,8 @@
 ---
     weight: 1424
     title: "Dream of having an argument with a coworker or friend"  # Assuming 'title' column exists
-    date: 2024-10-13T10:48:00+08:00
-    lastmod: 2024-10-13T10:48:00+08:00
+    date: 2024-10-11T21:08:00+08:00
+    lastmod: 2024-10-11T21:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['friend', 'or', 'argument', 'Dream', 'a', 'an', 'of', 'with', 'having', 'coworker']
+    tags: ['Dream', 'coworker', 'friend', 'argument', 'having', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams of arguments with coworkers or friends are not typically associated with 
 | Lucky Animal        | Red fox |
 | Lucky Place         | Park     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Zucchini Noodles      |
-| Lucky Instrument    | Pipa |
-| Lucky Flower        | Sweet Pea    |
-| Lucky Job           | Anthropologist       |
-| Lucky Exercise      | Tai Chi  |
-| Lucky Country       | Syria    |
+| Lucky Food          | Chocolate Mousse      |
+| Lucky Instrument    | Bass Clarinet |
+| Lucky Flower        | Foxglove    |
+| Lucky Job           | Consultant       |
+| Lucky Exercise      | Beach Volleyball  |
+| Lucky Country       | Czech Republic    |
 
 
 ##  Final Reflections on Dreams

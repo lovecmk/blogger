@@ -1,8 +1,8 @@
 ---
     weight: 1496
     title: "Dream of getting caught in a traffic jam during rush hour"  # Assuming 'title' column exists
-    date: 2024-10-13T09:40:00+08:00
-    lastmod: 2024-10-13T09:40:00+08:00
+    date: 2024-10-15T06:06:00+08:00
+    lastmod: 2024-10-15T06:06:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['caught', 'Dream', 'jam', 'during', 'rush', 'a', 'hour', 'in', 'of', 'getting', 'traffic']
+    tags: ['traffic', 'Dream', 'caught', 'rush', 'getting', 'hour', 'jam']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hyena |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Green     |
-| Lucky Food          | Prawn Crackers      |
-| Lucky Instrument    | Glockenspiel |
-| Lucky Flower        | Hydrangea    |
-| Lucky Job           | Technical Writer       |
-| Lucky Exercise      | Hiking  |
-| Lucky Country       | India    |
+| Lucky Food          | Baked Potato      |
+| Lucky Instrument    | Accordion |
+| Lucky Flower        | Fuchsia    |
+| Lucky Job           | Landscaper       |
+| Lucky Exercise      | Swimming  |
+| Lucky Country       | Finland    |
 
 
 ##  Final Reflections on Dreams

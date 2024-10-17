@@ -1,8 +1,8 @@
 ---
     weight: 1461
     title: "Dream of your dog traveling around the world"  # Assuming 'title' column exists
-    date: 2024-10-13T15:05:00+08:00
-    lastmod: 2024-10-13T15:05:00+08:00
+    date: 2024-10-13T22:49:00+08:00
+    lastmod: 2024-10-13T22:49:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'your', 'traveling', 'Dream', 'around', 'world', 'of', 'dog']
+    tags: ['Dream', 'traveling', 'world', 'dog', 'around']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Red fox |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Pasta Salad      |
-| Lucky Instrument    | Tuba Horn |
-| Lucky Flower        | Nymphaea    |
-| Lucky Job           | Producer       |
-| Lucky Exercise      | Powerlifting  |
-| Lucky Country       | Jordan    |
+| Lucky Food          | Cornbread      |
+| Lucky Instrument    | Shakuhachi |
+| Lucky Flower        | Bellflower    |
+| Lucky Job           | Welder       |
+| Lucky Exercise      | Zumba  |
+| Lucky Country       | Serbia    |
 
 
 ##  Final Reflections on Dreams

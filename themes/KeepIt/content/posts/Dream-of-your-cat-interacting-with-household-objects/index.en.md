@@ -1,8 +1,8 @@
 ---
     weight: 1623
     title: "Dream of arguments within family dynamics"  # Assuming 'title' column exists
-    date: 2024-10-13T11:14:00+08:00
-    lastmod: 2024-10-13T11:14:00+08:00
+    date: 2024-10-12T01:09:00+08:00
+    lastmod: 2024-10-12T01:09:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'arguments', 'dynamics', 'Dream', 'within', 'of']
+    tags: ['family', 'Dream', 'within', 'dynamics', 'arguments']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Beaver |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Burger      |
-| Lucky Instrument    | Trombone |
-| Lucky Flower        | Narcissus    |
-| Lucky Job           | Researcher       |
-| Lucky Exercise      | Bouldering  |
-| Lucky Country       | Germany    |
+| Lucky Food          | Ratatouille      |
+| Lucky Instrument    | Bandoneon |
+| Lucky Flower        | Lily    |
+| Lucky Job           | Pastry Chef       |
+| Lucky Exercise      | Baseball  |
+| Lucky Country       | Botswana    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 2193
     title: "Dream of attending a themed party or costume event with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T01:08:00+08:00
-    lastmod: 2024-10-13T01:08:00+08:00
+    date: 2024-10-12T16:50:00+08:00
+    lastmod: 2024-10-12T16:50:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'your', 'costume', 'boyfriend', 'Dream', 'a', 'party', 'event', 'of', 'themed', 'attending', 'with']
+    tags: ['event', 'Dream', 'boyfriend', 'party', 'costume', 'themed', 'attending']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Mole |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Fruit Smoothie      |
-| Lucky Instrument    | Cajón |
-| Lucky Flower        | Cornflower    |
-| Lucky Job           | Musician       |
-| Lucky Exercise      | Hiking  |
-| Lucky Country       | Austria    |
+| Lucky Food          | Corn on the Cob      |
+| Lucky Instrument    | Lyre |
+| Lucky Flower        | Alstroemeria    |
+| Lucky Job           | Content Creator       |
+| Lucky Exercise      | Box Jumps  |
+| Lucky Country       | Spain    |
 
 
 ##  Final Reflections on Dreams

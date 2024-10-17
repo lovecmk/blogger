@@ -1,8 +1,8 @@
 ---
     weight: 1016
     title: "Dream of relief"  # Assuming 'title' column exists
-    date: 2024-10-13T15:22:00+08:00
-    lastmod: 2024-10-13T15:22:00+08:00
+    date: 2024-10-15T23:34:00+08:00
+    lastmod: 2024-10-15T23:34:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'relief', 'Dream']
+    tags: ['relief', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream mainly foretells one's luck and positive change.It will be a time to 
 | Lucky Animal        | Goose |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Croissant      |
-| Lucky Instrument    | Sitar |
-| Lucky Flower        | Narcissus    |
-| Lucky Job           | Interior Designer       |
-| Lucky Exercise      | Aqua Aerobics  |
-| Lucky Country       | Tonga    |
+| Lucky Food          | Buffalo Wings      |
+| Lucky Instrument    | Bass Guitar |
+| Lucky Flower        | Stock    |
+| Lucky Job           | SEO Specialist       |
+| Lucky Exercise      | Belly Dancing  |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

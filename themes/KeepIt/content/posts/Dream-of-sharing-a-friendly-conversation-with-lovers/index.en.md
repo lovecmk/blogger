@@ -1,8 +1,8 @@
 ---
     weight: 218
     title: "Dream of sharing a friendly conversation with lovers"  # Assuming 'title' column exists
-    date: 2024-10-13T19:52:00+08:00
-    lastmod: 2024-10-13T19:52:00+08:00
+    date: 2024-10-14T13:31:00+08:00
+    lastmod: 2024-10-14T13:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lovers', 'Dream', 'sharing', 'a', 'friendly', 'of', 'conversation', 'with']
+    tags: ['conversation', 'lovers', 'Dream', 'friendly', 'sharing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can symbolize luck.You are expected to achieve good results through a
 | Lucky Animal        | Otter |
 | Lucky Place         | Museum     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Zucchini Noodles      |
-| Lucky Instrument    | Didgeridoo |
-| Lucky Flower        | Lantana    |
-| Lucky Job           | Baker       |
-| Lucky Exercise      | Discus Throw  |
-| Lucky Country       | Azerbaijan    |
+| Lucky Food          | Bagel      |
+| Lucky Instrument    | Keyboard Synthesizer |
+| Lucky Flower        | Calla Lily    |
+| Lucky Job           | Security Guard       |
+| Lucky Exercise      | Skimboarding  |
+| Lucky Country       | Malaysia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1275
     title: "Dream of being in a romantic relationship or falling in love"  # Assuming 'title' column exists
-    date: 2024-10-13T18:29:00+08:00
-    lastmod: 2024-10-13T18:29:00+08:00
+    date: 2024-10-12T22:53:00+08:00
+    lastmod: 2024-10-12T22:53:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['romantic', 'or', 'falling', 'Dream', 'being', 'a', 'relationship', 'love', 'in', 'of']
+    tags: ['being', 'Dream', 'love', 'falling', 'romantic', 'relationship']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Chicken |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Scone      |
-| Lucky Instrument    | Harmonic Piano |
-| Lucky Flower        | Gillyflower    |
-| Lucky Job           | UX Designer       |
-| Lucky Exercise      | Surfing  |
-| Lucky Country       | Malaysia    |
+| Lucky Food          | Quesadilla      |
+| Lucky Instrument    | Keyboard Synthesizer |
+| Lucky Flower        | Dandelion    |
+| Lucky Job           | Data Scientist       |
+| Lucky Exercise      | Underwater Diving  |
+| Lucky Country       | Laos    |
 
 
 ##  Final Reflections on Dreams

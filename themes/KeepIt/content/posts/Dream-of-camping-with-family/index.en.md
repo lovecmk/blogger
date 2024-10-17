@@ -1,8 +1,8 @@
 ---
     weight: 175
     title: "Dream of camping with family"  # Assuming 'title' column exists
-    date: 2024-10-13T01:59:00+08:00
-    lastmod: 2024-10-13T01:59:00+08:00
+    date: 2024-10-14T16:30:00+08:00
+    lastmod: 2024-10-14T16:30:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'camping', 'Dream', 'of', 'with']
+    tags: ['family', 'camping', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual's situation.In most 
 | Lucky Animal        | Chick |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Shrimp      |
-| Lucky Instrument    | Piccolo Trumpet |
-| Lucky Flower        | Scabiosa    |
-| Lucky Job           | Public Relations Specialist       |
-| Lucky Exercise      | Stretching  |
-| Lucky Country       | Mexico    |
+| Lucky Food          | Stuffed Peppers      |
+| Lucky Instrument    | Ukulele |
+| Lucky Flower        | Calla Lily    |
+| Lucky Job           | Architect       |
+| Lucky Exercise      | Pole Vaulting  |
+| Lucky Country       | Australia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 57
     title: "Dream of taking a calm rest while eating peach"  # Assuming 'title' column exists
-    date: 2024-10-13T02:31:00+08:00
-    lastmod: 2024-10-13T02:31:00+08:00
+    date: 2024-10-13T11:16:00+08:00
+    lastmod: 2024-10-13T11:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['eating', 'taking', 'rest', 'calm', 'Dream', 'a', 'peach', 'of', 'while']
+    tags: ['while', 'Dream', 'taking', 'eating', 'peach', 'rest', 'calm']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream suggests the possibility of finding good luck through inner stability
 | Lucky Animal        | Deer |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Bruschetta      |
-| Lucky Instrument    | Sarangi |
-| Lucky Flower        | Bougainvillea    |
-| Lucky Job           | IT Specialist       |
-| Lucky Exercise      | Hiking  |
-| Lucky Country       | Sri Lanka    |
+| Lucky Food          | Risotto      |
+| Lucky Instrument    | Xylophone |
+| Lucky Flower        | Clover Blossom    |
+| Lucky Job           | Content Creator       |
+| Lucky Exercise      | Cricket  |
+| Lucky Country       | Singapore    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 297
     title: "Dream of watching stars in the night sky with a puppy"  # Assuming 'title' column exists
-    date: 2024-10-13T10:02:00+08:00
-    lastmod: 2024-10-13T10:02:00+08:00
+    date: 2024-10-12T07:55:00+08:00
+    lastmod: 2024-10-12T07:55:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['sky', 'the', 'night', 'Dream', 'puppy', 'a', 'in', 'of', 'stars', 'watching', 'with']
+    tags: ['Dream', 'puppy', 'stars', 'night', 'watching', 'sky']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be diverse.For example, with a puppy can indicate tha
 | Lucky Animal        | Cat |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Omelette      |
-| Lucky Instrument    | Clarinet |
-| Lucky Flower        | Agapanthus    |
-| Lucky Job           | Network Administrator       |
-| Lucky Exercise      | Skiing  |
-| Lucky Country       | Cambodia    |
+| Lucky Food          | Cheeseboard      |
+| Lucky Instrument    | Rudra Veena |
+| Lucky Flower        | Hollyhock    |
+| Lucky Job           | Marketing Manager       |
+| Lucky Exercise      | Racquetball  |
+| Lucky Country       | Tuvalu    |
 
 
 ##  Final Reflections on Dreams

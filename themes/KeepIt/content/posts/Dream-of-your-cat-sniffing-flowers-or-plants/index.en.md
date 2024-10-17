@@ -1,8 +1,8 @@
 ---
     weight: 1968
     title: "Dream of a cherry orchard"  # Assuming 'title' column exists
-    date: 2024-10-13T13:07:00+08:00
-    lastmod: 2024-10-13T13:07:00+08:00
+    date: 2024-10-13T08:50:00+08:00
+    lastmod: 2024-10-13T08:50:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['cherry', 'Dream', 'a', 'orchard', 'of']
+    tags: ['Dream', 'orchard', 'cherry']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Red fox |
 | Lucky Place         | Academy     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Chia Pudding      |
-| Lucky Instrument    | Fiddle |
-| Lucky Flower        | Gillyflower    |
-| Lucky Job           | Neuroscientist       |
-| Lucky Exercise      | Belly Dancing  |
-| Lucky Country       | Kazakhstan    |
+| Lucky Food          | Tuna Tartare      |
+| Lucky Instrument    | Lute |
+| Lucky Flower        | Wisteria    |
+| Lucky Job           | Mechanic       |
+| Lucky Exercise      | Capoeira  |
+| Lucky Country       | Angola    |
 
 
 ##  Final Reflections on Dreams

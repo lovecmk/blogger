@@ -1,8 +1,8 @@
 ---
     weight: 1712
     title: "Dream of your grandmother sharing a heartfelt embrace with you."  # Assuming 'title' column exists
-    date: 2024-10-13T22:06:00+08:00
-    lastmod: 2024-10-13T22:06:00+08:00
+    date: 2024-10-13T16:19:00+08:00
+    lastmod: 2024-10-13T16:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['grandmother', 'you.', 'embrace', 'your', 'Dream', 'sharing', 'a', 'heartfelt', 'of', 'with']
+    tags: ['Dream', 'heartfelt', 'sharing', 'grandmother', 'embrace', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Deer |
 | Lucky Place         | Beach     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Falafel      |
-| Lucky Instrument    | Chimes |
-| Lucky Flower        | Dandelion    |
-| Lucky Job           | Psychologist       |
-| Lucky Exercise      | Rock Climbing  |
-| Lucky Country       | Kiribati    |
+| Lucky Food          | Spring Roll      |
+| Lucky Instrument    | Horn |
+| Lucky Flower        | Stock    |
+| Lucky Job           | Consultant       |
+| Lucky Exercise      | Box Jumps  |
+| Lucky Country       | Argentina    |
 
 
 ##  Final Reflections on Dreams

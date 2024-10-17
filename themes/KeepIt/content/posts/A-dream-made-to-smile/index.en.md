@@ -1,8 +1,8 @@
 ---
     weight: 1020
     title: "A dream made to smile"  # Assuming 'title' column exists
-    date: 2024-10-13T10:07:00+08:00
-    lastmod: 2024-10-13T10:07:00+08:00
+    date: 2024-10-14T07:06:00+08:00
+    lastmod: 2024-10-14T07:06:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['to', 'made', 'dream', 'smile', 'A']
+    tags: ['made', 'dream', 'to', 'A', 'smile']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can bring positive change and happiness in your life.If y
 | Lucky Animal        | Parrot |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Popcorn      |
-| Lucky Instrument    | Melodic Percussion |
-| Lucky Flower        | Forget-Me-Not    |
-| Lucky Job           | Event Coordinator       |
-| Lucky Exercise      | Racquetball  |
-| Lucky Country       | Brazil    |
+| Lucky Food          | Pasta Salad      |
+| Lucky Instrument    | Saz |
+| Lucky Flower        | Verbena    |
+| Lucky Job           | Pilot       |
+| Lucky Exercise      | Martial Arts  |
+| Lucky Country       | Philippines    |
 
 
 ##  Final Reflections on Dreams

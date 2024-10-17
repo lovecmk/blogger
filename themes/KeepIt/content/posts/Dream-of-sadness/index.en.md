@@ -1,8 +1,8 @@
 ---
     weight: 989
     title: "Dream of sadness"  # Assuming 'title' column exists
-    date: 2024-10-13T09:51:00+08:00
-    lastmod: 2024-10-13T09:51:00+08:00
+    date: 2024-10-15T14:16:00+08:00
+    lastmod: 2024-10-15T14:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'sadness', 'Dream']
+    tags: ['sadness', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of sorrowful dreams can vary depending on the individual.This dream may
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Prawn Crackers      |
-| Lucky Instrument    | Cowbell |
-| Lucky Flower        | Geranium    |
-| Lucky Job           | Environmental Scientist       |
-| Lucky Exercise      | Active Recovery  |
-| Lucky Country       | Vanuatu    |
+| Lucky Food          | Cornbread      |
+| Lucky Instrument    | Trompeta |
+| Lucky Flower        | Zantedeschia    |
+| Lucky Job           | Lawyer       |
+| Lucky Exercise      | Aqua Aerobics  |
+| Lucky Country       | Laos    |
 
 
 ##  Final Reflections on Dreams

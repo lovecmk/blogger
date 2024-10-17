@@ -1,8 +1,8 @@
 ---
     weight: 582
     title: "Dream of smoking small flowers"  # Assuming 'title' column exists
-    date: 2024-10-13T15:41:00+08:00
-    lastmod: 2024-10-13T15:41:00+08:00
+    date: 2024-10-12T12:20:00+08:00
+    lastmod: 2024-10-12T12:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['smoking', 'small', 'flowers', 'Dream', 'of']
+    tags: ['Dream', 'small', 'flowers', 'smoking']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can foresee good luck and positive results through small flowers bloo
 | Lucky Animal        | Dog |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Caprese Skewers      |
-| Lucky Instrument    | Cowbell |
-| Lucky Flower        | Hydrangea    |
-| Lucky Job           | Mathematician       |
-| Lucky Exercise      | Gymnastics  |
-| Lucky Country       | United Arab Emirates    |
+| Lucky Food          | Tuna Tartare      |
+| Lucky Instrument    | Bass Drum |
+| Lucky Flower        | Wisteria    |
+| Lucky Job           | Human Resources Manager       |
+| Lucky Exercise      | Push-Ups  |
+| Lucky Country       | Spain    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 72
     title: "Dream of feeling new possibilities while eating kiwi"  # Assuming 'title' column exists
-    date: 2024-10-13T11:02:00+08:00
-    lastmod: 2024-10-13T11:02:00+08:00
+    date: 2024-10-14T12:00:00+08:00
+    lastmod: 2024-10-14T12:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['feeling', 'new', 'eating', 'possibilities', 'Dream', 'of', 'kiwi', 'while']
+    tags: ['possibilities', 'while', 'kiwi', 'Dream', 'eating', 'feeling', 'new']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can provide you with new possibilities and luck.The dream of eating n
 | Lucky Animal        | Hippo |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Caramel Flan      |
-| Lucky Instrument    | Conga |
-| Lucky Flower        | Jatropha    |
-| Lucky Job           | Marketing Manager       |
-| Lucky Exercise      | Futsal  |
-| Lucky Country       | Saudi Arabia    |
+| Lucky Food          | Kale Salad      |
+| Lucky Instrument    | Harmonica |
+| Lucky Flower        | Larkspur    |
+| Lucky Job           | Pharmacist       |
+| Lucky Exercise      | CrossFit  |
+| Lucky Country       | Papua New Guinea    |
 
 
 ##  Final Reflections on Dreams

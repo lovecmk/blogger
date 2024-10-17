@@ -1,8 +1,8 @@
 ---
     weight: 2058
     title: "Dream of engaging in outdoor activities together with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T15:17:00+08:00
-    lastmod: 2024-10-13T15:17:00+08:00
+    date: 2024-10-15T04:07:00+08:00
+    lastmod: 2024-10-15T04:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['outdoor', 'together', 'your', 'activities', 'boyfriend', 'Dream', 'engaging', 'in', 'of', 'with']
+    tags: ['Dream', 'boyfriend', 'outdoor', 'activities', 'engaging', 'together']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams are not usually considered sources of luck. However, if you associate thi
 | Lucky Animal        | Polar bear |
 | Lucky Place         | Museum     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Stir Fry      |
-| Lucky Instrument    | Harp |
-| Lucky Flower        | Heliotrope    |
+| Lucky Food          | Fruit Salad      |
+| Lucky Instrument    | French Horn |
+| Lucky Flower        | Thunbergia    |
 | Lucky Job           | App Developer       |
-| Lucky Exercise      | Snowboarding  |
-| Lucky Country       | Solomon Islands    |
+| Lucky Exercise      | Jumping Rope  |
+| Lucky Country       | Oman    |
 
 
 ##  Final Reflections on Dreams

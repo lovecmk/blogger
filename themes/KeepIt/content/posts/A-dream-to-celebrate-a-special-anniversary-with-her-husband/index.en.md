@@ -1,8 +1,8 @@
 ---
     weight: 95
     title: "A dream to celebrate a special anniversary with her husband"  # Assuming 'title' column exists
-    date: 2024-10-13T07:00:00+08:00
-    lastmod: 2024-10-13T07:00:00+08:00
+    date: 2024-10-13T04:07:00+08:00
+    lastmod: 2024-10-13T04:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['anniversary', 'special', 'her', 'to', 'a', 'husband', 'dream', 'celebrate', 'with', 'A']
+    tags: ['anniversary', 'special', 'dream', 'to', 'A', 'her', 'husband', 'celebrate']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you good luck and joy.Strengthening your relationship and c
 | Lucky Animal        | Panda |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Baked Ziti      |
-| Lucky Instrument    | Viola |
-| Lucky Flower        | Verbena    |
-| Lucky Job           | Chef       |
-| Lucky Exercise      | Kripalu Yoga  |
-| Lucky Country       | United States    |
+| Lucky Food          | Dumplings      |
+| Lucky Instrument    | Clarinet |
+| Lucky Flower        | Balsam    |
+| Lucky Job           | Field Technician       |
+| Lucky Exercise      | Discus Throw  |
+| Lucky Country       | Egypt    |
 
 
 ##  Final Reflections on Dreams

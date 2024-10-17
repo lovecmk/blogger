@@ -1,8 +1,8 @@
 ---
     weight: 178
     title: "Dream of having a free conversation with your family"  # Assuming 'title' column exists
-    date: 2024-10-13T19:13:00+08:00
-    lastmod: 2024-10-13T19:13:00+08:00
+    date: 2024-10-13T13:22:00+08:00
+    lastmod: 2024-10-13T13:22:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'your', 'free', 'Dream', 'a', 'of', 'conversation', 'with', 'having']
+    tags: ['conversation', 'family', 'Dream', 'free', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can provide you with good luck and bonds with your family.Free dialog
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Chicken Curry      |
-| Lucky Instrument    | Clavichord |
-| Lucky Flower        | Ornamental Pepper    |
-| Lucky Job           | Customer Service Representative       |
-| Lucky Exercise      | CrossFit  |
-| Lucky Country       | Papua New Guinea    |
+| Lucky Food          | Croissant      |
+| Lucky Instrument    | Clarinet |
+| Lucky Flower        | Jatropha    |
+| Lucky Job           | Lawyer       |
+| Lucky Exercise      | Pole Vaulting  |
+| Lucky Country       | Maldives    |
 
 
 ##  Final Reflections on Dreams

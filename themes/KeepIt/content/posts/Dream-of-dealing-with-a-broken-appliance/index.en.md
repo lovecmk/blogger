@@ -1,8 +1,8 @@
 ---
     weight: 1415
     title: "Dream of dealing with a broken appliance"  # Assuming 'title' column exists
-    date: 2024-10-13T16:43:00+08:00
-    lastmod: 2024-10-13T16:43:00+08:00
+    date: 2024-10-13T20:20:00+08:00
+    lastmod: 2024-10-13T20:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'a', 'broken', 'of', 'appliance', 'with', 'dealing']
+    tags: ['appliance', 'Dream', 'broken', 'dealing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream does not specifically indicate luck. However, embracing the message b
 | Lucky Animal        | Hyena |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Vegetarian Chili      |
-| Lucky Instrument    | Soprano Recorder |
-| Lucky Flower        | Feverfew    |
-| Lucky Job           | Consultant       |
-| Lucky Exercise      | Zumba  |
-| Lucky Country       | Latvia    |
+| Lucky Food          | Pudding      |
+| Lucky Instrument    | Tuba |
+| Lucky Flower        | Lily    |
+| Lucky Job           | App Developer       |
+| Lucky Exercise      | Boxing  |
+| Lucky Country       | Nauru    |
 
 
 ##  Final Reflections on Dreams

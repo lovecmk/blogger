@@ -1,8 +1,8 @@
 ---
     weight: 1069
     title: "Dream about Panda Panda"  # Assuming 'title' column exists
-    date: 2024-10-13T02:14:00+08:00
-    lastmod: 2024-10-13T02:14:00+08:00
+    date: 2024-10-11T15:07:00+08:00
+    lastmod: 2024-10-11T15:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['about', 'Dream', 'Panda']
+    tags: ['Panda', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream may have some signs.'Rap Panda' symbolizes ordinary and cuteness, whi
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Library     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Guacamole      |
-| Lucky Instrument    | Steel Pan |
-| Lucky Flower        | Cactus Flower    |
-| Lucky Job           | Statistician       |
-| Lucky Exercise      | Resistance Training  |
-| Lucky Country       | Georgia    |
+| Lucky Food          | Samosa      |
+| Lucky Instrument    | Timpani |
+| Lucky Flower        | Peach Blossom    |
+| Lucky Job           | Plumber       |
+| Lucky Exercise      | Gymnastics  |
+| Lucky Country       | Sweden    |
 
 
 ##  Final Reflections on Dreams

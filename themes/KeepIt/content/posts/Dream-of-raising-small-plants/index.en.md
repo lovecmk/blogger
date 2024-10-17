@@ -1,8 +1,8 @@
 ---
     weight: 562
     title: "Dream of raising small plants"  # Assuming 'title' column exists
-    date: 2024-10-13T23:20:00+08:00
-    lastmod: 2024-10-13T23:20:00+08:00
+    date: 2024-10-12T08:39:00+08:00
+    lastmod: 2024-10-12T08:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['small', 'plants', 'raising', 'Dream', 'of']
+    tags: ['Dream', 'small', 'plants', 'raising']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of the dream of raising small plants can contribute to your growth and 
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Promenade     |
 | Lucky Color         | White     |
-| Lucky Food          | Ice Cream      |
-| Lucky Instrument    | Bagpipes |
-| Lucky Flower        | Pincushion Flower    |
-| Lucky Job           | Flight Attendant       |
-| Lucky Exercise      | Obstacle Course Racing  |
-| Lucky Country       | Malawi    |
+| Lucky Food          | Sushi Roll      |
+| Lucky Instrument    | Saxophone |
+| Lucky Flower        | Tansy    |
+| Lucky Job           | Social Worker       |
+| Lucky Exercise      | Cricket  |
+| Lucky Country       | Bahrain    |
 
 
 ##  Final Reflections on Dreams

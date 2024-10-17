@@ -1,8 +1,8 @@
 ---
     weight: 1738
     title: "Dream of your grandmother's laughter filling the air with joy."  # Assuming 'title' column exists
-    date: 2024-10-13T15:55:00+08:00
-    lastmod: 2024-10-13T15:55:00+08:00
+    date: 2024-10-14T05:47:00+08:00
+    lastmod: 2024-10-14T05:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['joy.', 'filling', 'the', 'your', 'air', 'Dream', 'laughter', "grandmother's", 'of', 'with']
+    tags: ['joy', 'Dream', 'laughter', 'air', "grandmother's", 'filling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings a sense of luck and positivity. It signifies that you are ente
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Fish and Chips      |
-| Lucky Instrument    | Xylophone |
-| Lucky Flower        | Hibiscus    |
-| Lucky Job           | Architect       |
-| Lucky Exercise      | Tennis  |
-| Lucky Country       | Argentina    |
+| Lucky Food          | Lentil Soup      |
+| Lucky Instrument    | Trombone Slide |
+| Lucky Flower        | Cyclamen    |
+| Lucky Job           | Doctor       |
+| Lucky Exercise      | Pilates  |
+| Lucky Country       | Laos    |
 
 
 ##  Final Reflections on Dreams

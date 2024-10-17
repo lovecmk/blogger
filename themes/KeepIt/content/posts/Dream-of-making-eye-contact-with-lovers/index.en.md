@@ -1,8 +1,8 @@
 ---
     weight: 197
     title: "Dream of making eye contact with lovers"  # Assuming 'title' column exists
-    date: 2024-10-13T06:24:00+08:00
-    lastmod: 2024-10-13T06:24:00+08:00
+    date: 2024-10-13T12:10:00+08:00
+    lastmod: 2024-10-13T12:10:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lovers', 'contact', 'Dream', 'making', 'eye', 'of', 'with']
+    tags: ['lovers', 'Dream', 'making', 'eye', 'contact']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream shows deep intimacy and affection with your lover, which can bring po
 | Lucky Animal        | Pig |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Eggplant Parmesan      |
-| Lucky Instrument    | Soprano Recorder |
-| Lucky Flower        | Pelargonium    |
-| Lucky Job           | Technical Writer       |
-| Lucky Exercise      | Parkour Training  |
-| Lucky Country       | United States    |
+| Lucky Food          | Chowder      |
+| Lucky Instrument    | Sitar |
+| Lucky Flower        | Tulip    |
+| Lucky Job           | Psychologist       |
+| Lucky Exercise      | Leg Press  |
+| Lucky Country       | Armenia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1009
     title: "Dream of feeling ambiguous"  # Assuming 'title' column exists
-    date: 2024-10-13T10:32:00+08:00
-    lastmod: 2024-10-13T10:32:00+08:00
+    date: 2024-10-11T06:14:00+08:00
+    lastmod: 2024-10-11T06:14:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['ambiguous', 'of', 'feeling', 'Dream']
+    tags: ['ambiguous', 'Dream', 'feeling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'dreaming feelings' can vary depending on the contents and feelings 
 | Lucky Animal        | Otter |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Shrimp      |
-| Lucky Instrument    | Sackbut |
-| Lucky Flower        | Feverfew    |
-| Lucky Job           | Translator       |
-| Lucky Exercise      | Swimming Laps  |
-| Lucky Country       | Malaysia    |
+| Lucky Food          | Nachos      |
+| Lucky Instrument    | Mandolin |
+| Lucky Flower        | Cornflower    |
+| Lucky Job           | Data Scientist       |
+| Lucky Exercise      | Capoeira  |
+| Lucky Country       | Samoa    |
 
 
 ##  Final Reflections on Dreams

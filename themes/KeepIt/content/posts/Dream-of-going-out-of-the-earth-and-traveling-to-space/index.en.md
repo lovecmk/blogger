@@ -1,8 +1,8 @@
 ---
     weight: 616
     title: "Dream of going out of the earth and traveling to space"  # Assuming 'title' column exists
-    date: 2024-10-13T13:35:00+08:00
-    lastmod: 2024-10-13T13:35:00+08:00
+    date: 2024-10-15T21:23:00+08:00
+    lastmod: 2024-10-15T21:23:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['space', 'the', 'out', 'to', 'traveling', 'Dream', 'going', 'earth', 'and', 'of']
+    tags: ['Dream', 'traveling', 'to', 'going', 'out', 'earth', 'space']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can symbolize the luck that can bring you new opportunities and exper
 | Lucky Animal        | Hyena |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Caprese Skewers      |
-| Lucky Instrument    | Banjo |
-| Lucky Flower        | Hellebore    |
-| Lucky Job           | Postman       |
-| Lucky Exercise      | Cricket  |
-| Lucky Country       | Nigeria    |
+| Lucky Food          | Quiche      |
+| Lucky Instrument    | Conga |
+| Lucky Flower        | Primrose    |
+| Lucky Job           | Makeup Artist       |
+| Lucky Exercise      | Stretching  |
+| Lucky Country       | Azerbaijan    |
 
 
 ##  Final Reflections on Dreams

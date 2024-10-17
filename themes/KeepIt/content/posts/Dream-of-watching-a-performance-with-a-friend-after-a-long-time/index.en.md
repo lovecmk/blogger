@@ -1,8 +1,8 @@
 ---
     weight: 699
     title: "Dream of watching a performance with a friend after a long time"  # Assuming 'title' column exists
-    date: 2024-10-13T01:47:00+08:00
-    lastmod: 2024-10-13T01:47:00+08:00
+    date: 2024-10-13T00:24:00+08:00
+    lastmod: 2024-10-13T00:24:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['friend', 'performance', 'long', 'after', 'Dream', 'a', 'time', 'of', 'watching', 'with']
+    tags: ['Dream', 'friend', 'long', 'watching', 'time', 'performance', 'after']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you positive energy and hope, suggests the possibility of f
 | Lucky Animal        | Heron |
 | Lucky Place         | Library     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Spring Roll      |
-| Lucky Instrument    | Recorder |
-| Lucky Flower        | Peony    |
-| Lucky Job           | Art Director       |
-| Lucky Exercise      | Circuit Workout  |
-| Lucky Country       | Pakistan    |
+| Lucky Food          | Omelette      |
+| Lucky Instrument    | Guitar |
+| Lucky Flower        | Verbena    |
+| Lucky Job           | Chef       |
+| Lucky Exercise      | Boxing  |
+| Lucky Country       | Maldives    |
 
 
 ##  Final Reflections on Dreams

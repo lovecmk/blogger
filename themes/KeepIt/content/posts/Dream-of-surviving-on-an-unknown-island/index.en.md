@@ -1,8 +1,8 @@
 ---
     weight: 269
     title: "Dream of surviving on an unknown island"  # Assuming 'title' column exists
-    date: 2024-10-13T23:27:00+08:00
-    lastmod: 2024-10-13T23:27:00+08:00
+    date: 2024-10-11T23:15:00+08:00
+    lastmod: 2024-10-11T23:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'an', 'island', 'on', 'unknown', 'of', 'surviving']
+    tags: ['island', 'Dream', 'unknown', 'surviving', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of the dream of surviving on the unknown island can vary depending on t
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Onion Rings      |
-| Lucky Instrument    | Darabuka |
-| Lucky Flower        | Celosia    |
-| Lucky Job           | Scientist       |
-| Lucky Exercise      | Step Aerobics  |
-| Lucky Country       | Uzbekistan    |
+| Lucky Food          | Samosa      |
+| Lucky Instrument    | Snare Drum |
+| Lucky Flower        | Monkey Grass    |
+| Lucky Job           | Nuclear Engineer       |
+| Lucky Exercise      | Jumping Rope  |
+| Lucky Country       | Lebanon    |
 
 
 ##  Final Reflections on Dreams

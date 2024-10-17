@@ -1,8 +1,8 @@
 ---
     weight: 954
     title: "Dream of falling from rocks"  # Assuming 'title' column exists
-    date: 2024-10-13T23:40:00+08:00
-    lastmod: 2024-10-13T23:40:00+08:00
+    date: 2024-10-14T02:50:00+08:00
+    lastmod: 2024-10-14T02:50:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['falling', 'Dream', 'from', 'of', 'rocks']
+    tags: ['Dream', 'falling', 'from', 'rocks']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream may mean that it provides opportunities to overcome and grow the curr
 | Lucky Animal        | Duck |
 | Lucky Place         | Sea     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Roast Chicken      |
-| Lucky Instrument    | Triangle |
-| Lucky Flower        | Snapdragon    |
-| Lucky Job           | Oceanographer       |
-| Lucky Exercise      | Golf  |
-| Lucky Country       | Portugal    |
+| Lucky Food          | Eggplant Parmesan      |
+| Lucky Instrument    | Snare Drum |
+| Lucky Flower        | Alstroemeria    |
+| Lucky Job           | Physical Therapist       |
+| Lucky Exercise      | Soccer  |
+| Lucky Country       | Laos    |
 
 
 ##  Final Reflections on Dreams

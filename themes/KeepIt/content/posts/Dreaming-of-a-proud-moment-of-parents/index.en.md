@@ -1,8 +1,8 @@
 ---
     weight: 163
     title: "Dreaming of a proud moment of parents"  # Assuming 'title' column exists
-    date: 2024-10-13T06:20:00+08:00
-    lastmod: 2024-10-13T06:20:00+08:00
+    date: 2024-10-11T16:20:00+08:00
+    lastmod: 2024-10-11T16:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dreaming', 'parents', 'moment', 'a', 'proud', 'of']
+    tags: ['proud', 'Dreaming', 'moment', 'parents']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The signal of 'dreaming of your parents' is a sense of recognition and accomplis
 | Lucky Animal        | Leopard |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Scallops      |
-| Lucky Instrument    | Tenor Banjo |
-| Lucky Flower        | Safflower    |
-| Lucky Job           | Insurance Underwriter       |
-| Lucky Exercise      | Weightlifting  |
-| Lucky Country       | China    |
+| Lucky Food          | Spring Roll      |
+| Lucky Instrument    | Koto |
+| Lucky Flower        | Begonia    |
+| Lucky Job           | Psychologist       |
+| Lucky Exercise      | Dancing  |
+| Lucky Country       | Oman    |
 
 
 ##  Final Reflections on Dreams

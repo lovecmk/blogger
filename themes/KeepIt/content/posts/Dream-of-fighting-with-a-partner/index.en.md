@@ -1,8 +1,8 @@
 ---
     weight: 1838
     title: "Dream of feeling a strong connection to your ancestors while at a family reunion."  # Assuming 'title' column exists
-    date: 2024-10-13T05:48:00+08:00
-    lastmod: 2024-10-13T05:48:00+08:00
+    date: 2024-10-15T09:40:00+08:00
+    lastmod: 2024-10-15T09:40:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['ancestors', 'family', 'feeling', 'reunion.', 'strong', 'your', 'to', 'Dream', 'a', 'connection', 'of', 'while', 'at']
+    tags: ['while', 'family', 'Dream', 'strong', 'to', 'connection', 'feeling', 'ancestors', 'reunion']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Seal |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Biryani      |
-| Lucky Instrument    | Harp |
-| Lucky Flower        | Thunbergia    |
-| Lucky Job           | Librarian       |
-| Lucky Exercise      | Active Recovery  |
-| Lucky Country       | Zambia    |
+| Lucky Food          | Coconut Shrimp      |
+| Lucky Instrument    | Ukulele |
+| Lucky Flower        | Sunflower    |
+| Lucky Job           | Photographer       |
+| Lucky Exercise      | Burpees  |
+| Lucky Country       | Syria    |
 
 
 ##  Final Reflections on Dreams

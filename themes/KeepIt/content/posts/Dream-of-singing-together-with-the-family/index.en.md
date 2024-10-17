@@ -1,8 +1,8 @@
 ---
     weight: 675
     title: "Dream of singing together with the family"  # Assuming 'title' column exists
-    date: 2024-10-13T19:27:00+08:00
-    lastmod: 2024-10-13T19:27:00+08:00
+    date: 2024-10-15T04:03:00+08:00
+    lastmod: 2024-10-15T04:03:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'together', 'the', 'singing', 'Dream', 'of', 'with']
+    tags: ['family', 'Dream', 'singing', 'together']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is that you can have a happy time with your family throug
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Sea     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Quiche      |
-| Lucky Instrument    | Flute |
-| Lucky Flower        | Mandevilla    |
-| Lucky Job           | Financial Analyst       |
-| Lucky Exercise      | Rowing  |
-| Lucky Country       | Zimbabwe    |
+| Lucky Food          | Dumplings      |
+| Lucky Instrument    | Maracas |
+| Lucky Flower        | Lily    |
+| Lucky Job           | Security Guard       |
+| Lucky Exercise      | Hot Yoga  |
+| Lucky Country       | Bahrain    |
 
 
 ##  Final Reflections on Dreams

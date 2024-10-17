@@ -1,8 +1,8 @@
 ---
     weight: 815
     title: "Dreams of fire in a dream house that feels like nothing happened after the accident"  # Assuming 'title' column exists
-    date: 2024-10-13T19:50:00+08:00
-    lastmod: 2024-10-13T19:50:00+08:00
+    date: 2024-10-13T20:21:00+08:00
+    lastmod: 2024-10-13T20:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['like', 'the', 'after', 'happened', 'fire', 'nothing', 'a', 'house', 'dream', 'Dreams', 'accident', 'in', 'feels', 'of', 'that']
+    tags: ['feels', 'dream', 'nothing', 'fire', 'house', 'like', 'after', 'Dreams', 'that', 'happened', 'accident']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can show you good luck to change and grow.Feeling as if it is not aff
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Tuna Tartare      |
-| Lucky Instrument    | Tuba Horn |
-| Lucky Flower        | Vinca    |
-| Lucky Job           | Chef de Cuisine       |
-| Lucky Exercise      | Slacklining  |
-| Lucky Country       | Botswana    |
+| Lucky Food          | Burrito      |
+| Lucky Instrument    | Accordion Synth |
+| Lucky Flower        | Chrysanthemum    |
+| Lucky Job           | Psychologist       |
+| Lucky Exercise      | Weightlifting  |
+| Lucky Country       | Sri Lanka    |
 
 
 ##  Final Reflections on Dreams

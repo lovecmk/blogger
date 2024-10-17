@@ -1,8 +1,8 @@
 ---
     weight: 1431
     title: "Dream of participating in a cultural ritual while abroad"  # Assuming 'title' column exists
-    date: 2024-10-13T16:21:00+08:00
-    lastmod: 2024-10-13T16:21:00+08:00
+    date: 2024-10-14T10:12:00+08:00
+    lastmod: 2024-10-14T10:12:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['abroad', 'ritual', 'Dream', 'participating', 'a', 'in', 'cultural', 'of', 'while']
+    tags: ['while', 'Dream', 'participating', 'cultural', 'ritual', 'abroad']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream suggests that the luck it brings is related to cultural understanding
 | Lucky Animal        | Parrot |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Seafood Paella      |
-| Lucky Instrument    | Harmonium |
-| Lucky Flower        | Nasturtium    |
-| Lucky Job           | Philosopher       |
-| Lucky Exercise      | Tennis  |
-| Lucky Country       | Germany    |
+| Lucky Food          | Stir Fry      |
+| Lucky Instrument    | Xylophone |
+| Lucky Flower        | Aster    |
+| Lucky Job           | Mechanic       |
+| Lucky Exercise      | High-Intensity Interval Training (HIIT)  |
+| Lucky Country       | Kenya    |
 
 
 ##  Final Reflections on Dreams

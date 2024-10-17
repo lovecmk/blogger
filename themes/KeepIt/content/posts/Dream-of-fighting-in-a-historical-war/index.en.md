@@ -1,8 +1,8 @@
 ---
     weight: 1653
     title: "Dream of plum trees laden with fruit"  # Assuming 'title' column exists
-    date: 2024-10-13T15:17:00+08:00
-    lastmod: 2024-10-13T15:17:00+08:00
+    date: 2024-10-14T09:35:00+08:00
+    lastmod: 2024-10-14T09:35:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fruit', 'Dream', 'trees', 'plum', 'of', 'with', 'laden']
+    tags: ['laden', 'Dream', 'trees', 'fruit', 'plum']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Panda |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Chowder      |
-| Lucky Instrument    | Tenor Banjo |
-| Lucky Flower        | Sunflower    |
-| Lucky Job           | Psychologist       |
-| Lucky Exercise      | Ballet  |
-| Lucky Country       | Vanuatu    |
+| Lucky Food          | Cheeseboard      |
+| Lucky Instrument    | Bassoon |
+| Lucky Flower        | Gladiolus    |
+| Lucky Job           | Graphic Designer       |
+| Lucky Exercise      | Circuit Workout  |
+| Lucky Country       | Japan    |
 
 
 ##  Final Reflections on Dreams

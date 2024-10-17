@@ -1,8 +1,8 @@
 ---
     weight: 539
     title: "Blue grass"  # Assuming 'title' column exists
-    date: 2024-10-13T01:26:00+08:00
-    lastmod: 2024-10-13T01:26:00+08:00
+    date: 2024-10-11T13:16:00+08:00
+    lastmod: 2024-10-11T13:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['grass', 'Blue']
+    tags: ['Blue', 'grass']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The signal of the blue lawn dream may include peace, stability, richness, and co
 | Lucky Animal        | Chameleon |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Corn on the Cob      |
-| Lucky Instrument    | Trompeta |
-| Lucky Flower        | Sea Holly    |
-| Lucky Job           | Logistician       |
-| Lucky Exercise      | Spin Class  |
-| Lucky Country       | Samoa    |
+| Lucky Food          | Stuffed Mushrooms      |
+| Lucky Instrument    | Saz |
+| Lucky Flower        | Wisteria    |
+| Lucky Job           | Content Creator       |
+| Lucky Exercise      | Obstacle Course Racing  |
+| Lucky Country       | United States    |
 
 
 ##  Final Reflections on Dreams

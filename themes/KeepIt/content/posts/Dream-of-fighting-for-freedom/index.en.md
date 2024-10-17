@@ -1,8 +1,8 @@
 ---
     weight: 1984
     title: "Dream of being separated from someone you care about"  # Assuming 'title' column exists
-    date: 2024-10-13T11:24:00+08:00
-    lastmod: 2024-10-13T11:24:00+08:00
+    date: 2024-10-11T08:54:00+08:00
+    lastmod: 2024-10-11T08:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['separated', 'about', 'Dream', 'care', 'being', 'someone', 'from', 'of', 'you']
+    tags: ['being', 'Dream', 'separated', 'from', 'someone', 'you', 'care']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Parrot |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Buffalo Wings      |
-| Lucky Instrument    | Pipa |
-| Lucky Flower        | Celosia    |
-| Lucky Job           | User Researcher       |
-| Lucky Exercise      | Kettlebell Training  |
-| Lucky Country       | Zimbabwe    |
+| Lucky Food          | Ceviche      |
+| Lucky Instrument    | Dulcimer |
+| Lucky Flower        | Moss Rose    |
+| Lucky Job           | Game Developer       |
+| Lucky Exercise      | Rugby  |
+| Lucky Country       | Tuvalu    |
 
 
 ##  Final Reflections on Dreams

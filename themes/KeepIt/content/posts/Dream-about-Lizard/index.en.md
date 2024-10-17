@@ -1,8 +1,8 @@
 ---
     weight: 1121
     title: "Dream about Lizard"  # Assuming 'title' column exists
-    date: 2024-10-13T17:12:00+08:00
-    lastmod: 2024-10-13T17:12:00+08:00
+    date: 2024-10-13T00:24:00+08:00
+    lastmod: 2024-10-13T00:24:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Lizard', 'about', 'Dream']
+    tags: ['Lizard', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Lizards can be considered a symbol of valor, muscle, wisdom, and change.Therefor
 | Lucky Animal        | Bear |
 | Lucky Place         | Museum     |
 | Lucky Color         | Green     |
-| Lucky Food          | Pasta Primavera      |
-| Lucky Instrument    | Marimba |
-| Lucky Flower        | Lavender    |
-| Lucky Job           | Mathematician       |
-| Lucky Exercise      | Parkour  |
-| Lucky Country       | Greece    |
+| Lucky Food          | Zucchini Noodles      |
+| Lucky Instrument    | Tuba |
+| Lucky Flower        | Cornflower    |
+| Lucky Job           | Recruiter       |
+| Lucky Exercise      | Juggling  |
+| Lucky Country       | Germany    |
 
 
 ##  Final Reflections on Dreams

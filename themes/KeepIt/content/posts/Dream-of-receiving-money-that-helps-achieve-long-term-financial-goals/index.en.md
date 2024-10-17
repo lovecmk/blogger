@@ -1,8 +1,8 @@
 ---
     weight: 2143
     title: "Dream of being in a state of deep regret"  # Assuming 'title' column exists
-    date: 2024-10-13T19:18:00+08:00
-    lastmod: 2024-10-13T19:18:00+08:00
+    date: 2024-10-12T04:19:00+08:00
+    lastmod: 2024-10-12T04:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['regret', 'state', 'deep', 'Dream', 'being', 'a', 'in', 'of']
+    tags: ['being', 'Dream', 'regret', 'deep', 'state']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams generally do not bring direct luck. However, a dream of sipping raspberry
 | Lucky Animal        | Fox |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Cheesecake      |
-| Lucky Instrument    | Steel Pan |
-| Lucky Flower        | Iris    |
-| Lucky Job           | Landscaper       |
-| Lucky Exercise      | Soccer  |
-| Lucky Country       | South Africa    |
+| Lucky Food          | Ratatouille      |
+| Lucky Instrument    | Trombone Slide |
+| Lucky Flower        | Hibiscus    |
+| Lucky Job           | Data Scientist       |
+| Lucky Exercise      | Hula Hooping  |
+| Lucky Country       | France    |
 
 
 ##  Final Reflections on Dreams

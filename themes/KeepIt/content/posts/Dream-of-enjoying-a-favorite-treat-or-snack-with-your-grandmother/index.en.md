@@ -1,8 +1,8 @@
 ---
     weight: 1893
     title: "Dream of confrontations with your children"  # Assuming 'title' column exists
-    date: 2024-10-13T18:33:00+08:00
-    lastmod: 2024-10-13T18:33:00+08:00
+    date: 2024-10-14T21:44:00+08:00
+    lastmod: 2024-10-14T21:44:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['children', 'your', 'Dream', 'confrontations', 'of', 'with']
+    tags: ['confrontations', 'Dream', 'children']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Horse |
 | Lucky Place         | Academy     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Chips      |
-| Lucky Instrument    | Didgeridoo |
-| Lucky Flower        | Carnation    |
-| Lucky Job           | Pastry Chef       |
-| Lucky Exercise      | Interval Training  |
-| Lucky Country       | Iran    |
+| Lucky Food          | Pasta Primavera      |
+| Lucky Instrument    | Piano |
+| Lucky Flower        | Rudbeckia    |
+| Lucky Job           | Insurance Underwriter       |
+| Lucky Exercise      | Aerobics  |
+| Lucky Country       | Papua New Guinea    |
 
 
 ##  Final Reflections on Dreams

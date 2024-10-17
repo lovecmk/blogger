@@ -1,8 +1,8 @@
 ---
     weight: 215
     title: "Dream of recording a happy moment with lovers"  # Assuming 'title' column exists
-    date: 2024-10-13T08:09:00+08:00
-    lastmod: 2024-10-13T08:09:00+08:00
+    date: 2024-10-15T05:26:00+08:00
+    lastmod: 2024-10-15T05:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lovers', 'moment', 'recording', 'Dream', 'a', 'happy', 'of', 'with']
+    tags: ['recording', 'lovers', 'happy', 'Dream', 'moment']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be in that you can feel happy moments in your relatio
 | Lucky Animal        | Duck |
 | Lucky Place         | Lake     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Curry      |
-| Lucky Instrument    | Piano |
-| Lucky Flower        | Dahlia    |
-| Lucky Job           | Fitness Instructor       |
-| Lucky Exercise      | Body Pump  |
-| Lucky Country       | South Korea    |
+| Lucky Food          | Chicken Parmesan      |
+| Lucky Instrument    | Koto |
+| Lucky Flower        | Sage    |
+| Lucky Job           | Taxi Driver       |
+| Lucky Exercise      | Surf Lifesaving  |
+| Lucky Country       | Norway    |
 
 
 ##  Final Reflections on Dreams

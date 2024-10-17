@@ -1,8 +1,8 @@
 ---
     weight: 431
     title: "Dream of running away from adversity or difficulties"  # Assuming 'title' column exists
-    date: 2024-10-13T08:07:00+08:00
-    lastmod: 2024-10-13T08:07:00+08:00
+    date: 2024-10-13T10:55:00+08:00
+    lastmod: 2024-10-13T10:55:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'running', 'difficulties', 'away', 'Dream', 'from', 'adversity', 'of']
+    tags: ['Dream', 'running', 'from', 'away', 'difficulties', 'adversity']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is essentially associated with your way of dealing with i
 | Lucky Animal        | Raccoon |
 | Lucky Place         | River     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Pork Belly      |
-| Lucky Instrument    | Piccolo Trumpet |
-| Lucky Flower        | Marigold    |
-| Lucky Job           | Firefighter       |
-| Lucky Exercise      | Pole Vaulting  |
-| Lucky Country       | Zimbabwe    |
+| Lucky Food          | Pizza      |
+| Lucky Instrument    | Chimes |
+| Lucky Flower        | Periwinkle    |
+| Lucky Job           | Public Relations Specialist       |
+| Lucky Exercise      | Crunches  |
+| Lucky Country       | Cambodia    |
 
 
 ##  Final Reflections on Dreams

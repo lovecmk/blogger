@@ -1,8 +1,8 @@
 ---
     weight: 652
     title: "Dream of observing snowflakes with a small world"  # Assuming 'title' column exists
-    date: 2024-10-13T08:54:00+08:00
-    lastmod: 2024-10-13T08:54:00+08:00
+    date: 2024-10-12T13:25:00+08:00
+    lastmod: 2024-10-12T13:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['observing', 'small', 'snowflakes', 'Dream', 'a', 'world', 'of', 'with']
+    tags: ['Dream', 'snowflakes', 'small', 'world', 'observing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can suggest that you can focus on details and find new possibilities 
 | Lucky Animal        | Chameleon |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Chicken Curry      |
-| Lucky Instrument    | Basset Horn |
-| Lucky Flower        | Lotus    |
-| Lucky Job           | Construction Worker       |
-| Lucky Exercise      | Handball  |
-| Lucky Country       | Norway    |
+| Lucky Food          | Pulled Pork      |
+| Lucky Instrument    | Synthesizer |
+| Lucky Flower        | Peach Blossom    |
+| Lucky Job           | Human Resources Manager       |
+| Lucky Exercise      | Pole Vaulting  |
+| Lucky Country       | Malaysia    |
 
 
 ##  Final Reflections on Dreams

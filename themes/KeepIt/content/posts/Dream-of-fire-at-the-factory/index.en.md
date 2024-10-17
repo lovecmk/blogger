@@ -1,8 +1,8 @@
 ---
     weight: 820
     title: "Dream of fire at the factory"  # Assuming 'title' column exists
-    date: 2024-10-13T09:43:00+08:00
-    lastmod: 2024-10-13T09:43:00+08:00
+    date: 2024-10-13T04:28:00+08:00
+    lastmod: 2024-10-13T04:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['factory', 'the', 'fire', 'Dream', 'of', 'at']
+    tags: ['Dream', 'fire', 'factory']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream mainly shows unexpected changes and dangers, so it's hard to see it a
 | Lucky Animal        | Bear |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Lentil Soup      |
-| Lucky Instrument    | Tenor Saxophone |
-| Lucky Flower        | Poinsettia    |
-| Lucky Job           | Field Technician       |
-| Lucky Exercise      | Salsa  |
-| Lucky Country       | Thailand    |
+| Lucky Food          | Salad      |
+| Lucky Instrument    | Tabla |
+| Lucky Flower        | Sea Lavender    |
+| Lucky Job           | Oceanographer       |
+| Lucky Exercise      | Swimming  |
+| Lucky Country       | Oman    |
 
 
 ##  Final Reflections on Dreams

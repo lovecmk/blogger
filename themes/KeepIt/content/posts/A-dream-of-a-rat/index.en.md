@@ -1,8 +1,8 @@
 ---
     weight: 867
     title: "A dream of a rat"  # Assuming 'title' column exists
-    date: 2024-10-13T15:48:00+08:00
-    lastmod: 2024-10-13T15:48:00+08:00
+    date: 2024-10-11T08:51:00+08:00
+    lastmod: 2024-10-11T08:51:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['a', 'dream', 'rat', 'of', 'A']
+    tags: ['dream', 'A', 'rat']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Rats in dreams generally do not symbolize lucky things.However, you can be alert
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Red     |
-| Lucky Food          | Baklava      |
-| Lucky Instrument    | Cowbell |
-| Lucky Flower        | Vinca    |
-| Lucky Job           | Oceanographer       |
-| Lucky Exercise      | Baseball  |
-| Lucky Country       | Iraq    |
+| Lucky Food          | Chips      |
+| Lucky Instrument    | Snare Drum |
+| Lucky Flower        | Snapdragon    |
+| Lucky Job           | Translator       |
+| Lucky Exercise      | Box Jumps  |
+| Lucky Country       | Nauru    |
 
 
 ##  Final Reflections on Dreams

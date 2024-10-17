@@ -1,8 +1,8 @@
 ---
     weight: 1271
     title: "Dream of being unable to speak or communicate"  # Assuming 'title' column exists
-    date: 2024-10-13T07:29:00+08:00
-    lastmod: 2024-10-13T07:29:00+08:00
+    date: 2024-10-11T18:23:00+08:00
+    lastmod: 2024-10-11T18:23:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['unable', 'communicate', 'or', 'to', 'Dream', 'being', 'speak', 'of']
+    tags: ['being', 'Dream', 'speak', 'to', 'communicate', 'unable']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Koala |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Fajitas      |
-| Lucky Instrument    | Tenor Saxophone |
-| Lucky Flower        | Ranunculus    |
-| Lucky Job           | Web Developer       |
-| Lucky Exercise      | Cross-Country Skiing  |
-| Lucky Country       | Pakistan    |
+| Lucky Food          | Quesadilla      |
+| Lucky Instrument    | Cello |
+| Lucky Flower        | Bouvardia    |
+| Lucky Job           | Video Editor       |
+| Lucky Exercise      | Leg Press  |
+| Lucky Country       | Tuvalu    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1846
     title: "Dream of a basket full of ripe blueberries"  # Assuming 'title' column exists
-    date: 2024-10-13T01:13:00+08:00
-    lastmod: 2024-10-13T01:13:00+08:00
+    date: 2024-10-11T02:17:00+08:00
+    lastmod: 2024-10-11T02:17:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['blueberries', 'Dream', 'full', 'basket', 'a', 'ripe', 'of']
+    tags: ['Dream', 'blueberries', 'full', 'basket', 'ripe']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Koala |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Black     |
-| Lucky Food          | Samosa      |
-| Lucky Instrument    | Lap Steel Guitar |
-| Lucky Flower        | Balsam    |
-| Lucky Job           | Welder       |
-| Lucky Exercise      | Baseball  |
-| Lucky Country       | Iraq    |
+| Lucky Food          | Steak      |
+| Lucky Instrument    | Sitar |
+| Lucky Flower        | Chive Blossom    |
+| Lucky Job           | Musician       |
+| Lucky Exercise      | Leg Press  |
+| Lucky Country       | Russia    |
 
 
 ##  Final Reflections on Dreams

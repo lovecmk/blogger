@@ -1,8 +1,8 @@
 ---
     weight: 1232
     title: "Dream of a car flipping over"  # Assuming 'title' column exists
-    date: 2024-10-13T22:31:00+08:00
-    lastmod: 2024-10-13T22:31:00+08:00
+    date: 2024-10-14T13:52:00+08:00
+    lastmod: 2024-10-14T13:52:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['flipping', 'Dream', 'a', 'over', 'car', 'of']
+    tags: ['Dream', 'flipping', 'over', 'car']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Giraffe |
 | Lucky Place         | River     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Gnocchi      |
-| Lucky Instrument    | Guitarlele |
-| Lucky Flower        | Buttercup    |
-| Lucky Job           | Interpreter       |
-| Lucky Exercise      | Rugby  |
-| Lucky Country       | Hungary    |
+| Lucky Food          | Eggplant Parmesan      |
+| Lucky Instrument    | Oboe |
+| Lucky Flower        | Zinnia    |
+| Lucky Job           | Researcher       |
+| Lucky Exercise      | Kripalu Yoga  |
+| Lucky Country       | Canada    |
 
 
 ##  Final Reflections on Dreams

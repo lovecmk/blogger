@@ -1,8 +1,8 @@
 ---
     weight: 1054
     title: "Dream about Iguana"  # Assuming 'title' column exists
-    date: 2024-10-13T19:54:00+08:00
-    lastmod: 2024-10-13T19:54:00+08:00
+    date: 2024-10-12T09:23:00+08:00
+    lastmod: 2024-10-12T09:23:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['about', 'Dream', 'Iguana']
+    tags: ['Iguana', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Guan and crocodiles have a strong adaptability and excellent survival, so if the
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Roast Chicken      |
-| Lucky Instrument    | Keyboard Synthesizer |
-| Lucky Flower        | Periwinkle    |
-| Lucky Job           | Firefighter       |
-| Lucky Exercise      | Tai Chi  |
-| Lucky Country       | Western Sahara    |
+| Lucky Food          | Steak      |
+| Lucky Instrument    | French Horn |
+| Lucky Flower        | Gillyflower    |
+| Lucky Job           | Oceanographer       |
+| Lucky Exercise      | Weightlifting  |
+| Lucky Country       | Cyprus    |
 
 
 ##  Final Reflections on Dreams

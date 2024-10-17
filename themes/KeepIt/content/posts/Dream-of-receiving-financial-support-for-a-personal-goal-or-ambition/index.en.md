@@ -1,8 +1,8 @@
 ---
     weight: 1803
     title: "Dream of disagreements with family harmony"  # Assuming 'title' column exists
-    date: 2024-10-13T20:33:00+08:00
-    lastmod: 2024-10-13T20:33:00+08:00
+    date: 2024-10-14T15:14:00+08:00
+    lastmod: 2024-10-14T15:14:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'harmony', 'of', 'Dream', 'disagreements', 'with']
+    tags: ['family', 'Dream', 'disagreements', 'harmony']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Tiger |
 | Lucky Place         | Mart     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Seafood Paella      |
-| Lucky Instrument    | Glockenspiel |
-| Lucky Flower        | Geranium    |
-| Lucky Job           | Event Coordinator       |
-| Lucky Exercise      | Rowing  |
-| Lucky Country       | South Korea    |
+| Lucky Food          | Pasta Primavera      |
+| Lucky Instrument    | Viola |
+| Lucky Flower        | Dahlia    |
+| Lucky Job           | Flight Attendant       |
+| Lucky Exercise      | Bench Press  |
+| Lucky Country       | Spain    |
 
 
 ##  Final Reflections on Dreams

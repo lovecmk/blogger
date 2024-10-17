@@ -1,8 +1,8 @@
 ---
     weight: 294
     title: "The dream of a puppy licking the owner's hand and expressing affection"  # Assuming 'title' column exists
-    date: 2024-10-13T21:58:00+08:00
-    lastmod: 2024-10-13T21:58:00+08:00
+    date: 2024-10-11T09:00:00+08:00
+    lastmod: 2024-10-11T09:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['expressing', 'the', 'licking', "owner's", 'a', 'hand', 'dream', 'The', 'and', 'of', 'affection', 'puppy']
+    tags: ["owner's", 'The', 'hand', 'puppy', 'dream', 'expressing', 'affection', 'licking']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be interpreted relatively.This dream, which expresses
 | Lucky Animal        | Beaver |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Waffles      |
-| Lucky Instrument    | Bass Drum |
-| Lucky Flower        | Stephanotis    |
-| Lucky Job           | IT Specialist       |
-| Lucky Exercise      | Softball  |
-| Lucky Country       | Palau    |
+| Lucky Food          | Chocolate      |
+| Lucky Instrument    | Triangle |
+| Lucky Flower        | Narcissus    |
+| Lucky Job           | Software Engineer       |
+| Lucky Exercise      | Surfing  |
+| Lucky Country       | Ukraine    |
 
 
 ##  Final Reflections on Dreams

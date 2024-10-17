@@ -1,8 +1,8 @@
 ---
     weight: 1448
     title: "Dream of riding a camel or elephant"  # Assuming 'title' column exists
-    date: 2024-10-13T19:38:00+08:00
-    lastmod: 2024-10-13T19:38:00+08:00
+    date: 2024-10-14T01:20:00+08:00
+    lastmod: 2024-10-14T01:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'camel', 'Dream', 'a', 'elephant', 'of', 'riding']
+    tags: ['Dream', 'camel', 'elephant', 'riding']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hippo |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Lasagna      |
-| Lucky Instrument    | Bass Guitar |
-| Lucky Flower        | Mums    |
-| Lucky Job           | Stockbroker       |
-| Lucky Exercise      | Lacrosse  |
-| Lucky Country       | Western Sahara    |
+| Lucky Food          | Curry      |
+| Lucky Instrument    | Tambourine |
+| Lucky Flower        | Monkey Grass    |
+| Lucky Job           | Doctor       |
+| Lucky Exercise      | Bench Press  |
+| Lucky Country       | South Korea    |
 
 
 ##  Final Reflections on Dreams

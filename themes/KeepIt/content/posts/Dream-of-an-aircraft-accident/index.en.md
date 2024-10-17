@@ -1,8 +1,8 @@
 ---
     weight: 793
     title: "Dream of an aircraft accident"  # Assuming 'title' column exists
-    date: 2024-10-13T07:48:00+08:00
-    lastmod: 2024-10-13T07:48:00+08:00
+    date: 2024-10-11T21:47:00+08:00
+    lastmod: 2024-10-11T21:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'an', 'accident', 'of', 'aircraft']
+    tags: ['Dream', 'aircraft', 'an', 'accident']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ In general, the dream of an aircraft accident shows a negative situation, not lu
 | Lucky Animal        | Snake |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Stuffed Mushrooms      |
-| Lucky Instrument    | Bouzouki |
-| Lucky Flower        | Magnolia    |
-| Lucky Job           | Researcher       |
-| Lucky Exercise      | Ultimate Frisbee  |
-| Lucky Country       | Estonia    |
+| Lucky Food          | Pasta      |
+| Lucky Instrument    | Horn |
+| Lucky Flower        | Bougainvillea    |
+| Lucky Job           | Actor       |
+| Lucky Exercise      | Interval Training  |
+| Lucky Country       | Hungary    |
 
 
 ##  Final Reflections on Dreams

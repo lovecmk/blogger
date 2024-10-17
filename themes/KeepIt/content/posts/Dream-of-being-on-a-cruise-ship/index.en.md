@@ -1,8 +1,8 @@
 ---
     weight: 1423
     title: "Dream of being on a cruise ship"  # Assuming 'title' column exists
-    date: 2024-10-13T16:24:00+08:00
-    lastmod: 2024-10-13T16:24:00+08:00
+    date: 2024-10-15T13:38:00+08:00
+    lastmod: 2024-10-15T13:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'ship', 'being', 'a', 'on', 'cruise', 'of']
+    tags: ['being', 'ship', 'Dream', 'cruise']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams aren't directly connected to luck or fortunate events. However, if you fe
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Crab      |
-| Lucky Instrument    | Fiddle |
-| Lucky Flower        | Gladiolus    |
-| Lucky Job           | Librarian       |
-| Lucky Exercise      | Skimboarding  |
-| Lucky Country       | Lithuania    |
+| Lucky Food          | Vegetarian Chili      |
+| Lucky Instrument    | Lute |
+| Lucky Flower        | Foxglove    |
+| Lucky Job           | Event Planner       |
+| Lucky Exercise      | Resistance Bands  |
+| Lucky Country       | Australia    |
 
 
 ##  Final Reflections on Dreams

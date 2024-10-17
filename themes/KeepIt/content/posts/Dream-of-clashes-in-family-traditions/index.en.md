@@ -1,8 +1,8 @@
 ---
     weight: 1693
     title: "Dream of your ancestor sharing advice or wisdom in a casual conversation."  # Assuming 'title' column exists
-    date: 2024-10-13T07:21:00+08:00
-    lastmod: 2024-10-13T07:21:00+08:00
+    date: 2024-10-13T16:55:00+08:00
+    lastmod: 2024-10-13T16:55:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['wisdom', 'advice', 'or', 'your', 'Dream', 'conversation.', 'sharing', 'a', 'ancestor', 'casual', 'in', 'of']
+    tags: ['conversation', 'Dream', 'sharing', 'casual', 'ancestor', 'wisdom', 'advice']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Cheetah |
 | Lucky Place         | School     |
 | Lucky Color         | Red     |
-| Lucky Food          | Waffles      |
-| Lucky Instrument    | Kettledrum |
-| Lucky Flower        | Gladiolus    |
-| Lucky Job           | Database Administrator       |
-| Lucky Exercise      | Trail Running  |
-| Lucky Country       | Lithuania    |
+| Lucky Food          | Prawn Crackers      |
+| Lucky Instrument    | Clarinet |
+| Lucky Flower        | Rose    |
+| Lucky Job           | Project Manager       |
+| Lucky Exercise      | Sledge Hockey  |
+| Lucky Country       | Tonga    |
 
 
 ##  Final Reflections on Dreams

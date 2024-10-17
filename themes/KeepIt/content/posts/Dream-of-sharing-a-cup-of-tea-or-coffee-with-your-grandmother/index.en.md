@@ -1,8 +1,8 @@
 ---
     weight: 1749
     title: "Dream of your cat enjoying a grooming session"  # Assuming 'title' column exists
-    date: 2024-10-13T05:03:00+08:00
-    lastmod: 2024-10-13T05:03:00+08:00
+    date: 2024-10-13T20:10:00+08:00
+    lastmod: 2024-10-13T20:10:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['enjoying', 'your', 'cat', 'grooming', 'Dream', 'session', 'a', 'of']
+    tags: ['Dream', 'enjoying', 'cat', 'grooming', 'session']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Quesadilla      |
-| Lucky Instrument    | Violin |
-| Lucky Flower        | Poinsettia    |
-| Lucky Job           | Project Manager       |
-| Lucky Exercise      | Parkour Training  |
-| Lucky Country       | Mongolia    |
+| Lucky Food          | Risotto      |
+| Lucky Instrument    | Trompeta |
+| Lucky Flower        | Monkey Grass    |
+| Lucky Job           | Security Guard       |
+| Lucky Exercise      | Zumba  |
+| Lucky Country       | Uzbekistan    |
 
 
 ##  Final Reflections on Dreams

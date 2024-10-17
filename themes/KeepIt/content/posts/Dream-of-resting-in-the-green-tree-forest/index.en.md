@@ -1,8 +1,8 @@
 ---
     weight: 581
     title: "Dream of resting in the green tree forest"  # Assuming 'title' column exists
-    date: 2024-10-13T01:05:00+08:00
-    lastmod: 2024-10-13T01:05:00+08:00
+    date: 2024-10-11T08:37:00+08:00
+    lastmod: 2024-10-11T08:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['tree', 'forest', 'resting', 'the', 'Dream', 'green', 'in', 'of']
+    tags: ['forest', 'Dream', 'resting', 'tree', 'green']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring a lot of luck.Tree forests symbolize abundance and diversit
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Pico de Gallo      |
-| Lucky Instrument    | Accordion Synth |
-| Lucky Flower        | Clover Blossom    |
-| Lucky Job           | Project Manager       |
-| Lucky Exercise      | Sledge Hockey  |
-| Lucky Country       | Ukraine    |
+| Lucky Food          | Mango Sticky Rice      |
+| Lucky Instrument    | Guitarlele |
+| Lucky Flower        | Heliotrope    |
+| Lucky Job           | Musician       |
+| Lucky Exercise      | Swimming Laps  |
+| Lucky Country       | Zimbabwe    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1486
     title: "Dream of missing a deadline"  # Assuming 'title' column exists
-    date: 2024-10-13T00:44:00+08:00
-    lastmod: 2024-10-13T00:44:00+08:00
+    date: 2024-10-13T04:44:00+08:00
+    lastmod: 2024-10-13T04:44:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['missing', 'deadline', 'Dream', 'a', 'of']
+    tags: ['Dream', 'missing', 'deadline']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Horse |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Sushi      |
-| Lucky Instrument    | Shakuhachi |
-| Lucky Flower        | Hydrangea    |
-| Lucky Job           | Chef de Cuisine       |
-| Lucky Exercise      | Hot Yoga  |
-| Lucky Country       | Lesotho    |
+| Lucky Food          | Chicken Curry      |
+| Lucky Instrument    | Hang Drum |
+| Lucky Flower        | Safflower    |
+| Lucky Job           | Librarian       |
+| Lucky Exercise      | Snowshoeing  |
+| Lucky Country       | Marshall Islands    |
 
 
 ##  Final Reflections on Dreams

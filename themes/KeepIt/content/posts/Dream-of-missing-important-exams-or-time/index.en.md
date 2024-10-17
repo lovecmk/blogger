@@ -1,8 +1,8 @@
 ---
     weight: 444
     title: "Dream of missing important exams or time"  # Assuming 'title' column exists
-    date: 2024-10-13T21:31:00+08:00
-    lastmod: 2024-10-13T21:31:00+08:00
+    date: 2024-10-15T23:39:00+08:00
+    lastmod: 2024-10-15T23:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['missing', 'or', 'of', 'Dream', 'time', 'exams', 'important']
+    tags: ['Dream', 'missing', 'important', 'time', 'exams']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The good luck of this dream is to be alert to time management and preparation.It
 | Lucky Animal        | Seagull |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Red     |
-| Lucky Food          | Cheeseboard      |
+| Lucky Food          | Chicken Curry      |
 | Lucky Instrument    | Tuba |
-| Lucky Flower        | Wisteria    |
-| Lucky Job           | Insurance Underwriter       |
-| Lucky Exercise      | Hammer Throw  |
-| Lucky Country       | Brazil    |
+| Lucky Flower        | Balsam    |
+| Lucky Job           | Taxi Driver       |
+| Lucky Exercise      | Foam Rolling  |
+| Lucky Country       | Turkmenistan    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1053
     title: "Dream about larva"  # Assuming 'title' column exists
-    date: 2024-10-13T09:51:00+08:00
-    lastmod: 2024-10-13T09:51:00+08:00
+    date: 2024-10-15T09:46:00+08:00
+    lastmod: 2024-10-15T09:46:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['larva', 'about', 'Dream']
+    tags: ['Dream', 'larva']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of the 'caterpillar' dream can be interpreted in many ways.For example,
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Sea     |
 | Lucky Color         | Red     |
-| Lucky Food          | Salad      |
-| Lucky Instrument    | Rudra Veena |
-| Lucky Flower        | Primrose    |
-| Lucky Job           | Nurse       |
-| Lucky Exercise      | Circuit Workout  |
-| Lucky Country       | Jordan    |
+| Lucky Food          | Coconut Shrimp      |
+| Lucky Instrument    | Lap Steel Guitar |
+| Lucky Flower        | Sage    |
+| Lucky Job           | Statistician       |
+| Lucky Exercise      | Salsa  |
+| Lucky Country       | Germany    |
 
 
 ##  Final Reflections on Dreams

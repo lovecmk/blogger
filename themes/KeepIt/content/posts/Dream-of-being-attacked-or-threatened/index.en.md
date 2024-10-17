@@ -1,8 +1,8 @@
 ---
     weight: 1337
     title: "Dream of being attacked or threatened"  # Assuming 'title' column exists
-    date: 2024-10-13T08:35:00+08:00
-    lastmod: 2024-10-13T08:35:00+08:00
+    date: 2024-10-15T13:04:00+08:00
+    lastmod: 2024-10-15T13:04:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['threatened', 'or', 'Dream', 'being', 'of', 'attacked']
+    tags: ['being', 'Dream', 'attacked', 'threatened']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Guinea pig |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Black     |
-| Lucky Food          | Lentil Soup      |
-| Lucky Instrument    | Darbuka |
-| Lucky Flower        | Lobelia    |
-| Lucky Job           | Social Worker       |
-| Lucky Exercise      | Kettlebell Training  |
-| Lucky Country       | Philippines    |
+| Lucky Food          | Fruit Tart      |
+| Lucky Instrument    | Tromba |
+| Lucky Flower        | Nasturtium    |
+| Lucky Job           | Pilot       |
+| Lucky Exercise      | Horseback Riding  |
+| Lucky Country       | Nigeria    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1906
     title: "Dream of fighting for justice"  # Assuming 'title' column exists
-    date: 2024-10-13T15:06:00+08:00
-    lastmod: 2024-10-13T15:06:00+08:00
+    date: 2024-10-13T08:41:00+08:00
+    lastmod: 2024-10-13T08:41:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fighting', 'justice', 'Dream', 'for', 'of']
+    tags: ['Dream', 'justice', 'fighting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream does not necessarily bring specific luck. Instead, it suggests that b
 | Lucky Animal        | Wolf |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Beef Tacos      |
-| Lucky Instrument    | Tenor Guitar |
-| Lucky Flower        | Tulip    |
-| Lucky Job           | Insurance Agent       |
-| Lucky Exercise      | Jump Squats  |
-| Lucky Country       | Australia    |
+| Lucky Food          | Guacamole      |
+| Lucky Instrument    | Flute |
+| Lucky Flower        | Iris    |
+| Lucky Job           | App Developer       |
+| Lucky Exercise      | Tennis  |
+| Lucky Country       | Austria    |
 
 
 ##  Final Reflections on Dreams

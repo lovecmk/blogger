@@ -1,8 +1,8 @@
 ---
     weight: 2087
     title: "Dream of playing mini-golf or engaging in fun outdoor games with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T21:20:00+08:00
-    lastmod: 2024-10-13T21:20:00+08:00
+    date: 2024-10-12T07:05:00+08:00
+    lastmod: 2024-10-12T07:05:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['outdoor', 'or', 'playing', 'your', 'boyfriend', 'Dream', 'mini-golf', 'engaging', 'games', 'in', 'of', 'with', 'fun']
+    tags: ['Dream', 'boyfriend', 'mini-golf', 'outdoor', 'fun', 'games', 'playing', 'engaging']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ While dreams themselves do not bring luck, this dream could imply that your rela
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Park     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Scallops      |
-| Lucky Instrument    | Dulcimer |
-| Lucky Flower        | Larkspur    |
-| Lucky Job           | Dentist       |
-| Lucky Exercise      | Aerobics  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Pork Belly      |
+| Lucky Instrument    | Violin Bow |
+| Lucky Flower        | Hydrangea    |
+| Lucky Job           | Veterinarian       |
+| Lucky Exercise      | Stair Climbing  |
+| Lucky Country       | Zambia    |
 
 
 ##  Final Reflections on Dreams

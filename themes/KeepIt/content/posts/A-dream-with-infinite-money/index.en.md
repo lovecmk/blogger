@@ -1,8 +1,8 @@
 ---
     weight: 230
     title: "A dream with infinite money"  # Assuming 'title' column exists
-    date: 2024-10-13T08:49:00+08:00
-    lastmod: 2024-10-13T08:49:00+08:00
+    date: 2024-10-15T00:00:00+08:00
+    lastmod: 2024-10-15T00:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['infinite', 'money', 'dream', 'with', 'A']
+    tags: ['money', 'dream', 'A', 'infinite']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Dreams with infinite money can contain lucky elements.This is because money or w
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Beef Tacos      |
-| Lucky Instrument    | Harmonica |
-| Lucky Flower        | Bougainvillea    |
-| Lucky Job           | Research Scientist       |
-| Lucky Exercise      | Cross-Country Skiing  |
-| Lucky Country       | Brunei    |
+| Lucky Food          | Samosa      |
+| Lucky Instrument    | Sitar |
+| Lucky Flower        | Sundew    |
+| Lucky Job           | Recruiter       |
+| Lucky Exercise      | Jump Squats  |
+| Lucky Country       | China    |
 
 
 ##  Final Reflections on Dreams

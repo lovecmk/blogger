@@ -1,8 +1,8 @@
 ---
     weight: 184
     title: "Dream of having a reconciled conversation with the family"  # Assuming 'title' column exists
-    date: 2024-10-13T15:16:00+08:00
-    lastmod: 2024-10-13T15:16:00+08:00
+    date: 2024-10-11T06:19:00+08:00
+    lastmod: 2024-10-11T06:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'reconciled', 'the', 'Dream', 'a', 'of', 'conversation', 'with', 'having']
+    tags: ['conversation', 'family', 'Dream', 'reconciled', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream symbolizes the happiness and harmony of the family, and it is expecte
 | Lucky Animal        | Chicken |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Red     |
-| Lucky Food          | Baked Ziti      |
-| Lucky Instrument    | Fiddle |
-| Lucky Flower        | Celosia    |
-| Lucky Job           | Journalist       |
-| Lucky Exercise      | Body Pump  |
-| Lucky Country       | Turkey    |
+| Lucky Food          | Gumbo      |
+| Lucky Instrument    | Soprano Recorder |
+| Lucky Flower        | Bluebell    |
+| Lucky Job           | Recruiter       |
+| Lucky Exercise      | Basketball  |
+| Lucky Country       | Papua New Guinea    |
 
 
 ##  Final Reflections on Dreams

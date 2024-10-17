@@ -1,8 +1,8 @@
 ---
     weight: 1779
     title: "Dream of being financially rewarded for creativity or innovation."  # Assuming 'title' column exists
-    date: 2024-10-13T12:38:00+08:00
-    lastmod: 2024-10-13T12:38:00+08:00
+    date: 2024-10-11T03:27:00+08:00
+    lastmod: 2024-10-11T03:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['rewarded', 'or', 'Dream', 'for', 'being', 'innovation.', 'of', 'creativity', 'financially']
+    tags: ['being', 'innovation', 'Dream', 'creativity', 'financially', 'rewarded']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Fox |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Hummus      |
-| Lucky Instrument    | Tambourine |
-| Lucky Flower        | Agapanthus    |
-| Lucky Job           | Physical Therapist       |
-| Lucky Exercise      | Parkour  |
-| Lucky Country       | Micronesia    |
+| Lucky Food          | Fruit Smoothie      |
+| Lucky Instrument    | Fiddle |
+| Lucky Flower        | Lantana    |
+| Lucky Job           | Astrophysicist       |
+| Lucky Exercise      | Kayaking  |
+| Lucky Country       | Azerbaijan    |
 
 
 ##  Final Reflections on Dreams

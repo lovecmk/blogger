@@ -1,8 +1,8 @@
 ---
     weight: 1119
     title: "Dream about chameleon"  # Assuming 'title' column exists
-    date: 2024-10-13T21:52:00+08:00
-    lastmod: 2024-10-13T21:52:00+08:00
+    date: 2024-10-11T07:21:00+08:00
+    lastmod: 2024-10-11T07:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['chameleon', 'about', 'Dream']
+    tags: ['chameleon', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is to improve adaptability and flexibility.Positive attit
 | Lucky Animal        | Pig |
 | Lucky Place         | Museum     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Pesto      |
-| Lucky Instrument    | Steel Pan |
-| Lucky Flower        | Geranium    |
-| Lucky Job           | Real Estate Agent       |
-| Lucky Exercise      | Golf  |
-| Lucky Country       | South Korea    |
+| Lucky Food          | Fruit Salad      |
+| Lucky Instrument    | Triangle |
+| Lucky Flower        | Snapdragon    |
+| Lucky Job           | Art Director       |
+| Lucky Exercise      | Mobility Training  |
+| Lucky Country       | Kazakhstan    |
 
 
 ##  Final Reflections on Dreams

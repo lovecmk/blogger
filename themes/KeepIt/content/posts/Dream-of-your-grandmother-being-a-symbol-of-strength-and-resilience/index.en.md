@@ -1,8 +1,8 @@
 ---
     weight: 1610
     title: "Dream of conflicts about family responsibilities"  # Assuming 'title' column exists
-    date: 2024-10-13T15:03:00+08:00
-    lastmod: 2024-10-13T15:03:00+08:00
+    date: 2024-10-13T04:57:00+08:00
+    lastmod: 2024-10-13T04:57:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'conflicts', 'about', 'Dream', 'responsibilities', 'of']
+    tags: ['family', 'Dream', 'responsibilities', 'conflicts']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings the luck of improved financial prospects, increased confidence
 | Lucky Animal        | Chick |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | White     |
-| Lucky Food          | Pasta      |
-| Lucky Instrument    | Saxello |
-| Lucky Flower        | Cosmos    |
-| Lucky Job           | Mechanic       |
-| Lucky Exercise      | Handball  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Cheeseboard      |
+| Lucky Instrument    | Banjo |
+| Lucky Flower        | Chive Blossom    |
+| Lucky Job           | Lawyer       |
+| Lucky Exercise      | Deadlifts  |
+| Lucky Country       | Singapore    |
 
 
 ##  Final Reflections on Dreams

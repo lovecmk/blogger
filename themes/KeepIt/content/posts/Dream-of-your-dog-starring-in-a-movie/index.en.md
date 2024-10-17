@@ -1,8 +1,8 @@
 ---
     weight: 1284
     title: "Dream of your dog starring in a movie"  # Assuming 'title' column exists
-    date: 2024-10-13T03:59:00+08:00
-    lastmod: 2024-10-13T03:59:00+08:00
+    date: 2024-10-13T18:25:00+08:00
+    lastmod: 2024-10-13T18:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['movie', 'your', 'Dream', 'a', 'in', 'starring', 'of', 'dog']
+    tags: ['starring', 'Dream', 'movie', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Chicken |
 | Lucky Place         | Park     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Pancakes      |
-| Lucky Instrument    | French Horn |
-| Lucky Flower        | Anemone    |
-| Lucky Job           | Graphic Designer       |
-| Lucky Exercise      | Tai Chi  |
-| Lucky Country       | Fiji    |
+| Lucky Food          | Falafel      |
+| Lucky Instrument    | Conga Drum |
+| Lucky Flower        | Lotus    |
+| Lucky Job           | Artist       |
+| Lucky Exercise      | Handball  |
+| Lucky Country       | Croatia    |
 
 
 ##  Final Reflections on Dreams

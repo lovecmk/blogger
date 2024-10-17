@@ -1,8 +1,8 @@
 ---
     weight: 2135
     title: "Dream of being given money to support a project or idea."  # Assuming 'title' column exists
-    date: 2024-10-13T00:30:00+08:00
-    lastmod: 2024-10-13T00:30:00+08:00
+    date: 2024-10-11T05:25:00+08:00
+    lastmod: 2024-10-11T05:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['given', 'or', 'to', 'money', 'Dream', 'being', 'idea.', 'a', 'project', 'of', 'support']
+    tags: ['being', 'Dream', 'money', 'support', 'to', 'project', 'given', 'idea']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Elephant |
 | Lucky Place         | Lake     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Bagel      |
-| Lucky Instrument    | Lyre |
-| Lucky Flower        | Daisy    |
-| Lucky Job           | Financial Analyst       |
-| Lucky Exercise      | Futsal  |
-| Lucky Country       | Armenia    |
+| Lucky Food          | Salad      |
+| Lucky Instrument    | Ney |
+| Lucky Flower        | Buttercup    |
+| Lucky Job           | Video Editor       |
+| Lucky Exercise      | Soccer  |
+| Lucky Country       | Tuvalu    |
 
 
 ##  Final Reflections on Dreams

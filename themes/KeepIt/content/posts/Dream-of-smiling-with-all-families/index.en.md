@@ -1,8 +1,8 @@
 ---
     weight: 165
     title: "Dream of smiling with all families"  # Assuming 'title' column exists
-    date: 2024-10-13T09:23:00+08:00
-    lastmod: 2024-10-13T09:23:00+08:00
+    date: 2024-10-12T16:46:00+08:00
+    lastmod: 2024-10-12T16:46:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'Dream', 'families', 'all', 'with', 'smiling']
+    tags: ['smiling', 'Dream', 'families', 'all']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Dreams of laughing together can be related to good luck and positive events.When
 | Lucky Animal        | Deer |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Cheesecake      |
-| Lucky Instrument    | Harp |
-| Lucky Flower        | Tansy    |
-| Lucky Job           | Flight Attendant       |
-| Lucky Exercise      | Burpees  |
-| Lucky Country       | France    |
+| Lucky Food          | Samosa      |
+| Lucky Instrument    | Flute |
+| Lucky Flower        | Peony    |
+| Lucky Job           | Psychologist       |
+| Lucky Exercise      | Skimboarding  |
+| Lucky Country       | Bulgaria    |
 
 
 ##  Final Reflections on Dreams

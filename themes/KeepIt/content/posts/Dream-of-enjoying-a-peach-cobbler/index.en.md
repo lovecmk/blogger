@@ -1,8 +1,8 @@
 ---
     weight: 1756
     title: "Dream of your cat greeting you at the door"  # Assuming 'title' column exists
-    date: 2024-10-13T02:24:00+08:00
-    lastmod: 2024-10-13T02:24:00+08:00
+    date: 2024-10-14T23:56:00+08:00
+    lastmod: 2024-10-14T23:56:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'your', 'greeting', 'cat', 'Dream', 'door', 'of', 'you', 'at']
+    tags: ['door', 'Dream', 'cat', 'greeting', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings a sense of luck and positivity related to emotional well-being
 | Lucky Animal        | Hamster |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Pizza      |
-| Lucky Instrument    | Chimes |
-| Lucky Flower        | Nasturtium    |
-| Lucky Job           | Brand Manager       |
-| Lucky Exercise      | Discus Throw  |
-| Lucky Country       | Zimbabwe    |
+| Lucky Food          | Coconut Shrimp      |
+| Lucky Instrument    | Erhu |
+| Lucky Flower        | Scented Geranium    |
+| Lucky Job           | Quality Assurance Tester       |
+| Lucky Exercise      | Pilates  |
+| Lucky Country       | Philippines    |
 
 
 ##  Final Reflections on Dreams

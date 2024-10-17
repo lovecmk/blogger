@@ -1,8 +1,8 @@
 ---
     weight: 1128
     title: "Dream about cow"  # Assuming 'title' column exists
-    date: 2024-10-13T03:49:00+08:00
-    lastmod: 2024-10-13T03:49:00+08:00
+    date: 2024-10-15T01:46:00+08:00
+    lastmod: 2024-10-15T01:46:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['cow', 'about', 'Dream']
+    tags: ['cow', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ If a dream related to 'cow' show good luck, it can show that keeping your daily 
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Samosa      |
-| Lucky Instrument    | Didgeridoo |
-| Lucky Flower        | Thunbergia    |
-| Lucky Job           | Business Analyst       |
-| Lucky Exercise      | Discus Throw  |
-| Lucky Country       | Zimbabwe    |
+| Lucky Food          | Tuna Tartare      |
+| Lucky Instrument    | Tama |
+| Lucky Flower        | Moss Rose    |
+| Lucky Job           | Electrician       |
+| Lucky Exercise      | Ballet  |
+| Lucky Country       | South Korea    |
 
 
 ##  Final Reflections on Dreams

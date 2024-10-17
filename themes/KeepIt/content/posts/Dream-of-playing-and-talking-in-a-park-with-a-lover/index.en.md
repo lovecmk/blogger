@@ -1,8 +1,8 @@
 ---
     weight: 674
     title: "Dream of playing and talking in a park with a lover"  # Assuming 'title' column exists
-    date: 2024-10-13T12:24:00+08:00
-    lastmod: 2024-10-13T12:24:00+08:00
+    date: 2024-10-12T11:34:00+08:00
+    lastmod: 2024-10-12T11:34:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['park', 'playing', 'lover', 'talking', 'Dream', 'a', 'and', 'in', 'of', 'with']
+    tags: ['Dream', 'talking', 'playing', 'lover', 'park']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can have a lucky and positive influence in your relationship with you
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Pulled Pork      |
-| Lucky Instrument    | Wooden Flute |
-| Lucky Flower        | Lantana    |
-| Lucky Job           | Marketing Manager       |
-| Lucky Exercise      | Racquetball  |
-| Lucky Country       | Syria    |
+| Lucky Food          | Deviled Eggs      |
+| Lucky Instrument    | Rudra Veena |
+| Lucky Flower        | Peach Blossom    |
+| Lucky Job           | Sales Manager       |
+| Lucky Exercise      | Dance Aerobics  |
+| Lucky Country       | New Zealand    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 2096
     title: "Dream of your grandmother telling you stories about your family's history."  # Assuming 'title' column exists
-    date: 2024-10-13T03:10:00+08:00
-    lastmod: 2024-10-13T03:10:00+08:00
+    date: 2024-10-14T13:46:00+08:00
+    lastmod: 2024-10-14T13:46:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['grandmother', 'about', 'stories', 'history.', 'your', "family's", 'telling', 'Dream', 'of', 'you']
+    tags: ["family's", 'Dream', 'grandmother', 'telling', 'stories', 'history', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ In terms of luck, this dream might not bring immediate positive outcomes. Howeve
 | Lucky Animal        | Pig |
 | Lucky Place         | Lake     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Fish and Chips      |
-| Lucky Instrument    | Tromba |
-| Lucky Flower        | Narcissus    |
-| Lucky Job           | Plumber       |
-| Lucky Exercise      | Cycling  |
-| Lucky Country       | Iraq    |
+| Lucky Food          | Fried Rice      |
+| Lucky Instrument    | Cajón |
+| Lucky Flower        | Lily    |
+| Lucky Job           | Actor       |
+| Lucky Exercise      | Rugby  |
+| Lucky Country       | Norway    |
 
 
 ##  Final Reflections on Dreams

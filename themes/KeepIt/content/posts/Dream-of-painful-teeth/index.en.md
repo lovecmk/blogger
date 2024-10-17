@@ -1,8 +1,8 @@
 ---
     weight: 886
     title: "Dream of painful teeth"  # Assuming 'title' column exists
-    date: 2024-10-13T19:00:00+08:00
-    lastmod: 2024-10-13T19:00:00+08:00
+    date: 2024-10-11T19:16:00+08:00
+    lastmod: 2024-10-11T19:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['teeth', 'of', 'Dream', 'painful']
+    tags: ['teeth', 'Dream', 'painful']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ What kind of sign does this dream have?"Dream of missing teeth" can indicate you
 | Lucky Animal        | Hippo |
 | Lucky Place         | Theater     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Potato Skins      |
-| Lucky Instrument    | Piccolo |
-| Lucky Flower        | Sage    |
-| Lucky Job           | Life Coach       |
-| Lucky Exercise      | Kite Surfing  |
-| Lucky Country       | Bahrain    |
+| Lucky Food          | Scone      |
+| Lucky Instrument    | Saxophone |
+| Lucky Flower        | Petal Plant    |
+| Lucky Job           | Photographer       |
+| Lucky Exercise      | Basketball  |
+| Lucky Country       | Czech Republic    |
 
 
 ##  Final Reflections on Dreams

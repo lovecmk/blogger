@@ -1,8 +1,8 @@
 ---
     weight: 1071
     title: "Dream about crab"  # Assuming 'title' column exists
-    date: 2024-10-13T12:07:00+08:00
-    lastmod: 2024-10-13T12:07:00+08:00
+    date: 2024-10-15T04:27:00+08:00
+    lastmod: 2024-10-15T04:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['crab', 'about', 'Dream']
+    tags: ['crab', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the interpretation and situation of
 | Lucky Animal        | Snake |
 | Lucky Place         | Mart     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Caprese Salad      |
-| Lucky Instrument    | Slide Guitar |
-| Lucky Flower        | Snapdragon    |
-| Lucky Job           | Chemist       |
-| Lucky Exercise      | Lacrosse  |
-| Lucky Country       | Israel    |
+| Lucky Food          | Fried Rice      |
+| Lucky Instrument    | Koto |
+| Lucky Flower        | Scabiosa    |
+| Lucky Job           | Librarian       |
+| Lucky Exercise      | Spin Class  |
+| Lucky Country       | Brazil    |
 
 
 ##  Final Reflections on Dreams

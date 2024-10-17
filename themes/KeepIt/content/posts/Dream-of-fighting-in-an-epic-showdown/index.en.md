@@ -1,8 +1,8 @@
 ---
     weight: 2100
     title: "Dream of conflicts within family partnerships"  # Assuming 'title' column exists
-    date: 2024-10-13T11:02:00+08:00
-    lastmod: 2024-10-13T11:02:00+08:00
+    date: 2024-10-15T00:06:00+08:00
+    lastmod: 2024-10-15T00:06:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'conflicts', 'Dream', 'within', 'partnerships', 'of']
+    tags: ['family', 'Dream', 'within', 'partnerships', 'conflicts']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream symbolizes good luck in terms of having a strong, supportive partner.
 | Lucky Animal        | Deer |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Sushi      |
-| Lucky Instrument    | Saxello |
-| Lucky Flower        | Kalanchoe    |
-| Lucky Job           | Mathematician       |
+| Lucky Food          | Chia Pudding      |
+| Lucky Instrument    | Cowbell |
+| Lucky Flower        | Tulip    |
+| Lucky Job           | Writer       |
 | Lucky Exercise      | Circuit Workout  |
-| Lucky Country       | Japan    |
+| Lucky Country       | Solomon Islands    |
 
 
 ##  Final Reflections on Dreams

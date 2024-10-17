@@ -1,8 +1,8 @@
 ---
     weight: 1897
     title: "Dream of a blackberry smoothie"  # Assuming 'title' column exists
-    date: 2024-10-13T14:57:00+08:00
-    lastmod: 2024-10-13T14:57:00+08:00
+    date: 2024-10-11T22:52:00+08:00
+    lastmod: 2024-10-11T22:52:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['smoothie', 'blackberry', 'Dream', 'a', 'of']
+    tags: ['Dream', 'blackberry', 'smoothie']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Lake     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Spring Roll      |
-| Lucky Instrument    | Electric Cello |
-| Lucky Flower        | Lotus    |
-| Lucky Job           | Copywriter       |
-| Lucky Exercise      | Weightlifting  |
-| Lucky Country       | Singapore    |
+| Lucky Food          | Quiche      |
+| Lucky Instrument    | Chimes |
+| Lucky Flower        | Sweet William    |
+| Lucky Job           | Network Administrator       |
+| Lucky Exercise      | Hammer Throw  |
+| Lucky Country       | Kazakhstan    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 880
     title: "The dream of falling out of teeth collapses"  # Assuming 'title' column exists
-    date: 2024-10-13T14:35:00+08:00
-    lastmod: 2024-10-13T14:35:00+08:00
+    date: 2024-10-14T09:59:00+08:00
+    lastmod: 2024-10-14T09:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['collapses', 'teeth', 'out', 'falling', 'dream', 'The', 'of']
+    tags: ['The', 'collapses', 'dream', 'falling', 'out', 'teeth']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual.But in general, this
 | Lucky Animal        | Fox |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Lentil Soup      |
-| Lucky Instrument    | Tuba Horn |
-| Lucky Flower        | Larkspur    |
-| Lucky Job           | Makeup Artist       |
-| Lucky Exercise      | Fencing  |
-| Lucky Country       | Palau    |
+| Lucky Food          | Omelette      |
+| Lucky Instrument    | Trompeta |
+| Lucky Flower        | Firecracker Plant    |
+| Lucky Job           | Stockbroker       |
+| Lucky Exercise      | Trail Running  |
+| Lucky Country       | Oman    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 879
     title: "Dream of teeth rots"  # Assuming 'title' column exists
-    date: 2024-10-13T18:46:00+08:00
-    lastmod: 2024-10-13T18:46:00+08:00
+    date: 2024-10-15T13:16:00+08:00
+    lastmod: 2024-10-15T13:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['teeth', 'of', 'rots', 'Dream']
+    tags: ['rots', 'teeth', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The dream of a teeth decay is usually a dream that indicates negative situations
 | Lucky Animal        | Parrot |
 | Lucky Place         | Lake     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Chicken Curry      |
-| Lucky Instrument    | Timpani |
-| Lucky Flower        | Aster    |
-| Lucky Job           | Copywriter       |
-| Lucky Exercise      | Running  |
-| Lucky Country       | Sweden    |
+| Lucky Food          | Tacos      |
+| Lucky Instrument    | Zither |
+| Lucky Flower        | Nymphaea    |
+| Lucky Job           | Customer Service Representative       |
+| Lucky Exercise      | Hula Hooping  |
+| Lucky Country       | Norway    |
 
 
 ##  Final Reflections on Dreams

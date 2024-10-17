@@ -1,8 +1,8 @@
 ---
     weight: 1131
     title: "Dream about butterfly"  # Assuming 'title' column exists
-    date: 2024-10-13T02:09:00+08:00
-    lastmod: 2024-10-13T02:09:00+08:00
+    date: 2024-10-12T17:00:00+08:00
+    lastmod: 2024-10-12T17:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['butterfly', 'about', 'Dream']
+    tags: ['Dream', 'butterfly']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The 'butterfly' dream symbolizes positive luck and success.This dream will open 
 | Lucky Animal        | Goose |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Samosa      |
-| Lucky Instrument    | Charango |
-| Lucky Flower        | Iris    |
-| Lucky Job           | Data Scientist       |
-| Lucky Exercise      | Parkour  |
-| Lucky Country       | Mozambique    |
+| Lucky Food          | Pasta      |
+| Lucky Instrument    | Electric Violin |
+| Lucky Flower        | Kalanchoe    |
+| Lucky Job           | Graphic Designer       |
+| Lucky Exercise      | Cycling  |
+| Lucky Country       | Cambodia    |
 
 
 ##  Final Reflections on Dreams

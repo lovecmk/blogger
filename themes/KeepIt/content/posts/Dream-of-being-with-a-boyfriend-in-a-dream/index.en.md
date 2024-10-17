@@ -1,8 +1,8 @@
 ---
     weight: 326
     title: "Dream of being with a boyfriend in a dream"  # Assuming 'title' column exists
-    date: 2024-10-13T08:03:00+08:00
-    lastmod: 2024-10-13T08:03:00+08:00
+    date: 2024-10-12T07:56:00+08:00
+    lastmod: 2024-10-12T07:56:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['boyfriend', 'Dream', 'being', 'a', 'dream', 'in', 'of', 'with']
+    tags: ['being', 'Dream', 'boyfriend', 'dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the subjective experience and inter
 | Lucky Animal        | Heron |
 | Lucky Place         | Library     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Caramel Flan      |
-| Lucky Instrument    | Tama |
-| Lucky Flower        | Celosia    |
-| Lucky Job           | Fitness Instructor       |
-| Lucky Exercise      | Burpees  |
-| Lucky Country       | Qatar    |
+| Lucky Food          | Nachos      |
+| Lucky Instrument    | Chimes |
+| Lucky Flower        | Lotus    |
+| Lucky Job           | Operations Manager       |
+| Lucky Exercise      | Squash  |
+| Lucky Country       | Vanuatu    |
 
 
 ##  Final Reflections on Dreams

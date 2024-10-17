@@ -1,8 +1,8 @@
 ---
     weight: 1177
     title: "Dream about cafe"  # Assuming 'title' column exists
-    date: 2024-10-13T22:16:00+08:00
-    lastmod: 2024-10-13T22:16:00+08:00
+    date: 2024-10-14T01:47:00+08:00
+    lastmod: 2024-10-14T01:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['about', 'Dream', 'cafe']
+    tags: ['cafe', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual's interpretation and
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Stuffed Mushrooms      |
-| Lucky Instrument    | Synthesizer |
-| Lucky Flower        | Balsam    |
-| Lucky Job           | UX Designer       |
-| Lucky Exercise      | Hula Hooping  |
-| Lucky Country       | South Korea    |
+| Lucky Food          | Noodles      |
+| Lucky Instrument    | Erhu |
+| Lucky Flower        | Petal Plant    |
+| Lucky Job           | Database Administrator       |
+| Lucky Exercise      | Javelin  |
+| Lucky Country       | Palau    |
 
 
 ##  Final Reflections on Dreams

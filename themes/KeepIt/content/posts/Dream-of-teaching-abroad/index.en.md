@@ -1,8 +1,8 @@
 ---
     weight: 1338
     title: "Dream of teaching abroad"  # Assuming 'title' column exists
-    date: 2024-10-13T16:20:00+08:00
-    lastmod: 2024-10-13T16:20:00+08:00
+    date: 2024-10-14T02:58:00+08:00
+    lastmod: 2024-10-14T02:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['abroad', 'of', 'teaching', 'Dream']
+    tags: ['teaching', 'Dream', 'abroad']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Guinea pig |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Chicken Parmesan      |
-| Lucky Instrument    | Bagpipes |
-| Lucky Flower        | Daisy    |
-| Lucky Job           | Welder       |
-| Lucky Exercise      | Bouldering  |
-| Lucky Country       | Qatar    |
+| Lucky Food          | Cornbread      |
+| Lucky Instrument    | Piccolo Trumpet |
+| Lucky Flower        | Crown Daisy    |
+| Lucky Job           | Historian       |
+| Lucky Exercise      | Hiking  |
+| Lucky Country       | Papua New Guinea    |
 
 
 ##  Final Reflections on Dreams

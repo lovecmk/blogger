@@ -1,8 +1,8 @@
 ---
     weight: 752
     title: "Dream of traveling to cruise in the blue sea"  # Assuming 'title' column exists
-    date: 2024-10-13T18:44:00+08:00
-    lastmod: 2024-10-13T18:44:00+08:00
+    date: 2024-10-11T03:40:00+08:00
+    lastmod: 2024-10-11T03:40:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['blue', 'the', 'to', 'traveling', 'Dream', 'sea', 'cruise', 'in', 'of']
+    tags: ['sea', 'Dream', 'traveling', 'to', 'cruise', 'blue']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can suggest good luck, positive change, and new experiences.Cruise tr
 | Lucky Animal        | Chicken |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Red     |
-| Lucky Food          | Bagel      |
-| Lucky Instrument    | Steel Pan |
-| Lucky Flower        | Tithonia    |
-| Lucky Job           | Database Administrator       |
-| Lucky Exercise      | Stand-Up Paddleboarding  |
-| Lucky Country       | Denmark    |
+| Lucky Food          | Caprese Skewers      |
+| Lucky Instrument    | Hang Drum |
+| Lucky Flower        | Marigold    |
+| Lucky Job           | Recruiter       |
+| Lucky Exercise      | Active Recovery  |
+| Lucky Country       | Sri Lanka    |
 
 
 ##  Final Reflections on Dreams

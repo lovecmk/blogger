@@ -1,8 +1,8 @@
 ---
     weight: 895
     title: "Dream of getting new teeth after the teeth"  # Assuming 'title' column exists
-    date: 2024-10-13T00:36:00+08:00
-    lastmod: 2024-10-13T00:36:00+08:00
+    date: 2024-10-11T16:39:00+08:00
+    lastmod: 2024-10-11T16:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['new', 'teeth', 'the', 'after', 'Dream', 'of', 'getting']
+    tags: ['Dream', 'teeth', 'getting', 'after', 'new']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can be interpreted as indicating that new opportunities and good luck
 | Lucky Animal        | Parrot |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Burger      |
-| Lucky Instrument    | Glockenspiel |
-| Lucky Flower        | Tithonia    |
-| Lucky Job           | Brand Manager       |
-| Lucky Exercise      | Plank  |
-| Lucky Country       | Kuwait    |
+| Lucky Food          | Chocolate Mousse      |
+| Lucky Instrument    | Bassoon |
+| Lucky Flower        | Celosia    |
+| Lucky Job           | Hair Stylist       |
+| Lucky Exercise      | Hot Yoga  |
+| Lucky Country       | Afghanistan    |
 
 
 ##  Final Reflections on Dreams

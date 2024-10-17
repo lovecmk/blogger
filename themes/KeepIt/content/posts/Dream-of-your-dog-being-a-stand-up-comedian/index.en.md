@@ -1,8 +1,8 @@
 ---
     weight: 1511
     title: "Dream of your dog being a stand-up comedian"  # Assuming 'title' column exists
-    date: 2024-10-13T13:02:00+08:00
-    lastmod: 2024-10-13T13:02:00+08:00
+    date: 2024-10-13T11:26:00+08:00
+    lastmod: 2024-10-13T11:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'comedian', 'Dream', 'being', 'a', 'of', 'stand-up', 'dog']
+    tags: ['being', 'Dream', 'comedian', 'stand-up', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Camel |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Brownies      |
-| Lucky Instrument    | Keyboard |
-| Lucky Flower        | Sundew    |
-| Lucky Job           | IT Specialist       |
-| Lucky Exercise      | Lifting  |
-| Lucky Country       | South Africa    |
+| Lucky Food          | Chips      |
+| Lucky Instrument    | Keyboard Synthesizer |
+| Lucky Flower        | Thunbergia    |
+| Lucky Job           | Logistician       |
+| Lucky Exercise      | Snowboarding  |
+| Lucky Country       | Georgia    |
 
 
 ##  Final Reflections on Dreams

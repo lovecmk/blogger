@@ -1,8 +1,8 @@
 ---
     weight: 1396
     title: "Dream of going for a walk in the park with your dog"  # Assuming 'title' column exists
-    date: 2024-10-13T04:10:00+08:00
-    lastmod: 2024-10-13T04:10:00+08:00
+    date: 2024-10-15T20:44:00+08:00
+    lastmod: 2024-10-15T20:44:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['park', 'the', 'your', 'walk', 'Dream', 'for', 'going', 'a', 'in', 'of', 'with', 'dog']
+    tags: ['walk', 'Dream', 'going', 'dog', 'park']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Kangaroo |
 | Lucky Place         | Academy     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Ice Cream      |
-| Lucky Instrument    | Tromba |
-| Lucky Flower        | Hoya    |
-| Lucky Job           | Project Manager       |
-| Lucky Exercise      | Yoga Flow  |
-| Lucky Country       | Mexico    |
+| Lucky Food          | Burrito      |
+| Lucky Instrument    | Harmonic Piano |
+| Lucky Flower        | Lobelia    |
+| Lucky Job           | Astrophysicist       |
+| Lucky Exercise      | Futsal  |
+| Lucky Country       | Egypt    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 2116
     title: "Dream of receiving money for a creative project or talent."  # Assuming 'title' column exists
-    date: 2024-10-13T08:59:00+08:00
-    lastmod: 2024-10-13T08:59:00+08:00
+    date: 2024-10-14T17:22:00+08:00
+    lastmod: 2024-10-14T17:22:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['receiving', 'or', 'money', 'Dream', 'for', 'a', 'project', 'creative', 'of', 'talent.']
+    tags: ['Dream', 'money', 'talent', 'receiving', 'project', 'creative']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Ice Cream      |
+| Lucky Food          | Ceviche      |
 | Lucky Instrument    | Guitar |
-| Lucky Flower        | Orchid    |
-| Lucky Job           | Pilot       |
-| Lucky Exercise      | Javelin  |
-| Lucky Country       | Eswatini    |
+| Lucky Flower        | Mums    |
+| Lucky Job           | Teacher       |
+| Lucky Exercise      | Zumba  |
+| Lucky Country       | Portugal    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1317
     title: "Dream of being naked in public"  # Assuming 'title' column exists
-    date: 2024-10-13T01:22:00+08:00
-    lastmod: 2024-10-13T01:22:00+08:00
+    date: 2024-10-13T04:25:00+08:00
+    lastmod: 2024-10-13T04:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'being', 'public', 'naked', 'in', 'of']
+    tags: ['being', 'Dream', 'naked', 'public']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Leopard |
 | Lucky Place         | Mart     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Pork Belly      |
-| Lucky Instrument    | Claves |
-| Lucky Flower        | Scabiosa    |
-| Lucky Job           | Architect       |
-| Lucky Exercise      | Body Pump  |
-| Lucky Country       | Estonia    |
+| Lucky Food          | Chili      |
+| Lucky Instrument    | French Horn |
+| Lucky Flower        | Sea Lavender    |
+| Lucky Job           | Actor       |
+| Lucky Exercise      | Snowshoeing  |
+| Lucky Country       | Uzbekistan    |
 
 
 ##  Final Reflections on Dreams

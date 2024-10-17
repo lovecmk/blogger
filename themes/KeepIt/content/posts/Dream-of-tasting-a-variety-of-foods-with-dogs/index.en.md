@@ -1,8 +1,8 @@
 ---
     weight: 317
     title: "Dream of tasting a variety of foods with dogs"  # Assuming 'title' column exists
-    date: 2024-10-13T13:28:00+08:00
-    lastmod: 2024-10-13T13:28:00+08:00
+    date: 2024-10-11T14:57:00+08:00
+    lastmod: 2024-10-11T14:57:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['foods', 'dogs', 'Dream', 'variety', 'a', 'of', 'with', 'tasting']
+    tags: ['Dream', 'tasting', 'variety', 'foods', 'dogs']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can include a symbol related to luck.Tasting a variety of foods with 
 | Lucky Animal        | Elephant |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Green     |
-| Lucky Food          | Ratatouille      |
-| Lucky Instrument    | Tromba |
-| Lucky Flower        | Snapdragon    |
-| Lucky Job           | Art Director       |
-| Lucky Exercise      | Box Jumps  |
-| Lucky Country       | Lesotho    |
+| Lucky Food          | Nachos      |
+| Lucky Instrument    | Koto |
+| Lucky Flower        | Thunbergia    |
+| Lucky Job           | Chef       |
+| Lucky Exercise      | Ashtanga Yoga  |
+| Lucky Country       | India    |
 
 
 ##  Final Reflections on Dreams

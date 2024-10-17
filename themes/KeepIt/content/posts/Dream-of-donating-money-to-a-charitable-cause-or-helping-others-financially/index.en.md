@@ -1,8 +1,8 @@
 ---
     weight: 1614
     title: "Dream of arguing with your parents"  # Assuming 'title' column exists
-    date: 2024-10-13T09:04:00+08:00
-    lastmod: 2024-10-13T09:04:00+08:00
+    date: 2024-10-15T14:35:00+08:00
+    lastmod: 2024-10-15T14:35:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['arguing', 'parents', 'of', 'your', 'Dream', 'with']
+    tags: ['Dream', 'parents', 'arguing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Duck |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Buffalo Wings      |
-| Lucky Instrument    | Darabuka |
-| Lucky Flower        | Clover    |
+| Lucky Food          | Gnocchi      |
+| Lucky Instrument    | Tenor Banjo |
+| Lucky Flower        | Thistle    |
 | Lucky Job           | Anthropologist       |
-| Lucky Exercise      | Trail Running  |
-| Lucky Country       | Papua New Guinea    |
+| Lucky Exercise      | Bench Press  |
+| Lucky Country       | Lebanon    |
 
 
 ##  Final Reflections on Dreams

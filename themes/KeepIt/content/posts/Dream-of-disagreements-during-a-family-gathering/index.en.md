@@ -1,8 +1,8 @@
 ---
     weight: 1655
     title: "Dream of fighting for peace"  # Assuming 'title' column exists
-    date: 2024-10-13T06:10:00+08:00
-    lastmod: 2024-10-13T06:10:00+08:00
+    date: 2024-10-15T21:57:00+08:00
+    lastmod: 2024-10-15T21:57:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fighting', 'Dream', 'for', 'of', 'peace']
+    tags: ['Dream', 'fighting', 'peace']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Panda |
 | Lucky Place         | Mart     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Buffalo Wings      |
-| Lucky Instrument    | Cajón |
-| Lucky Flower        | Clover Blossom    |
-| Lucky Job           | Makeup Artist       |
-| Lucky Exercise      | Spin Class  |
-| Lucky Country       | Thailand    |
+| Lucky Food          | Risotto      |
+| Lucky Instrument    | Dulcimer |
+| Lucky Flower        | Lotus    |
+| Lucky Job           | Chef       |
+| Lucky Exercise      | Horseback Riding  |
+| Lucky Country       | Latvia    |
 
 
 ##  Final Reflections on Dreams

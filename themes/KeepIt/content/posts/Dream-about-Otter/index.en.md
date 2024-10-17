@@ -1,8 +1,8 @@
 ---
     weight: 1110
     title: "Dream about Otter"  # Assuming 'title' column exists
-    date: 2024-10-13T21:18:00+08:00
-    lastmod: 2024-10-13T21:18:00+08:00
+    date: 2024-10-13T09:19:00+08:00
+    lastmod: 2024-10-13T09:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Otter', 'about', 'Dream']
+    tags: ['Dream', 'Otter']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The otter dream can bring you a variety of luck.This dream can indicate that you
 | Lucky Animal        | Gorilla |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Chicken Parmesan      |
-| Lucky Instrument    | Pipa |
-| Lucky Flower        | Peach Blossom    |
-| Lucky Job           | Interpreter       |
-| Lucky Exercise      | Snowboarding  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Quesadilla      |
+| Lucky Instrument    | Tenor Banjo |
+| Lucky Flower        | Gladiolus    |
+| Lucky Job           | Network Administrator       |
+| Lucky Exercise      | Foam Rolling  |
+| Lucky Country       | Kiribati    |
 
 
 ##  Final Reflections on Dreams

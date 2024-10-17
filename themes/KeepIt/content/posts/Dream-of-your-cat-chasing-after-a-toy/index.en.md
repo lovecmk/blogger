@@ -1,8 +1,8 @@
 ---
     weight: 1675
     title: "Dream of saving a significant amount of money for the future."  # Assuming 'title' column exists
-    date: 2024-10-13T10:30:00+08:00
-    lastmod: 2024-10-13T10:30:00+08:00
+    date: 2024-10-11T16:06:00+08:00
+    lastmod: 2024-10-11T16:06:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['significant', 'saving', 'the', 'amount', 'Dream', 'money', 'for', 'future.', 'a', 'of']
+    tags: ['Dream', 'money', 'significant', 'saving', 'future', 'amount']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Fox |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Mango Sticky Rice      |
-| Lucky Instrument    | Erhu |
-| Lucky Flower        | Tithonia    |
-| Lucky Job           | Customer Service Representative       |
-| Lucky Exercise      | Parkour Training  |
-| Lucky Country       | Armenia    |
+| Lucky Food          | Ramen      |
+| Lucky Instrument    | Cowbell |
+| Lucky Flower        | Swan River Daisy    |
+| Lucky Job           | Insurance Underwriter       |
+| Lucky Exercise      | Stair Climbing  |
+| Lucky Country       | Malaysia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 649
     title: "Dream of having a great day with a loved one"  # Assuming 'title' column exists
-    date: 2024-10-13T02:52:00+08:00
-    lastmod: 2024-10-13T02:52:00+08:00
+    date: 2024-10-13T05:30:00+08:00
+    lastmod: 2024-10-13T05:30:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['day', 'one', 'Dream', 'great', 'a', 'loved', 'of', 'with', 'having']
+    tags: ['Dream', 'one', 'loved', 'great', 'day', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you good luck and blessing.This dream gives you a special m
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Burger      |
-| Lucky Instrument    | Steel Pan |
-| Lucky Flower        | Vinca    |
-| Lucky Job           | Director       |
-| Lucky Exercise      | Hot Yoga  |
-| Lucky Country       | South Korea    |
+| Lucky Food          | Biryani      |
+| Lucky Instrument    | Koto |
+| Lucky Flower        | Pelargonium    |
+| Lucky Job           | Interior Designer       |
+| Lucky Exercise      | Parkour  |
+| Lucky Country       | Kazakhstan    |
 
 
 ##  Final Reflections on Dreams

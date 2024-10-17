@@ -1,8 +1,8 @@
 ---
     weight: 1561
     title: "Dream of conflict between generations"  # Assuming 'title' column exists
-    date: 2024-10-13T07:11:00+08:00
-    lastmod: 2024-10-13T07:11:00+08:00
+    date: 2024-10-13T20:58:00+08:00
+    lastmod: 2024-10-13T20:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['between', 'of', 'Dream', 'generations', 'conflict']
+    tags: ['Dream', 'conflict', 'generations']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Museum     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Pico de Gallo      |
-| Lucky Instrument    | Triangle |
-| Lucky Flower        | Edelweiss    |
-| Lucky Job           | Interpreter       |
-| Lucky Exercise      | Zumba  |
-| Lucky Country       | Maldives    |
+| Lucky Food          | Hummus      |
+| Lucky Instrument    | Guitar |
+| Lucky Flower        | Chive Blossom    |
+| Lucky Job           | Customer Service Representative       |
+| Lucky Exercise      | Beach Volleyball  |
+| Lucky Country       | Netherlands    |
 
 
 ##  Final Reflections on Dreams

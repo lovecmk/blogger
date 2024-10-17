@@ -1,8 +1,8 @@
 ---
     weight: 1789
     title: "Dream of having a heartfelt conversation with an ancestor."  # Assuming 'title' column exists
-    date: 2024-10-13T09:38:00+08:00
-    lastmod: 2024-10-13T09:38:00+08:00
+    date: 2024-10-12T20:06:00+08:00
+    lastmod: 2024-10-12T20:06:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['ancestor.', 'Dream', 'a', 'an', 'heartfelt', 'of', 'conversation', 'with', 'having']
+    tags: ['conversation', 'Dream', 'heartfelt', 'ancestor', 'having', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Polar bear |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Sandwich      |
-| Lucky Instrument    | Drums |
-| Lucky Flower        | Hibiscus    |
-| Lucky Job           | Makeup Artist       |
-| Lucky Exercise      | Dance Aerobics  |
-| Lucky Country       | South Korea    |
+| Lucky Food          | Brownies      |
+| Lucky Instrument    | Clavichord |
+| Lucky Flower        | Fuchsia    |
+| Lucky Job           | Nurse       |
+| Lucky Exercise      | Sit-Ups  |
+| Lucky Country       | Malawi    |
 
 
 ##  Final Reflections on Dreams

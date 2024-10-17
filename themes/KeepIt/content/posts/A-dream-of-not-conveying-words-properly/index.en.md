@@ -1,8 +1,8 @@
 ---
     weight: 450
     title: "A dream of not conveying words properly"  # Assuming 'title' column exists
-    date: 2024-10-13T17:55:00+08:00
-    lastmod: 2024-10-13T17:55:00+08:00
+    date: 2024-10-12T01:56:00+08:00
+    lastmod: 2024-10-12T01:56:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['conveying', 'words', 'not', 'dream', 'properly', 'of', 'A']
+    tags: ['words', 'dream', 'A', 'properly', 'not', 'conveying']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -60,11 +60,11 @@ The luck of this dream can be in improving communication with people around you.
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Sky blue     |
 | Lucky Food          | Quesadilla      |
-| Lucky Instrument    | Melodic Percussion |
-| Lucky Flower        | Firecracker Plant    |
-| Lucky Job           | Physical Therapist       |
-| Lucky Exercise      | Plank  |
-| Lucky Country       | Ukraine    |
+| Lucky Instrument    | Pipa |
+| Lucky Flower        | Poppy    |
+| Lucky Job           | Software Engineer       |
+| Lucky Exercise      | Ashtanga Yoga  |
+| Lucky Country       | Uzbekistan    |
 
 
 ##  Final Reflections on Dreams

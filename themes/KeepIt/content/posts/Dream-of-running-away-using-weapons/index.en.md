@@ -1,8 +1,8 @@
 ---
     weight: 392
     title: "Dream of running away using weapons"  # Assuming 'title' column exists
-    date: 2024-10-13T23:35:00+08:00
-    lastmod: 2024-10-13T23:35:00+08:00
+    date: 2024-10-15T23:31:00+08:00
+    lastmod: 2024-10-15T23:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['running', 'using', 'away', 'Dream', 'of', 'weapons']
+    tags: ['weapons', 'Dream', 'running', 'using', 'away']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual.However, in general,
 | Lucky Animal        | Hamster |
 | Lucky Place         | Library     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Baklava      |
-| Lucky Instrument    | Rudra Veena |
-| Lucky Flower        | Clover    |
-| Lucky Job           | Oceanographer       |
-| Lucky Exercise      | Lunges  |
-| Lucky Country       | Romania    |
+| Lucky Food          | Salad      |
+| Lucky Instrument    | Tambourine |
+| Lucky Flower        | Celosia    |
+| Lucky Job           | Photographer       |
+| Lucky Exercise      | Juggling  |
+| Lucky Country       | South Africa    |
 
 
 ##  Final Reflections on Dreams

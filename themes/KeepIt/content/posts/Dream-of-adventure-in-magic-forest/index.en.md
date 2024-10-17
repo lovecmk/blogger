@@ -1,8 +1,8 @@
 ---
     weight: 261
     title: "Dream of adventure in magic forest"  # Assuming 'title' column exists
-    date: 2024-10-13T21:57:00+08:00
-    lastmod: 2024-10-13T21:57:00+08:00
+    date: 2024-10-12T17:03:00+08:00
+    lastmod: 2024-10-12T17:03:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['adventure', 'forest', 'magic', 'Dream', 'in', 'of']
+    tags: ['forest', 'Dream', 'adventure', 'magic']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is that you can get a chance to grow and develop through 
 | Lucky Animal        | Polar bear |
 | Lucky Place         | Mart     |
 | Lucky Color         | Red     |
-| Lucky Food          | Beef Tacos      |
-| Lucky Instrument    | Electric Violin |
-| Lucky Flower        | Vinca    |
-| Lucky Job           | Plumber       |
-| Lucky Exercise      | Skiing  |
-| Lucky Country       | Ukraine    |
+| Lucky Food          | Tofu      |
+| Lucky Instrument    | Steel Pan |
+| Lucky Flower        | Jatropha    |
+| Lucky Job           | SEO Specialist       |
+| Lucky Exercise      | Skimboarding  |
+| Lucky Country       | Australia    |
 
 
 ##  Final Reflections on Dreams

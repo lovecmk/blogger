@@ -1,8 +1,8 @@
 ---
     weight: 1466
     title: "Dream of your dog becoming a therapist"  # Assuming 'title' column exists
-    date: 2024-10-13T21:25:00+08:00
-    lastmod: 2024-10-13T21:25:00+08:00
+    date: 2024-10-11T17:24:00+08:00
+    lastmod: 2024-10-11T17:24:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'Dream', 'dog', 'a', 'therapist', 'of', 'becoming']
+    tags: ['Dream', 'therapist', 'becoming', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Polar bear |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Ceviche      |
-| Lucky Instrument    | Harmonic Piano |
-| Lucky Flower        | Bougainvillea    |
-| Lucky Job           | Consultant       |
-| Lucky Exercise      | Jumping Rope  |
-| Lucky Country       | Portugal    |
+| Lucky Food          | Beef Tacos      |
+| Lucky Instrument    | Bass Drum |
+| Lucky Flower        | Pincushion Flower    |
+| Lucky Job           | Network Administrator       |
+| Lucky Exercise      | Handball  |
+| Lucky Country       | Italy    |
 
 
 ##  Final Reflections on Dreams

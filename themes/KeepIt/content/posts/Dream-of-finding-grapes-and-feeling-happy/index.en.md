@@ -1,8 +1,8 @@
 ---
     weight: 26
     title: "Dream of finding grapes and feeling happy"  # Assuming 'title' column exists
-    date: 2024-10-13T07:46:00+08:00
-    lastmod: 2024-10-13T07:46:00+08:00
+    date: 2024-10-15T11:47:00+08:00
+    lastmod: 2024-10-15T11:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['grapes', 'feeling', 'Dream', 'and', 'happy', 'of', 'finding']
+    tags: ['Dream', 'happy', 'finding', 'feeling', 'grapes']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can depend on individuals.In general, the dream of findin
 | Lucky Animal        | Kangaroo |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Caprese Salad      |
-| Lucky Instrument    | Keyboard |
-| Lucky Flower        | Crown Daisy    |
-| Lucky Job           | Pastry Chef       |
-| Lucky Exercise      | Softball  |
-| Lucky Country       | Oman    |
+| Lucky Food          | Zucchini Noodles      |
+| Lucky Instrument    | Djembe |
+| Lucky Flower        | Forget-Me-Not    |
+| Lucky Job           | Sales Representative       |
+| Lucky Exercise      | Mountain Climbers  |
+| Lucky Country       | Finland    |
 
 
 ##  Final Reflections on Dreams

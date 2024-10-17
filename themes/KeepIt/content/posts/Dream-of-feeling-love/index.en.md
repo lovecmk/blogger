@@ -1,8 +1,8 @@
 ---
     weight: 986
     title: "Dream of feeling love"  # Assuming 'title' column exists
-    date: 2024-10-13T05:03:00+08:00
-    lastmod: 2024-10-13T05:03:00+08:00
+    date: 2024-10-15T08:03:00+08:00
+    lastmod: 2024-10-15T08:03:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'feeling', 'Dream', 'love']
+    tags: ['love', 'Dream', 'feeling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'Dream of Love' can bring positive changes and success to your life.
 | Lucky Animal        | Otter |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Red     |
-| Lucky Food          | Baked Potato      |
-| Lucky Instrument    | Tenor Guitar |
-| Lucky Flower        | Jatropha    |
-| Lucky Job           | Marketing Manager       |
-| Lucky Exercise      | Squash  |
-| Lucky Country       | Zimbabwe    |
+| Lucky Food          | Chicken Curry      |
+| Lucky Instrument    | Trumpet |
+| Lucky Flower        | Sage    |
+| Lucky Job           | Game Developer       |
+| Lucky Exercise      | Yoga  |
+| Lucky Country       | Kyrgyzstan    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1629
     title: "Dream of celebrating an ancestral holiday or tradition with family members."  # Assuming 'title' column exists
-    date: 2024-10-13T13:36:00+08:00
-    lastmod: 2024-10-13T13:36:00+08:00
+    date: 2024-10-12T11:06:00+08:00
+    lastmod: 2024-10-12T11:06:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'tradition', 'or', 'members.', 'ancestral', 'Dream', 'celebrating', 'an', 'holiday', 'of', 'with']
+    tags: ['family', 'Dream', 'members', 'tradition', 'celebrating', 'an', 'holiday', 'ancestral']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Wolf |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Minestrone      |
-| Lucky Instrument    | Koto |
-| Lucky Flower        | Periwinkle    |
-| Lucky Job           | Human Resources Manager       |
-| Lucky Exercise      | Belly Dancing  |
-| Lucky Country       | Finland    |
+| Lucky Food          | Shepherd's Pie      |
+| Lucky Instrument    | Drums |
+| Lucky Flower        | Clover Blossom    |
+| Lucky Job           | Customer Service Representative       |
+| Lucky Exercise      | Parkour  |
+| Lucky Country       | Armenia    |
 
 
 ##  Final Reflections on Dreams

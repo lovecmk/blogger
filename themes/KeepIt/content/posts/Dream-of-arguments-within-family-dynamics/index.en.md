@@ -1,8 +1,8 @@
 ---
     weight: 1625
     title: "Dream of your husband showing remarkable patience and understanding."  # Assuming 'title' column exists
-    date: 2024-10-13T12:53:00+08:00
-    lastmod: 2024-10-13T12:53:00+08:00
+    date: 2024-10-13T23:31:00+08:00
+    lastmod: 2024-10-13T23:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['understanding.', 'your', 'showing', 'Dream', 'remarkable', 'husband', 'and', 'patience', 'of']
+    tags: ['Dream', 'patience', 'remarkable', 'showing', 'husband', 'understanding']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Seal |
 | Lucky Place         | Theater     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Baked Potato      |
-| Lucky Instrument    | Saxello |
-| Lucky Flower        | Lantana    |
-| Lucky Job           | Fashion Designer       |
-| Lucky Exercise      | Hammer Throw  |
-| Lucky Country       | Papua New Guinea    |
+| Lucky Food          | Cornbread      |
+| Lucky Instrument    | Darbuka |
+| Lucky Flower        | Periwinkle    |
+| Lucky Job           | Scientist       |
+| Lucky Exercise      | Salsa  |
+| Lucky Country       | Bulgaria    |
 
 
 ##  Final Reflections on Dreams

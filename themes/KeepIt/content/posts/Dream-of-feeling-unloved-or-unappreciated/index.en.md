@@ -1,8 +1,8 @@
 ---
     weight: 2106
     title: "Dream of feeling a sense of protection and guidance from your ancestors."  # Assuming 'title' column exists
-    date: 2024-10-13T01:02:00+08:00
-    lastmod: 2024-10-13T01:02:00+08:00
+    date: 2024-10-11T13:48:00+08:00
+    lastmod: 2024-10-11T13:48:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['feeling', 'your', 'Dream', 'a', 'protection', 'and', 'from', 'of', 'sense', 'guidance', 'ancestors.']
+    tags: ['guidance', 'Dream', 'from', 'sense', 'feeling', 'ancestors', 'protection']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hyena |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Lentil Soup      |
-| Lucky Instrument    | Balalaika |
-| Lucky Flower        | Celosia    |
-| Lucky Job           | Insurance Agent       |
-| Lucky Exercise      | Kite Surfing  |
-| Lucky Country       | Uzbekistan    |
+| Lucky Food          | Pasta      |
+| Lucky Instrument    | Trombone |
+| Lucky Flower        | Nasturtium    |
+| Lucky Job           | Stockbroker       |
+| Lucky Exercise      | Golf  |
+| Lucky Country       | Cyprus    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1196
     title: "Dream about showroom"  # Assuming 'title' column exists
-    date: 2024-10-13T02:45:00+08:00
-    lastmod: 2024-10-13T02:45:00+08:00
+    date: 2024-10-12T08:56:00+08:00
+    lastmod: 2024-10-12T08:56:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['showroom', 'about', 'Dream']
+    tags: ['Dream', 'showroom']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The exhibition hall is a symbol of creative areas and artistic expressions.There
 | Lucky Animal        | Hyena |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Minestrone      |
-| Lucky Instrument    | Tenor Saxophone |
-| Lucky Flower        | Bougainvillea    |
-| Lucky Job           | Sous Chef       |
-| Lucky Exercise      | Burpees  |
-| Lucky Country       | Uzbekistan    |
+| Lucky Food          | Chicken Parmesan      |
+| Lucky Instrument    | Accordion Synth |
+| Lucky Flower        | Iris    |
+| Lucky Job           | Social Worker       |
+| Lucky Exercise      | Pull-Ups  |
+| Lucky Country       | Georgia    |
 
 
 ##  Final Reflections on Dreams

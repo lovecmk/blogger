@@ -1,8 +1,8 @@
 ---
     weight: 1353
     title: "Dream of flying or soaring through the air"  # Assuming 'title' column exists
-    date: 2024-10-13T06:56:00+08:00
-    lastmod: 2024-10-13T06:56:00+08:00
+    date: 2024-10-15T04:28:00+08:00
+    lastmod: 2024-10-15T04:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['soaring', 'flying', 'or', 'the', 'air', 'Dream', 'through', 'of']
+    tags: ['Dream', 'flying', 'air', 'soaring']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,11 +59,11 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Black     |
-| Lucky Food          | Omelette      |
-| Lucky Instrument    | Cajón |
-| Lucky Flower        | Aster    |
-| Lucky Job           | Director       |
-| Lucky Exercise      | Foam Rolling  |
+| Lucky Food          | Sandwich      |
+| Lucky Instrument    | Harp |
+| Lucky Flower        | Agapanthus    |
+| Lucky Job           | Pharmacist       |
+| Lucky Exercise      | Dance Aerobics  |
 | Lucky Country       | Norway    |
 
 

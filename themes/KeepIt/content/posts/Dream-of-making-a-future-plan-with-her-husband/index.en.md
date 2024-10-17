@@ -1,8 +1,8 @@
 ---
     weight: 86
     title: "Dream of making a future plan with her husband"  # Assuming 'title' column exists
-    date: 2024-10-13T16:59:00+08:00
-    lastmod: 2024-10-13T16:59:00+08:00
+    date: 2024-10-13T12:19:00+08:00
+    lastmod: 2024-10-13T12:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['plan', 'her', 'Dream', 'a', 'future', 'making', 'husband', 'of', 'with']
+    tags: ['Dream', 'making', 'plan', 'her', 'husband', 'future']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual's situation and inte
 | Lucky Animal        | Elephant |
 | Lucky Place         | Lake     |
 | Lucky Color         | White     |
-| Lucky Food          | Pasta      |
-| Lucky Instrument    | Darbuka |
-| Lucky Flower        | Thistle    |
-| Lucky Job           | Research Scientist       |
-| Lucky Exercise      | Body Pump  |
-| Lucky Country       | Malawi    |
+| Lucky Food          | Baklava      |
+| Lucky Instrument    | Banjo |
+| Lucky Flower        | Carnation    |
+| Lucky Job           | Plumber       |
+| Lucky Exercise      | Parkour Training  |
+| Lucky Country       | Afghanistan    |
 
 
 ##  Final Reflections on Dreams

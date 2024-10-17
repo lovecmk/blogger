@@ -1,8 +1,8 @@
 ---
     weight: 1152
     title: "Dream about Music instructor"  # Assuming 'title' column exists
-    date: 2024-10-13T14:47:00+08:00
-    lastmod: 2024-10-13T14:47:00+08:00
+    date: 2024-10-13T02:42:00+08:00
+    lastmod: 2024-10-13T02:42:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['instructor', 'about', 'Dream', 'Music']
+    tags: ['instructor', 'Dream', 'Music']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Dreams as a music instructor symbolize the ability to convey inspiration and kno
 | Lucky Animal        | Hyena |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Ice Cream      |
-| Lucky Instrument    | Slide Guitar |
-| Lucky Flower        | Hydrangea    |
-| Lucky Job           | Pastry Chef       |
-| Lucky Exercise      | Paddleboarding  |
-| Lucky Country       | Slovakia    |
+| Lucky Food          | Bagel      |
+| Lucky Instrument    | Cymbals |
+| Lucky Flower        | Balsam    |
+| Lucky Job           | Human Resources Manager       |
+| Lucky Exercise      | Cross-Country Skiing  |
+| Lucky Country       | Malaysia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1116
     title: "Dream about Fireflies"  # Assuming 'title' column exists
-    date: 2024-10-13T21:25:00+08:00
-    lastmod: 2024-10-13T21:25:00+08:00
+    date: 2024-10-12T09:37:00+08:00
+    lastmod: 2024-10-12T09:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Fireflies', 'about', 'Dream']
+    tags: ['Dream', 'Fireflies']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ How can you have a feeling of 'fireflies'?This dream can be a signal of positive
 | Lucky Animal        | Rhino |
 | Lucky Place         | Museum     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Waffles      |
-| Lucky Instrument    | Balalaika |
-| Lucky Flower        | Chrysanthemum    |
-| Lucky Job           | SEO Specialist       |
-| Lucky Exercise      | Spin Class  |
-| Lucky Country       | Kazakhstan    |
+| Lucky Food          | Dumplings      |
+| Lucky Instrument    | Electric Violin |
+| Lucky Flower        | Clover Blossom    |
+| Lucky Job           | Police Officer       |
+| Lucky Exercise      | Paddleboarding  |
+| Lucky Country       | Spain    |
 
 
 ##  Final Reflections on Dreams

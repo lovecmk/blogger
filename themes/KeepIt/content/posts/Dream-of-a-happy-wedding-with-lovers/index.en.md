@@ -1,8 +1,8 @@
 ---
     weight: 208
     title: "Dream of a happy wedding with lovers"  # Assuming 'title' column exists
-    date: 2024-10-13T10:11:00+08:00
-    lastmod: 2024-10-13T10:11:00+08:00
+    date: 2024-10-15T14:03:00+08:00
+    lastmod: 2024-10-15T14:03:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lovers', 'Dream', 'a', 'happy', 'of', 'wedding', 'with']
+    tags: ['lovers', 'happy', 'Dream', 'wedding']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can mean a happy relationship and stability with your lov
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Shepherd's Pie      |
-| Lucky Instrument    | Tabor |
-| Lucky Flower        | Freesia    |
-| Lucky Job           | Pastry Chef       |
-| Lucky Exercise      | Kripalu Yoga  |
-| Lucky Country       | Kuwait    |
+| Lucky Food          | Tart      |
+| Lucky Instrument    | Guitar |
+| Lucky Flower        | Hellebore    |
+| Lucky Job           | Marketing Manager       |
+| Lucky Exercise      | Salsa  |
+| Lucky Country       | Saudi Arabia    |
 
 
 ##  Final Reflections on Dreams

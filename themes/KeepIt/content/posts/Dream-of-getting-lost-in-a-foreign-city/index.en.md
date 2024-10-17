@@ -1,8 +1,8 @@
 ---
     weight: 1285
     title: "Dream of getting lost in a foreign city"  # Assuming 'title' column exists
-    date: 2024-10-13T18:31:00+08:00
-    lastmod: 2024-10-13T18:31:00+08:00
+    date: 2024-10-12T16:54:00+08:00
+    lastmod: 2024-10-12T16:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lost', 'city', 'Dream', 'a', 'foreign', 'in', 'of', 'getting']
+    tags: ['lost', 'Dream', 'foreign', 'getting', 'city']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Goose |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Tacos      |
-| Lucky Instrument    | Accordion |
-| Lucky Flower        | Ornamental Pepper    |
-| Lucky Job           | Physical Therapist       |
-| Lucky Exercise      | Foam Rolling  |
-| Lucky Country       | Slovakia    |
+| Lucky Food          | Pork Chops      |
+| Lucky Instrument    | Lap Steel Guitar |
+| Lucky Flower        | Sweet Pea    |
+| Lucky Job           | Chef       |
+| Lucky Exercise      | Ultimate Frisbee  |
+| Lucky Country       | Zambia    |
 
 
 ##  Final Reflections on Dreams

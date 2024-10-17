@@ -1,8 +1,8 @@
 ---
     weight: 1551
     title: "Dream of winning money in a game of skill or strategy."  # Assuming 'title' column exists
-    date: 2024-10-13T00:32:00+08:00
-    lastmod: 2024-10-13T00:32:00+08:00
+    date: 2024-10-11T08:46:00+08:00
+    lastmod: 2024-10-11T08:46:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'winning', 'game', 'money', 'Dream', 'a', 'skill', 'in', 'strategy.', 'of']
+    tags: ['skill', 'Dream', 'money', 'game', 'winning', 'strategy']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Ostrich |
 | Lucky Place         | Sea     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Noodles      |
-| Lucky Instrument    | Timpani |
-| Lucky Flower        | Scented Geranium    |
-| Lucky Job           | Copywriter       |
-| Lucky Exercise      | Tennis  |
-| Lucky Country       | Oman    |
+| Lucky Food          | Quesadilla      |
+| Lucky Instrument    | Castanets |
+| Lucky Flower        | Hellebore    |
+| Lucky Job           | Mathematician       |
+| Lucky Exercise      | Aerobics  |
+| Lucky Country       | Netherlands    |
 
 
 ##  Final Reflections on Dreams

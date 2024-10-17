@@ -1,8 +1,8 @@
 ---
     weight: 1481
     title: "Dream of your dog being a nature conservationist"  # Assuming 'title' column exists
-    date: 2024-10-13T22:10:00+08:00
-    lastmod: 2024-10-13T22:10:00+08:00
+    date: 2024-10-14T23:02:00+08:00
+    lastmod: 2024-10-14T23:02:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'conservationist', 'Dream', 'being', 'a', 'nature', 'of', 'dog']
+    tags: ['being', 'Dream', 'conservationist', 'nature', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Duck |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | White     |
-| Lucky Food          | Chicken Parmesan      |
-| Lucky Instrument    | Fretless Bass |
-| Lucky Flower        | Mandevilla    |
-| Lucky Job           | Doctor       |
-| Lucky Exercise      | Ultimate Frisbee  |
-| Lucky Country       | Yemen    |
+| Lucky Food          | Burger      |
+| Lucky Instrument    | Tenor Saxophone |
+| Lucky Flower        | Hollyhock    |
+| Lucky Job           | Mathematician       |
+| Lucky Exercise      | Swimming Laps  |
+| Lucky Country       | Kazakhstan    |
 
 
 ##  Final Reflections on Dreams

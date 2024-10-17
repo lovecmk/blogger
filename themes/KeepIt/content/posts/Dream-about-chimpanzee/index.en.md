@@ -1,8 +1,8 @@
 ---
     weight: 1055
     title: "Dream about chimpanzee"  # Assuming 'title' column exists
-    date: 2024-10-13T17:23:00+08:00
-    lastmod: 2024-10-13T17:23:00+08:00
+    date: 2024-10-11T15:24:00+08:00
+    lastmod: 2024-10-11T15:24:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['about', 'Dream', 'chimpanzee']
+    tags: ['chimpanzee', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The 'chimpanzee' dream can symbolize luck.Chimpanzy is a symbolic being that ind
 | Lucky Animal        | Horse |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Red     |
-| Lucky Food          | Pancakes      |
-| Lucky Instrument    | Soprano Recorder |
-| Lucky Flower        | Periwinkle    |
-| Lucky Job           | Taxi Driver       |
-| Lucky Exercise      | Rugby  |
-| Lucky Country       | Cyprus    |
+| Lucky Food          | Cheesecake      |
+| Lucky Instrument    | Lap Steel Guitar |
+| Lucky Flower        | Ragged Robin    |
+| Lucky Job           | Journalist       |
+| Lucky Exercise      | Yoga  |
+| Lucky Country       | Sweden    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1750
     title: "Dream of fighting for your identity"  # Assuming 'title' column exists
-    date: 2024-10-13T18:52:00+08:00
-    lastmod: 2024-10-13T18:52:00+08:00
+    date: 2024-10-11T23:49:00+08:00
+    lastmod: 2024-10-11T23:49:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'fighting', 'Dream', 'for', 'identity', 'of']
+    tags: ['Dream', 'fighting', 'identity']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,11 +59,11 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Mole |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Black     |
-| Lucky Food          | Gumbo      |
-| Lucky Instrument    | Piano |
-| Lucky Flower        | Larkspur    |
-| Lucky Job           | Real Estate Agent       |
-| Lucky Exercise      | Leg Press  |
+| Lucky Food          | Fruit Tart      |
+| Lucky Instrument    | Wooden Flute |
+| Lucky Flower        | Pansy    |
+| Lucky Job           | Astrophysicist       |
+| Lucky Exercise      | Swimming  |
 | Lucky Country       | Canada    |
 
 

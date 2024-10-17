@@ -1,8 +1,8 @@
 ---
     weight: 1632
     title: "Dream of fighting in a martial arts tournament"  # Assuming 'title' column exists
-    date: 2024-10-13T11:51:00+08:00
-    lastmod: 2024-10-13T11:51:00+08:00
+    date: 2024-10-12T22:58:00+08:00
+    lastmod: 2024-10-12T22:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['tournament', 'fighting', 'Dream', 'martial', 'a', 'arts', 'in', 'of']
+    tags: ['arts', 'Dream', 'martial', 'fighting', 'tournament']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Cheeseboard      |
-| Lucky Instrument    | Violin Bow |
-| Lucky Flower        | Bougainvillea    |
-| Lucky Job           | Fitness Instructor       |
-| Lucky Exercise      | Cycling  |
-| Lucky Country       | Tanzania    |
+| Lucky Food          | Gelato      |
+| Lucky Instrument    | Zither |
+| Lucky Flower        | Crown Daisy    |
+| Lucky Job           | Operations Manager       |
+| Lucky Exercise      | Rowing  |
+| Lucky Country       | Belgium    |
 
 
 ##  Final Reflections on Dreams

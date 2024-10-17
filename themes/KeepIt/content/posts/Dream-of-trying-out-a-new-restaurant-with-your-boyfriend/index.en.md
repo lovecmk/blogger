@@ -1,8 +1,8 @@
 ---
     weight: 2001
     title: "Dream of disagreements over family principles"  # Assuming 'title' column exists
-    date: 2024-10-13T12:09:00+08:00
-    lastmod: 2024-10-13T12:09:00+08:00
+    date: 2024-10-13T22:23:00+08:00
+    lastmod: 2024-10-13T22:23:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'principles', 'Dream', 'disagreements', 'over', 'of']
+    tags: ['family', 'Dream', 'disagreements', 'over', 'principles']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Crocodile |
 | Lucky Place         | River     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Falafel      |
-| Lucky Instrument    | Cowbell |
-| Lucky Flower        | Celosia    |
-| Lucky Job           | Database Administrator       |
-| Lucky Exercise      | Kite Surfing  |
-| Lucky Country       | Russia    |
+| Lucky Food          | Scallops      |
+| Lucky Instrument    | Ney |
+| Lucky Flower        | Bouvardia    |
+| Lucky Job           | Biologist       |
+| Lucky Exercise      | Ballet  |
+| Lucky Country       | Vanuatu    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 934
     title: "Dream of falling from a tree"  # Assuming 'title' column exists
-    date: 2024-10-13T15:19:00+08:00
-    lastmod: 2024-10-13T15:19:00+08:00
+    date: 2024-10-15T21:01:00+08:00
+    lastmod: 2024-10-15T21:01:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['tree', 'falling', 'Dream', 'a', 'from', 'of']
+    tags: ['Dream', 'falling', 'from', 'tree']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Dreams of falling from trees may be connected to luck.This dream means change an
 | Lucky Animal        | Mouse |
 | Lucky Place         | Museum     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Ratatouille      |
-| Lucky Instrument    | Keyboard Synthesizer |
-| Lucky Flower        | Pelargonium    |
-| Lucky Job           | Quality Assurance Tester       |
-| Lucky Exercise      | Obstacle Course Racing  |
-| Lucky Country       | Turkmenistan    |
+| Lucky Food          | Deviled Eggs      |
+| Lucky Instrument    | Sackbut |
+| Lucky Flower        | Foxglove    |
+| Lucky Job           | Financial Analyst       |
+| Lucky Exercise      | Sit-Ups  |
+| Lucky Country       | Mexico    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 736
     title: "Dream of enjoying hocs"  # Assuming 'title' column exists
-    date: 2024-10-13T01:53:00+08:00
-    lastmod: 2024-10-13T01:53:00+08:00
+    date: 2024-10-11T22:15:00+08:00
+    lastmod: 2024-10-11T22:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'enjoying', 'Dream', 'hocs']
+    tags: ['enjoying', 'hocs', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be interpreted as an opportunity to get new energy th
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Minestrone      |
-| Lucky Instrument    | Didgeridoo |
-| Lucky Flower        | Bluebell    |
-| Lucky Job           | Dentist       |
-| Lucky Exercise      | Jump Squats  |
-| Lucky Country       | Kiribati    |
+| Lucky Food          | Biryani      |
+| Lucky Instrument    | Sitar |
+| Lucky Flower        | Peach Blossom    |
+| Lucky Job           | Customer Service Representative       |
+| Lucky Exercise      | Dance Aerobics  |
+| Lucky Country       | Afghanistan    |
 
 
 ##  Final Reflections on Dreams

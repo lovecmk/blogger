@@ -1,8 +1,8 @@
 ---
     weight: 638
     title: "Dream of reading a book under a large tree"  # Assuming 'title' column exists
-    date: 2024-10-13T03:00:00+08:00
-    lastmod: 2024-10-13T03:00:00+08:00
+    date: 2024-10-13T09:15:00+08:00
+    lastmod: 2024-10-13T09:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['tree', 'large', 'Dream', 'book', 'reading', 'a', 'of', 'under']
+    tags: ['Dream', 'reading', 'large', 'tree', 'under', 'book']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can suggest good luck for knowledge and self -development.Large trees
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Theater     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Stuffed Mushrooms      |
-| Lucky Instrument    | Oboe |
-| Lucky Flower        | Iris    |
-| Lucky Job           | Hair Stylist       |
-| Lucky Exercise      | Martial Arts  |
-| Lucky Country       | Thailand    |
+| Lucky Food          | Tacos      |
+| Lucky Instrument    | Electric Guitar |
+| Lucky Flower        | Cyclamen    |
+| Lucky Job           | Field Technician       |
+| Lucky Exercise      | Trail Running  |
+| Lucky Country       | Yemen    |
 
 
 ##  Final Reflections on Dreams

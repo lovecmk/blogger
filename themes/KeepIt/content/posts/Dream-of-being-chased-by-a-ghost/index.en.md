@@ -1,8 +1,8 @@
 ---
     weight: 908
     title: "Dream of being chased by a ghost"  # Assuming 'title' column exists
-    date: 2024-10-13T06:02:00+08:00
-    lastmod: 2024-10-13T06:02:00+08:00
+    date: 2024-10-13T11:11:00+08:00
+    lastmod: 2024-10-13T11:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['ghost', 'Dream', 'being', 'a', 'by', 'of', 'chased']
+    tags: ['being', 'ghost', 'chased', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream does not bring good luck overall, but it can be the beginning of posi
 | Lucky Animal        | Fox |
 | Lucky Place         | Beach     |
 | Lucky Color         | White     |
-| Lucky Food          | Pork Chops      |
-| Lucky Instrument    | Tromba |
-| Lucky Flower        | Zinnia    |
-| Lucky Job           | Physical Therapist       |
-| Lucky Exercise      | Sledge Hockey  |
-| Lucky Country       | Spain    |
+| Lucky Food          | Cheesecake      |
+| Lucky Instrument    | Bandoneon |
+| Lucky Flower        | Snapdragon    |
+| Lucky Job           | Web Designer       |
+| Lucky Exercise      | Circuit Training  |
+| Lucky Country       | Austria    |
 
 
 ##  Final Reflections on Dreams

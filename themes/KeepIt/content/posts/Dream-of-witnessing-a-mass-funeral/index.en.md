@@ -1,8 +1,8 @@
 ---
     weight: 2084
     title: "Dream of your cat playing with a feather toy"  # Assuming 'title' column exists
-    date: 2024-10-13T21:33:00+08:00
-    lastmod: 2024-10-13T21:33:00+08:00
+    date: 2024-10-12T05:27:00+08:00
+    lastmod: 2024-10-12T05:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['feather', 'toy', 'playing', 'your', 'cat', 'Dream', 'a', 'of', 'with']
+    tags: ['feather', 'Dream', 'toy', 'playing', 'cat']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Chicken |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Green     |
-| Lucky Food          | Fried Rice      |
-| Lucky Instrument    | Zouaves |
-| Lucky Flower        | Hydrangea    |
-| Lucky Job           | Researcher       |
-| Lucky Exercise      | Sprinting  |
-| Lucky Country       | Latvia    |
+| Lucky Food          | Eggplant Parmesan      |
+| Lucky Instrument    | Synthesizer |
+| Lucky Flower        | Forget-Me-Not    |
+| Lucky Job           | Network Administrator       |
+| Lucky Exercise      | Jump Squats  |
+| Lucky Country       | Finland    |
 
 
 ##  Final Reflections on Dreams

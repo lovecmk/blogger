@@ -1,8 +1,8 @@
 ---
     weight: 1503
     title: "Dream of hitting someone while driving"  # Assuming 'title' column exists
-    date: 2024-10-13T17:12:00+08:00
-    lastmod: 2024-10-13T17:12:00+08:00
+    date: 2024-10-11T11:54:00+08:00
+    lastmod: 2024-10-11T11:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['driving', 'Dream', 'someone', 'hitting', 'of', 'while']
+    tags: ['while', 'Dream', 'driving', 'hitting', 'someone']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Chick |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Tofu      |
-| Lucky Instrument    | Electric Cello |
-| Lucky Flower        | Butterfly Bush    |
-| Lucky Job           | Network Administrator       |
-| Lucky Exercise      | Active Recovery  |
-| Lucky Country       | Bulgaria    |
+| Lucky Food          | Ramen      |
+| Lucky Instrument    | Drums |
+| Lucky Flower        | Wisteria    |
+| Lucky Job           | Physical Therapist       |
+| Lucky Exercise      | Kite Surfing  |
+| Lucky Country       | Kenya    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1828
     title: "Dream of dying and feeling lost"  # Assuming 'title' column exists
-    date: 2024-10-13T11:29:00+08:00
-    lastmod: 2024-10-13T11:29:00+08:00
+    date: 2024-10-13T10:07:00+08:00
+    lastmod: 2024-10-13T10:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dying', 'feeling', 'lost', 'Dream', 'and', 'of']
+    tags: ['lost', 'Dream', 'feeling', 'dying']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Tiger |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Buffalo Wings      |
-| Lucky Instrument    | Octobass |
-| Lucky Flower        | Lilac    |
-| Lucky Job           | Nurse       |
-| Lucky Exercise      | Parkour  |
-| Lucky Country       | Croatia    |
+| Lucky Food          | Crab      |
+| Lucky Instrument    | Sitar |
+| Lucky Flower        | Butterfly Bush    |
+| Lucky Job           | Life Coach       |
+| Lucky Exercise      | Boxing  |
+| Lucky Country       | Italy    |
 
 
 ##  Final Reflections on Dreams

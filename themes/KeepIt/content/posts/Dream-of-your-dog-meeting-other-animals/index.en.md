@@ -1,8 +1,8 @@
 ---
     weight: 1483
     title: "Dream of your dog meeting other animals"  # Assuming 'title' column exists
-    date: 2024-10-13T06:21:00+08:00
-    lastmod: 2024-10-13T06:21:00+08:00
+    date: 2024-10-15T13:38:00+08:00
+    lastmod: 2024-10-15T13:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['other', 'animals', 'your', 'Dream', 'meeting', 'of', 'dog']
+    tags: ['Dream', 'other', 'meeting', 'dog', 'animals']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Corn on the Cob      |
-| Lucky Instrument    | Shakuhachi |
-| Lucky Flower        | Orchid    |
-| Lucky Job           | Sous Chef       |
-| Lucky Exercise      | Pull-Ups  |
-| Lucky Country       | Netherlands    |
+| Lucky Food          | Pasta Primavera      |
+| Lucky Instrument    | Harp |
+| Lucky Flower        | Sundew    |
+| Lucky Job           | Writer       |
+| Lucky Exercise      | Lunges  |
+| Lucky Country       | Mozambique    |
 
 
 ##  Final Reflections on Dreams

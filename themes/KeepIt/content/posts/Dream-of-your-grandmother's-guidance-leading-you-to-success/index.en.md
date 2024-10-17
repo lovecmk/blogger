@@ -1,8 +1,8 @@
 ---
     weight: 1980
     title: "Dream of your grandmother's presence filling you with a sense of security."  # Assuming 'title' column exists
-    date: 2024-10-13T16:39:00+08:00
-    lastmod: 2024-10-13T16:39:00+08:00
+    date: 2024-10-15T08:00:00+08:00
+    lastmod: 2024-10-15T08:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['presence', 'with', 'filling', 'your', 'security.', 'Dream', 'a', "grandmother's", 'of', 'sense', 'you']
+    tags: ['you', 'Dream', 'security', 'sense', 'presence', "grandmother's", 'filling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Deer |
 | Lucky Place         | Library     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Prawn Crackers      |
-| Lucky Instrument    | Didgeridoo |
-| Lucky Flower        | Borage    |
-| Lucky Job           | Oceanographer       |
-| Lucky Exercise      | Cross-Country Skiing  |
-| Lucky Country       | Bhutan    |
+| Lucky Food          | Gnocchi      |
+| Lucky Instrument    | Bass Clarinet |
+| Lucky Flower        | Bellflower    |
+| Lucky Job           | Social Worker       |
+| Lucky Exercise      | Stretching  |
+| Lucky Country       | China    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1255
     title: "Dream of spilling coffee or a drink on yourself"  # Assuming 'title' column exists
-    date: 2024-10-13T06:55:00+08:00
-    lastmod: 2024-10-13T06:55:00+08:00
+    date: 2024-10-14T20:01:00+08:00
+    lastmod: 2024-10-14T20:01:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['drink', 'or', 'Dream', 'spilling', 'yourself', 'a', 'on', 'coffee', 'of']
+    tags: ['Dream', 'spilling', 'yourself', 'drink', 'coffee']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream does not necessarily bring luck, but rather serves as a reminder to b
 | Lucky Animal        | Lizard |
 | Lucky Place         | Sea     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Croissant      |
-| Lucky Instrument    | Guitarlele |
-| Lucky Flower        | Mandevilla    |
-| Lucky Job           | Interpreter       |
-| Lucky Exercise      | Hiking  |
-| Lucky Country       | Bahrain    |
+| Lucky Food          | Pasta      |
+| Lucky Instrument    | Ukulele |
+| Lucky Flower        | Poinsettia    |
+| Lucky Job           | Producer       |
+| Lucky Exercise      | Step Aerobics  |
+| Lucky Country       | Nepal    |
 
 
 ##  Final Reflections on Dreams

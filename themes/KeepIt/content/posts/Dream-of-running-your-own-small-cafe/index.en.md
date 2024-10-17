@@ -1,8 +1,8 @@
 ---
     weight: 629
     title: "Dream of running your own small cafe"  # Assuming 'title' column exists
-    date: 2024-10-13T18:08:00+08:00
-    lastmod: 2024-10-13T18:08:00+08:00
+    date: 2024-10-15T05:32:00+08:00
+    lastmod: 2024-10-15T05:32:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['own', 'small', 'running', 'your', 'Dream', 'cafe', 'of']
+    tags: ['Dream', 'running', 'small', 'own', 'cafe']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ What are the luck of this dream?This dream provides opportunities for self -deve
 | Lucky Animal        | Polar bear |
 | Lucky Place         | Sea     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Baked Potato      |
-| Lucky Instrument    | Accordion |
-| Lucky Flower        | Larkspur    |
-| Lucky Job           | Public Relations Specialist       |
-| Lucky Exercise      | Jumping Rope  |
-| Lucky Country       | United Arab Emirates    |
+| Lucky Food          | Baklava      |
+| Lucky Instrument    | Bass Clarinet |
+| Lucky Flower        | Alyssum    |
+| Lucky Job           | Insurance Underwriter       |
+| Lucky Exercise      | Leg Press  |
+| Lucky Country       | Turkmenistan    |
 
 
 ##  Final Reflections on Dreams

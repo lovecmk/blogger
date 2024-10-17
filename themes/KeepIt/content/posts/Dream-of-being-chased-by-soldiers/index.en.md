@@ -1,8 +1,8 @@
 ---
     weight: 921
     title: "Dream of being chased by soldiers"  # Assuming 'title' column exists
-    date: 2024-10-13T22:36:00+08:00
-    lastmod: 2024-10-13T22:36:00+08:00
+    date: 2024-10-11T19:45:00+08:00
+    lastmod: 2024-10-11T19:45:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['soldiers', 'Dream', 'being', 'by', 'of', 'chased']
+    tags: ['being', 'chased', 'Dream', 'soldiers']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the situation.But in general, this 
 | Lucky Animal        | Gorilla |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Seafood Paella      |
-| Lucky Instrument    | Castanets |
-| Lucky Flower        | Freesia    |
-| Lucky Job           | Biologist       |
-| Lucky Exercise      | Salsa  |
-| Lucky Country       | Laos    |
+| Lucky Food          | Curry      |
+| Lucky Instrument    | Violin |
+| Lucky Flower        | Petunia    |
+| Lucky Job           | Doctor       |
+| Lucky Exercise      | Skiing  |
+| Lucky Country       | India    |
 
 
 ##  Final Reflections on Dreams

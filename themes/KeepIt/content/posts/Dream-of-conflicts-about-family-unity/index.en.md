@@ -1,8 +1,8 @@
 ---
     weight: 1701
     title: "Dream of being unable to save someone"  # Assuming 'title' column exists
-    date: 2024-10-13T09:40:00+08:00
-    lastmod: 2024-10-13T09:40:00+08:00
+    date: 2024-10-12T05:47:00+08:00
+    lastmod: 2024-10-12T05:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['unable', 'to', 'Dream', 'being', 'someone', 'save', 'of']
+    tags: ['being', 'save', 'Dream', 'to', 'someone', 'unable']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Tiger |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Pico de Gallo      |
-| Lucky Instrument    | Maracas |
-| Lucky Flower        | Ranunculus    |
-| Lucky Job           | Project Manager       |
-| Lucky Exercise      | Leg Press  |
-| Lucky Country       | Finland    |
+| Lucky Food          | Shrimp      |
+| Lucky Instrument    | Fujara |
+| Lucky Flower        | Agapanthus    |
+| Lucky Job           | Translator       |
+| Lucky Exercise      | Jump Squats  |
+| Lucky Country       | Tajikistan    |
 
 
 ##  Final Reflections on Dreams

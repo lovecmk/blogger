@@ -1,8 +1,8 @@
 ---
     weight: 1706
     title: "Dream of your cat napping in a sunbeam"  # Assuming 'title' column exists
-    date: 2024-10-13T22:59:00+08:00
-    lastmod: 2024-10-13T22:59:00+08:00
+    date: 2024-10-15T20:54:00+08:00
+    lastmod: 2024-10-15T20:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'cat', 'Dream', 'sunbeam', 'a', 'napping', 'in', 'of']
+    tags: ['Dream', 'sunbeam', 'napping', 'cat']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Goose |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Beef Tacos      |
-| Lucky Instrument    | Piccolo |
-| Lucky Flower        | Freesia    |
-| Lucky Job           | Veterinarian       |
-| Lucky Exercise      | Squash  |
-| Lucky Country       | Micronesia    |
+| Lucky Food          | Sushi Roll      |
+| Lucky Instrument    | Saxophone |
+| Lucky Flower        | Peach Blossom    |
+| Lucky Job           | Producer       |
+| Lucky Exercise      | Horseback Riding  |
+| Lucky Country       | Argentina    |
 
 
 ##  Final Reflections on Dreams

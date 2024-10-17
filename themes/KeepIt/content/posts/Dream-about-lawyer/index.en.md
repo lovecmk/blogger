@@ -1,8 +1,8 @@
 ---
     weight: 1145
     title: "Dream about lawyer"  # Assuming 'title' column exists
-    date: 2024-10-13T03:16:00+08:00
-    lastmod: 2024-10-13T03:16:00+08:00
+    date: 2024-10-14T06:43:00+08:00
+    lastmod: 2024-10-14T06:43:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lawyer', 'about', 'Dream']
+    tags: ['lawyer', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of dreams depends on the content of the dream and the individual's situ
 | Lucky Animal        | Fox |
 | Lucky Place         | Lake     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Pudding      |
-| Lucky Instrument    | Glockenspiel |
-| Lucky Flower        | Verbena    |
-| Lucky Job           | Insurance Underwriter       |
-| Lucky Exercise      | Sprinting  |
-| Lucky Country       | Sweden    |
+| Lucky Food          | Sushi      |
+| Lucky Instrument    | Tuba |
+| Lucky Flower        | Petal Plant    |
+| Lucky Job           | Chemist       |
+| Lucky Exercise      | Tai Chi  |
+| Lucky Country       | Romania    |
 
 
 ##  Final Reflections on Dreams

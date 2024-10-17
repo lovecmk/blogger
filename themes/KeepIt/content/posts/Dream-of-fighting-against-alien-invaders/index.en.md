@@ -1,8 +1,8 @@
 ---
     weight: 1988
     title: "Dream of receiving a lesson or teaching from an ancestor through a dream."  # Assuming 'title' column exists
-    date: 2024-10-13T08:15:00+08:00
-    lastmod: 2024-10-13T08:15:00+08:00
+    date: 2024-10-11T19:10:00+08:00
+    lastmod: 2024-10-11T19:10:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['receiving', 'lesson', 'or', 'Dream', 'through', 'a', 'teaching', 'an', 'ancestor', 'from', 'of', 'dream.']
+    tags: ['lesson', 'Dream', 'dream', 'teaching', 'receiving', 'from', 'ancestor', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Deer |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Kale Salad      |
-| Lucky Instrument    | Charango |
-| Lucky Flower        | Snapdragon    |
-| Lucky Job           | Astrophysicist       |
-| Lucky Exercise      | Zumba  |
-| Lucky Country       | Tonga    |
+| Lucky Food          | Baba Ganoush      |
+| Lucky Instrument    | Bandoneon |
+| Lucky Flower        | Monkey Grass    |
+| Lucky Job           | Bus Driver       |
+| Lucky Exercise      | Tai Chi  |
+| Lucky Country       | Namibia    |
 
 
 ##  Final Reflections on Dreams

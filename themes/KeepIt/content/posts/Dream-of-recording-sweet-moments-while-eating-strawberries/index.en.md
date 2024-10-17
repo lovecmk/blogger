@@ -1,8 +1,8 @@
 ---
     weight: 41
     title: "Dream of recording sweet moments while eating strawberries"  # Assuming 'title' column exists
-    date: 2024-10-13T15:50:00+08:00
-    lastmod: 2024-10-13T15:50:00+08:00
+    date: 2024-10-12T13:55:00+08:00
+    lastmod: 2024-10-12T13:55:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['eating', 'while', 'recording', 'moments', 'Dream', 'strawberries', 'of', 'sweet']
+    tags: ['while', 'recording', 'Dream', 'moments', 'eating', 'sweet', 'strawberries']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual's beliefs and interp
 | Lucky Animal        | Chicken |
 | Lucky Place         | River     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Scone      |
-| Lucky Instrument    | Chimes |
-| Lucky Flower        | Monkey Grass    |
-| Lucky Job           | Teacher       |
-| Lucky Exercise      | Obstacle Course Racing  |
-| Lucky Country       | Latvia    |
+| Lucky Food          | Noodles      |
+| Lucky Instrument    | Tambourine |
+| Lucky Flower        | Ragged Robin    |
+| Lucky Job           | UX Designer       |
+| Lucky Exercise      | Deadlifts  |
+| Lucky Country       | Oman    |
 
 
 ##  Final Reflections on Dreams

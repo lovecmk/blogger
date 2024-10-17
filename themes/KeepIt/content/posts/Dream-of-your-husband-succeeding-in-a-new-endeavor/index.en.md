@@ -1,8 +1,8 @@
 ---
     weight: 1927
     title: "Dream of dying and feeling trapped"  # Assuming 'title' column exists
-    date: 2024-10-13T11:56:00+08:00
-    lastmod: 2024-10-13T11:56:00+08:00
+    date: 2024-10-12T03:36:00+08:00
+    lastmod: 2024-10-12T03:36:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dying', 'feeling', 'Dream', 'and', 'trapped', 'of']
+    tags: ['Dream', 'feeling', 'dying', 'trapped']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Tiger |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Gumbo      |
-| Lucky Instrument    | Accordion |
-| Lucky Flower        | Foxglove    |
-| Lucky Job           | Construction Worker       |
-| Lucky Exercise      | Belly Dancing  |
-| Lucky Country       | Kazakhstan    |
+| Lucky Food          | Pico de Gallo      |
+| Lucky Instrument    | Sackbut |
+| Lucky Flower        | Aster    |
+| Lucky Job           | Insurance Agent       |
+| Lucky Exercise      | Powerlifting  |
+| Lucky Country       | Azerbaijan    |
 
 
 ##  Final Reflections on Dreams

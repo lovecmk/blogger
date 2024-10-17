@@ -1,8 +1,8 @@
 ---
     weight: 999
     title: "A dream full of division and confusion"  # Assuming 'title' column exists
-    date: 2024-10-13T03:14:00+08:00
-    lastmod: 2024-10-13T03:14:00+08:00
+    date: 2024-10-15T22:27:00+08:00
+    lastmod: 2024-10-15T22:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['full', 'division', 'dream', 'confusion', 'and', 'of', 'A']
+    tags: ['dream', 'full', 'A', 'division', 'confusion']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The signs of 'dreams full of division and confusion' can be a sign of difficulti
 | Lucky Animal        | Cat |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Bruschetta      |
-| Lucky Instrument    | Claves |
-| Lucky Flower        | Cornflower    |
-| Lucky Job           | Physical Therapist       |
-| Lucky Exercise      | Skiing  |
-| Lucky Country       | United Arab Emirates    |
+| Lucky Food          | Stir Fry      |
+| Lucky Instrument    | Triangle |
+| Lucky Flower        | Thunbergia    |
+| Lucky Job           | Hair Stylist       |
+| Lucky Exercise      | Bouldering  |
+| Lucky Country       | Angola    |
 
 
 ##  Final Reflections on Dreams

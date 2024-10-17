@@ -1,8 +1,8 @@
 ---
     weight: 2043
     title: "Dream of dying in a natural disaster"  # Assuming 'title' column exists
-    date: 2024-10-13T02:20:00+08:00
-    lastmod: 2024-10-13T02:20:00+08:00
+    date: 2024-10-14T02:15:00+08:00
+    lastmod: 2024-10-14T02:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dying', 'disaster', 'natural', 'Dream', 'a', 'in', 'of']
+    tags: ['Dream', 'natural', 'disaster', 'dying']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Panda |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Pulled Pork      |
-| Lucky Instrument    | Steel Pan |
-| Lucky Flower        | Freesia    |
-| Lucky Job           | Quality Assurance Tester       |
-| Lucky Exercise      | Spin Class  |
-| Lucky Country       | Bangladesh    |
+| Lucky Food          | Falafel      |
+| Lucky Instrument    | Sarangi |
+| Lucky Flower        | Vinca    |
+| Lucky Job           | Project Manager       |
+| Lucky Exercise      | Cricket  |
+| Lucky Country       | Mongolia    |
 
 
 ##  Final Reflections on Dreams

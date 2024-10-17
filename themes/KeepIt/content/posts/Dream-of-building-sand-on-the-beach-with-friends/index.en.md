@@ -1,8 +1,8 @@
 ---
     weight: 715
     title: "Dream of building sand on the beach with friends"  # Assuming 'title' column exists
-    date: 2024-10-13T13:43:00+08:00
-    lastmod: 2024-10-13T13:43:00+08:00
+    date: 2024-10-13T13:31:00+08:00
+    lastmod: 2024-10-13T13:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['with', 'the', 'beach', 'Dream', 'sand', 'on', 'of', 'building', 'friends']
+    tags: ['sand', 'Dream', 'building', 'beach', 'friends']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can provide opportunities to enjoy good luck through pleasant social 
 | Lucky Animal        | Camel |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Fruit Tart      |
-| Lucky Instrument    | Harp |
-| Lucky Flower        | Yarrow    |
-| Lucky Job           | Oceanographer       |
-| Lucky Exercise      | Parkour Training  |
-| Lucky Country       | Oman    |
+| Lucky Food          | Noodles      |
+| Lucky Instrument    | Zouaves |
+| Lucky Flower        | Stephanotis    |
+| Lucky Job           | Scientist       |
+| Lucky Exercise      | Soccer  |
+| Lucky Country       | Palau    |
 
 
 ##  Final Reflections on Dreams

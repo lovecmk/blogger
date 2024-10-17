@@ -1,8 +1,8 @@
 ---
     weight: 955
     title: "Dream of falling from ships"  # Assuming 'title' column exists
-    date: 2024-10-13T05:28:00+08:00
-    lastmod: 2024-10-13T05:28:00+08:00
+    date: 2024-10-15T01:40:00+08:00
+    lastmod: 2024-10-15T01:40:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['falling', 'Dream', 'ships', 'from', 'of']
+    tags: ['Dream', 'ships', 'falling', 'from']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the elements.In general, this dream
 | Lucky Animal        | Tiger |
 | Lucky Place         | Academy     |
 | Lucky Color         | Green     |
-| Lucky Food          | Chips      |
-| Lucky Instrument    | Soprano Recorder |
-| Lucky Flower        | Safflower    |
-| Lucky Job           | Pharmacist       |
-| Lucky Exercise      | Shot Put  |
-| Lucky Country       | Jordan    |
+| Lucky Food          | Biryani      |
+| Lucky Instrument    | Kettledrum |
+| Lucky Flower        | Snapdragon    |
+| Lucky Job           | Pastry Chef       |
+| Lucky Exercise      | Trail Running  |
+| Lucky Country       | Angola    |
 
 
 ##  Final Reflections on Dreams

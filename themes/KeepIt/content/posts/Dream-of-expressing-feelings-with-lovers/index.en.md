@@ -1,8 +1,8 @@
 ---
     weight: 200
     title: "Dream of expressing feelings with lovers"  # Assuming 'title' column exists
-    date: 2024-10-13T15:05:00+08:00
-    lastmod: 2024-10-13T15:05:00+08:00
+    date: 2024-10-13T18:02:00+08:00
+    lastmod: 2024-10-13T18:02:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['expressing', 'lovers', 'of', 'feelings', 'Dream', 'with']
+    tags: ['lovers', 'Dream', 'expressing', 'feelings']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual.However, the dream o
 | Lucky Animal        | Chicken |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Caprese Skewers      |
-| Lucky Instrument    | Castanets |
-| Lucky Flower        | Hellebore    |
-| Lucky Job           | Geologist       |
-| Lucky Exercise      | Dancing  |
-| Lucky Country       | India    |
+| Lucky Food          | Guacamole      |
+| Lucky Instrument    | Marimba |
+| Lucky Flower        | Poinsettia    |
+| Lucky Job           | Stockbroker       |
+| Lucky Exercise      | Yoga  |
+| Lucky Country       | Fiji    |
 
 
 ##  Final Reflections on Dreams

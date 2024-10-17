@@ -1,8 +1,8 @@
 ---
     weight: 403
     title: "Dream of running away in a sick state"  # Assuming 'title' column exists
-    date: 2024-10-13T08:06:00+08:00
-    lastmod: 2024-10-13T08:06:00+08:00
+    date: 2024-10-13T05:55:00+08:00
+    lastmod: 2024-10-13T05:55:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['state', 'running', 'away', 'Dream', 'a', 'sick', 'in', 'of']
+    tags: ['Dream', 'running', 'sick', 'away', 'state']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream may not be directly related to luck.But this dream can give a hint th
 | Lucky Animal        | Mole |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Fruit Smoothie      |
-| Lucky Instrument    | Tabor |
-| Lucky Flower        | Anemone    |
-| Lucky Job           | Police Officer       |
-| Lucky Exercise      | Hula Hooping  |
-| Lucky Country       | Eswatini    |
+| Lucky Food          | Ratatouille      |
+| Lucky Instrument    | Tromba |
+| Lucky Flower        | Ragged Robin    |
+| Lucky Job           | Content Creator       |
+| Lucky Exercise      | Aerobics  |
+| Lucky Country       | Greece    |
 
 
 ##  Final Reflections on Dreams

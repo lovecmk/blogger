@@ -1,8 +1,8 @@
 ---
     weight: 946
     title: "Dream of falling from jobs (symbolic)"  # Assuming 'title' column exists
-    date: 2024-10-13T20:32:00+08:00
-    lastmod: 2024-10-13T20:32:00+08:00
+    date: 2024-10-14T16:14:00+08:00
+    lastmod: 2024-10-14T16:14:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['(symbolic)', 'jobs', 'falling', 'Dream', 'from', 'of']
+    tags: ['Dream', 'jobs', 'falling', '(symbolic)', 'from']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream may have a negative meaning in relation to luck.But the biggest luck 
 | Lucky Animal        | Seal |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Red     |
-| Lucky Food          | Kebab      |
-| Lucky Instrument    | Triangle |
-| Lucky Flower        | Pansy    |
-| Lucky Job           | Flight Attendant       |
-| Lucky Exercise      | Softball  |
-| Lucky Country       | Bhutan    |
+| Lucky Food          | Nachos      |
+| Lucky Instrument    | Saxophone |
+| Lucky Flower        | Larkspur    |
+| Lucky Job           | Technical Writer       |
+| Lucky Exercise      | Rugby  |
+| Lucky Country       | United Arab Emirates    |
 
 
 ##  Final Reflections on Dreams

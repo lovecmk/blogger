@@ -1,8 +1,8 @@
 ---
     weight: 217
     title: "Dream of sharing abundant meals with lovers"  # Assuming 'title' column exists
-    date: 2024-10-13T23:52:00+08:00
-    lastmod: 2024-10-13T23:52:00+08:00
+    date: 2024-10-15T15:28:00+08:00
+    lastmod: 2024-10-15T15:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lovers', 'Dream', 'sharing', 'of', 'abundant', 'with', 'meals']
+    tags: ['meals', 'lovers', 'Dream', 'sharing', 'abundant']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ What are the luck of this dream?This dream can symbolize luck and abundance in r
 | Lucky Animal        | Dog |
 | Lucky Place         | Sea     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Steak      |
-| Lucky Instrument    | Didgeridoo |
-| Lucky Flower        | Heliotrope    |
-| Lucky Job           | Actor       |
-| Lucky Exercise      | Push-Ups  |
-| Lucky Country       | Iceland    |
+| Lucky Food          | Noodles      |
+| Lucky Instrument    | Harp |
+| Lucky Flower        | Chrysanthemum    |
+| Lucky Job           | Nuclear Engineer       |
+| Lucky Exercise      | Kayaking  |
+| Lucky Country       | Russia    |
 
 
 ##  Final Reflections on Dreams

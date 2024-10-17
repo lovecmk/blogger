@@ -1,8 +1,8 @@
 ---
     weight: 1506
     title: "Dream of your dog having its own TV show"  # Assuming 'title' column exists
-    date: 2024-10-13T14:55:00+08:00
-    lastmod: 2024-10-13T14:55:00+08:00
+    date: 2024-10-12T04:32:00+08:00
+    lastmod: 2024-10-12T04:32:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['its', 'own', 'your', 'Dream', 'show', 'TV', 'of', 'having', 'dog']
+    tags: ['Dream', 'TV', 'show', 'own', 'dog', 'having', 'its']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rhino |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Casserole      |
-| Lucky Instrument    | Darabuka |
-| Lucky Flower        | Verbena    |
-| Lucky Job           | Web Developer       |
-| Lucky Exercise      | Pole Vaulting  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Gelato      |
+| Lucky Instrument    | Trombone Slide |
+| Lucky Flower        | Sage    |
+| Lucky Job           | Logistician       |
+| Lucky Exercise      | CrossFit  |
+| Lucky Country       | Croatia    |
 
 
 ##  Final Reflections on Dreams

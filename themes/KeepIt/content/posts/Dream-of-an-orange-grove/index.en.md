@@ -1,8 +1,8 @@
 ---
     weight: 2015
     title: "Dream of being in a hopeless situation"  # Assuming 'title' column exists
-    date: 2024-10-13T15:26:00+08:00
-    lastmod: 2024-10-13T15:26:00+08:00
+    date: 2024-10-12T08:08:00+08:00
+    lastmod: 2024-10-12T08:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'hopeless', 'being', 'situation', 'a', 'in', 'of']
+    tags: ['being', 'Dream', 'hopeless', 'situation']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams themselves do not bring luck, but they can reflect your state of mind and
 | Lucky Animal        | Polar bear |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Baklava      |
-| Lucky Instrument    | Keyboard Synthesizer |
-| Lucky Flower        | Ornamental Pepper    |
-| Lucky Job           | Quality Assurance Tester       |
-| Lucky Exercise      | Kite Surfing  |
-| Lucky Country       | Namibia    |
+| Lucky Food          | Waffles      |
+| Lucky Instrument    | Hang Drum |
+| Lucky Flower        | Yarrow    |
+| Lucky Job           | Mathematician       |
+| Lucky Exercise      | Mountain Climbers  |
+| Lucky Country       | Saudi Arabia    |
 
 
 ##  Final Reflections on Dreams

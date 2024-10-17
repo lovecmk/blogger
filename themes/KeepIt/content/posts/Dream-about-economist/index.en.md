@@ -1,8 +1,8 @@
 ---
     weight: 1191
     title: "Dream about economist"  # Assuming 'title' column exists
-    date: 2024-10-13T05:38:00+08:00
-    lastmod: 2024-10-13T05:38:00+08:00
+    date: 2024-10-14T13:22:00+08:00
+    lastmod: 2024-10-14T13:22:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['economist', 'about', 'Dream']
+    tags: ['economist', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of dreams depends on what elements mean in terms of economic aspects.Fo
 | Lucky Animal        | Heron |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Seafood Paella      |
-| Lucky Instrument    | Violin |
-| Lucky Flower        | Ornamental Pepper    |
-| Lucky Job           | Oceanographer       |
-| Lucky Exercise      | Zumba  |
-| Lucky Country       | Angola    |
+| Lucky Food          | Popcorn      |
+| Lucky Instrument    | Charango |
+| Lucky Flower        | Tulip    |
+| Lucky Job           | Graphic Designer       |
+| Lucky Exercise      | Kite Surfing  |
+| Lucky Country       | Canada    |
 
 
 ##  Final Reflections on Dreams

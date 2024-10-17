@@ -1,8 +1,8 @@
 ---
     weight: 61
     title: "Dream of having a happy fragrance while eating orange"  # Assuming 'title' column exists
-    date: 2024-10-13T12:56:00+08:00
-    lastmod: 2024-10-13T12:56:00+08:00
+    date: 2024-10-11T10:59:00+08:00
+    lastmod: 2024-10-11T10:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['eating', 'Dream', 'orange', 'a', 'happy', 'fragrance', 'of', 'while', 'having']
+    tags: ['while', 'happy', 'Dream', 'fragrance', 'orange', 'eating', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring positive luck to you.The dream of having a happy fragrance 
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Steak      |
-| Lucky Instrument    | Violin |
-| Lucky Flower        | Alstroemeria    |
-| Lucky Job           | Welder       |
-| Lucky Exercise      | Skimboarding  |
-| Lucky Country       | Sweden    |
+| Lucky Food          | Casserole      |
+| Lucky Instrument    | Clavichord |
+| Lucky Flower        | Rudbeckia    |
+| Lucky Job           | Plumber       |
+| Lucky Exercise      | Trail Running  |
+| Lucky Country       | Georgia    |
 
 
 ##  Final Reflections on Dreams

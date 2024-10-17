@@ -1,8 +1,8 @@
 ---
     weight: 907
     title: "Dream of being chased by the police"  # Assuming 'title' column exists
-    date: 2024-10-13T02:04:00+08:00
-    lastmod: 2024-10-13T02:04:00+08:00
+    date: 2024-10-11T02:18:00+08:00
+    lastmod: 2024-10-11T02:18:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'Dream', 'being', 'by', 'police', 'of', 'chased']
+    tags: ['being', 'chased', 'Dream', 'police']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of the dream of being chased by the police can vary depending on the in
 | Lucky Animal        | Spider |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Green     |
-| Lucky Food          | Biryani      |
-| Lucky Instrument    | Electric Cello |
-| Lucky Flower        | Chive Blossom    |
-| Lucky Job           | Software Engineer       |
-| Lucky Exercise      | Spin Class  |
-| Lucky Country       | Brunei    |
+| Lucky Food          | Brownies      |
+| Lucky Instrument    | Keyboard Synthesizer |
+| Lucky Flower        | Hydrangea    |
+| Lucky Job           | Art Director       |
+| Lucky Exercise      | Pilates  |
+| Lucky Country       | Latvia    |
 
 
 ##  Final Reflections on Dreams

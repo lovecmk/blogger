@@ -1,8 +1,8 @@
 ---
     weight: 1247
     title: "Dream of a hit-and-run accident"  # Assuming 'title' column exists
-    date: 2024-10-13T16:03:00+08:00
-    lastmod: 2024-10-13T16:03:00+08:00
+    date: 2024-10-12T15:12:00+08:00
+    lastmod: 2024-10-12T15:12:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['hit-and-run', 'Dream', 'a', 'accident', 'of']
+    tags: ['hit-and-run', 'Dream', 'accident']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Wolf |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Pasta      |
-| Lucky Instrument    | Tromba |
-| Lucky Flower        | Freesia    |
-| Lucky Job           | Graphic Designer       |
-| Lucky Exercise      | Cricket  |
-| Lucky Country       | Hungary    |
+| Lucky Food          | Stuffed Peppers      |
+| Lucky Instrument    | Piano |
+| Lucky Flower        | Chive Blossom    |
+| Lucky Job           | Welder       |
+| Lucky Exercise      | Step Aerobics  |
+| Lucky Country       | Western Sahara    |
 
 
 ##  Final Reflections on Dreams

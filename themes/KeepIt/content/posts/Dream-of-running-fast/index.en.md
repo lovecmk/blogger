@@ -1,8 +1,8 @@
 ---
     weight: 411
     title: "Dream of running fast"  # Assuming 'title' column exists
-    date: 2024-10-13T20:00:00+08:00
-    lastmod: 2024-10-13T20:00:00+08:00
+    date: 2024-10-14T03:23:00+08:00
+    lastmod: 2024-10-14T03:23:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fast', 'running', 'of', 'Dream']
+    tags: ['fast', 'running', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ If you have this dream, today can be a day where you can quickly solve everyday 
 | Lucky Animal        | Horse |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Coconut Shrimp      |
-| Lucky Instrument    | Ukulele |
-| Lucky Flower        | Pansy    |
-| Lucky Job           | Psychologist       |
-| Lucky Exercise      | Parkour  |
-| Lucky Country       | Nigeria    |
+| Lucky Food          | Nachos      |
+| Lucky Instrument    | Mandolin |
+| Lucky Flower        | Orchid    |
+| Lucky Job           | Musician       |
+| Lucky Exercise      | Skating  |
+| Lucky Country       | Palau    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1382
     title: "Dream of avoiding an accident with quick reflexes"  # Assuming 'title' column exists
-    date: 2024-10-13T21:08:00+08:00
-    lastmod: 2024-10-13T21:08:00+08:00
+    date: 2024-10-12T04:54:00+08:00
+    lastmod: 2024-10-12T04:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['reflexes', 'avoiding', 'Dream', 'an', 'quick', 'accident', 'of', 'with']
+    tags: ['reflexes', 'Dream', 'avoiding', 'accident', 'quick', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Beaver |
 | Lucky Place         | Theater     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Scone      |
-| Lucky Instrument    | Marimba |
-| Lucky Flower        | Cosmos    |
-| Lucky Job           | Flight Attendant       |
-| Lucky Exercise      | Pole Vaulting  |
-| Lucky Country       | Zimbabwe    |
+| Lucky Food          | Vegetarian Chili      |
+| Lucky Instrument    | Cymbals |
+| Lucky Flower        | Scabiosa    |
+| Lucky Job           | Plumber       |
+| Lucky Exercise      | Bouldering  |
+| Lucky Country       | Jordan    |
 
 
 ##  Final Reflections on Dreams

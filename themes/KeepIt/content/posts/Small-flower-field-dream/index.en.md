@@ -1,8 +1,8 @@
 ---
     weight: 566
     title: "Small flower field dream"  # Assuming 'title' column exists
-    date: 2024-10-13T06:32:00+08:00
-    lastmod: 2024-10-13T06:32:00+08:00
+    date: 2024-10-14T01:19:00+08:00
+    lastmod: 2024-10-14T01:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['flower', 'field', 'dream', 'Small']
+    tags: ['Small', 'flower', 'dream', 'field']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'Small Flower Field Dream' can be associated with other elements dep
 | Lucky Animal        | Red fox |
 | Lucky Place         | River     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Eggplant Parmesan      |
-| Lucky Instrument    | Drums |
-| Lucky Flower        | Heather    |
-| Lucky Job           | Recruiter       |
-| Lucky Exercise      | Ultimate Frisbee  |
-| Lucky Country       | Kuwait    |
+| Lucky Food          | Bagel      |
+| Lucky Instrument    | Sackbut |
+| Lucky Flower        | Sweet William    |
+| Lucky Job           | Sous Chef       |
+| Lucky Exercise      | Trail Running  |
+| Lucky Country       | Cambodia    |
 
 
 ##  Final Reflections on Dreams

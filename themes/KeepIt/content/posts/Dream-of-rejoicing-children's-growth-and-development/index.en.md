@@ -1,8 +1,8 @@
 ---
     weight: 188
     title: "Dream of rejoicing children's growth and development"  # Assuming 'title' column exists
-    date: 2024-10-13T08:21:00+08:00
-    lastmod: 2024-10-13T08:21:00+08:00
+    date: 2024-10-15T17:03:00+08:00
+    lastmod: 2024-10-15T17:03:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['development', 'Dream', "children's", 'and', 'of', 'rejoicing', 'growth']
+    tags: ['growth', 'Dream', 'rejoicing', "children's", 'development']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you good luck to feel the joy and satisfaction of your chil
 | Lucky Animal        | Chick |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Gelato      |
-| Lucky Instrument    | Bass Guitar |
-| Lucky Flower        | Poppy    |
-| Lucky Job           | Public Relations Specialist       |
-| Lucky Exercise      | Swimming  |
-| Lucky Country       | Georgia    |
+| Lucky Food          | Muffin      |
+| Lucky Instrument    | Trumpet |
+| Lucky Flower        | Heliotrope    |
+| Lucky Job           | Doctor       |
+| Lucky Exercise      | Capoeira  |
+| Lucky Country       | Lesotho    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 2168
     title: "Dream of clashes over family expectations"  # Assuming 'title' column exists
-    date: 2024-10-13T08:53:00+08:00
-    lastmod: 2024-10-13T08:53:00+08:00
+    date: 2024-10-14T04:23:00+08:00
+    lastmod: 2024-10-14T04:23:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'clashes', 'Dream', 'expectations', 'over', 'of']
+    tags: ['family', 'Dream', 'expectations', 'clashes', 'over']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Pig |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Gnocchi      |
-| Lucky Instrument    | Lyre |
-| Lucky Flower        | Sage    |
-| Lucky Job           | Web Developer       |
-| Lucky Exercise      | Stair Climbing  |
-| Lucky Country       | Serbia    |
+| Lucky Food          | Falafel      |
+| Lucky Instrument    | Ocarina |
+| Lucky Flower        | Sea Holly    |
+| Lucky Job           | Historian       |
+| Lucky Exercise      | Calisthenics  |
+| Lucky Country       | Bulgaria    |
 
 
 ##  Final Reflections on Dreams

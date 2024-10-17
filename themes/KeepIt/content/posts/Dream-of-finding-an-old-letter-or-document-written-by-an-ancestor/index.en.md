@@ -1,8 +1,8 @@
 ---
     weight: 1525
     title: "Dream of finding an old letter or document written by an ancestor."  # Assuming 'title' column exists
-    date: 2024-10-13T21:27:00+08:00
-    lastmod: 2024-10-13T21:27:00+08:00
+    date: 2024-10-14T12:25:00+08:00
+    lastmod: 2024-10-14T12:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['old', 'letter', 'or', 'document', 'ancestor.', 'Dream', 'an', 'by', 'written', 'of', 'finding']
+    tags: ['Dream', 'finding', 'letter', 'ancestor', 'document', 'written', 'old', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Park     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Clams      |
-| Lucky Instrument    | Ocarina |
-| Lucky Flower        | Edelweiss    |
-| Lucky Job           | Neuroscientist       |
-| Lucky Exercise      | Boxing  |
-| Lucky Country       | Marshall Islands    |
+| Lucky Food          | Beef Stroganoff      |
+| Lucky Instrument    | Harmonica |
+| Lucky Flower        | Orchid    |
+| Lucky Job           | Consultant       |
+| Lucky Exercise      | Leg Press  |
+| Lucky Country       | Ukraine    |
 
 
 ##  Final Reflections on Dreams

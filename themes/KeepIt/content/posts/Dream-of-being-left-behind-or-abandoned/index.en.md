@@ -1,8 +1,8 @@
 ---
     weight: 1335
     title: "Dream of being left behind or abandoned"  # Assuming 'title' column exists
-    date: 2024-10-13T14:15:00+08:00
-    lastmod: 2024-10-13T14:15:00+08:00
+    date: 2024-10-12T22:25:00+08:00
+    lastmod: 2024-10-12T22:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'Dream', 'being', 'abandoned', 'behind', 'left', 'of']
+    tags: ['being', 'abandoned', 'left', 'Dream', 'behind']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Chicken |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Minestrone      |
-| Lucky Instrument    | Cymbals |
-| Lucky Flower        | Thunbergia    |
-| Lucky Job           | UX Designer       |
-| Lucky Exercise      | Rugby  |
-| Lucky Country       | Oman    |
+| Lucky Food          | Chocolate      |
+| Lucky Instrument    | Bandoneon |
+| Lucky Flower        | Scented Geranium    |
+| Lucky Job           | Dentist       |
+| Lucky Exercise      | Foam Rolling  |
+| Lucky Country       | Argentina    |
 
 
 ##  Final Reflections on Dreams

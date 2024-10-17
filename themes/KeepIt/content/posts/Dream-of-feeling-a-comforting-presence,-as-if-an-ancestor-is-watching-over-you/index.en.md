@@ -1,8 +1,8 @@
 ---
     weight: 1954
     title: "Dream of having a brunch date or trying out brunch spots with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T00:32:00+08:00
-    lastmod: 2024-10-13T00:32:00+08:00
+    date: 2024-10-15T15:34:00+08:00
+    lastmod: 2024-10-15T15:34:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'out', 'date', 'spots', 'your', 'boyfriend', 'Dream', 'a', 'trying', 'of', 'with', 'having', 'brunch']
+    tags: ['trying', 'Dream', 'boyfriend', 'date', 'out', 'brunch', 'spots', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams themselves do not bring luck, but this dream's interpretation could sugge
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Pesto      |
-| Lucky Instrument    | Maracas |
-| Lucky Flower        | Rose    |
-| Lucky Job           | Baker       |
-| Lucky Exercise      | Cross-Country Skiing  |
-| Lucky Country       | Brazil    |
+| Lucky Food          | Gnocchi      |
+| Lucky Instrument    | Violin Bow |
+| Lucky Flower        | Vinca    |
+| Lucky Job           | Bus Driver       |
+| Lucky Exercise      | Foam Rolling  |
+| Lucky Country       | Russia    |
 
 
 ##  Final Reflections on Dreams

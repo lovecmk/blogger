@@ -1,8 +1,8 @@
 ---
     weight: 2032
     title: "Dream of receiving money as a symbol of financial empowerment."  # Assuming 'title' column exists
-    date: 2024-10-13T03:24:00+08:00
-    lastmod: 2024-10-13T03:24:00+08:00
+    date: 2024-10-13T02:40:00+08:00
+    lastmod: 2024-10-13T02:40:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['receiving', 'symbol', 'financial', 'money', 'Dream', 'a', 'as', 'of', 'empowerment.']
+    tags: ['Dream', 'money', 'empowerment', 'as', 'receiving', 'symbol', 'financial']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Duck |
 | Lucky Place         | Library     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Tiramisu      |
-| Lucky Instrument    | Erhu |
-| Lucky Flower        | Stock    |
-| Lucky Job           | Makeup Artist       |
-| Lucky Exercise      | Step Aerobics  |
-| Lucky Country       | Serbia    |
+| Lucky Food          | Lasagna      |
+| Lucky Instrument    | Violin |
+| Lucky Flower        | Calla Lily    |
+| Lucky Job           | Research Scientist       |
+| Lucky Exercise      | Interval Training  |
+| Lucky Country       | Cambodia    |
 
 
 ##  Final Reflections on Dreams

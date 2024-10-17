@@ -1,8 +1,8 @@
 ---
     weight: 961
     title: "Dream of falling into the pool"  # Assuming 'title' column exists
-    date: 2024-10-13T08:14:00+08:00
-    lastmod: 2024-10-13T08:14:00+08:00
+    date: 2024-10-11T03:20:00+08:00
+    lastmod: 2024-10-11T03:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'into', 'falling', 'Dream', 'of', 'pool']
+    tags: ['Dream', 'into', 'falling', 'pool']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is that you can have an open heart for new opportunities 
 | Lucky Animal        | Mouse |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Noodles      |
-| Lucky Instrument    | Accordion |
-| Lucky Flower        | Jade Plant    |
-| Lucky Job           | Doctor       |
-| Lucky Exercise      | Sit-Ups  |
-| Lucky Country       | Vanuatu    |
+| Lucky Food          | Paella      |
+| Lucky Instrument    | Horn |
+| Lucky Flower        | Mullein    |
+| Lucky Job           | Flight Attendant       |
+| Lucky Exercise      | Aerobics  |
+| Lucky Country       | Portugal    |
 
 
 ##  Final Reflections on Dreams

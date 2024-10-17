@@ -1,8 +1,8 @@
 ---
     weight: 609
     title: "Dream of talking with fish in the sea"  # Assuming 'title' column exists
-    date: 2024-10-13T21:47:00+08:00
-    lastmod: 2024-10-13T21:47:00+08:00
+    date: 2024-10-13T10:49:00+08:00
+    lastmod: 2024-10-13T10:49:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'fish', 'talking', 'Dream', 'sea', 'in', 'of', 'with']
+    tags: ['sea', 'Dream', 'talking', 'fish']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can refer to freedom, creativity, and good luck related to imaginatio
 | Lucky Animal        | Parrot |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Chowder      |
-| Lucky Instrument    | Snare Drum |
-| Lucky Flower        | Peach Blossom    |
-| Lucky Job           | Fitness Instructor       |
-| Lucky Exercise      | Calisthenics  |
-| Lucky Country       | Oman    |
+| Lucky Food          | Waffles      |
+| Lucky Instrument    | Ocarina |
+| Lucky Flower        | Cornflower    |
+| Lucky Job           | Archaeologist       |
+| Lucky Exercise      | Snowboarding  |
+| Lucky Country       | Russia    |
 
 
 ##  Final Reflections on Dreams

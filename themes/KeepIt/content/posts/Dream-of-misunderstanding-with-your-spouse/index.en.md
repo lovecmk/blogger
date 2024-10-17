@@ -1,8 +1,8 @@
 ---
     weight: 2052
     title: "Dream of conflicts over family decisions"  # Assuming 'title' column exists
-    date: 2024-10-13T00:34:00+08:00
-    lastmod: 2024-10-13T00:34:00+08:00
+    date: 2024-10-11T22:25:00+08:00
+    lastmod: 2024-10-11T22:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'conflicts', 'Dream', 'over', 'decisions', 'of']
+    tags: ['family', 'decisions', 'Dream', 'conflicts', 'over']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Deer |
 | Lucky Place         | Academy     |
 | Lucky Color         | Green     |
-| Lucky Food          | Stuffed Mushrooms      |
-| Lucky Instrument    | Piccolo |
-| Lucky Flower        | Moss Rose    |
-| Lucky Job           | Anthropologist       |
-| Lucky Exercise      | Kayaking  |
-| Lucky Country       | Austria    |
+| Lucky Food          | Beef Tacos      |
+| Lucky Instrument    | Saxophone |
+| Lucky Flower        | Bellflower    |
+| Lucky Job           | Researcher       |
+| Lucky Exercise      | Softball  |
+| Lucky Country       | Papua New Guinea    |
 
 
 ##  Final Reflections on Dreams

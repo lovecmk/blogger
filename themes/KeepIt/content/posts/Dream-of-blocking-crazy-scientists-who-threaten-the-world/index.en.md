@@ -1,8 +1,8 @@
 ---
     weight: 262
     title: "Dream of blocking crazy scientists who threaten the world"  # Assuming 'title' column exists
-    date: 2024-10-13T01:41:00+08:00
-    lastmod: 2024-10-13T01:41:00+08:00
+    date: 2024-10-15T07:16:00+08:00
+    lastmod: 2024-10-15T07:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['who', 'crazy', 'the', 'Dream', 'threaten', 'blocking', 'world', 'scientists', 'of']
+    tags: ['blocking', 'Dream', 'crazy', 'world', 'scientists', 'who', 'threaten']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary by personal interpretation.In general, this drea
 | Lucky Animal        | Mole |
 | Lucky Place         | Museum     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Baked Ziti      |
-| Lucky Instrument    | Bouzouki |
-| Lucky Flower        | Daisy    |
-| Lucky Job           | Engineer       |
-| Lucky Exercise      | Box Jumps  |
-| Lucky Country       | Papua New Guinea    |
+| Lucky Food          | Pulled Pork      |
+| Lucky Instrument    | Clavichord |
+| Lucky Flower        | Crown Daisy    |
+| Lucky Job           | Network Administrator       |
+| Lucky Exercise      | Stair Climbing  |
+| Lucky Country       | Malawi    |
 
 
 ##  Final Reflections on Dreams

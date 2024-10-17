@@ -1,8 +1,8 @@
 ---
     weight: 1792
     title: "Dream of fighting in a survival game"  # Assuming 'title' column exists
-    date: 2024-10-13T08:51:00+08:00
-    lastmod: 2024-10-13T08:51:00+08:00
+    date: 2024-10-13T19:00:00+08:00
+    lastmod: 2024-10-13T19:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fighting', 'game', 'Dream', 'a', 'in', 'of', 'survival']
+    tags: ['Dream', 'game', 'survival', 'fighting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Black     |
-| Lucky Food          | Kale Salad      |
-| Lucky Instrument    | Basset Horn |
-| Lucky Flower        | Gillyflower    |
-| Lucky Job           | Quality Assurance Tester       |
-| Lucky Exercise      | Sit-Ups  |
-| Lucky Country       | Azerbaijan    |
+| Lucky Food          | Sandwich      |
+| Lucky Instrument    | Xylophone |
+| Lucky Flower        | Tansy    |
+| Lucky Job           | Sales Manager       |
+| Lucky Exercise      | Skating  |
+| Lucky Country       | Bahrain    |
 
 
 ##  Final Reflections on Dreams

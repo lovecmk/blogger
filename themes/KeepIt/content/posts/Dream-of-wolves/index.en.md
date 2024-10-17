@@ -1,8 +1,8 @@
 ---
     weight: 847
     title: "Dream of wolves"  # Assuming 'title' column exists
-    date: 2024-10-13T19:45:00+08:00
-    lastmod: 2024-10-13T19:45:00+08:00
+    date: 2024-10-14T02:59:00+08:00
+    lastmod: 2024-10-14T02:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['wolves', 'of', 'Dream']
+    tags: ['Dream', 'wolves']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ If you have a wolf in your dreams, this can be accepted as a sign of awareness o
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Seafood Paella      |
-| Lucky Instrument    | Electric Cello |
-| Lucky Flower        | Agapanthus    |
+| Lucky Food          | Noodles      |
+| Lucky Instrument    | Triangle |
+| Lucky Flower        | Rose    |
 | Lucky Job           | Writer       |
-| Lucky Exercise      | Weightlifting  |
-| Lucky Country       | Sri Lanka    |
+| Lucky Exercise      | Soccer  |
+| Lucky Country       | Armenia    |
 
 
 ##  Final Reflections on Dreams

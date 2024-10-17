@@ -1,8 +1,8 @@
 ---
     weight: 395
     title: "Dream of running away from avoiding disagreements or conflicts"  # Assuming 'title' column exists
-    date: 2024-10-13T19:47:00+08:00
-    lastmod: 2024-10-13T19:47:00+08:00
+    date: 2024-10-12T02:28:00+08:00
+    lastmod: 2024-10-12T02:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['conflicts', 'or', 'running', 'avoiding', 'away', 'Dream', 'disagreements', 'from', 'of']
+    tags: ['Dream', 'disagreements', 'running', 'from', 'conflicts', 'away', 'avoiding']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream is not directly connected to luck, but it can provide a desire to avo
 | Lucky Animal        | Goose |
 | Lucky Place         | Theater     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Chips      |
-| Lucky Instrument    | Trompeta |
-| Lucky Flower        | Bee Balm    |
-| Lucky Job           | Operations Manager       |
-| Lucky Exercise      | Obstacle Course Racing  |
-| Lucky Country       | Argentina    |
+| Lucky Food          | Stir Fry      |
+| Lucky Instrument    | Synthesizer |
+| Lucky Flower        | Rudbeckia    |
+| Lucky Job           | Database Administrator       |
+| Lucky Exercise      | Cycling  |
+| Lucky Country       | Zimbabwe    |
 
 
 ##  Final Reflections on Dreams

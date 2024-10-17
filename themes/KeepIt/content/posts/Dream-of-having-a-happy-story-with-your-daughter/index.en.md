@@ -1,8 +1,8 @@
 ---
     weight: 145
     title: "Dream of having a happy story with your daughter"  # Assuming 'title' column exists
-    date: 2024-10-13T07:55:00+08:00
-    lastmod: 2024-10-13T07:55:00+08:00
+    date: 2024-10-15T04:17:00+08:00
+    lastmod: 2024-10-15T04:17:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'story', 'Dream', 'a', 'daughter', 'happy', 'of', 'with', 'having']
+    tags: ['happy', 'Dream', 'story', 'daughter', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The sign of a dream of having a happy story with your daughter can be a positive
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Sea     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Deviled Eggs      |
-| Lucky Instrument    | Harp |
-| Lucky Flower        | Zinnia    |
-| Lucky Job           | Bus Driver       |
-| Lucky Exercise      | Stair Climbing  |
-| Lucky Country       | Switzerland    |
+| Lucky Food          | Caprese Skewers      |
+| Lucky Instrument    | Trumpet |
+| Lucky Flower        | Cyclamen    |
+| Lucky Job           | Game Developer       |
+| Lucky Exercise      | Box Jumps  |
+| Lucky Country       | Namibia    |
 
 
 ##  Final Reflections on Dreams

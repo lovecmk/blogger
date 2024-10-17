@@ -1,8 +1,8 @@
 ---
     weight: 2018
     title: "Dream of confrontations with family opinions"  # Assuming 'title' column exists
-    date: 2024-10-13T12:58:00+08:00
-    lastmod: 2024-10-13T12:58:00+08:00
+    date: 2024-10-12T11:14:00+08:00
+    lastmod: 2024-10-12T11:14:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'opinions', 'Dream', 'confrontations', 'of', 'with']
+    tags: ['family', 'confrontations', 'Dream', 'opinions']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Guinea pig |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Zucchini Noodles      |
-| Lucky Instrument    | Rudra Veena |
-| Lucky Flower        | Thunbergia    |
-| Lucky Job           | Astrophysicist       |
-| Lucky Exercise      | Walking  |
-| Lucky Country       | Brunei    |
+| Lucky Food          | Scone      |
+| Lucky Instrument    | Harmonic Piano |
+| Lucky Flower        | Safflower    |
+| Lucky Job           | Veterinarian       |
+| Lucky Exercise      | Bouldering  |
+| Lucky Country       | Vanuatu    |
 
 
 ##  Final Reflections on Dreams

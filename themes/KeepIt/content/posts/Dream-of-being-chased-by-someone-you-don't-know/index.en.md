@@ -1,8 +1,8 @@
 ---
     weight: 903
     title: "Dream of being chased by someone you don't know"  # Assuming 'title' column exists
-    date: 2024-10-13T00:50:00+08:00
-    lastmod: 2024-10-13T00:50:00+08:00
+    date: 2024-10-14T15:03:00+08:00
+    lastmod: 2024-10-14T15:03:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ["don't", 'Dream', 'being', 'someone', 'by', 'know', 'of', 'chased', 'you']
+    tags: ['being', 'chased', 'Dream', 'someone', 'know', 'you', "don't"]
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream usually does not convey good luck or positive meaning.On the contrary
 | Lucky Animal        | Parrot |
 | Lucky Place         | Museum     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Mango Sticky Rice      |
-| Lucky Instrument    | Chimes |
-| Lucky Flower        | Tulip    |
-| Lucky Job           | Fashion Designer       |
-| Lucky Exercise      | Sledge Hockey  |
-| Lucky Country       | Turkey    |
+| Lucky Food          | Pudding      |
+| Lucky Instrument    | Sackbut |
+| Lucky Flower        | Dahlia    |
+| Lucky Job           | Operations Manager       |
+| Lucky Exercise      | Aqua Aerobics  |
+| Lucky Country       | Croatia    |
 
 
 ##  Final Reflections on Dreams

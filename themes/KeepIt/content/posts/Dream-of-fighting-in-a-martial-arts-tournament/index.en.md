@@ -1,8 +1,8 @@
 ---
     weight: 1634
     title: "Dream of your husband encouraging you to pursue your passions."  # Assuming 'title' column exists
-    date: 2024-10-13T00:57:00+08:00
-    lastmod: 2024-10-13T00:57:00+08:00
+    date: 2024-10-11T02:11:00+08:00
+    lastmod: 2024-10-11T02:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['passions.', 'encouraging', 'your', 'to', 'Dream', 'husband', 'of', 'pursue', 'you']
+    tags: ['Dream', 'passions', 'encouraging', 'pursue', 'to', 'husband', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Parrot |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Gnocchi      |
-| Lucky Instrument    | Mandolin |
-| Lucky Flower        | Lily    |
-| Lucky Job           | Archaeologist       |
-| Lucky Exercise      | Trail Running  |
-| Lucky Country       | Iceland    |
+| Lucky Food          | Bagel      |
+| Lucky Instrument    | Sitar |
+| Lucky Flower        | Moss Rose    |
+| Lucky Job           | Oceanographer       |
+| Lucky Exercise      | Lifting  |
+| Lucky Country       | Israel    |
 
 
 ##  Final Reflections on Dreams

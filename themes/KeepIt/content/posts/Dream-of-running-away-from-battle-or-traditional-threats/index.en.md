@@ -1,8 +1,8 @@
 ---
     weight: 428
     title: "Dream of running away from battle or traditional threats"  # Assuming 'title' column exists
-    date: 2024-10-13T09:34:00+08:00
-    lastmod: 2024-10-13T09:34:00+08:00
+    date: 2024-10-12T00:08:00+08:00
+    lastmod: 2024-10-12T00:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['threats', 'or', 'running', 'away', 'Dream', 'traditional', 'from', 'of', 'battle']
+    tags: ['battle', 'Dream', 'running', 'from', 'threats', 'away', 'traditional']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual's interpretation and
 | Lucky Animal        | Gorilla |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Omelette      |
-| Lucky Instrument    | Shakuhachi |
-| Lucky Flower        | Cactus Flower    |
-| Lucky Job           | Life Coach       |
-| Lucky Exercise      | Foam Rolling  |
-| Lucky Country       | Oman    |
+| Lucky Food          | Deviled Eggs      |
+| Lucky Instrument    | Dulcimer |
+| Lucky Flower        | Freesia    |
+| Lucky Job           | Police Officer       |
+| Lucky Exercise      | Basketball  |
+| Lucky Country       | United Arab Emirates    |
 
 
 ##  Final Reflections on Dreams

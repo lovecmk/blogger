@@ -1,8 +1,8 @@
 ---
     weight: 10
     title: "Dream of putting pineapple in fruit basket"  # Assuming 'title' column exists
-    date: 2024-10-13T08:13:00+08:00
-    lastmod: 2024-10-13T08:13:00+08:00
+    date: 2024-10-15T07:07:00+08:00
+    lastmod: 2024-10-15T07:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['putting', 'fruit', 'Dream', 'pineapple', 'basket', 'in', 'of']
+    tags: ['pineapple', 'Dream', 'basket', 'putting', 'fruit']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream has a symbol of good luck.Pineapple is one of the symbols of luck and
 | Lucky Animal        | Pig |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Scone      |
-| Lucky Instrument    | Synthesizer |
-| Lucky Flower        | Magnolia    |
-| Lucky Job           | Financial Analyst       |
-| Lucky Exercise      | Kripalu Yoga  |
-| Lucky Country       | Lesotho    |
+| Lucky Food          | Salad      |
+| Lucky Instrument    | Accordion Synth |
+| Lucky Flower        | Sundew    |
+| Lucky Job           | Field Technician       |
+| Lucky Exercise      | Skiing  |
+| Lucky Country       | Mexico    |
 
 
 ##  Final Reflections on Dreams

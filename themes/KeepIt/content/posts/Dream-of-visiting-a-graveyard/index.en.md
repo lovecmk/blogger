@@ -1,8 +1,8 @@
 ---
     weight: 2204
     title: "Dream of your husband being proud of your accomplishments."  # Assuming 'title' column exists
-    date: 2024-10-13T13:54:00+08:00
-    lastmod: 2024-10-13T13:54:00+08:00
+    date: 2024-10-14T18:50:00+08:00
+    lastmod: 2024-10-14T18:50:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['accomplishments.', 'your', 'Dream', 'being', 'husband', 'proud', 'of']
+    tags: ['being', 'Dream', 'proud', 'accomplishments', 'husband']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams are generally not associated with bringing luck. However, this dream coul
 | Lucky Animal        | Fox |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Green     |
-| Lucky Food          | Baked Ziti      |
-| Lucky Instrument    | Pipa |
-| Lucky Flower        | Thistle    |
-| Lucky Job           | Oceanographer       |
-| Lucky Exercise      | Yoga  |
-| Lucky Country       | Ukraine    |
+| Lucky Food          | Biryani      |
+| Lucky Instrument    | Bass Guitar |
+| Lucky Flower        | Moss Rose    |
+| Lucky Job           | Content Creator       |
+| Lucky Exercise      | Sit-Ups  |
+| Lucky Country       | Qatar    |
 
 
 ##  Final Reflections on Dreams

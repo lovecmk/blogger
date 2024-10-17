@@ -1,8 +1,8 @@
 ---
     weight: 650
     title: "The dream of returning to childhood and thinking of the happiest moment"  # Assuming 'title' column exists
-    date: 2024-10-13T13:59:00+08:00
-    lastmod: 2024-10-13T13:59:00+08:00
+    date: 2024-10-12T03:05:00+08:00
+    lastmod: 2024-10-12T03:05:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'moment', 'to', 'happiest', 'dream', 'The', 'childhood', 'and', 'returning', 'of', 'thinking']
+    tags: ['The', 'happiest', 'childhood', 'dream', 'to', 'thinking', 'moment', 'returning']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you good luck and positive change.You can recall past happy
 | Lucky Animal        | Mole |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Chili      |
-| Lucky Instrument    | Saz |
-| Lucky Flower        | Rudbeckia    |
-| Lucky Job           | Catering Manager       |
-| Lucky Exercise      | Snowboarding  |
-| Lucky Country       | Switzerland    |
+| Lucky Food          | Steak      |
+| Lucky Instrument    | Sitar |
+| Lucky Flower        | Bougainvillea    |
+| Lucky Job           | Stockbroker       |
+| Lucky Exercise      | Foam Rolling  |
+| Lucky Country       | Nigeria    |
 
 
 ##  Final Reflections on Dreams

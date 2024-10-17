@@ -1,8 +1,8 @@
 ---
     weight: 848
     title: "Dream of cats"  # Assuming 'title' column exists
-    date: 2024-10-13T19:48:00+08:00
-    lastmod: 2024-10-13T19:48:00+08:00
+    date: 2024-10-12T17:35:00+08:00
+    lastmod: 2024-10-12T17:35:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'cats', 'Dream']
+    tags: ['cats', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The dream of coming out of cats can predict a positive luck overall.Cats are con
 | Lucky Animal        | Beaver |
 | Lucky Place         | Lake     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Baklava      |
-| Lucky Instrument    | Charango |
-| Lucky Flower        | Zantedeschia    |
-| Lucky Job           | Customer Service Representative       |
-| Lucky Exercise      | Ultimate Frisbee  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Pasta Salad      |
+| Lucky Instrument    | Horn |
+| Lucky Flower        | Nymphaea    |
+| Lucky Job           | Architect       |
+| Lucky Exercise      | Hiking  |
+| Lucky Country       | Sri Lanka    |
 
 
 ##  Final Reflections on Dreams

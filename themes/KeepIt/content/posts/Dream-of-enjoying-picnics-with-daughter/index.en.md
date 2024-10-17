@@ -1,8 +1,8 @@
 ---
     weight: 121
     title: "Dream of enjoying picnics with daughter"  # Assuming 'title' column exists
-    date: 2024-10-13T07:13:00+08:00
-    lastmod: 2024-10-13T07:13:00+08:00
+    date: 2024-10-12T12:39:00+08:00
+    lastmod: 2024-10-12T12:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['enjoying', 'picnics', 'Dream', 'daughter', 'of', 'with']
+    tags: ['Dream', 'enjoying', 'daughter', 'picnics']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can symbolize the good luck of relationships with family,
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Park     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Pasta      |
-| Lucky Instrument    | Dulcimer |
-| Lucky Flower        | Scented Geranium    |
-| Lucky Job           | UX Designer       |
-| Lucky Exercise      | Push-Ups  |
-| Lucky Country       | Georgia    |
+| Lucky Food          | Gumbo      |
+| Lucky Instrument    | Sarangi |
+| Lucky Flower        | Dahlia    |
+| Lucky Job           | Biologist       |
+| Lucky Exercise      | Leg Press  |
+| Lucky Country       | Kuwait    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1668
     title: "Dream of confrontations over family misunderstandings"  # Assuming 'title' column exists
-    date: 2024-10-13T06:25:00+08:00
-    lastmod: 2024-10-13T06:25:00+08:00
+    date: 2024-10-15T15:05:00+08:00
+    lastmod: 2024-10-15T15:05:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'misunderstandings', 'Dream', 'confrontations', 'over', 'of']
+    tags: ['family', 'confrontations', 'Dream', 'over', 'misunderstandings']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings the luck of emotional and spiritual fulfillment in your relati
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | White     |
-| Lucky Food          | Buffalo Wings      |
-| Lucky Instrument    | Tabla |
-| Lucky Flower        | Peony    |
-| Lucky Job           | Sales Manager       |
-| Lucky Exercise      | Burpees  |
-| Lucky Country       | Tonga    |
+| Lucky Food          | Bagel      |
+| Lucky Instrument    | Bongo Drums |
+| Lucky Flower        | Gladiolus    |
+| Lucky Job           | Artist       |
+| Lucky Exercise      | Hiking  |
+| Lucky Country       | Lesotho    |
 
 
 ##  Final Reflections on Dreams

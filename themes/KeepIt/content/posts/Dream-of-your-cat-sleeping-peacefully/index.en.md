@@ -1,8 +1,8 @@
 ---
     weight: 2019
     title: "Dream of your grandmother and you enjoying a cozy day indoors."  # Assuming 'title' column exists
-    date: 2024-10-13T13:13:00+08:00
-    lastmod: 2024-10-13T13:13:00+08:00
+    date: 2024-10-14T23:16:00+08:00
+    lastmod: 2024-10-14T23:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['day', 'grandmother', 'enjoying', 'your', 'Dream', 'a', 'cozy', 'and', 'indoors.', 'of', 'you']
+    tags: ['Dream', 'cozy', 'indoors', 'grandmother', 'enjoying', 'day', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Polar bear |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Steak      |
-| Lucky Instrument    | Ney |
-| Lucky Flower        | Begonia    |
-| Lucky Job           | Scientist       |
-| Lucky Exercise      | Stretching  |
-| Lucky Country       | Austria    |
+| Lucky Food          | Dumplings      |
+| Lucky Instrument    | Oboe |
+| Lucky Flower        | Daisy    |
+| Lucky Job           | Musician       |
+| Lucky Exercise      | Baseball  |
+| Lucky Country       | Bulgaria    |
 
 
 ##  Final Reflections on Dreams

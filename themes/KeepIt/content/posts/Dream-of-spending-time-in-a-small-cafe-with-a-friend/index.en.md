@@ -1,8 +1,8 @@
 ---
     weight: 708
     title: "Dream of spending time in a small cafe with a friend"  # Assuming 'title' column exists
-    date: 2024-10-13T11:11:00+08:00
-    lastmod: 2024-10-13T11:11:00+08:00
+    date: 2024-10-13T08:01:00+08:00
+    lastmod: 2024-10-13T08:01:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['friend', 'small', 'Dream', 'cafe', 'a', 'time', 'in', 'of', 'with', 'spending']
+    tags: ['Dream', 'small', 'friend', 'spending', 'time', 'cafe']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you a positive luck.Spending time with a friend reminds you
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Ceviche      |
-| Lucky Instrument    | Flute |
-| Lucky Flower        | Lobelia    |
-| Lucky Job           | Teacher       |
-| Lucky Exercise      | Sit-Ups  |
-| Lucky Country       | Greece    |
+| Lucky Food          | Prawn Crackers      |
+| Lucky Instrument    | Harmonica |
+| Lucky Flower        | Foxglove    |
+| Lucky Job           | Postman       |
+| Lucky Exercise      | Trail Running  |
+| Lucky Country       | Tonga    |
 
 
 ##  Final Reflections on Dreams

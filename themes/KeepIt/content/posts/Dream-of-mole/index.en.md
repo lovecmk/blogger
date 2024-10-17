@@ -1,8 +1,8 @@
 ---
     weight: 869
     title: "Dream of mole"  # Assuming 'title' column exists
-    date: 2024-10-13T05:18:00+08:00
-    lastmod: 2024-10-13T05:18:00+08:00
+    date: 2024-10-12T23:45:00+08:00
+    lastmod: 2024-10-12T23:45:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'mole', 'Dream']
+    tags: ['Dream', 'mole']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ It is rare to symbolize good luck by the dream of a mole.In general, the dream o
 | Lucky Animal        | Camel |
 | Lucky Place         | Park     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Fruit Salad      |
-| Lucky Instrument    | Marimba |
-| Lucky Flower        | Strelitzia    |
-| Lucky Job           | Data Analyst       |
-| Lucky Exercise      | Cycling  |
-| Lucky Country       | Finland    |
+| Lucky Food          | Pasta Salad      |
+| Lucky Instrument    | Bass Clarinet |
+| Lucky Flower        | Clover Blossom    |
+| Lucky Job           | Quality Assurance Tester       |
+| Lucky Exercise      | Underwater Diving  |
+| Lucky Country       | South Korea    |
 
 
 ##  Final Reflections on Dreams

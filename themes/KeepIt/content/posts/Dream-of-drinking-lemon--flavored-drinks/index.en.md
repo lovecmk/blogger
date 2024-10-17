@@ -1,8 +1,8 @@
 ---
     weight: 9
     title: "Dream of drinking lemon -flavored drinks"  # Assuming 'title' column exists
-    date: 2024-10-13T05:41:00+08:00
-    lastmod: 2024-10-13T05:41:00+08:00
+    date: 2024-10-12T03:18:00+08:00
+    lastmod: 2024-10-12T03:18:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lemon', 'drinks', 'Dream', '-flavored', 'drinking', 'of']
+    tags: ['Dream', 'lemon', 'drinks', '-flavored', 'drinking']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream symbolizes refreshing and joy, so you can find a positive luck for yo
 | Lucky Animal        | Otter |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Casserole      |
-| Lucky Instrument    | Flute |
-| Lucky Flower        | Orchid    |
-| Lucky Job           | Lawyer       |
-| Lucky Exercise      | Skiing  |
-| Lucky Country       | Jordan    |
+| Lucky Food          | Onion Rings      |
+| Lucky Instrument    | Keyboard |
+| Lucky Flower        | Cyclamen    |
+| Lucky Job           | Translator       |
+| Lucky Exercise      | Golf  |
+| Lucky Country       | Lebanon    |
 
 
 ##  Final Reflections on Dreams

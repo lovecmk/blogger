@@ -1,8 +1,8 @@
 ---
     weight: 1757
     title: "Dream of your husband showing appreciation for your dedication."  # Assuming 'title' column exists
-    date: 2024-10-13T09:34:00+08:00
-    lastmod: 2024-10-13T09:34:00+08:00
+    date: 2024-10-12T08:39:00+08:00
+    lastmod: 2024-10-12T08:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'showing', 'Dream', 'for', 'husband', 'dedication.', 'appreciation', 'of']
+    tags: ['Dream', 'appreciation', 'showing', 'husband', 'dedication']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Deer |
 | Lucky Place         | Lake     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Baklava      |
-| Lucky Instrument    | Melodic Percussion |
-| Lucky Flower        | Ranunculus    |
-| Lucky Job           | Fitness Instructor       |
-| Lucky Exercise      | Fencing  |
-| Lucky Country       | Bhutan    |
+| Lucky Food          | Brownies      |
+| Lucky Instrument    | Tabla |
+| Lucky Flower        | Bleeding Heart    |
+| Lucky Job           | Pharmacist       |
+| Lucky Exercise      | Cricket  |
+| Lucky Country       | Oman    |
 
 
 ##  Final Reflections on Dreams

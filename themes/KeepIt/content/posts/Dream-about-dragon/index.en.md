@@ -1,8 +1,8 @@
 ---
     weight: 1125
     title: "Dream about Dragon"  # Assuming 'title' column exists
-    date: 2024-10-13T08:26:00+08:00
-    lastmod: 2024-10-13T08:26:00+08:00
+    date: 2024-10-14T07:25:00+08:00
+    lastmod: 2024-10-14T07:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['about', 'Dream', 'Dragon']
+    tags: ['Dragon', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be thought of in a variety of ways.Since the dragon t
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Theater     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Gnocchi      |
-| Lucky Instrument    | Guitar |
-| Lucky Flower        | Tithonia    |
-| Lucky Job           | IT Specialist       |
-| Lucky Exercise      | Ultimate Frisbee  |
-| Lucky Country       | Norway    |
+| Lucky Food          | Scone      |
+| Lucky Instrument    | Fujara |
+| Lucky Flower        | Scented Geranium    |
+| Lucky Job           | Insurance Agent       |
+| Lucky Exercise      | Squats  |
+| Lucky Country       | Belgium    |
 
 
 ##  Final Reflections on Dreams

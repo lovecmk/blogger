@@ -1,8 +1,8 @@
 ---
     weight: 245
     title: "Dream of traveling on a different dimension"  # Assuming 'title' column exists
-    date: 2024-10-13T09:02:00+08:00
-    lastmod: 2024-10-13T09:02:00+08:00
+    date: 2024-10-11T04:35:00+08:00
+    lastmod: 2024-10-11T04:35:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['traveling', 'Dream', 'dimension', 'a', 'on', 'different', 'of']
+    tags: ['different', 'dimension', 'Dream', 'traveling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of the dream of traveling on a different dimension may vary depending o
 | Lucky Animal        | Elephant |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Black     |
-| Lucky Food          | Popcorn      |
-| Lucky Instrument    | Piano |
-| Lucky Flower        | Carnation    |
-| Lucky Job           | Copywriter       |
-| Lucky Exercise      | High-Intensity Interval Training (HIIT)  |
-| Lucky Country       | United Arab Emirates    |
+| Lucky Food          | Burrito      |
+| Lucky Instrument    | Sarangi |
+| Lucky Flower        | Cyclamen    |
+| Lucky Job           | Catering Manager       |
+| Lucky Exercise      | Resistance Training  |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

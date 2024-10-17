@@ -1,8 +1,8 @@
 ---
     weight: 1604
     title: "Dream of discussing family history with an ancestor, learning new insights."  # Assuming 'title' column exists
-    date: 2024-10-13T20:55:00+08:00
-    lastmod: 2024-10-13T20:55:00+08:00
+    date: 2024-10-12T14:28:00+08:00
+    lastmod: 2024-10-12T14:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'new', 'history', 'Dream', 'discussing', 'ancestor,', 'learning', 'an', 'insights.', 'of', 'with']
+    tags: ['discussing', 'family', 'Dream', 'ancestor,', 'insights', 'new', 'learning', 'history', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Polar bear |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Samosa      |
-| Lucky Instrument    | Sitar |
-| Lucky Flower        | Jasmine    |
-| Lucky Job           | Business Analyst       |
-| Lucky Exercise      | Jumping Rope  |
-| Lucky Country       | Bhutan    |
+| Lucky Food          | Corn on the Cob      |
+| Lucky Instrument    | Electric Violin |
+| Lucky Flower        | Tiger Lily    |
+| Lucky Job           | Landscaper       |
+| Lucky Exercise      | Yoga Flow  |
+| Lucky Country       | Nigeria    |
 
 
 ##  Final Reflections on Dreams

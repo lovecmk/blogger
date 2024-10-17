@@ -1,8 +1,8 @@
 ---
     weight: 1289
     title: "Dream of being on a journey or adventure"  # Assuming 'title' column exists
-    date: 2024-10-13T17:39:00+08:00
-    lastmod: 2024-10-13T17:39:00+08:00
+    date: 2024-10-14T11:19:00+08:00
+    lastmod: 2024-10-14T11:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['adventure', 'or', 'journey', 'Dream', 'being', 'a', 'on', 'of']
+    tags: ['being', 'Dream', 'journey', 'adventure']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream can bring luck and opportunities for growth and personal development.
 | Lucky Animal        | Camel |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Nachos      |
-| Lucky Instrument    | Maracas |
-| Lucky Flower        | Bellflower    |
-| Lucky Job           | Biologist       |
-| Lucky Exercise      | Soccer  |
-| Lucky Country       | Ireland    |
+| Lucky Food          | Eggplant Parmesan      |
+| Lucky Instrument    | Trombone Slide |
+| Lucky Flower        | Sage    |
+| Lucky Job           | Actor       |
+| Lucky Exercise      | Sit-Ups  |
+| Lucky Country       | New Zealand    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1732
     title: "Dream of squeezing lemons for fresh lemonade"  # Assuming 'title' column exists
-    date: 2024-10-13T23:41:00+08:00
-    lastmod: 2024-10-13T23:41:00+08:00
+    date: 2024-10-15T05:59:00+08:00
+    lastmod: 2024-10-15T05:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fresh', 'squeezing', 'lemonade', 'Dream', 'for', 'lemons', 'of']
+    tags: ['Dream', 'fresh', 'lemons', 'squeezing', 'lemonade']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Tacos      |
-| Lucky Instrument    | Electric Cello |
-| Lucky Flower        | Hibiscus    |
-| Lucky Job           | Hair Stylist       |
-| Lucky Exercise      | Beach Volleyball  |
-| Lucky Country       | Italy    |
+| Lucky Food          | Pasta Primavera      |
+| Lucky Instrument    | Fujara |
+| Lucky Flower        | Sweet Pea    |
+| Lucky Job           | Sales Manager       |
+| Lucky Exercise      | Obstacle Course Racing  |
+| Lucky Country       | Turkey    |
 
 
 ##  Final Reflections on Dreams

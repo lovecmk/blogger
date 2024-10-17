@@ -1,8 +1,8 @@
 ---
     weight: 1137
     title: "Dream about hairdresser"  # Assuming 'title' column exists
-    date: 2024-10-13T13:40:00+08:00
-    lastmod: 2024-10-13T13:40:00+08:00
+    date: 2024-10-15T03:54:00+08:00
+    lastmod: 2024-10-15T03:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['hairdresser', 'about', 'Dream']
+    tags: ['hairdresser', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can symbolize the opportunity to change and develop yours
 | Lucky Animal        | Parrot |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Chicken Curry      |
-| Lucky Instrument    | Keyboard Synthesizer |
-| Lucky Flower        | Geranium    |
-| Lucky Job           | Producer       |
-| Lucky Exercise      | Trail Running  |
-| Lucky Country       | Lithuania    |
+| Lucky Food          | Cornbread      |
+| Lucky Instrument    | Chimes |
+| Lucky Flower        | Periwinkle    |
+| Lucky Job           | Anthropologist       |
+| Lucky Exercise      | Sprinting  |
+| Lucky Country       | Malta    |
 
 
 ##  Final Reflections on Dreams

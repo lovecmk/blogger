@@ -1,8 +1,8 @@
 ---
     weight: 345
     title: "Falling dream"  # Assuming 'title' column exists
-    date: 2024-10-13T22:25:00+08:00
-    lastmod: 2024-10-13T22:25:00+08:00
+    date: 2024-10-12T11:37:00+08:00
+    lastmod: 2024-10-12T11:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Falling', 'dream']
+    tags: ['dream', 'Falling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'falling dreams' may vary depending on individual interpretation.In 
 | Lucky Animal        | Tiger |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Hot Dog      |
-| Lucky Instrument    | Saz |
-| Lucky Flower        | Peony    |
-| Lucky Job           | Farmer       |
-| Lucky Exercise      | Interval Training  |
-| Lucky Country       | South Korea    |
+| Lucky Food          | Pulled Pork      |
+| Lucky Instrument    | Pandeiro |
+| Lucky Flower        | Lantana    |
+| Lucky Job           | Actor       |
+| Lucky Exercise      | Ultimate Frisbee  |
+| Lucky Country       | Nigeria    |
 
 
 ##  Final Reflections on Dreams

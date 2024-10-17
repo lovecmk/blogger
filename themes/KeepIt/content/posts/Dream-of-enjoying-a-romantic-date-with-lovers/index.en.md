@@ -1,8 +1,8 @@
 ---
     weight: 222
     title: "Dream of enjoying a romantic date with lovers"  # Assuming 'title' column exists
-    date: 2024-10-13T07:10:00+08:00
-    lastmod: 2024-10-13T07:10:00+08:00
+    date: 2024-10-15T10:53:00+08:00
+    lastmod: 2024-10-15T10:53:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['enjoying', 'lovers', 'romantic', 'Dream', 'a', 'of', 'with', 'date']
+    tags: ['lovers', 'Dream', 'date', 'romantic', 'enjoying']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can suggest that you can have a happy and romantic experi
 | Lucky Animal        | Panda |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Prawn Crackers      |
-| Lucky Instrument    | Shakuhachi |
-| Lucky Flower        | Strelitzia    |
-| Lucky Job           | UX Designer       |
-| Lucky Exercise      | Paddleboarding  |
-| Lucky Country       | Philippines    |
+| Lucky Food          | Scone      |
+| Lucky Instrument    | Harp |
+| Lucky Flower        | Peach Blossom    |
+| Lucky Job           | Logistician       |
+| Lucky Exercise      | Baseball  |
+| Lucky Country       | Croatia    |
 
 
 ##  Final Reflections on Dreams

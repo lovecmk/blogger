@@ -1,8 +1,8 @@
 ---
     weight: 2192
     title: "Dream of having a surplus of money and being able to share it with others."  # Assuming 'title' column exists
-    date: 2024-10-13T16:48:00+08:00
-    lastmod: 2024-10-13T16:48:00+08:00
+    date: 2024-10-14T05:14:00+08:00
+    lastmod: 2024-10-14T05:14:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['share', 'surplus', 'able', 'others.', 'to', 'Dream', 'money', 'being', 'a', 'and', 'it', 'of', 'with', 'having']
+    tags: ['being', 'able', 'it', 'others', 'Dream', 'money', 'to', 'surplus', 'share', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Mouse |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Prawn Crackers      |
-| Lucky Instrument    | Sarangi |
-| Lucky Flower        | Ragged Robin    |
-| Lucky Job           | Logistician       |
-| Lucky Exercise      | Circuit Training  |
-| Lucky Country       | Botswana    |
+| Lucky Food          | Hummus      |
+| Lucky Instrument    | Horn |
+| Lucky Flower        | Yarrow    |
+| Lucky Job           | Nurse       |
+| Lucky Exercise      | Slacklining  |
+| Lucky Country       | Afghanistan    |
 
 
 ##  Final Reflections on Dreams

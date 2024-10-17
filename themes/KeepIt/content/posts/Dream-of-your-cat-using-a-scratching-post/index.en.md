@@ -1,8 +1,8 @@
 ---
     weight: 1567
     title: "Dream of your cat using a scratching post"  # Assuming 'title' column exists
-    date: 2024-10-13T11:29:00+08:00
-    lastmod: 2024-10-13T11:29:00+08:00
+    date: 2024-10-14T17:15:00+08:00
+    lastmod: 2024-10-14T17:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'cat', 'using', 'Dream', 'a', 'of', 'post', 'scratching']
+    tags: ['Dream', 'scratching', 'using', 'cat', 'post']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Camel |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Guacamole      |
-| Lucky Instrument    | Tenor Saxophone |
-| Lucky Flower        | Hibiscus    |
-| Lucky Job           | Mathematician       |
-| Lucky Exercise      | Ashtanga Yoga  |
-| Lucky Country       | France    |
+| Lucky Food          | Chicken Parmesan      |
+| Lucky Instrument    | Harmonic Piano |
+| Lucky Flower        | Tansy    |
+| Lucky Job           | Teacher       |
+| Lucky Exercise      | Mountain Climbers  |
+| Lucky Country       | Pakistan    |
 
 
 ##  Final Reflections on Dreams

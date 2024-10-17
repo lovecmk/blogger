@@ -1,8 +1,8 @@
 ---
     weight: 1386
     title: "Dream of being a victim of road rage"  # Assuming 'title' column exists
-    date: 2024-10-13T15:17:00+08:00
-    lastmod: 2024-10-13T15:17:00+08:00
+    date: 2024-10-12T23:18:00+08:00
+    lastmod: 2024-10-12T23:18:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['victim', 'road', 'Dream', 'being', 'a', 'rage', 'of']
+    tags: ['being', 'rage', 'Dream', 'victim', 'road']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hyena |
 | Lucky Place         | School     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Pulled Pork      |
-| Lucky Instrument    | Oboe |
-| Lucky Flower        | Rose    |
-| Lucky Job           | SEO Specialist       |
-| Lucky Exercise      | Body Pump  |
-| Lucky Country       | Iceland    |
+| Lucky Food          | Minestrone      |
+| Lucky Instrument    | Melodic Percussion |
+| Lucky Flower        | Cherry Blossom    |
+| Lucky Job           | Recruiter       |
+| Lucky Exercise      | Kite Surfing  |
+| Lucky Country       | Cambodia    |
 
 
 ##  Final Reflections on Dreams

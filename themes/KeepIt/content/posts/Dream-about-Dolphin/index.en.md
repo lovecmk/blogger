@@ -1,8 +1,8 @@
 ---
     weight: 1039
     title: "Dream about Dolphin"  # Assuming 'title' column exists
-    date: 2024-10-13T02:34:00+08:00
-    lastmod: 2024-10-13T02:34:00+08:00
+    date: 2024-10-11T03:36:00+08:00
+    lastmod: 2024-10-11T03:36:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dolphin', 'about', 'Dream']
+    tags: ['Dolphin', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ If you look at dolphins in your dreams, this may be a sign that you can find in 
 | Lucky Animal        | Bear |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Beef Tacos      |
-| Lucky Instrument    | Piccolo |
-| Lucky Flower        | Sweet William    |
-| Lucky Job           | User Researcher       |
-| Lucky Exercise      | Water Polo  |
-| Lucky Country       | Nigeria    |
+| Lucky Food          | Stuffed Mushrooms      |
+| Lucky Instrument    | Timpani |
+| Lucky Flower        | Kalanchoe    |
+| Lucky Job           | Astrophysicist       |
+| Lucky Exercise      | Snowshoeing  |
+| Lucky Country       | Syria    |
 
 
 ##  Final Reflections on Dreams

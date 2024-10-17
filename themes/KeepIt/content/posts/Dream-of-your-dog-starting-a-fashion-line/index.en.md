@@ -1,8 +1,8 @@
 ---
     weight: 1261
     title: "Dream of your dog starting a fashion line"  # Assuming 'title' column exists
-    date: 2024-10-13T00:37:00+08:00
-    lastmod: 2024-10-13T00:37:00+08:00
+    date: 2024-10-15T02:23:00+08:00
+    lastmod: 2024-10-15T02:23:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'Dream', 'line', 'starting', 'a', 'fashion', 'of', 'dog']
+    tags: ['fashion', 'Dream', 'line', 'starting', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Fox |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Pasta      |
-| Lucky Instrument    | Mandolin |
-| Lucky Flower        | Clover    |
-| Lucky Job           | Event Coordinator       |
-| Lucky Exercise      | Hiking  |
-| Lucky Country       | Angola    |
+| Lucky Food          | Deviled Eggs      |
+| Lucky Instrument    | Ocarina |
+| Lucky Flower        | Tithonia    |
+| Lucky Job           | Anthropologist       |
+| Lucky Exercise      | Skiing  |
+| Lucky Country       | Mongolia    |
 
 
 ##  Final Reflections on Dreams

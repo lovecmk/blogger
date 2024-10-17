@@ -1,8 +1,8 @@
 ---
     weight: 1978
     title: "Dream of fighting against alien invaders"  # Assuming 'title' column exists
-    date: 2024-10-13T06:54:00+08:00
-    lastmod: 2024-10-13T06:54:00+08:00
+    date: 2024-10-14T11:54:00+08:00
+    lastmod: 2024-10-14T11:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['alien', 'fighting', 'against', 'invaders', 'Dream', 'of']
+    tags: ['Dream', 'fighting', 'alien', 'invaders']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams about tragic accidents are not traditionally associated with luck. Instea
 | Lucky Animal        | Deer |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Guacamole      |
-| Lucky Instrument    | Ocarina |
-| Lucky Flower        | Gladiolus    |
-| Lucky Job           | Consultant       |
-| Lucky Exercise      | Pull-Ups  |
-| Lucky Country       | Turkey    |
+| Lucky Food          | Pizza      |
+| Lucky Instrument    | Tabla |
+| Lucky Flower        | Carnation    |
+| Lucky Job           | Teacher       |
+| Lucky Exercise      | Leg Press  |
+| Lucky Country       | Portugal    |
 
 
 ##  Final Reflections on Dreams

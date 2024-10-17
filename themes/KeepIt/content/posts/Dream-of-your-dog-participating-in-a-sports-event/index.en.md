@@ -1,8 +1,8 @@
 ---
     weight: 1370
     title: "Dream of your dog participating in a sports event"  # Assuming 'title' column exists
-    date: 2024-10-13T00:58:00+08:00
-    lastmod: 2024-10-13T00:58:00+08:00
+    date: 2024-10-13T12:52:00+08:00
+    lastmod: 2024-10-13T12:52:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['sports', 'your', 'Dream', 'event', 'participating', 'a', 'in', 'of', 'dog']
+    tags: ['event', 'Dream', 'participating', 'sports', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hamster |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Baba Ganoush      |
-| Lucky Instrument    | Glockenspiel |
-| Lucky Flower        | Heliotrope    |
-| Lucky Job           | Project Manager       |
-| Lucky Exercise      | Calisthenics  |
-| Lucky Country       | Papua New Guinea    |
+| Lucky Food          | Baked Ziti      |
+| Lucky Instrument    | Fretless Bass |
+| Lucky Flower        | Pelargonium    |
+| Lucky Job           | Sales Representative       |
+| Lucky Exercise      | Jump Squats  |
+| Lucky Country       | Philippines    |
 
 
 ##  Final Reflections on Dreams

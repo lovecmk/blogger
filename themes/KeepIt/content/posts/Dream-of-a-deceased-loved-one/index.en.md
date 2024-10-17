@@ -1,8 +1,8 @@
 ---
     weight: 1523
     title: "Dream of a deceased loved one"  # Assuming 'title' column exists
-    date: 2024-10-13T23:05:00+08:00
-    lastmod: 2024-10-13T23:05:00+08:00
+    date: 2024-10-13T15:46:00+08:00
+    lastmod: 2024-10-13T15:46:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['one', 'Dream', 'a', 'loved', 'of', 'deceased']
+    tags: ['Dream', 'deceased', 'one', 'loved']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams of deceased loved ones are not typically associated with bringing luck. H
 | Lucky Animal        | Goose |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Clams      |
-| Lucky Instrument    | Maracas |
-| Lucky Flower        | Aster    |
-| Lucky Job           | Taxi Driver       |
-| Lucky Exercise      | Ashtanga Yoga  |
-| Lucky Country       | Malawi    |
+| Lucky Food          | Spring Roll      |
+| Lucky Instrument    | Triangle |
+| Lucky Flower        | Lantana    |
+| Lucky Job           | Database Administrator       |
+| Lucky Exercise      | Shot Put  |
+| Lucky Country       | Brazil    |
 
 
 ##  Final Reflections on Dreams

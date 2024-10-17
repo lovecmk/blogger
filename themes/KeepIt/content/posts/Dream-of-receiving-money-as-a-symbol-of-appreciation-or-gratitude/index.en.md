@@ -1,8 +1,8 @@
 ---
     weight: 2128
     title: "Dream of being present at a tragic accident"  # Assuming 'title' column exists
-    date: 2024-10-13T02:15:00+08:00
-    lastmod: 2024-10-13T02:15:00+08:00
+    date: 2024-10-14T04:57:00+08:00
+    lastmod: 2024-10-14T04:57:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['present', 'Dream', 'being', 'tragic', 'a', 'accident', 'of', 'at']
+    tags: ['being', 'Dream', 'present', 'tragic', 'accident']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Lizard |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Casserole      |
-| Lucky Instrument    | Saxophone |
-| Lucky Flower        | Stock    |
-| Lucky Job           | Environmental Scientist       |
-| Lucky Exercise      | Dancing  |
-| Lucky Country       | Georgia    |
+| Lucky Food          | Lentil Soup      |
+| Lucky Instrument    | Triangle |
+| Lucky Flower        | Sea Lavender    |
+| Lucky Job           | Pilot       |
+| Lucky Exercise      | Javelin  |
+| Lucky Country       | Norway    |
 
 
 ##  Final Reflections on Dreams

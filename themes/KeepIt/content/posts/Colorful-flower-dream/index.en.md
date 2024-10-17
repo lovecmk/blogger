@@ -1,8 +1,8 @@
 ---
     weight: 574
     title: "Colorful flower dream"  # Assuming 'title' column exists
-    date: 2024-10-13T01:28:00+08:00
-    lastmod: 2024-10-13T01:28:00+08:00
+    date: 2024-10-13T22:56:00+08:00
+    lastmod: 2024-10-13T22:56:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -59,12 +59,12 @@ This dream contains elements that symbolize good luck and positive energy.This d
 | Lucky Animal        | Hamster |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Bruschetta      |
-| Lucky Instrument    | Mandolin |
-| Lucky Flower        | Lobelia    |
-| Lucky Job           | Taxi Driver       |
-| Lucky Exercise      | Juggling  |
-| Lucky Country       | Canada    |
+| Lucky Food          | Fruit Tart      |
+| Lucky Instrument    | Keyboard |
+| Lucky Flower        | Cyclamen    |
+| Lucky Job           | Sous Chef       |
+| Lucky Exercise      | Weightlifting  |
+| Lucky Country       | Hungary    |
 
 
 ##  Final Reflections on Dreams

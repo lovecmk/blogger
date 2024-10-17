@@ -1,8 +1,8 @@
 ---
     weight: 1849
     title: "Dream of exercising together with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T05:51:00+08:00
-    lastmod: 2024-10-13T05:51:00+08:00
+    date: 2024-10-15T01:42:00+08:00
+    lastmod: 2024-10-15T01:42:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['exercising', 'together', 'your', 'boyfriend', 'Dream', 'of', 'with']
+    tags: ['exercising', 'Dream', 'boyfriend', 'together']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Noodles      |
-| Lucky Instrument    | Piccolo |
-| Lucky Flower        | Lotus    |
-| Lucky Job           | Biologist       |
-| Lucky Exercise      | Circuit Workout  |
-| Lucky Country       | Zambia    |
+| Lucky Food          | Cheeseboard      |
+| Lucky Instrument    | Drums |
+| Lucky Flower        | Nasturtium    |
+| Lucky Job           | Dentist       |
+| Lucky Exercise      | Box Jumps  |
+| Lucky Country       | Philippines    |
 
 
 ##  Final Reflections on Dreams

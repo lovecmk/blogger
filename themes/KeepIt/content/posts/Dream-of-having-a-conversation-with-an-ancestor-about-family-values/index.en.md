@@ -1,8 +1,8 @@
 ---
     weight: 2109
     title: "Dream of dying and seeing a bright light"  # Assuming 'title' column exists
-    date: 2024-10-13T12:20:00+08:00
-    lastmod: 2024-10-13T12:20:00+08:00
+    date: 2024-10-13T19:01:00+08:00
+    lastmod: 2024-10-13T19:01:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['bright', 'dying', 'light', 'seeing', 'Dream', 'a', 'and', 'of']
+    tags: ['light', 'bright', 'Dream', 'dying', 'seeing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Fox |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Deviled Eggs      |
-| Lucky Instrument    | Saz |
-| Lucky Flower        | Verbena    |
-| Lucky Job           | Mathematician       |
-| Lucky Exercise      | Fencing  |
-| Lucky Country       | Switzerland    |
+| Lucky Food          | Sushi      |
+| Lucky Instrument    | Saxophone |
+| Lucky Flower        | Buttercup    |
+| Lucky Job           | Chef de Cuisine       |
+| Lucky Exercise      | Baseball  |
+| Lucky Country       | Singapore    |
 
 
 ##  Final Reflections on Dreams

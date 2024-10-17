@@ -1,8 +1,8 @@
 ---
     weight: 634
     title: "Dreams that happen by enjoying new adventures every day"  # Assuming 'title' column exists
-    date: 2024-10-13T04:46:00+08:00
-    lastmod: 2024-10-13T04:46:00+08:00
+    date: 2024-10-12T12:20:00+08:00
+    lastmod: 2024-10-12T12:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['every', 'day', 'enjoying', 'new', 'happen', 'by', 'Dreams', 'adventures', 'that']
+    tags: ['every', 'enjoying', 'adventures', 'happen', 'new', 'Dreams', 'day', 'that']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can be foretelling the luck of new experiences or challenges.The drea
 | Lucky Animal        | Parrot |
 | Lucky Place         | Mart     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Scone      |
-| Lucky Instrument    | Triangle |
-| Lucky Flower        | Freesia    |
-| Lucky Job           | Financial Analyst       |
-| Lucky Exercise      | Skimboarding  |
-| Lucky Country       | Nauru    |
+| Lucky Food          | Beef Stroganoff      |
+| Lucky Instrument    | Clarinet |
+| Lucky Flower        | Carnation    |
+| Lucky Job           | Video Editor       |
+| Lucky Exercise      | Skating  |
+| Lucky Country       | Slovakia    |
 
 
 ##  Final Reflections on Dreams

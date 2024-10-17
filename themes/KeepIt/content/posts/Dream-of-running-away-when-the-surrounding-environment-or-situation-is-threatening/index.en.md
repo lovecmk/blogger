@@ -1,8 +1,8 @@
 ---
     weight: 426
     title: "Dream of running away when the surrounding environment or situation is threatening"  # Assuming 'title' column exists
-    date: 2024-10-13T02:06:00+08:00
-    lastmod: 2024-10-13T02:06:00+08:00
+    date: 2024-10-11T18:11:00+08:00
+    lastmod: 2024-10-11T18:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'the', 'running', 'when', 'away', 'Dream', 'surrounding', 'environment', 'situation', 'threatening', 'is', 'of']
+    tags: ['is', 'environment', 'Dream', 'running', 'surrounding', 'away', 'situation', 'when', 'threatening']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual.However, it can symb
 | Lucky Animal        | Goose |
 | Lucky Place         | Subway station     |
 | Lucky Color         | White     |
-| Lucky Food          | Samosa      |
-| Lucky Instrument    | Fretless Bass |
-| Lucky Flower        | Mandevilla    |
-| Lucky Job           | Philosopher       |
-| Lucky Exercise      | Tai Chi  |
-| Lucky Country       | Croatia    |
+| Lucky Food          | Waffles      |
+| Lucky Instrument    | Piccolo Trumpet |
+| Lucky Flower        | Sundew    |
+| Lucky Job           | User Researcher       |
+| Lucky Exercise      | Lunges  |
+| Lucky Country       | Malawi    |
 
 
 ##  Final Reflections on Dreams

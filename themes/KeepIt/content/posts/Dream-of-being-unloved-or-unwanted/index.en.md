@@ -1,8 +1,8 @@
 ---
     weight: 1728
     title: "Dream of being inspired by an ancestor's courage or perseverance."  # Assuming 'title' column exists
-    date: 2024-10-13T18:49:00+08:00
-    lastmod: 2024-10-13T18:49:00+08:00
+    date: 2024-10-13T08:28:00+08:00
+    lastmod: 2024-10-13T08:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ["ancestor's", 'inspired', 'or', 'Dream', 'courage', 'being', 'an', 'perseverance.', 'by', 'of']
+    tags: ['being', 'Dream', 'inspired', "ancestor's", 'courage', 'perseverance', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hippo |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Crab      |
-| Lucky Instrument    | Chimes |
-| Lucky Flower        | Sweet William    |
-| Lucky Job           | User Researcher       |
-| Lucky Exercise      | Parkour Training  |
-| Lucky Country       | Finland    |
+| Lucky Food          | Sandwich      |
+| Lucky Instrument    | Xylophone |
+| Lucky Flower        | Thunbergia    |
+| Lucky Job           | Journalist       |
+| Lucky Exercise      | Kite Surfing  |
+| Lucky Country       | Kazakhstan    |
 
 
 ##  Final Reflections on Dreams

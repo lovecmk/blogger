@@ -1,8 +1,8 @@
 ---
     weight: 1170
     title: "Dream about shopping mall"  # Assuming 'title' column exists
-    date: 2024-10-13T07:22:00+08:00
-    lastmod: 2024-10-13T07:22:00+08:00
+    date: 2024-10-13T19:00:00+08:00
+    lastmod: 2024-10-13T19:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['shopping', 'mall', 'about', 'Dream']
+    tags: ['mall', 'Dream', 'shopping']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual's interpretation.Mos
 | Lucky Animal        | Turtle |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Salad      |
-| Lucky Instrument    | Wooden Flute |
-| Lucky Flower        | Bougainvillea    |
-| Lucky Job           | Welder       |
-| Lucky Exercise      | Slacklining  |
-| Lucky Country       | Argentina    |
+| Lucky Food          | Kebab      |
+| Lucky Instrument    | Piccolo Trumpet |
+| Lucky Flower        | Scabiosa    |
+| Lucky Job           | Database Administrator       |
+| Lucky Exercise      | Lacrosse  |
+| Lucky Country       | Singapore    |
 
 
 ##  Final Reflections on Dreams

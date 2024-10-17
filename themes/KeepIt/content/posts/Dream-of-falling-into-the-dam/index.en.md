@@ -1,8 +1,8 @@
 ---
     weight: 982
     title: "Dream of falling into the dam"  # Assuming 'title' column exists
-    date: 2024-10-13T05:57:00+08:00
-    lastmod: 2024-10-13T05:57:00+08:00
+    date: 2024-10-15T16:39:00+08:00
+    lastmod: 2024-10-15T16:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'dam', 'into', 'falling', 'Dream', 'of']
+    tags: ['dam', 'Dream', 'into', 'falling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Dreams of falling into the dam and luck can mean the opportunity to overcome pre
 | Lucky Animal        | Rhino |
 | Lucky Place         | Beach     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Fried Rice      |
-| Lucky Instrument    | Trombone Slide |
-| Lucky Flower        | Mums    |
-| Lucky Job           | Welder       |
-| Lucky Exercise      | Snowboarding  |
-| Lucky Country       | Eswatini    |
+| Lucky Food          | Cheesecake      |
+| Lucky Instrument    | Clavichord |
+| Lucky Flower        | Clover Blossom    |
+| Lucky Job           | Brand Manager       |
+| Lucky Exercise      | Salsa  |
+| Lucky Country       | Spain    |
 
 
 ##  Final Reflections on Dreams

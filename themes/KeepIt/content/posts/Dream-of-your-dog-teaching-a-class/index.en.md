@@ -1,8 +1,8 @@
 ---
     weight: 1241
     title: "Dream of your dog teaching a class"  # Assuming 'title' column exists
-    date: 2024-10-13T18:44:00+08:00
-    lastmod: 2024-10-13T18:44:00+08:00
+    date: 2024-10-13T16:28:00+08:00
+    lastmod: 2024-10-13T16:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'Dream', 'class', 'a', 'teaching', 'of', 'dog']
+    tags: ['Dream', 'teaching', 'class', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings a sense of luck and positive energy in terms of personal and i
 | Lucky Animal        | Snake |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Cheesecake      |
-| Lucky Instrument    | Glockenspiel |
-| Lucky Flower        | Stephanotis    |
-| Lucky Job           | Quality Assurance Tester       |
-| Lucky Exercise      | Martial Arts  |
-| Lucky Country       | Italy    |
+| Lucky Food          | Fruit Tart      |
+| Lucky Instrument    | Tenor Guitar |
+| Lucky Flower        | Agapanthus    |
+| Lucky Job           | Personal Trainer       |
+| Lucky Exercise      | Burpees  |
+| Lucky Country       | Zimbabwe    |
 
 
 ##  Final Reflections on Dreams

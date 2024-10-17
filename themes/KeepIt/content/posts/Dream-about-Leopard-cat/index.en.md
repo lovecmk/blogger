@@ -1,8 +1,8 @@
 ---
     weight: 1072
     title: "Dream about Leopard cat"  # Assuming 'title' column exists
-    date: 2024-10-13T15:14:00+08:00
-    lastmod: 2024-10-13T15:14:00+08:00
+    date: 2024-10-11T23:58:00+08:00
+    lastmod: 2024-10-11T23:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Leopard', 'cat', 'about', 'Dream']
+    tags: ['cat', 'Dream', 'Leopard']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Good luck can vary depending on the interpretation and outlook of the individual
 | Lucky Animal        | Rhino |
 | Lucky Place         | School     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Hot Dog      |
-| Lucky Instrument    | Xylophone |
-| Lucky Flower        | Rudbeckia    |
-| Lucky Job           | Veterinarian       |
-| Lucky Exercise      | Ballet  |
-| Lucky Country       | Latvia    |
+| Lucky Food          | Stuffed Mushrooms      |
+| Lucky Instrument    | Shakuhachi |
+| Lucky Flower        | Swan River Daisy    |
+| Lucky Job           | Database Administrator       |
+| Lucky Exercise      | Powerlifting  |
+| Lucky Country       | Micronesia    |
 
 
 ##  Final Reflections on Dreams

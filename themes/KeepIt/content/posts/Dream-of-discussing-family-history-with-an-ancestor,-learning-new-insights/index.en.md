@@ -1,8 +1,8 @@
 ---
     weight: 1606
     title: "Dream of feeling a sense of overwhelming loss"  # Assuming 'title' column exists
-    date: 2024-10-13T19:20:00+08:00
-    lastmod: 2024-10-13T19:20:00+08:00
+    date: 2024-10-11T15:13:00+08:00
+    lastmod: 2024-10-11T15:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['feeling', 'Dream', 'a', 'loss', 'of', 'sense', 'overwhelming']
+    tags: ['Dream', 'loss', 'sense', 'overwhelming', 'feeling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hamster |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Lentil Soup      |
-| Lucky Instrument    | Shakuhachi |
-| Lucky Flower        | Anemone    |
-| Lucky Job           | Insurance Underwriter       |
-| Lucky Exercise      | Mobility Training  |
-| Lucky Country       | Kuwait    |
+| Lucky Food          | Muffin      |
+| Lucky Instrument    | Claves |
+| Lucky Flower        | Poppy    |
+| Lucky Job           | Police Officer       |
+| Lucky Exercise      | Parkour Training  |
+| Lucky Country       | Croatia    |
 
 
 ##  Final Reflections on Dreams

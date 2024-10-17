@@ -1,8 +1,8 @@
 ---
     weight: 446
     title: "Dream of losing something"  # Assuming 'title' column exists
-    date: 2024-10-13T07:59:00+08:00
-    lastmod: 2024-10-13T07:59:00+08:00
+    date: 2024-10-14T02:16:00+08:00
+    lastmod: 2024-10-14T02:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'something', 'Dream', 'losing']
+    tags: ['losing', 'Dream', 'something']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The meaning of 'dream of losing something' depends on the personal situation and
 | Lucky Animal        | Elephant |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Chips      |
-| Lucky Instrument    | Timpani |
-| Lucky Flower        | Tansy    |
-| Lucky Job           | Technical Writer       |
-| Lucky Exercise      | Parkour  |
-| Lucky Country       | Egypt    |
+| Lucky Food          | Zucchini Noodles      |
+| Lucky Instrument    | Pandeiro |
+| Lucky Flower        | Peony    |
+| Lucky Job           | Police Officer       |
+| Lucky Exercise      | Kite Surfing  |
+| Lucky Country       | Palau    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 993
     title: "Depressed dream"  # Assuming 'title' column exists
-    date: 2024-10-13T16:00:00+08:00
-    lastmod: 2024-10-13T16:00:00+08:00
+    date: 2024-10-15T16:42:00+08:00
+    lastmod: 2024-10-15T16:42:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Depressed', 'dream']
+    tags: ['dream', 'Depressed']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'depressed dream' can be a bit vague.But this dream means to recogni
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Ice Cream      |
-| Lucky Instrument    | Castanets |
-| Lucky Flower        | Edelweiss    |
-| Lucky Job           | Life Coach       |
-| Lucky Exercise      | Swimming Laps  |
-| Lucky Country       | Finland    |
+| Lucky Food          | Ramen      |
+| Lucky Instrument    | Sitar |
+| Lucky Flower        | Butterfly Bush    |
+| Lucky Job           | Pastry Chef       |
+| Lucky Exercise      | Golf  |
+| Lucky Country       | Hungary    |
 
 
 ##  Final Reflections on Dreams

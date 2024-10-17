@@ -1,8 +1,8 @@
 ---
     weight: 776
     title: "The dream of returning to the Dino era and observing dinosaurs"  # Assuming 'title' column exists
-    date: 2024-10-13T12:29:00+08:00
-    lastmod: 2024-10-13T12:29:00+08:00
+    date: 2024-10-12T19:47:00+08:00
+    lastmod: 2024-10-12T19:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['observing', 'Dino', 'the', 'to', 'dinosaurs', 'dream', 'The', 'and', 'era', 'returning', 'of']
+    tags: ['dinosaurs', 'The', 'Dino', 'era', 'dream', 'to', 'returning', 'observing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can symbolize the luck of exploration and new experiences.Dinosaurs r
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Sea     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Kale Salad      |
-| Lucky Instrument    | Electric Cello |
-| Lucky Flower        | Mums    |
-| Lucky Job           | Fitness Instructor       |
-| Lucky Exercise      | Parkour  |
-| Lucky Country       | Finland    |
+| Lucky Food          | Pizza      |
+| Lucky Instrument    | Electric Guitar |
+| Lucky Flower        | Sea Holly    |
+| Lucky Job           | Consultant       |
+| Lucky Exercise      | Capoeira  |
+| Lucky Country       | Slovakia    |
 
 
 ##  Final Reflections on Dreams

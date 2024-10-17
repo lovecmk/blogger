@@ -1,8 +1,8 @@
 ---
     weight: 508
     title: "Dream of dance or aerobics"  # Assuming 'title' column exists
-    date: 2024-10-13T03:56:00+08:00
-    lastmod: 2024-10-13T03:56:00+08:00
+    date: 2024-10-15T04:14:00+08:00
+    lastmod: 2024-10-15T04:14:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'Dream', 'aerobics', 'of', 'dance']
+    tags: ['Dream', 'dance', 'aerobics']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be related to vitality, self -satisfaction, and physi
 | Lucky Animal        | Otter |
 | Lucky Place         | Academy     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Pork Chops      |
-| Lucky Instrument    | Erhu |
-| Lucky Flower        | Cosmos    |
-| Lucky Job           | Pastry Chef       |
-| Lucky Exercise      | Skating  |
-| Lucky Country       | Oman    |
+| Lucky Food          | Chia Pudding      |
+| Lucky Instrument    | Glockenspiel |
+| Lucky Flower        | Jasmine    |
+| Lucky Job           | Statistician       |
+| Lucky Exercise      | Bodyweight Training  |
+| Lucky Country       | Iraq    |
 
 
 ##  Final Reflections on Dreams

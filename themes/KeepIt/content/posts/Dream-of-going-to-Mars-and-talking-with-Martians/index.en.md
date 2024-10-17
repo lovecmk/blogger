@@ -1,8 +1,8 @@
 ---
     weight: 772
     title: "Dream of going to Mars and talking with Martians"  # Assuming 'title' column exists
-    date: 2024-10-13T19:58:00+08:00
-    lastmod: 2024-10-13T19:58:00+08:00
+    date: 2024-10-13T17:35:00+08:00
+    lastmod: 2024-10-13T17:35:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['to', 'Dream', 'going', 'talking', 'Martians', 'and', 'Mars', 'of', 'with']
+    tags: ['Mars', 'Dream', 'talking', 'to', 'going', 'Martians']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ What are the luck of this dream?
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Fruit Salad      |
-| Lucky Instrument    | Flute |
-| Lucky Flower        | Yarrow    |
-| Lucky Job           | Web Designer       |
-| Lucky Exercise      | Lifting  |
-| Lucky Country       | Samoa    |
+| Lucky Food          | Hot Dog      |
+| Lucky Instrument    | Synthesizer |
+| Lucky Flower        | Periwinkle    |
+| Lucky Job           | Security Guard       |
+| Lucky Exercise      | Skiing  |
+| Lucky Country       | Egypt    |
 
 
 ##  Final Reflections on Dreams

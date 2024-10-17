@@ -1,8 +1,8 @@
 ---
     weight: 1100
     title: "Dream about parrot"  # Assuming 'title' column exists
-    date: 2024-10-13T08:50:00+08:00
-    lastmod: 2024-10-13T08:50:00+08:00
+    date: 2024-10-14T01:43:00+08:00
+    lastmod: 2024-10-14T01:43:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['parrot', 'about', 'Dream']
+    tags: ['Dream', 'parrot']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'parrot' dreams can come through communication, bonds and social awa
 | Lucky Animal        | Owl |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Pico de Gallo      |
-| Lucky Instrument    | Xylophone |
-| Lucky Flower        | Buttercup    |
-| Lucky Job           | Brand Manager       |
-| Lucky Exercise      | Crunches  |
-| Lucky Country       | Switzerland    |
+| Lucky Food          | Roast Chicken      |
+| Lucky Instrument    | Slide Guitar |
+| Lucky Flower        | Tiger Lily    |
+| Lucky Job           | Artist       |
+| Lucky Exercise      | Burpees  |
+| Lucky Country       | India    |
 
 
 ##  Final Reflections on Dreams

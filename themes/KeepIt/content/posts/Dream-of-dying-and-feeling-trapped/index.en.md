@@ -1,8 +1,8 @@
 ---
     weight: 1936
     title: "Dream of feeling abandoned by everyone"  # Assuming 'title' column exists
-    date: 2024-10-13T15:24:00+08:00
-    lastmod: 2024-10-13T15:24:00+08:00
+    date: 2024-10-12T03:02:00+08:00
+    lastmod: 2024-10-12T03:02:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['feeling', 'everyone', 'Dream', 'abandoned', 'by', 'of']
+    tags: ['abandoned', 'Dream', 'feeling', 'everyone']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Mole |
 | Lucky Place         | School     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Deviled Eggs      |
+| Lucky Food          | Curry      |
 | Lucky Instrument    | Sitar |
-| Lucky Flower        | Pincushion Flower    |
-| Lucky Job           | Sous Chef       |
-| Lucky Exercise      | Yoga Flow  |
-| Lucky Country       | Tanzania    |
+| Lucky Flower        | Fuchsia    |
+| Lucky Job           | Chef de Cuisine       |
+| Lucky Exercise      | Pilates  |
+| Lucky Country       | Kazakhstan    |
 
 
 ##  Final Reflections on Dreams

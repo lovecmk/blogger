@@ -1,8 +1,8 @@
 ---
     weight: 2115
     title: "Dream of your cat observing its surroundings"  # Assuming 'title' column exists
-    date: 2024-10-13T17:39:00+08:00
-    lastmod: 2024-10-13T17:39:00+08:00
+    date: 2024-10-12T21:22:00+08:00
+    lastmod: 2024-10-12T21:22:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['its', 'observing', 'surroundings', 'your', 'cat', 'Dream', 'of']
+    tags: ['surroundings', 'Dream', 'cat', 'observing', 'its']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Mouse |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Nachos      |
-| Lucky Instrument    | Trumpet |
-| Lucky Flower        | Larkspur    |
-| Lucky Job           | Content Creator       |
-| Lucky Exercise      | CrossFit  |
-| Lucky Country       | Fiji    |
+| Lucky Food          | Scallops      |
+| Lucky Instrument    | Oboe |
+| Lucky Flower        | Pansy    |
+| Lucky Job           | Accountant       |
+| Lucky Exercise      | Sit-Ups  |
+| Lucky Country       | Estonia    |
 
 
 ##  Final Reflections on Dreams

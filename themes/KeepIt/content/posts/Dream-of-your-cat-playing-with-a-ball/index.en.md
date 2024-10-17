@@ -1,8 +1,8 @@
 ---
     weight: 2083
     title: "Dream of disagreements over family rituals"  # Assuming 'title' column exists
-    date: 2024-10-13T06:01:00+08:00
-    lastmod: 2024-10-13T06:01:00+08:00
+    date: 2024-10-13T23:14:00+08:00
+    lastmod: 2024-10-13T23:14:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'Dream', 'disagreements', 'over', 'of', 'rituals']
+    tags: ['family', 'Dream', 'disagreements', 'rituals', 'over']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Seafood Paella      |
-| Lucky Instrument    | Lute |
-| Lucky Flower        | Pelargonium    |
-| Lucky Job           | Copywriter       |
-| Lucky Exercise      | Rugby  |
-| Lucky Country       | Cambodia    |
+| Lucky Food          | Onion Rings      |
+| Lucky Instrument    | Shakuhachi |
+| Lucky Flower        | Geranium    |
+| Lucky Job           | Engineer       |
+| Lucky Exercise      | Discus Throw  |
+| Lucky Country       | Azerbaijan    |
 
 
 ##  Final Reflections on Dreams

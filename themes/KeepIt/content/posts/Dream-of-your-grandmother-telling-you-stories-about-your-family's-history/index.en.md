@@ -1,8 +1,8 @@
 ---
     weight: 2107
     title: "Dream of having a romantic dinner date with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T01:40:00+08:00
-    lastmod: 2024-10-13T01:40:00+08:00
+    date: 2024-10-13T13:05:00+08:00
+    lastmod: 2024-10-13T13:05:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['romantic', 'your', 'date', 'boyfriend', 'Dream', 'dinner', 'a', 'of', 'with', 'having']
+    tags: ['Dream', 'boyfriend', 'dinner', 'date', 'romantic', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Green     |
-| Lucky Food          | Sushi      |
-| Lucky Instrument    | Tromba |
-| Lucky Flower        | Cosmos    |
-| Lucky Job           | Electrician       |
-| Lucky Exercise      | Skating  |
-| Lucky Country       | Fiji    |
+| Lucky Food          | Salad      |
+| Lucky Instrument    | Saz |
+| Lucky Flower        | Sweet William    |
+| Lucky Job           | Geologist       |
+| Lucky Exercise      | Obstacle Course Racing  |
+| Lucky Country       | Oman    |
 
 
 ##  Final Reflections on Dreams

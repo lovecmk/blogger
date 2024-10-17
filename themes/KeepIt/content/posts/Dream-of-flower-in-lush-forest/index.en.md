@@ -1,8 +1,8 @@
 ---
     weight: 546
     title: "Dream of flower in lush forest"  # Assuming 'title' column exists
-    date: 2024-10-13T08:29:00+08:00
-    lastmod: 2024-10-13T08:29:00+08:00
+    date: 2024-10-11T12:31:00+08:00
+    lastmod: 2024-10-11T12:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['flower', 'lush', 'forest', 'Dream', 'in', 'of']
+    tags: ['forest', 'Dream', 'flower', 'lush']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can come to you in many forms.The lush flowers in the for
 | Lucky Animal        | Polar bear |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Samosa      |
-| Lucky Instrument    | Accordion |
-| Lucky Flower        | Rudbeckia    |
-| Lucky Job           | Catering Manager       |
-| Lucky Exercise      | Surf Lifesaving  |
-| Lucky Country       | Estonia    |
+| Lucky Food          | Tofu      |
+| Lucky Instrument    | Banjo |
+| Lucky Flower        | Foxglove    |
+| Lucky Job           | Anthropologist       |
+| Lucky Exercise      | Spin Class  |
+| Lucky Country       | Philippines    |
 
 
 ##  Final Reflections on Dreams

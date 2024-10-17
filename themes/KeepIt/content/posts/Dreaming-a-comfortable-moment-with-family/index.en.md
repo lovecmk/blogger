@@ -1,8 +1,8 @@
 ---
     weight: 185
     title: "Dreaming a comfortable moment with family"  # Assuming 'title' column exists
-    date: 2024-10-13T19:45:00+08:00
-    lastmod: 2024-10-13T19:45:00+08:00
+    date: 2024-10-14T22:43:00+08:00
+    lastmod: 2024-10-14T22:43:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'Dreaming', 'moment', 'a', 'with', 'comfortable']
+    tags: ['family', 'comfortable', 'Dreaming', 'moment']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can show a deep ties with your family or a chance to enjo
 | Lucky Animal        | Hippo |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Stuffed Mushrooms      |
-| Lucky Instrument    | Drums |
-| Lucky Flower        | Periwinkle    |
-| Lucky Job           | Video Editor       |
-| Lucky Exercise      | Golf  |
-| Lucky Country       | Samoa    |
+| Lucky Food          | Fajitas      |
+| Lucky Instrument    | Bongo Drums |
+| Lucky Flower        | Moss Rose    |
+| Lucky Job           | Dentist       |
+| Lucky Exercise      | Skiing  |
+| Lucky Country       | Kiribati    |
 
 
 ##  Final Reflections on Dreams

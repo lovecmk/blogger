@@ -1,8 +1,8 @@
 ---
     weight: 256
     title: "Dream of saving the world from pickpocket"  # Assuming 'title' column exists
-    date: 2024-10-13T23:11:00+08:00
-    lastmod: 2024-10-13T23:11:00+08:00
+    date: 2024-10-12T11:24:00+08:00
+    lastmod: 2024-10-12T11:24:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['saving', 'the', 'Dream', 'world', 'from', 'of', 'pickpocket']
+    tags: ['pickpocket', 'Dream', 'from', 'saving', 'world']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'the dream of saving the world from pickpocket' may vary depending o
 | Lucky Animal        | Rhino |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Cornbread      |
-| Lucky Instrument    | Keyboard Synthesizer |
-| Lucky Flower        | Celosia    |
-| Lucky Job           | Researcher       |
-| Lucky Exercise      | Skiing  |
-| Lucky Country       | Switzerland    |
+| Lucky Food          | Hummus      |
+| Lucky Instrument    | Marimba |
+| Lucky Flower        | Lily    |
+| Lucky Job           | Graphic Designer       |
+| Lucky Exercise      | Soccer  |
+| Lucky Country       | Thailand    |
 
 
 ##  Final Reflections on Dreams

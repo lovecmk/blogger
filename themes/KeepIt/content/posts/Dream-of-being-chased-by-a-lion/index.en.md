@@ -1,8 +1,8 @@
 ---
     weight: 922
     title: "Dream of being chased by a lion"  # Assuming 'title' column exists
-    date: 2024-10-13T03:51:00+08:00
-    lastmod: 2024-10-13T03:51:00+08:00
+    date: 2024-10-14T22:07:00+08:00
+    lastmod: 2024-10-14T22:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'being', 'a', 'by', 'lion', 'of', 'chased']
+    tags: ['being', 'chased', 'Dream', 'lion']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may usually emphasize the need for boundaries and contras
 | Lucky Animal        | Camel |
 | Lucky Place         | Sea     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Duck Confit      |
-| Lucky Instrument    | Clarinet |
-| Lucky Flower        | Strelitzia    |
-| Lucky Job           | Firefighter       |
-| Lucky Exercise      | Mobility Training  |
-| Lucky Country       | Serbia    |
+| Lucky Food          | Tiramisu      |
+| Lucky Instrument    | Melodica |
+| Lucky Flower        | Cornflower    |
+| Lucky Job           | Consultant       |
+| Lucky Exercise      | Jumping Rope  |
+| Lucky Country       | United States    |
 
 
 ##  Final Reflections on Dreams

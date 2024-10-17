@@ -1,8 +1,8 @@
 ---
     weight: 2068
     title: "Dream of your ancestor comforting you during a period of uncertainty."  # Assuming 'title' column exists
-    date: 2024-10-13T05:36:00+08:00
-    lastmod: 2024-10-13T05:36:00+08:00
+    date: 2024-10-15T00:10:00+08:00
+    lastmod: 2024-10-15T00:10:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['uncertainty.', 'period', 'your', 'comforting', 'Dream', 'during', 'a', 'ancestor', 'of', 'you']
+    tags: ['period', 'comforting', 'Dream', 'uncertainty', 'ancestor', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Chia Pudding      |
-| Lucky Instrument    | Piccolo Trumpet |
-| Lucky Flower        | Verbena    |
-| Lucky Job           | Event Planner       |
-| Lucky Exercise      | Dance Aerobics  |
-| Lucky Country       | Tajikistan    |
+| Lucky Food          | Burger      |
+| Lucky Instrument    | Zouaves |
+| Lucky Flower        | Mullein    |
+| Lucky Job           | Fashion Designer       |
+| Lucky Exercise      | Bench Press  |
+| Lucky Country       | Oman    |
 
 
 ##  Final Reflections on Dreams

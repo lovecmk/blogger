@@ -1,8 +1,8 @@
 ---
     weight: 826
     title: "Dream of fire at a gas station"  # Assuming 'title' column exists
-    date: 2024-10-13T01:20:00+08:00
-    lastmod: 2024-10-13T01:20:00+08:00
+    date: 2024-10-15T17:29:00+08:00
+    lastmod: 2024-10-15T17:29:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['gas', 'fire', 'Dream', 'a', 'station', 'of', 'at']
+    tags: ['Dream', 'gas', 'fire', 'station']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the interpretation and situation of
 | Lucky Animal        | Heron |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Sushi      |
-| Lucky Instrument    | Sackbut |
-| Lucky Flower        | Cosmos    |
-| Lucky Job           | Financial Analyst       |
-| Lucky Exercise      | High-Intensity Interval Training (HIIT)  |
-| Lucky Country       | Uzbekistan    |
+| Lucky Food          | Scallops      |
+| Lucky Instrument    | Castanets |
+| Lucky Flower        | Dahlia    |
+| Lucky Job           | Hair Stylist       |
+| Lucky Exercise      | Spin Class  |
+| Lucky Country       | Nigeria    |
 
 
 ##  Final Reflections on Dreams

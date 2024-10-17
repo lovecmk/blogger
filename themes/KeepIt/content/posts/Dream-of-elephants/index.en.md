@@ -1,8 +1,8 @@
 ---
     weight: 854
     title: "Dream of elephants"  # Assuming 'title' column exists
-    date: 2024-10-13T22:26:00+08:00
-    lastmod: 2024-10-13T22:26:00+08:00
+    date: 2024-10-15T11:43:00+08:00
+    lastmod: 2024-10-15T11:43:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'elephants', 'Dream']
+    tags: ['elephants', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck that this dream gives you a chance to achieve success through your inne
 | Lucky Animal        | Duck |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Lasagna      |
-| Lucky Instrument    | Violin |
-| Lucky Flower        | Orchid    |
-| Lucky Job           | Logistician       |
-| Lucky Exercise      | Swimming Laps  |
-| Lucky Country       | Botswana    |
+| Lucky Food          | Chocolate Mousse      |
+| Lucky Instrument    | Conga |
+| Lucky Flower        | Tansy    |
+| Lucky Job           | Software Engineer       |
+| Lucky Exercise      | Surf Lifesaving  |
+| Lucky Country       | Tonga    |
 
 
 ##  Final Reflections on Dreams

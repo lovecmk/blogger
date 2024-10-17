@@ -1,8 +1,8 @@
 ---
     weight: 381
     title: "Dream falling from high places"  # Assuming 'title' column exists
-    date: 2024-10-13T07:20:00+08:00
-    lastmod: 2024-10-13T07:20:00+08:00
+    date: 2024-10-14T01:15:00+08:00
+    lastmod: 2024-10-14T01:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['falling', 'Dream', 'places', 'from', 'high']
+    tags: ['high', 'Dream', 'places', 'falling', 'from']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be in the pursuit of change and pursuit of change.Thi
 | Lucky Animal        | Rhino |
 | Lucky Place         | Theater     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Chocolate      |
-| Lucky Instrument    | Hang Drum |
-| Lucky Flower        | Periwinkle    |
-| Lucky Job           | Insurance Agent       |
-| Lucky Exercise      | Salsa  |
-| Lucky Country       | Solomon Islands    |
+| Lucky Food          | Fruit Salad      |
+| Lucky Instrument    | Melodica |
+| Lucky Flower        | Ornamental Pepper    |
+| Lucky Job           | Software Engineer       |
+| Lucky Exercise      | Step Aerobics  |
+| Lucky Country       | Spain    |
 
 
 ##  Final Reflections on Dreams

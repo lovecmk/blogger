@@ -1,8 +1,8 @@
 ---
     weight: 1180
     title: "Dream about restaurant"  # Assuming 'title' column exists
-    date: 2024-10-13T18:14:00+08:00
-    lastmod: 2024-10-13T18:14:00+08:00
+    date: 2024-10-11T21:21:00+08:00
+    lastmod: 2024-10-11T21:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['restaurant', 'about', 'Dream']
+    tags: ['restaurant', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'restaurant' dreams may vary depending on the interpretation and sit
 | Lucky Animal        | Mole |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Zucchini Noodles      |
-| Lucky Instrument    | Glockenspiel |
-| Lucky Flower        | Daffodil    |
-| Lucky Job           | Insurance Agent       |
-| Lucky Exercise      | Hula Hooping  |
-| Lucky Country       | Slovakia    |
+| Lucky Food          | Sushi      |
+| Lucky Instrument    | Xylophone |
+| Lucky Flower        | Poppy    |
+| Lucky Job           | Pastry Chef       |
+| Lucky Exercise      | Bench Press  |
+| Lucky Country       | Latvia    |
 
 
 ##  Final Reflections on Dreams

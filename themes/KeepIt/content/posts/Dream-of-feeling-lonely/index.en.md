@@ -1,8 +1,8 @@
 ---
     weight: 997
     title: "Dream of feeling lonely"  # Assuming 'title' column exists
-    date: 2024-10-13T20:02:00+08:00
-    lastmod: 2024-10-13T20:02:00+08:00
+    date: 2024-10-14T07:39:00+08:00
+    lastmod: 2024-10-14T07:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'feeling', 'lonely', 'Dream']
+    tags: ['lonely', 'Dream', 'feeling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be to overcome loneliness and strengthen social conne
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Kale Salad      |
-| Lucky Instrument    | Melodica |
-| Lucky Flower        | Yarrow    |
-| Lucky Job           | Firefighter       |
-| Lucky Exercise      | Bouldering  |
-| Lucky Country       | Syria    |
+| Lucky Food          | Stuffed Peppers      |
+| Lucky Instrument    | Lap Steel Guitar |
+| Lucky Flower        | Lilac    |
+| Lucky Job           | Customer Service Representative       |
+| Lucky Exercise      | Beach Volleyball  |
+| Lucky Country       | Bhutan    |
 
 
 ##  Final Reflections on Dreams

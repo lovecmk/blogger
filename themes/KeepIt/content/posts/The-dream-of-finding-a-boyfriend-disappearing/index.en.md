@@ -1,8 +1,8 @@
 ---
     weight: 325
     title: "The dream of finding a boyfriend disappearing"  # Assuming 'title' column exists
-    date: 2024-10-13T03:39:00+08:00
-    lastmod: 2024-10-13T03:39:00+08:00
+    date: 2024-10-13T23:59:00+08:00
+    lastmod: 2024-10-13T23:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['disappearing', 'boyfriend', 'a', 'dream', 'The', 'of', 'finding']
+    tags: ['The', 'boyfriend', 'dream', 'finding', 'disappearing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -60,11 +60,11 @@ The luck of this dream can vary depending on the individual's interpretation and
 | Lucky Place         | Mart     |
 | Lucky Color         | Deep yellow     |
 | Lucky Food          | Fried Rice      |
-| Lucky Instrument    | Violin |
-| Lucky Flower        | Jasmine    |
-| Lucky Job           | Stockbroker       |
-| Lucky Exercise      | Javelin  |
-| Lucky Country       | Denmark    |
+| Lucky Instrument    | Saxophone |
+| Lucky Flower        | Geranium    |
+| Lucky Job           | Doctor       |
+| Lucky Exercise      | Stretching  |
+| Lucky Country       | Brazil    |
 
 
 ##  Final Reflections on Dreams

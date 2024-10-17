@@ -1,8 +1,8 @@
 ---
     weight: 1619
     title: "Dream of your cat purring loudly"  # Assuming 'title' column exists
-    date: 2024-10-13T20:50:00+08:00
-    lastmod: 2024-10-13T20:50:00+08:00
+    date: 2024-10-13T07:15:00+08:00
+    lastmod: 2024-10-13T07:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['loudly', 'your', 'cat', 'Dream', 'of', 'purring']
+    tags: ['loudly', 'Dream', 'cat', 'purring']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Pig |
 | Lucky Place         | Mart     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Cheesecake      |
-| Lucky Instrument    | Cowbell |
-| Lucky Flower        | Calla Lily    |
-| Lucky Job           | Video Editor       |
-| Lucky Exercise      | Lifting  |
-| Lucky Country       | Finland    |
+| Lucky Food          | Bagel      |
+| Lucky Instrument    | Conga Drum |
+| Lucky Flower        | Bluebell    |
+| Lucky Job           | Welder       |
+| Lucky Exercise      | Cycling  |
+| Lucky Country       | Eswatini    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 77
     title: "Dream of starting a calm breakfast while eating peach"  # Assuming 'title' column exists
-    date: 2024-10-13T23:17:00+08:00
-    lastmod: 2024-10-13T23:17:00+08:00
+    date: 2024-10-14T15:10:00+08:00
+    lastmod: 2024-10-14T15:10:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['breakfast', 'eating', 'calm', 'Dream', 'starting', 'a', 'peach', 'of', 'while']
+    tags: ['while', 'breakfast', 'Dream', 'starting', 'eating', 'peach', 'calm']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream expresses calm and stability, so it can be interpreted as a good sign
 | Lucky Animal        | Otter |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Red     |
-| Lucky Food          | Spring Roll      |
-| Lucky Instrument    | Tabor |
-| Lucky Flower        | Clover    |
-| Lucky Job           | User Researcher       |
-| Lucky Exercise      | Jump Squats  |
-| Lucky Country       | Tuvalu    |
+| Lucky Food          | Guacamole      |
+| Lucky Instrument    | Chimes |
+| Lucky Flower        | Sea Holly    |
+| Lucky Job           | Event Coordinator       |
+| Lucky Exercise      | Zumba  |
+| Lucky Country       | South Korea    |
 
 
 ##  Final Reflections on Dreams

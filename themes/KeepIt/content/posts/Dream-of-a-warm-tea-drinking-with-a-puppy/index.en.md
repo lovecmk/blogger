@@ -1,8 +1,8 @@
 ---
     weight: 299
     title: "Dream of a warm tea drinking with a puppy"  # Assuming 'title' column exists
-    date: 2024-10-13T19:52:00+08:00
-    lastmod: 2024-10-13T19:52:00+08:00
+    date: 2024-10-12T03:38:00+08:00
+    lastmod: 2024-10-12T03:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['tea', 'Dream', 'puppy', 'a', 'warm', 'drinking', 'of', 'with']
+    tags: ['Dream', 'puppy', 'warm', 'tea', 'drinking']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can suggest good luck and positive situations.Puppies symbolize trust
 | Lucky Animal        | Mole |
 | Lucky Place         | Museum     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Caprese Skewers      |
-| Lucky Instrument    | Kettledrum |
-| Lucky Flower        | Sunflower    |
-| Lucky Job           | Architect       |
-| Lucky Exercise      | Kickboxing  |
-| Lucky Country       | Sweden    |
+| Lucky Food          | Beef Wellington      |
+| Lucky Instrument    | Melodic Percussion |
+| Lucky Flower        | Vinca    |
+| Lucky Job           | Producer       |
+| Lucky Exercise      | Lunges  |
+| Lucky Country       | Papua New Guinea    |
 
 
 ##  Final Reflections on Dreams

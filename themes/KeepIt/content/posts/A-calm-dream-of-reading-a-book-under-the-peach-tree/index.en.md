@@ -1,8 +1,8 @@
 ---
     weight: 28
     title: "A calm dream of reading a book under the peach tree"  # Assuming 'title' column exists
-    date: 2024-10-13T17:38:00+08:00
-    lastmod: 2024-10-13T17:38:00+08:00
+    date: 2024-10-13T20:40:00+08:00
+    lastmod: 2024-10-13T20:40:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['tree', 'the', 'calm', 'reading', 'book', 'a', 'dream', 'peach', 'of', 'A', 'under']
+    tags: ['reading', 'dream', 'A', 'peach', 'tree', 'under', 'calm', 'book']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can be lucky.Peach trees are rich and growing symbols, and reading bo
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Roast Chicken      |
-| Lucky Instrument    | Trombone Slide |
-| Lucky Flower        | Jasmine    |
-| Lucky Job           | Graphic Designer       |
-| Lucky Exercise      | Squash  |
-| Lucky Country       | Iceland    |
+| Lucky Food          | Steak      |
+| Lucky Instrument    | Sackbut |
+| Lucky Flower        | Scabiosa    |
+| Lucky Job           | Stockbroker       |
+| Lucky Exercise      | Mountain Climbers  |
+| Lucky Country       | Uzbekistan    |
 
 
 ##  Final Reflections on Dreams

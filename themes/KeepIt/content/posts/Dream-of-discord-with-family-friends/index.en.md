@@ -1,8 +1,8 @@
 ---
     weight: 1587
     title: "Dream of seeing a dead person alive"  # Assuming 'title' column exists
-    date: 2024-10-13T13:29:00+08:00
-    lastmod: 2024-10-13T13:29:00+08:00
+    date: 2024-10-14T10:58:00+08:00
+    lastmod: 2024-10-14T10:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['seeing', 'alive', 'Dream', 'a', 'dead', 'person', 'of']
+    tags: ['person', 'Dream', 'dead', 'alive', 'seeing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Dumplings      |
-| Lucky Instrument    | Bass Guitar |
-| Lucky Flower        | Pincushion Flower    |
-| Lucky Job           | Marketing Manager       |
-| Lucky Exercise      | Tai Chi  |
-| Lucky Country       | Thailand    |
+| Lucky Food          | Gumbo      |
+| Lucky Instrument    | Harmonic Piano |
+| Lucky Flower        | Tiger Lily    |
+| Lucky Job           | Project Manager       |
+| Lucky Exercise      | Rugby  |
+| Lucky Country       | Fiji    |
 
 
 ##  Final Reflections on Dreams

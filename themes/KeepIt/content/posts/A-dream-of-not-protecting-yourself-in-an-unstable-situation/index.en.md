@@ -1,8 +1,8 @@
 ---
     weight: 456
     title: "A dream of not protecting yourself in an unstable situation"  # Assuming 'title' column exists
-    date: 2024-10-13T03:07:00+08:00
-    lastmod: 2024-10-13T03:07:00+08:00
+    date: 2024-10-11T16:03:00+08:00
+    lastmod: 2024-10-11T16:03:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['unstable', 'in', 'yourself', 'situation', 'not', 'an', 'dream', 'protecting', 'of', 'A']
+    tags: ['dream', 'yourself', 'A', 'not', 'unstable', 'situation', 'protecting', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can be seen as a warning signal that suggests the need for attention 
 | Lucky Animal        | Camel |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Deviled Eggs      |
-| Lucky Instrument    | Lap Steel Guitar |
-| Lucky Flower        | Jasmine    |
-| Lucky Job           | UX Designer       |
-| Lucky Exercise      | Sledge Hockey  |
-| Lucky Country       | United Arab Emirates    |
+| Lucky Food          | Bruschetta      |
+| Lucky Instrument    | Tuba |
+| Lucky Flower        | Bellflower    |
+| Lucky Job           | Scientist       |
+| Lucky Exercise      | Powerlifting  |
+| Lucky Country       | Lesotho    |
 
 
 ##  Final Reflections on Dreams

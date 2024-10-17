@@ -1,8 +1,8 @@
 ---
     weight: 249
     title: "Dream of seeing all places in the world"  # Assuming 'title' column exists
-    date: 2024-10-13T19:52:00+08:00
-    lastmod: 2024-10-13T19:52:00+08:00
+    date: 2024-10-12T11:03:00+08:00
+    lastmod: 2024-10-12T11:03:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['world', 'the', 'seeing', 'Dream', 'all', 'places', 'in', 'of']
+    tags: ['Dream', 'places', 'world', 'all', 'seeing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can convey a message that you can be lucky through new experiences or
 | Lucky Animal        | Chicken |
 | Lucky Place         | Sea     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Beef Stroganoff      |
-| Lucky Instrument    | Melodic Percussion |
-| Lucky Flower        | Heliotrope    |
-| Lucky Job           | Architect       |
-| Lucky Exercise      | Ashtanga Yoga  |
-| Lucky Country       | Papua New Guinea    |
+| Lucky Food          | Lasagna      |
+| Lucky Instrument    | Drums |
+| Lucky Flower        | Geranium    |
+| Lucky Job           | Data Scientist       |
+| Lucky Exercise      | Lacrosse  |
+| Lucky Country       | Latvia    |
 
 
 ##  Final Reflections on Dreams

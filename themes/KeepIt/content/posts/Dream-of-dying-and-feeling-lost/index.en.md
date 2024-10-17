@@ -1,8 +1,8 @@
 ---
     weight: 1834
     title: "Dream of watching a sports game together with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T21:35:00+08:00
-    lastmod: 2024-10-13T21:35:00+08:00
+    date: 2024-10-15T02:12:00+08:00
+    lastmod: 2024-10-15T02:12:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['together', 'sports', 'your', 'game', 'boyfriend', 'Dream', 'a', 'of', 'watching', 'with']
+    tags: ['Dream', 'boyfriend', 'game', 'watching', 'sports', 'together']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Gorilla |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Beef Wellington      |
-| Lucky Instrument    | Trumpet |
-| Lucky Flower        | Ranunculus    |
-| Lucky Job           | Brand Manager       |
-| Lucky Exercise      | Surfing  |
-| Lucky Country       | Syria    |
+| Lucky Food          | Caprese Salad      |
+| Lucky Instrument    | Darabuka |
+| Lucky Flower        | Fuchsia    |
+| Lucky Job           | Social Worker       |
+| Lucky Exercise      | Bouldering  |
+| Lucky Country       | Saudi Arabia    |
 
 
 ##  Final Reflections on Dreams

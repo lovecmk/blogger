@@ -1,8 +1,8 @@
 ---
     weight: 2118
     title: "Dream of going stargazing or watching a meteor shower together with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T16:24:00+08:00
-    lastmod: 2024-10-13T16:24:00+08:00
+    date: 2024-10-15T00:33:00+08:00
+    lastmod: 2024-10-15T00:33:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['together', 'or', 'your', 'boyfriend', 'Dream', 'going', 'shower', 'stargazing', 'a', 'meteor', 'of', 'watching', 'with']
+    tags: ['Dream', 'boyfriend', 'meteor', 'going', 'watching', 'stargazing', 'shower', 'together']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Bear |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Gelato      |
-| Lucky Instrument    | Tabla |
-| Lucky Flower        | Jasmine    |
-| Lucky Job           | Veterinarian       |
-| Lucky Exercise      | Cross-Country Skiing  |
-| Lucky Country       | Tanzania    |
+| Lucky Food          | Pasta Salad      |
+| Lucky Instrument    | Maracas |
+| Lucky Flower        | Safflower    |
+| Lucky Job           | Producer       |
+| Lucky Exercise      | Powerlifting  |
+| Lucky Country       | Philippines    |
 
 
 ##  Final Reflections on Dreams

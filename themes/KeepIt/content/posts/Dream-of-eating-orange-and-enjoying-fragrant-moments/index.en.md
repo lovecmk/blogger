@@ -1,8 +1,8 @@
 ---
     weight: 33
     title: "Dream of eating orange and enjoying fragrant moments"  # Assuming 'title' column exists
-    date: 2024-10-13T07:49:00+08:00
-    lastmod: 2024-10-13T07:49:00+08:00
+    date: 2024-10-15T20:42:00+08:00
+    lastmod: 2024-10-15T20:42:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['eating', 'enjoying', 'moments', 'Dream', 'fragrant', 'orange', 'and', 'of']
+    tags: ['Dream', 'orange', 'moments', 'fragrant', 'eating', 'enjoying']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can mainly show good luck and positive situations.Eating orange and e
 | Lucky Animal        | Guinea pig |
 | Lucky Place         | Sea     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Waffles      |
-| Lucky Instrument    | Glockenspiel |
-| Lucky Flower        | Peony    |
-| Lucky Job           | Game Developer       |
-| Lucky Exercise      | Jump Squats  |
-| Lucky Country       | Cambodia    |
+| Lucky Food          | Samosa      |
+| Lucky Instrument    | Horn |
+| Lucky Flower        | Crown Daisy    |
+| Lucky Job           | Landscaper       |
+| Lucky Exercise      | Baseball  |
+| Lucky Country       | Russia    |
 
 
 ##  Final Reflections on Dreams

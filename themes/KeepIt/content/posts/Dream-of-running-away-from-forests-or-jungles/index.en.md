@@ -1,8 +1,8 @@
 ---
     weight: 390
     title: "Dream of running away from forests or jungles"  # Assuming 'title' column exists
-    date: 2024-10-13T12:39:00+08:00
-    lastmod: 2024-10-13T12:39:00+08:00
+    date: 2024-10-15T02:11:00+08:00
+    lastmod: 2024-10-15T02:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['forests', 'jungles', 'or', 'running', 'away', 'Dream', 'from', 'of']
+    tags: ['Dream', 'forests', 'running', 'from', 'away', 'jungles']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can depend on a variety of factors.The runaway acts means
 | Lucky Animal        | Seal |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Pizza      |
-| Lucky Instrument    | Snare Drum |
-| Lucky Flower        | Orchid    |
-| Lucky Job           | Bus Driver       |
-| Lucky Exercise      | Pilates  |
-| Lucky Country       | Iceland    |
+| Lucky Food          | Noodles      |
+| Lucky Instrument    | Clarinet |
+| Lucky Flower        | Tansy    |
+| Lucky Job           | Recruiter       |
+| Lucky Exercise      | Yoga  |
+| Lucky Country       | Malaysia    |
 
 
 ##  Final Reflections on Dreams

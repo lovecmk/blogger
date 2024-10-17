@@ -1,8 +1,8 @@
 ---
     weight: 1331
     title: "Dream of your dog being a famous dancer"  # Assuming 'title' column exists
-    date: 2024-10-13T13:08:00+08:00
-    lastmod: 2024-10-13T13:08:00+08:00
+    date: 2024-10-13T13:18:00+08:00
+    lastmod: 2024-10-13T13:18:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'Dream', 'being', 'a', 'famous', 'dancer', 'of', 'dog']
+    tags: ['being', 'Dream', 'famous', 'dancer', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Sparrow |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Steak      |
-| Lucky Instrument    | Cello |
-| Lucky Flower        | Edelweiss    |
-| Lucky Job           | Chemist       |
-| Lucky Exercise      | Parkour  |
-| Lucky Country       | Thailand    |
+| Lucky Food          | Vegetable Stir Fry      |
+| Lucky Instrument    | Tabla |
+| Lucky Flower        | Alyssum    |
+| Lucky Job           | Neuroscientist       |
+| Lucky Exercise      | Rock Climbing  |
+| Lucky Country       | Kyrgyzstan    |
 
 
 ##  Final Reflections on Dreams

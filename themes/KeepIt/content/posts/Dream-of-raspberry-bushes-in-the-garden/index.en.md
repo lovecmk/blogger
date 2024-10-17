@@ -1,8 +1,8 @@
 ---
     weight: 1937
     title: "Dream of feuds between family branches"  # Assuming 'title' column exists
-    date: 2024-10-13T18:43:00+08:00
-    lastmod: 2024-10-13T18:43:00+08:00
+    date: 2024-10-13T07:48:00+08:00
+    lastmod: 2024-10-13T07:48:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['between', 'family', 'feuds', 'Dream', 'branches', 'of']
+    tags: ['family', 'Dream', 'feuds', 'branches']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream can be seen as a good luck symbol. It suggests that you are in a fort
 | Lucky Animal        | Cat |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Sushi Roll      |
-| Lucky Instrument    | Lute |
-| Lucky Flower        | Bleeding Heart    |
-| Lucky Job           | Sales Representative       |
-| Lucky Exercise      | Leg Press  |
-| Lucky Country       | Tanzania    |
+| Lucky Food          | Biryani      |
+| Lucky Instrument    | Horn |
+| Lucky Flower        | Hydrangea    |
+| Lucky Job           | Nuclear Engineer       |
+| Lucky Exercise      | Skimboarding  |
+| Lucky Country       | Laos    |
 
 
 ##  Final Reflections on Dreams

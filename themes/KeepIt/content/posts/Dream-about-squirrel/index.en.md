@@ -1,8 +1,8 @@
 ---
     weight: 1113
     title: "Dream about squirrel"  # Assuming 'title' column exists
-    date: 2024-10-13T16:18:00+08:00
-    lastmod: 2024-10-13T16:18:00+08:00
+    date: 2024-10-12T11:03:00+08:00
+    lastmod: 2024-10-12T11:03:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['squirrel', 'about', 'Dream']
+    tags: ['Dream', 'squirrel']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'squirrel' dreams may vary depending on your personal experience and
 | Lucky Animal        | Leopard |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Paella      |
-| Lucky Instrument    | Kettledrum |
-| Lucky Flower        | Bellflower    |
-| Lucky Job           | Electrician       |
-| Lucky Exercise      | Cricket  |
-| Lucky Country       | Zimbabwe    |
+| Lucky Food          | Casserole      |
+| Lucky Instrument    | Drums |
+| Lucky Flower        | Heliotrope    |
+| Lucky Job           | Psychologist       |
+| Lucky Exercise      | Sit-Ups  |
+| Lucky Country       | United States    |
 
 
 ##  Final Reflections on Dreams

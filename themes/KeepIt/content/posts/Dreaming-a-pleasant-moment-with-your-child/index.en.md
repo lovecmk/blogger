@@ -1,8 +1,8 @@
 ---
     weight: 181
     title: "Dreaming a pleasant moment with your child"  # Assuming 'title' column exists
-    date: 2024-10-13T10:34:00+08:00
-    lastmod: 2024-10-13T10:34:00+08:00
+    date: 2024-10-13T21:53:00+08:00
+    lastmod: 2024-10-13T21:53:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dreaming', 'moment', 'your', 'a', 'with', 'child', 'pleasant']
+    tags: ['Dreaming', 'child', 'moment', 'pleasant']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can symbolize family happiness and satisfaction and suggest that you 
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Beach     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Ramen      |
-| Lucky Instrument    | Tenor Saxophone |
-| Lucky Flower        | Begonia    |
-| Lucky Job           | Quality Assurance Tester       |
-| Lucky Exercise      | Surfing  |
-| Lucky Country       | Pakistan    |
+| Lucky Food          | Caramel Flan      |
+| Lucky Instrument    | Bass Clarinet |
+| Lucky Flower        | Heliotrope    |
+| Lucky Job           | Copywriter       |
+| Lucky Exercise      | Burpees  |
+| Lucky Country       | Canada    |
 
 
 ##  Final Reflections on Dreams

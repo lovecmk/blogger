@@ -1,8 +1,8 @@
 ---
     weight: 1193
     title: "Dream about gas station"  # Assuming 'title' column exists
-    date: 2024-10-13T08:52:00+08:00
-    lastmod: 2024-10-13T08:52:00+08:00
+    date: 2024-10-12T22:56:00+08:00
+    lastmod: 2024-10-12T22:56:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['station', 'gas', 'about', 'Dream']
+    tags: ['gas', 'station', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ What are the lucky luck of the 'gas station' dream?This dream may be a sign of l
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Falafel      |
-| Lucky Instrument    | Oboe |
-| Lucky Flower        | Lotus    |
-| Lucky Job           | Construction Worker       |
-| Lucky Exercise      | Snowboarding  |
-| Lucky Country       | Maldives    |
+| Lucky Food          | Duck Confit      |
+| Lucky Instrument    | Balalaika |
+| Lucky Flower        | Geranium    |
+| Lucky Job           | Taxi Driver       |
+| Lucky Exercise      | Yoga Flow  |
+| Lucky Country       | Bangladesh    |
 
 
 ##  Final Reflections on Dreams

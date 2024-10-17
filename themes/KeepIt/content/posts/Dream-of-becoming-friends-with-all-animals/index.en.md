@@ -1,8 +1,8 @@
 ---
     weight: 246
     title: "Dream of becoming friends with all animals"  # Assuming 'title' column exists
-    date: 2024-10-13T23:19:00+08:00
-    lastmod: 2024-10-13T23:19:00+08:00
+    date: 2024-10-14T22:56:00+08:00
+    lastmod: 2024-10-14T22:56:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['animals', 'Dream', 'all', 'of', 'with', 'friends', 'becoming']
+    tags: ['Dream', 'all', 'becoming', 'animals', 'friends']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ There may be a variety of elements that can be lucky in 'Dream of becoming frien
 | Lucky Animal        | Hamster |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Chips      |
-| Lucky Instrument    | Cello |
-| Lucky Flower        | Jasmine    |
-| Lucky Job           | Artist       |
-| Lucky Exercise      | Lunges  |
-| Lucky Country       | China    |
+| Lucky Food          | Cornbread      |
+| Lucky Instrument    | Bass Clarinet |
+| Lucky Flower        | Mandevilla    |
+| Lucky Job           | Brand Manager       |
+| Lucky Exercise      | Bench Press  |
+| Lucky Country       | Saudi Arabia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1381
     title: "Dream of getting stuck in traffic"  # Assuming 'title' column exists
-    date: 2024-10-13T11:22:00+08:00
-    lastmod: 2024-10-13T11:22:00+08:00
+    date: 2024-10-12T06:56:00+08:00
+    lastmod: 2024-10-12T06:56:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'stuck', 'in', 'of', 'getting', 'traffic']
+    tags: ['traffic', 'Dream', 'stuck', 'getting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Chicken |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Tuna Tartare      |
-| Lucky Instrument    | Claves |
-| Lucky Flower        | Forget-Me-Not    |
-| Lucky Job           | Artist       |
-| Lucky Exercise      | Body Pump  |
-| Lucky Country       | Russia    |
+| Lucky Food          | Baked Potato      |
+| Lucky Instrument    | Triangle |
+| Lucky Flower        | Sundew    |
+| Lucky Job           | Photographer       |
+| Lucky Exercise      | Calisthenics  |
+| Lucky Country       | Belgium    |
 
 
 ##  Final Reflections on Dreams

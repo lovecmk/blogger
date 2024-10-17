@@ -1,8 +1,8 @@
 ---
     weight: 366
     title: "Dream of singing or playing"  # Assuming 'title' column exists
-    date: 2024-10-13T23:42:00+08:00
-    lastmod: 2024-10-13T23:42:00+08:00
+    date: 2024-10-15T14:09:00+08:00
+    lastmod: 2024-10-15T14:09:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'playing', 'singing', 'Dream', 'of']
+    tags: ['Dream', 'singing', 'playing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is that you can use your musical talent to meet new oppor
 | Lucky Animal        | Rabbit |
 | Lucky Place         | School     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Caprese Skewers      |
-| Lucky Instrument    | Cajón |
-| Lucky Flower        | Agapanthus    |
-| Lucky Job           | Statistician       |
-| Lucky Exercise      | Juggling  |
-| Lucky Country       | Bangladesh    |
+| Lucky Food          | Lentil Soup      |
+| Lucky Instrument    | Tenor Guitar |
+| Lucky Flower        | Jatropha    |
+| Lucky Job           | Consultant       |
+| Lucky Exercise      | Obstacle Course Racing  |
+| Lucky Country       | Laos    |
 
 
 ##  Final Reflections on Dreams

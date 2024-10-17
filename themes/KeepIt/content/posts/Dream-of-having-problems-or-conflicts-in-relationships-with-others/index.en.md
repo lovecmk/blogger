@@ -1,8 +1,8 @@
 ---
     weight: 490
     title: "Dream of having problems or conflicts in relationships with others"  # Assuming 'title' column exists
-    date: 2024-10-13T21:11:00+08:00
-    lastmod: 2024-10-13T21:11:00+08:00
+    date: 2024-10-15T07:44:00+08:00
+    lastmod: 2024-10-15T07:44:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['conflicts', 'or', 'relationships', 'Dream', 'others', 'problems', 'in', 'of', 'with', 'having']
+    tags: ['others', 'Dream', 'having', 'relationships', 'conflicts', 'problems']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can be a problem in relationships with people around you, while you c
 | Lucky Animal        | Parrot |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Clams      |
-| Lucky Instrument    | Bass Drum |
-| Lucky Flower        | Pansy    |
-| Lucky Job           | UX Designer       |
-| Lucky Exercise      | Walking  |
-| Lucky Country       | Turkmenistan    |
+| Lucky Food          | Pork Belly      |
+| Lucky Instrument    | Bassoon |
+| Lucky Flower        | Agapanthus    |
+| Lucky Job           | Marketing Manager       |
+| Lucky Exercise      | Leg Press  |
+| Lucky Country       | Tuvalu    |
 
 
 ##  Final Reflections on Dreams

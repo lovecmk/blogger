@@ -1,8 +1,8 @@
 ---
     weight: 984
     title: "Dream of falling into the water from the subway station"  # Assuming 'title' column exists
-    date: 2024-10-13T02:20:00+08:00
-    lastmod: 2024-10-13T02:20:00+08:00
+    date: 2024-10-11T08:17:00+08:00
+    lastmod: 2024-10-11T08:17:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['subway', 'water', 'the', 'station', 'into', 'falling', 'Dream', 'from', 'of']
+    tags: ['water', 'Dream', 'into', 'subway', 'falling', 'from', 'station']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream is not lucky because it has the meaning of anxiety, danger, and confu
 | Lucky Animal        | Beaver |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Pudding      |
-| Lucky Instrument    | Lap Steel Guitar |
-| Lucky Flower        | Poppy    |
-| Lucky Job           | Fashion Designer       |
-| Lucky Exercise      | Basketball  |
-| Lucky Country       | Serbia    |
+| Lucky Food          | Chia Pudding      |
+| Lucky Instrument    | Darabuka |
+| Lucky Flower        | Hydrangea    |
+| Lucky Job           | Artist       |
+| Lucky Exercise      | Foam Rolling  |
+| Lucky Country       | Poland    |
 
 
 ##  Final Reflections on Dreams

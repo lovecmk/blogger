@@ -1,8 +1,8 @@
 ---
     weight: 1782
     title: "Dream of arguments about family communication"  # Assuming 'title' column exists
-    date: 2024-10-13T19:40:00+08:00
-    lastmod: 2024-10-13T19:40:00+08:00
+    date: 2024-10-14T16:07:00+08:00
+    lastmod: 2024-10-14T16:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'about', 'arguments', 'Dream', 'communication', 'of']
+    tags: ['family', 'communication', 'Dream', 'arguments']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Monkey |
 | Lucky Place         | Sea     |
 | Lucky Color         | Green     |
-| Lucky Food          | Pesto      |
-| Lucky Instrument    | Bassoon |
-| Lucky Flower        | Zinnia    |
-| Lucky Job           | Flight Attendant       |
-| Lucky Exercise      | Belly Dancing  |
-| Lucky Country       | Brunei    |
+| Lucky Food          | Burger      |
+| Lucky Instrument    | Tuba |
+| Lucky Flower        | Gladiolus    |
+| Lucky Job           | Nurse       |
+| Lucky Exercise      | Sledge Hockey  |
+| Lucky Country       | New Zealand    |
 
 
 ##  Final Reflections on Dreams

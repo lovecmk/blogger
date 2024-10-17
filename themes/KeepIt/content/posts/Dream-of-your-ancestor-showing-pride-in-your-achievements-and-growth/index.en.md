@@ -1,8 +1,8 @@
 ---
     weight: 1874
     title: "Dream of sipping raspberry tea in a garden"  # Assuming 'title' column exists
-    date: 2024-10-13T09:36:00+08:00
-    lastmod: 2024-10-13T09:36:00+08:00
+    date: 2024-10-14T03:55:00+08:00
+    lastmod: 2024-10-14T03:55:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['tea', 'Dream', 'a', 'in', 'sipping', 'of', 'raspberry', 'garden']
+    tags: ['Dream', 'garden', 'tea', 'raspberry', 'sipping']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Giraffe |
 | Lucky Place         | River     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Steak      |
-| Lucky Instrument    | Charango |
-| Lucky Flower        | Mums    |
-| Lucky Job           | Philosopher       |
-| Lucky Exercise      | Bodyweight Training  |
-| Lucky Country       | Kenya    |
+| Lucky Food          | Ramen      |
+| Lucky Instrument    | Keyboard Synthesizer |
+| Lucky Flower        | Iris    |
+| Lucky Job           | Oceanographer       |
+| Lucky Exercise      | Hula Hooping  |
+| Lucky Country       | Canada    |
 
 
 ##  Final Reflections on Dreams

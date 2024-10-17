@@ -1,8 +1,8 @@
 ---
     weight: 795
     title: "Dream of a taxi accident"  # Assuming 'title' column exists
-    date: 2024-10-13T14:20:00+08:00
-    lastmod: 2024-10-13T14:20:00+08:00
+    date: 2024-10-14T23:30:00+08:00
+    lastmod: 2024-10-14T23:30:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['taxi', 'Dream', 'a', 'accident', 'of']
+    tags: ['Dream', 'taxi', 'accident']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the interpretation of each individu
 | Lucky Animal        | Chick |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Spring Roll      |
-| Lucky Instrument    | Tenor Guitar |
-| Lucky Flower        | Aster    |
-| Lucky Job           | User Researcher       |
-| Lucky Exercise      | Obstacle Course Racing  |
-| Lucky Country       | Malawi    |
+| Lucky Food          | Tiramisu      |
+| Lucky Instrument    | Balalaika |
+| Lucky Flower        | Bougainvillea    |
+| Lucky Job           | Stockbroker       |
+| Lucky Exercise      | Lacrosse  |
+| Lucky Country       | South Korea    |
 
 
 ##  Final Reflections on Dreams

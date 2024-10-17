@@ -1,8 +1,8 @@
 ---
     weight: 513
     title: "Dream of hitting badminton"  # Assuming 'title' column exists
-    date: 2024-10-13T19:01:00+08:00
-    lastmod: 2024-10-13T19:01:00+08:00
+    date: 2024-10-11T10:02:00+08:00
+    lastmod: 2024-10-11T10:02:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'badminton', 'hitting', 'Dream']
+    tags: ['badminton', 'hitting', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The dream of playing badminton symbolizes active and goal -oriented minds.This d
 | Lucky Animal        | Cat |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Risotto      |
-| Lucky Instrument    | Trumpet |
-| Lucky Flower        | Mandevilla    |
-| Lucky Job           | Photographer       |
-| Lucky Exercise      | Fencing  |
-| Lucky Country       | Solomon Islands    |
+| Lucky Food          | Caprese Skewers      |
+| Lucky Instrument    | Tenor Banjo |
+| Lucky Flower        | Bellflower    |
+| Lucky Job           | Construction Worker       |
+| Lucky Exercise      | Belly Dancing  |
+| Lucky Country       | Malawi    |
 
 
 ##  Final Reflections on Dreams

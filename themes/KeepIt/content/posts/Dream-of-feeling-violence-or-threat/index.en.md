@@ -1,8 +1,8 @@
 ---
     weight: 362
     title: "Dream of feeling violence or threat"  # Assuming 'title' column exists
-    date: 2024-10-13T14:31:00+08:00
-    lastmod: 2024-10-13T14:31:00+08:00
+    date: 2024-10-15T15:15:00+08:00
+    lastmod: 2024-10-15T15:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['violence', 'feeling', 'or', 'Dream', 'of', 'threat']
+    tags: ['Dream', 'violence', 'threat', 'feeling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ In general, the dream of feeling violence or threat is not good or positive.Thes
 | Lucky Animal        | Seagull |
 | Lucky Place         | Theater     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Baked Ziti      |
-| Lucky Instrument    | Shakuhachi |
-| Lucky Flower        | Lobelia    |
-| Lucky Job           | Makeup Artist       |
-| Lucky Exercise      | Underwater Diving  |
-| Lucky Country       | Kazakhstan    |
+| Lucky Food          | Stuffed Peppers      |
+| Lucky Instrument    | Harp |
+| Lucky Flower        | Celosia    |
+| Lucky Job           | Environmental Scientist       |
+| Lucky Exercise      | Handball  |
+| Lucky Country       | Namibia    |
 
 
 ##  Final Reflections on Dreams

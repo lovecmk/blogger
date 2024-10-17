@@ -1,8 +1,8 @@
 ---
     weight: 844
     title: "Dream of a tiger"  # Assuming 'title' column exists
-    date: 2024-10-13T21:45:00+08:00
-    lastmod: 2024-10-13T21:45:00+08:00
+    date: 2024-10-14T17:20:00+08:00
+    lastmod: 2024-10-14T17:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['tiger', 'of', 'a', 'Dream']
+    tags: ['Dream', 'tiger']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of the dream of a tiger can vary depending on the context and the inter
 | Lucky Animal        | Turtle |
 | Lucky Place         | Theater     |
 | Lucky Color         | Green     |
-| Lucky Food          | Noodles      |
-| Lucky Instrument    | Bongo Drums |
-| Lucky Flower        | Mums    |
-| Lucky Job           | Archaeologist       |
-| Lucky Exercise      | Rowing  |
-| Lucky Country       | Cambodia    |
+| Lucky Food          | Beef Stroganoff      |
+| Lucky Instrument    | Cymbals |
+| Lucky Flower        | Marigold    |
+| Lucky Job           | Pilot       |
+| Lucky Exercise      | Golf  |
+| Lucky Country       | China    |
 
 
 ##  Final Reflections on Dreams

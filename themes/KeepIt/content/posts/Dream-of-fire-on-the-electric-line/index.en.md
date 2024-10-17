@@ -1,8 +1,8 @@
 ---
     weight: 831
     title: "Dream of fire on the electric line"  # Assuming 'title' column exists
-    date: 2024-10-13T18:50:00+08:00
-    lastmod: 2024-10-13T18:50:00+08:00
+    date: 2024-10-15T22:00:00+08:00
+    lastmod: 2024-10-15T22:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'fire', 'Dream', 'electric', 'line', 'on', 'of']
+    tags: ['Dream', 'line', 'fire', 'electric']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream mainly shows danger and conflict, so lucky elements may not be emphas
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Sea     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Pork Belly      |
-| Lucky Instrument    | Darabuka |
-| Lucky Flower        | Feverfew    |
-| Lucky Job           | Biologist       |
-| Lucky Exercise      | Circuit Workout  |
-| Lucky Country       | Norway    |
+| Lucky Food          | Mango Sticky Rice      |
+| Lucky Instrument    | Tabor |
+| Lucky Flower        | Bellflower    |
+| Lucky Job           | Dentist       |
+| Lucky Exercise      | Swimming  |
+| Lucky Country       | Mozambique    |
 
 
 ##  Final Reflections on Dreams

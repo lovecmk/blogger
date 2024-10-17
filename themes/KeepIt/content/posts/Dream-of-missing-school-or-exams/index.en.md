@@ -1,8 +1,8 @@
 ---
     weight: 355
     title: "Dream of missing school or exams"  # Assuming 'title' column exists
-    date: 2024-10-13T21:24:00+08:00
-    lastmod: 2024-10-13T21:24:00+08:00
+    date: 2024-10-12T08:46:00+08:00
+    lastmod: 2024-10-12T08:46:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['missing', 'or', 'Dream', 'of', 'school', 'exams']
+    tags: ['school', 'Dream', 'missing', 'exams']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary by personal interpretation.In general, this drea
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Theater     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Waffles      |
-| Lucky Instrument    | Claves |
-| Lucky Flower        | Firecracker Plant    |
-| Lucky Job           | Web Developer       |
-| Lucky Exercise      | Sledge Hockey  |
-| Lucky Country       | Iran    |
+| Lucky Food          | Pasta      |
+| Lucky Instrument    | Pipa |
+| Lucky Flower        | Tithonia    |
+| Lucky Job           | Quality Assurance Tester       |
+| Lucky Exercise      | Tai Chi  |
+| Lucky Country       | Cyprus    |
 
 
 ##  Final Reflections on Dreams

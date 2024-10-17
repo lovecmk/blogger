@@ -1,8 +1,8 @@
 ---
     weight: 1070
     title: "Dream about Bluebird"  # Assuming 'title' column exists
-    date: 2024-10-13T20:53:00+08:00
-    lastmod: 2024-10-13T20:53:00+08:00
+    date: 2024-10-14T01:47:00+08:00
+    lastmod: 2024-10-14T01:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['about', 'Dream', 'Bluebird']
+    tags: ['Dream', 'Bluebird']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'blue bird' dreams can be diverse.This dream can predict you a new o
 | Lucky Animal        | Chick |
 | Lucky Place         | Museum     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Stir Fry      |
-| Lucky Instrument    | Kettledrum |
-| Lucky Flower        | Bluebell    |
-| Lucky Job           | Statistician       |
-| Lucky Exercise      | Discus Throw  |
-| Lucky Country       | Kiribati    |
+| Lucky Food          | Paella      |
+| Lucky Instrument    | Sarangi |
+| Lucky Flower        | Jasmine    |
+| Lucky Job           | Catering Manager       |
+| Lucky Exercise      | CrossFit  |
+| Lucky Country       | Eswatini    |
 
 
 ##  Final Reflections on Dreams

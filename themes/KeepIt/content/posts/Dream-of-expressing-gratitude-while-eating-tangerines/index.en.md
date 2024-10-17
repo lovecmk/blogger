@@ -1,8 +1,8 @@
 ---
     weight: 66
     title: "Dream of expressing gratitude while eating tangerines"  # Assuming 'title' column exists
-    date: 2024-10-13T04:26:00+08:00
-    lastmod: 2024-10-13T04:26:00+08:00
+    date: 2024-10-11T13:42:00+08:00
+    lastmod: 2024-10-11T13:42:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['expressing', 'eating', 'gratitude', 'Dream', 'tangerines', 'of', 'while']
+    tags: ['while', 'Dream', 'gratitude', 'eating', 'expressing', 'tangerines']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can come by maintaining thanks and positive attitudes.Eat
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Ramen      |
-| Lucky Instrument    | Ney |
-| Lucky Flower        | Lobelia    |
-| Lucky Job           | Sales Manager       |
-| Lucky Exercise      | Snowboarding  |
-| Lucky Country       | Brazil    |
+| Lucky Food          | Burrito      |
+| Lucky Instrument    | Tenor Saxophone |
+| Lucky Flower        | Heliotrope    |
+| Lucky Job           | Architect       |
+| Lucky Exercise      | Step Aerobics  |
+| Lucky Country       | Thailand    |
 
 
 ##  Final Reflections on Dreams

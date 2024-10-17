@@ -1,8 +1,8 @@
 ---
     weight: 421
     title: "Dream of running away from a safe place"  # Assuming 'title' column exists
-    date: 2024-10-13T04:45:00+08:00
-    lastmod: 2024-10-13T04:45:00+08:00
+    date: 2024-10-11T01:13:00+08:00
+    lastmod: 2024-10-11T01:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['safe', 'running', 'away', 'Dream', 'place', 'a', 'from', 'of']
+    tags: ['Dream', 'running', 'place', 'from', 'away', 'safe']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream may be a sign of luck that can bring stability and peace to individua
 | Lucky Animal        | Crab |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Mango Sticky Rice      |
-| Lucky Instrument    | Melodic Percussion |
-| Lucky Flower        | Lavender    |
-| Lucky Job           | Fashion Designer       |
-| Lucky Exercise      | Cycling  |
-| Lucky Country       | United Kingdom    |
+| Lucky Food          | Prawn Crackers      |
+| Lucky Instrument    | Melodica |
+| Lucky Flower        | Safflower    |
+| Lucky Job           | Farmer       |
+| Lucky Exercise      | Parkour  |
+| Lucky Country       | Australia    |
 
 
 ##  Final Reflections on Dreams

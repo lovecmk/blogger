@@ -1,8 +1,8 @@
 ---
     weight: 203
     title: "Dream of sharing your heart with your lover"  # Assuming 'title' column exists
-    date: 2024-10-13T03:49:00+08:00
-    lastmod: 2024-10-13T03:49:00+08:00
+    date: 2024-10-15T16:16:00+08:00
+    lastmod: 2024-10-15T16:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'lover', 'Dream', 'sharing', 'heart', 'of', 'with']
+    tags: ['Dream', 'sharing', 'heart', 'lover']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ There are many good luck to be gained from 'dreams of sharing your heart with yo
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Mart     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Ratatouille      |
-| Lucky Instrument    | Glockenspiel |
-| Lucky Flower        | Iris    |
-| Lucky Job           | Doctor       |
-| Lucky Exercise      | Handball  |
-| Lucky Country       | Croatia    |
+| Lucky Food          | Quesadilla      |
+| Lucky Instrument    | Oboe |
+| Lucky Flower        | Wisteria    |
+| Lucky Job           | Anthropologist       |
+| Lucky Exercise      | Aqua Aerobics  |
+| Lucky Country       | Solomon Islands    |
 
 
 ##  Final Reflections on Dreams

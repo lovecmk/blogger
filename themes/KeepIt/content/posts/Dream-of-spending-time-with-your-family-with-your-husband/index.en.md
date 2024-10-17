@@ -1,8 +1,8 @@
 ---
     weight: 103
     title: "Dream of spending time with your family with your husband"  # Assuming 'title' column exists
-    date: 2024-10-13T20:13:00+08:00
-    lastmod: 2024-10-13T20:13:00+08:00
+    date: 2024-10-12T01:25:00+08:00
+    lastmod: 2024-10-12T01:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'your', 'Dream', 'husband', 'time', 'of', 'with', 'spending']
+    tags: ['family', 'Dream', 'spending', 'time', 'husband']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can give you a valuable enlightenment and help in your re
 | Lucky Animal        | Hamster |
 | Lucky Place         | Mart     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Minestrone      |
-| Lucky Instrument    | Trompeta |
-| Lucky Flower        | Verbena    |
-| Lucky Job           | Pastry Chef       |
-| Lucky Exercise      | CrossFit  |
-| Lucky Country       | Papua New Guinea    |
+| Lucky Food          | Brownies      |
+| Lucky Instrument    | Mandolin |
+| Lucky Flower        | Zantedeschia    |
+| Lucky Job           | Event Planner       |
+| Lucky Exercise      | Trail Running  |
+| Lucky Country       | India    |
 
 
 ##  Final Reflections on Dreams

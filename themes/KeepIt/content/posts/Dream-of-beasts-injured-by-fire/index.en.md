@@ -1,8 +1,8 @@
 ---
     weight: 838
     title: "Dream of beasts injured by fire"  # Assuming 'title' column exists
-    date: 2024-10-13T05:46:00+08:00
-    lastmod: 2024-10-13T05:46:00+08:00
+    date: 2024-10-15T15:38:00+08:00
+    lastmod: 2024-10-15T15:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['beasts', 'fire', 'Dream', 'by', 'injured', 'of']
+    tags: ['injured', 'Dream', 'fire', 'beasts']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream is not lucky to show you that you are facing difficult tasks in the c
 | Lucky Animal        | Chameleon |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Cheeseboard      |
-| Lucky Instrument    | Bagpipes |
-| Lucky Flower        | Poinsettia    |
-| Lucky Job           | Architect       |
-| Lucky Exercise      | CrossFit  |
-| Lucky Country       | Jordan    |
+| Lucky Food          | Stuffed Mushrooms      |
+| Lucky Instrument    | Sackbut |
+| Lucky Flower        | Verbena    |
+| Lucky Job           | Teacher       |
+| Lucky Exercise      | Swimming Laps  |
+| Lucky Country       | Saudi Arabia    |
 
 
 ##  Final Reflections on Dreams

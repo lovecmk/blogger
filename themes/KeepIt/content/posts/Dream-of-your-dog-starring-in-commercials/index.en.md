@@ -1,8 +1,8 @@
 ---
     weight: 1358
     title: "Dream of your dog starring in commercials"  # Assuming 'title' column exists
-    date: 2024-10-13T12:56:00+08:00
-    lastmod: 2024-10-13T12:56:00+08:00
+    date: 2024-10-15T04:26:00+08:00
+    lastmod: 2024-10-15T04:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['commercials', 'your', 'Dream', 'in', 'starring', 'of', 'dog']
+    tags: ['starring', 'commercials', 'Dream', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Snake |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Brownies      |
-| Lucky Instrument    | Sitar |
-| Lucky Flower        | Aster    |
-| Lucky Job           | Event Planner       |
-| Lucky Exercise      | Soccer  |
-| Lucky Country       | Bhutan    |
+| Lucky Food          | Baklava      |
+| Lucky Instrument    | Accordion |
+| Lucky Flower        | Jade Plant    |
+| Lucky Job           | Postman       |
+| Lucky Exercise      | Snowboarding  |
+| Lucky Country       | Tuvalu    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1090
     title: "Dream about Pegasus"  # Assuming 'title' column exists
-    date: 2024-10-13T11:27:00+08:00
-    lastmod: 2024-10-13T11:27:00+08:00
+    date: 2024-10-13T14:22:00+08:00
+    lastmod: 2024-10-13T14:22:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Pegasus', 'about', 'Dream']
+    tags: ['Dream', 'Pegasus']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can be lucky.Since Pegasus is a special and unrealistic being, this d
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Museum     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Cheesecake      |
-| Lucky Instrument    | Piccolo |
-| Lucky Flower        | Freesia    |
-| Lucky Job           | Actor       |
-| Lucky Exercise      | Hula Hooping  |
-| Lucky Country       | Turkmenistan    |
+| Lucky Food          | Prawn Crackers      |
+| Lucky Instrument    | Triangle |
+| Lucky Flower        | Feverfew    |
+| Lucky Job           | Marketing Manager       |
+| Lucky Exercise      | Racquetball  |
+| Lucky Country       | Botswana    |
 
 
 ##  Final Reflections on Dreams

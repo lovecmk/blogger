@@ -1,8 +1,8 @@
 ---
     weight: 1573
     title: "Dream of fighting in a struggle for power"  # Assuming 'title' column exists
-    date: 2024-10-13T06:45:00+08:00
-    lastmod: 2024-10-13T06:45:00+08:00
+    date: 2024-10-12T22:54:00+08:00
+    lastmod: 2024-10-12T22:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['power', 'fighting', 'Dream', 'for', 'a', 'struggle', 'in', 'of']
+    tags: ['power', 'Dream', 'struggle', 'fighting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hippo |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Kebab      |
-| Lucky Instrument    | Trombone Slide |
-| Lucky Flower        | Mums    |
-| Lucky Job           | Flight Attendant       |
-| Lucky Exercise      | Stand-Up Paddleboarding  |
-| Lucky Country       | Estonia    |
+| Lucky Food          | Pasta      |
+| Lucky Instrument    | Banjo |
+| Lucky Flower        | Bouvardia    |
+| Lucky Job           | Journalist       |
+| Lucky Exercise      | Skating  |
+| Lucky Country       | New Zealand    |
 
 
 ##  Final Reflections on Dreams

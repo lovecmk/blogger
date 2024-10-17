@@ -1,8 +1,8 @@
 ---
     weight: 833
     title: "Dream of causing fire"  # Assuming 'title' column exists
-    date: 2024-10-13T16:15:00+08:00
-    lastmod: 2024-10-13T16:15:00+08:00
+    date: 2024-10-11T10:42:00+08:00
+    lastmod: 2024-10-11T10:42:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['causing', 'of', 'fire', 'Dream']
+    tags: ['causing', 'Dream', 'fire']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can suggest that you can overcome frustration and find su
 | Lucky Animal        | Kangaroo |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Scallops      |
-| Lucky Instrument    | Darbuka |
-| Lucky Flower        | Bougainvillea    |
-| Lucky Job           | IT Specialist       |
-| Lucky Exercise      | Rugby  |
-| Lucky Country       | Tanzania    |
+| Lucky Food          | Coconut Shrimp      |
+| Lucky Instrument    | Erhu |
+| Lucky Flower        | Lantana    |
+| Lucky Job           | Oceanographer       |
+| Lucky Exercise      | Stair Climbing  |
+| Lucky Country       | Georgia    |
 
 
 ##  Final Reflections on Dreams

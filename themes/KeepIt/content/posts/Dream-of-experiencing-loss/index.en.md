@@ -1,8 +1,8 @@
 ---
     weight: 364
     title: "Dream of experiencing loss"  # Assuming 'title' column exists
-    date: 2024-10-13T11:47:00+08:00
-    lastmod: 2024-10-13T11:47:00+08:00
+    date: 2024-10-12T10:52:00+08:00
+    lastmod: 2024-10-12T10:52:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['loss', 'experiencing', 'of', 'Dream']
+    tags: ['experiencing', 'loss', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The dream of experiencing losses mainly shows anxiety and concern, but it can be
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Green     |
-| Lucky Food          | Fajitas      |
-| Lucky Instrument    | Viola |
-| Lucky Flower        | Alyssum    |
-| Lucky Job           | Physical Therapist       |
-| Lucky Exercise      | Shot Put  |
-| Lucky Country       | Syria    |
+| Lucky Food          | Caprese Salad      |
+| Lucky Instrument    | Marimba |
+| Lucky Flower        | Safflower    |
+| Lucky Job           | Hair Stylist       |
+| Lucky Exercise      | Kripalu Yoga  |
+| Lucky Country       | Canada    |
 
 
 ##  Final Reflections on Dreams

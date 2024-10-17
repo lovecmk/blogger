@@ -1,8 +1,8 @@
 ---
     weight: 224
     title: "Dream of sharing romantic moments with lovers"  # Assuming 'title' column exists
-    date: 2024-10-13T07:10:00+08:00
-    lastmod: 2024-10-13T07:10:00+08:00
+    date: 2024-10-14T02:36:00+08:00
+    lastmod: 2024-10-14T02:36:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lovers', 'romantic', 'moments', 'Dream', 'sharing', 'of', 'with']
+    tags: ['lovers', 'Dream', 'moments', 'sharing', 'romantic']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual's interpretation.But
 | Lucky Animal        | Otter |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Gelato      |
-| Lucky Instrument    | Bouzouki |
-| Lucky Flower        | Perennial Aster    |
-| Lucky Job           | Architect       |
-| Lucky Exercise      | Box Jumps  |
-| Lucky Country       | Turkey    |
+| Lucky Food          | Risotto      |
+| Lucky Instrument    | Harmonic Piano |
+| Lucky Flower        | Verbena    |
+| Lucky Job           | Interpreter       |
+| Lucky Exercise      | Rowing  |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

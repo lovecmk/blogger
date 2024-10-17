@@ -1,8 +1,8 @@
 ---
     weight: 1075
     title: "Dream about orangutan"  # Assuming 'title' column exists
-    date: 2024-10-13T06:24:00+08:00
-    lastmod: 2024-10-13T06:24:00+08:00
+    date: 2024-10-14T15:07:00+08:00
+    lastmod: 2024-10-14T15:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['about', 'Dream', 'orangutan']
+    tags: ['orangutan', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'orangutan' dreams can be mainly in situations based on solutions or
 | Lucky Animal        | Snake |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Red     |
-| Lucky Food          | Baked Ziti      |
-| Lucky Instrument    | Melodic Percussion |
-| Lucky Flower        | Mums    |
-| Lucky Job           | App Developer       |
-| Lucky Exercise      | Racquetball  |
-| Lucky Country       | Saudi Arabia    |
+| Lucky Food          | Omelette      |
+| Lucky Instrument    | Pandeiro |
+| Lucky Flower        | Larkspur    |
+| Lucky Job           | Software Engineer       |
+| Lucky Exercise      | Aqua Aerobics  |
+| Lucky Country       | Papua New Guinea    |
 
 
 ##  Final Reflections on Dreams

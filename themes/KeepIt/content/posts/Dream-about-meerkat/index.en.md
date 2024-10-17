@@ -1,8 +1,8 @@
 ---
     weight: 1073
     title: "Dream about meerkat"  # Assuming 'title' column exists
-    date: 2024-10-13T02:26:00+08:00
-    lastmod: 2024-10-13T02:26:00+08:00
+    date: 2024-10-11T09:12:00+08:00
+    lastmod: 2024-10-11T09:12:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['meerkat', 'about', 'Dream']
+    tags: ['Dream', 'meerkat']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'Meercat' dreams may vary depending on the interpretation and experi
 | Lucky Animal        | Elephant |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Quiche      |
-| Lucky Instrument    | Trombone |
-| Lucky Flower        | Lobelia    |
-| Lucky Job           | Pilot       |
+| Lucky Food          | Duck Confit      |
+| Lucky Instrument    | Synthesizer |
+| Lucky Flower        | Petunia    |
+| Lucky Job           | Field Technician       |
 | Lucky Exercise      | Shot Put  |
-| Lucky Country       | Switzerland    |
+| Lucky Country       | Marshall Islands    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 865
     title: "Dream of deer"  # Assuming 'title' column exists
-    date: 2024-10-13T09:57:00+08:00
-    lastmod: 2024-10-13T09:57:00+08:00
+    date: 2024-10-14T10:00:00+08:00
+    lastmod: 2024-10-14T10:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'deer', 'Dream']
+    tags: ['Dream', 'deer']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Dreams of deer can often have some signs.Deer is known as an animal that symboli
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Tofu      |
-| Lucky Instrument    | Melodica |
-| Lucky Flower        | Ranunculus    |
-| Lucky Job           | Architect       |
-| Lucky Exercise      | Interval Training  |
-| Lucky Country       | Poland    |
+| Lucky Food          | Steak      |
+| Lucky Instrument    | Viola |
+| Lucky Flower        | Sea Lavender    |
+| Lucky Job           | Veterinarian       |
+| Lucky Exercise      | Lunges  |
+| Lucky Country       | Nepal    |
 
 
 ##  Final Reflections on Dreams

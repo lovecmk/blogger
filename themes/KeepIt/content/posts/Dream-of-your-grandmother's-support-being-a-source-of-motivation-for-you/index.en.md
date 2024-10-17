@@ -1,8 +1,8 @@
 ---
     weight: 1617
     title: "Dream of your husband achieving a lifelong dream."  # Assuming 'title' column exists
-    date: 2024-10-13T02:36:00+08:00
-    lastmod: 2024-10-13T02:36:00+08:00
+    date: 2024-10-13T01:58:00+08:00
+    lastmod: 2024-10-13T01:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'Dream', 'lifelong', 'husband', 'a', 'achieving', 'of', 'dream.']
+    tags: ['Dream', 'dream', 'lifelong', 'husband', 'achieving']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Green     |
-| Lucky Food          | Brownies      |
-| Lucky Instrument    | Tenor Saxophone |
-| Lucky Flower        | Iris    |
-| Lucky Job           | Research Scientist       |
-| Lucky Exercise      | Spin Class  |
-| Lucky Country       | Armenia    |
+| Lucky Food          | Burrito      |
+| Lucky Instrument    | Drums |
+| Lucky Flower        | Kalanchoe    |
+| Lucky Job           | Landscaper       |
+| Lucky Exercise      | Stand-Up Paddleboarding  |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

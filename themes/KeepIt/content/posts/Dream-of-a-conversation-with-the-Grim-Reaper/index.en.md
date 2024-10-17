@@ -1,8 +1,8 @@
 ---
     weight: 1860
     title: "Dream of dying and feeling confused"  # Assuming 'title' column exists
-    date: 2024-10-13T23:46:00+08:00
-    lastmod: 2024-10-13T23:46:00+08:00
+    date: 2024-10-14T02:35:00+08:00
+    lastmod: 2024-10-14T02:35:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dying', 'feeling', 'Dream', 'confused', 'and', 'of']
+    tags: ['Dream', 'feeling', 'dying', 'confused']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings a sense of good luck and positive energy. Through the presence
 | Lucky Animal        | Gorilla |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Chia Pudding      |
-| Lucky Instrument    | Accordion Synth |
-| Lucky Flower        | Larkspur    |
-| Lucky Job           | Chef de Cuisine       |
-| Lucky Exercise      | Trail Running  |
-| Lucky Country       | Mexico    |
+| Lucky Food          | Chocolate      |
+| Lucky Instrument    | Cajón |
+| Lucky Flower        | Firecracker Plant    |
+| Lucky Job           | Taxi Driver       |
+| Lucky Exercise      | Jump Squats  |
+| Lucky Country       | Qatar    |
 
 
 ##  Final Reflections on Dreams

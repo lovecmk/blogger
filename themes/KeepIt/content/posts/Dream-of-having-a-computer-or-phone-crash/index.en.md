@@ -1,8 +1,8 @@
 ---
     weight: 1311
     title: "Dream of having a computer or phone crash"  # Assuming 'title' column exists
-    date: 2024-10-13T04:51:00+08:00
-    lastmod: 2024-10-13T04:51:00+08:00
+    date: 2024-10-15T01:19:00+08:00
+    lastmod: 2024-10-15T01:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['crash', 'or', 'of', 'Dream', 'a', 'phone', 'computer', 'having']
+    tags: ['computer', 'Dream', 'crash', 'phone', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ In terms of luck, this dream does not necessarily bring luck in a positive or ne
 | Lucky Animal        | Sloth |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Crab      |
-| Lucky Instrument    | Cowbell |
-| Lucky Flower        | Chrysanthemum    |
-| Lucky Job           | Baker       |
-| Lucky Exercise      | Dance Aerobics  |
-| Lucky Country       | Ireland    |
+| Lucky Food          | Pasta Primavera      |
+| Lucky Instrument    | Clarinet |
+| Lucky Flower        | Strelitzia    |
+| Lucky Job           | Public Relations Specialist       |
+| Lucky Exercise      | Skiing  |
+| Lucky Country       | Eswatini    |
 
 
 ##  Final Reflections on Dreams

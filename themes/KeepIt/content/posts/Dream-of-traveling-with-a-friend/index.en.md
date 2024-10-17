@@ -1,8 +1,8 @@
 ---
     weight: 692
     title: "Dream of traveling with a friend"  # Assuming 'title' column exists
-    date: 2024-10-13T20:11:00+08:00
-    lastmod: 2024-10-13T20:11:00+08:00
+    date: 2024-10-15T13:26:00+08:00
+    lastmod: 2024-10-15T13:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['friend', 'of', 'traveling', 'Dream', 'a', 'with']
+    tags: ['Dream', 'traveling', 'friend']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can indicate that good luck can come due to the pleasant experience a
 | Lucky Animal        | Gorilla |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Fish and Chips      |
-| Lucky Instrument    | Slide Guitar |
-| Lucky Flower        | Bellflower    |
-| Lucky Job           | Bus Driver       |
-| Lucky Exercise      | Kettlebell Training  |
-| Lucky Country       | Bangladesh    |
+| Lucky Food          | Tofu      |
+| Lucky Instrument    | Tuba |
+| Lucky Flower        | Mullein    |
+| Lucky Job           | Dentist       |
+| Lucky Exercise      | Cycling  |
+| Lucky Country       | Zambia    |
 
 
 ##  Final Reflections on Dreams

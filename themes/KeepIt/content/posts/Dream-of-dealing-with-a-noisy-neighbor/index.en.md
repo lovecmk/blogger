@@ -1,8 +1,8 @@
 ---
     weight: 1390
     title: "Dream of dealing with a noisy neighbor"  # Assuming 'title' column exists
-    date: 2024-10-13T00:34:00+08:00
-    lastmod: 2024-10-13T00:34:00+08:00
+    date: 2024-10-12T20:45:00+08:00
+    lastmod: 2024-10-12T20:45:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['noisy', 'neighbor', 'Dream', 'a', 'of', 'with', 'dealing']
+    tags: ['Dream', 'neighbor', 'dealing', 'noisy']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Seal |
 | Lucky Place         | Sea     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Burger      |
-| Lucky Instrument    | Recorder |
-| Lucky Flower        | Lily    |
-| Lucky Job           | Art Director       |
-| Lucky Exercise      | Pole Vaulting  |
-| Lucky Country       | Canada    |
+| Lucky Food          | Pico de Gallo      |
+| Lucky Instrument    | Mandolin |
+| Lucky Flower        | Petunia    |
+| Lucky Job           | Landscaper       |
+| Lucky Exercise      | Dancing  |
+| Lucky Country       | Czech Republic    |
 
 
 ##  Final Reflections on Dreams

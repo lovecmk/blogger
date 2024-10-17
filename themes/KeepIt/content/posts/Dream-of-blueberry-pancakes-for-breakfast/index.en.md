@@ -1,8 +1,8 @@
 ---
     weight: 1823
     title: "Dream of slicing open a papaya"  # Assuming 'title' column exists
-    date: 2024-10-13T17:38:00+08:00
-    lastmod: 2024-10-13T17:38:00+08:00
+    date: 2024-10-12T04:06:00+08:00
+    lastmod: 2024-10-12T04:06:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['slicing', 'Dream', 'open', 'a', 'papaya', 'of']
+    tags: ['Dream', 'open', 'papaya', 'slicing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rhino |
 | Lucky Place         | Park     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Baked Potato      |
-| Lucky Instrument    | Accordion |
-| Lucky Flower        | Foxglove    |
-| Lucky Job           | Neuroscientist       |
-| Lucky Exercise      | Paddleboarding  |
-| Lucky Country       | Denmark    |
+| Lucky Food          | Minestrone      |
+| Lucky Instrument    | Maracas |
+| Lucky Flower        | Stephanotis    |
+| Lucky Job           | Interpreter       |
+| Lucky Exercise      | Sprinting  |
+| Lucky Country       | Afghanistan    |
 
 
 ##  Final Reflections on Dreams

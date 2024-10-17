@@ -1,8 +1,8 @@
 ---
     weight: 1671
     title: "Dream of your cat chasing after a toy"  # Assuming 'title' column exists
-    date: 2024-10-13T05:09:00+08:00
-    lastmod: 2024-10-13T05:09:00+08:00
+    date: 2024-10-13T18:59:00+08:00
+    lastmod: 2024-10-13T18:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['chasing', 'toy', 'your', 'cat', 'after', 'Dream', 'a', 'of']
+    tags: ['Dream', 'toy', 'chasing', 'cat', 'after']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Park     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Lasagna      |
-| Lucky Instrument    | Zouaves |
-| Lucky Flower        | Tithonia    |
-| Lucky Job           | Marketing Manager       |
-| Lucky Exercise      | Lacrosse  |
-| Lucky Country       | South Korea    |
+| Lucky Food          | Chocolate Mousse      |
+| Lucky Instrument    | Cymbals |
+| Lucky Flower        | Cyclamen    |
+| Lucky Job           | Director       |
+| Lucky Exercise      | Pilates  |
+| Lucky Country       | Tajikistan    |
 
 
 ##  Final Reflections on Dreams

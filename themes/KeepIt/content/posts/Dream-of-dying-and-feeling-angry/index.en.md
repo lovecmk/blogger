@@ -1,8 +1,8 @@
 ---
     weight: 1537
     title: "Dream of dying and feeling angry"  # Assuming 'title' column exists
-    date: 2024-10-13T12:33:00+08:00
-    lastmod: 2024-10-13T12:33:00+08:00
+    date: 2024-10-14T08:36:00+08:00
+    lastmod: 2024-10-14T08:36:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dying', 'feeling', 'Dream', 'angry', 'and', 'of']
+    tags: ['Dream', 'angry', 'feeling', 'dying']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Shrimp      |
-| Lucky Instrument    | Tenor Saxophone |
-| Lucky Flower        | Marigold    |
-| Lucky Job           | IT Specialist       |
-| Lucky Exercise      | Slacklining  |
-| Lucky Country       | Oman    |
+| Lucky Food          | Pasta      |
+| Lucky Instrument    | Cowbell |
+| Lucky Flower        | Maranta    |
+| Lucky Job           | SEO Specialist       |
+| Lucky Exercise      | Martial Arts  |
+| Lucky Country       | Latvia    |
 
 
 ##  Final Reflections on Dreams

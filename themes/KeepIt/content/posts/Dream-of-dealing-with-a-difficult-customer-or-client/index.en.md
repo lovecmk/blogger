@@ -1,8 +1,8 @@
 ---
     weight: 1320
     title: "Dream of dealing with a difficult customer or client"  # Assuming 'title' column exists
-    date: 2024-10-13T07:41:00+08:00
-    lastmod: 2024-10-13T07:41:00+08:00
+    date: 2024-10-15T19:07:00+08:00
+    lastmod: 2024-10-15T19:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['client', 'or', 'Dream', 'difficult', 'a', 'of', 'customer', 'with', 'dealing']
+    tags: ['client', 'Dream', 'difficult', 'dealing', 'customer']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Deer |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Spring Roll      |
-| Lucky Instrument    | Electric Violin |
-| Lucky Flower        | Gladiolus    |
-| Lucky Job           | Event Planner       |
-| Lucky Exercise      | Belly Dancing  |
-| Lucky Country       | China    |
+| Lucky Food          | Chicken Parmesan      |
+| Lucky Instrument    | Kettledrum |
+| Lucky Flower        | Peony    |
+| Lucky Job           | Project Manager       |
+| Lucky Exercise      | Futsal  |
+| Lucky Country       | Malaysia    |
 
 
 ##  Final Reflections on Dreams

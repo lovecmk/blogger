@@ -1,8 +1,8 @@
 ---
     weight: 1401
     title: "Dream of your dog starting a charity foundation"  # Assuming 'title' column exists
-    date: 2024-10-13T19:11:00+08:00
-    lastmod: 2024-10-13T19:11:00+08:00
+    date: 2024-10-11T14:50:00+08:00
+    lastmod: 2024-10-11T14:50:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'foundation', 'Dream', 'starting', 'a', 'of', 'charity', 'dog']
+    tags: ['Dream', 'starting', 'foundation', 'charity', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hyena |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Salad      |
-| Lucky Instrument    | Tenor Saxophone |
-| Lucky Flower        | Calla Lily    |
-| Lucky Job           | Project Manager       |
-| Lucky Exercise      | Tai Chi  |
-| Lucky Country       | Spain    |
+| Lucky Food          | Chips      |
+| Lucky Instrument    | Tromba |
+| Lucky Flower        | Peony    |
+| Lucky Job           | Human Resources Manager       |
+| Lucky Exercise      | Cross-Country Skiing  |
+| Lucky Country       | Estonia    |
 
 
 ##  Final Reflections on Dreams

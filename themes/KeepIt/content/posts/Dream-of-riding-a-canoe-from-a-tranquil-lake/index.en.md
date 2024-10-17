@@ -1,8 +1,8 @@
 ---
     weight: 750
     title: "Dream of riding a canoe from a tranquil lake"  # Assuming 'title' column exists
-    date: 2024-10-13T15:45:00+08:00
-    lastmod: 2024-10-13T15:45:00+08:00
+    date: 2024-10-11T03:48:00+08:00
+    lastmod: 2024-10-11T03:48:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lake', 'Dream', 'a', 'from', 'of', 'riding', 'tranquil', 'canoe']
+    tags: ['Dream', 'lake', 'tranquil', 'from', 'canoe', 'riding']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can give you a good luck to experience inner peace and quiet conditio
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Red     |
-| Lucky Food          | Ceviche      |
-| Lucky Instrument    | Electric Guitar |
-| Lucky Flower        | Iris    |
-| Lucky Job           | Writer       |
-| Lucky Exercise      | Horseback Riding  |
-| Lucky Country       | Qatar    |
+| Lucky Food          | Tofu      |
+| Lucky Instrument    | Oboe |
+| Lucky Flower        | Daisy    |
+| Lucky Job           | Data Scientist       |
+| Lucky Exercise      | Mountain Climbers  |
+| Lucky Country       | Sri Lanka    |
 
 
 ##  Final Reflections on Dreams

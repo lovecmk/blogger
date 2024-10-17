@@ -1,8 +1,8 @@
 ---
     weight: 1276
     title: "Dream of being on stage or performing in front of others"  # Assuming 'title' column exists
-    date: 2024-10-13T11:50:00+08:00
-    lastmod: 2024-10-13T11:50:00+08:00
+    date: 2024-10-15T09:07:00+08:00
+    lastmod: 2024-10-15T09:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['front', 'or', 'Dream', 'stage', 'being', 'performing', 'others', 'on', 'in', 'of']
+    tags: ['being', 'others', 'Dream', 'front', 'stage', 'performing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Bear |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Clams      |
-| Lucky Instrument    | Mandolin |
-| Lucky Flower        | Maranta    |
-| Lucky Job           | Makeup Artist       |
-| Lucky Exercise      | Handball  |
-| Lucky Country       | Serbia    |
+| Lucky Food          | Chia Pudding      |
+| Lucky Instrument    | Lute |
+| Lucky Flower        | Thunbergia    |
+| Lucky Job           | Architect       |
+| Lucky Exercise      | Box Jumps  |
+| Lucky Country       | Turkey    |
 
 
 ##  Final Reflections on Dreams

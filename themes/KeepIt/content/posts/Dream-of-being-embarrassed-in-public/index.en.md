@@ -1,8 +1,8 @@
 ---
     weight: 1260
     title: "Dream of being embarrassed in public"  # Assuming 'title' column exists
-    date: 2024-10-13T19:09:00+08:00
-    lastmod: 2024-10-13T19:09:00+08:00
+    date: 2024-10-13T09:04:00+08:00
+    lastmod: 2024-10-13T09:04:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'being', 'public', 'in', 'of', 'embarrassed']
+    tags: ['being', 'Dream', 'public', 'embarrassed']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Chips      |
-| Lucky Instrument    | Triangle |
-| Lucky Flower        | Gladiolus    |
-| Lucky Job           | Lawyer       |
-| Lucky Exercise      | Juggling  |
-| Lucky Country       | United Kingdom    |
+| Lucky Food          | Pasta Primavera      |
+| Lucky Instrument    | Accordion |
+| Lucky Flower        | Tiger Lily    |
+| Lucky Job           | Landscaper       |
+| Lucky Exercise      | Dancing  |
+| Lucky Country       | Poland    |
 
 
 ##  Final Reflections on Dreams

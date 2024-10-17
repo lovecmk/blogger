@@ -1,8 +1,8 @@
 ---
     weight: 1395
     title: "Dream of receiving unexpected news"  # Assuming 'title' column exists
-    date: 2024-10-13T19:32:00+08:00
-    lastmod: 2024-10-13T19:32:00+08:00
+    date: 2024-10-12T01:12:00+08:00
+    lastmod: 2024-10-12T01:12:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['receiving', 'news', 'Dream', 'unexpected', 'of']
+    tags: ['Dream', 'news', 'receiving', 'unexpected']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Mouse |
 | Lucky Place         | Park     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Beef Tacos      |
-| Lucky Instrument    | Conga |
-| Lucky Flower        | Petal Plant    |
-| Lucky Job           | Producer       |
-| Lucky Exercise      | Interval Training  |
-| Lucky Country       | Cambodia    |
+| Lucky Food          | Tiramisu      |
+| Lucky Instrument    | Flute |
+| Lucky Flower        | Ornamental Pepper    |
+| Lucky Job           | Real Estate Agent       |
+| Lucky Exercise      | Parkour Training  |
+| Lucky Country       | Qatar    |
 
 
 ##  Final Reflections on Dreams

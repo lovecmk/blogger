@@ -1,8 +1,8 @@
 ---
     weight: 385
     title: "Dream of dealing with conflicts or problems with family or friends"  # Assuming 'title' column exists
-    date: 2024-10-13T21:14:00+08:00
-    lastmod: 2024-10-13T21:14:00+08:00
+    date: 2024-10-14T01:00:00+08:00
+    lastmod: 2024-10-14T01:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'conflicts', 'or', 'Dream', 'problems', 'of', 'with', 'friends', 'dealing']
+    tags: ['family', 'Dream', 'friends', 'dealing', 'conflicts', 'problems']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you good luck in the process of dealing with and solving pr
 | Lucky Animal        | Bear |
 | Lucky Place         | Sea     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Chowder      |
-| Lucky Instrument    | Balalaika |
-| Lucky Flower        | Nymphaea    |
-| Lucky Job           | Graphic Designer       |
-| Lucky Exercise      | Dance Aerobics  |
-| Lucky Country       | Finland    |
+| Lucky Food          | Pesto      |
+| Lucky Instrument    | Synthesizer |
+| Lucky Flower        | Carnation    |
+| Lucky Job           | Research Scientist       |
+| Lucky Exercise      | Underwater Diving  |
+| Lucky Country       | Bangladesh    |
 
 
 ##  Final Reflections on Dreams

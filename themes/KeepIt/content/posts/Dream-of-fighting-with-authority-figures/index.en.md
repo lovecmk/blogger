@@ -1,8 +1,8 @@
 ---
     weight: 2005
     title: "Dream of an orange grove"  # Assuming 'title' column exists
-    date: 2024-10-13T08:06:00+08:00
-    lastmod: 2024-10-13T08:06:00+08:00
+    date: 2024-10-15T16:12:00+08:00
+    lastmod: 2024-10-15T16:12:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['grove', 'Dream', 'orange', 'an', 'of']
+    tags: ['Dream', 'orange', 'grove', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Polar bear |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Steak      |
-| Lucky Instrument    | Bass Clarinet |
-| Lucky Flower        | Poppy    |
-| Lucky Job           | IT Specialist       |
-| Lucky Exercise      | Water Polo  |
-| Lucky Country       | Sweden    |
+| Lucky Food          | Roast Chicken      |
+| Lucky Instrument    | Bandoneon |
+| Lucky Flower        | Wisteria    |
+| Lucky Job           | Field Technician       |
+| Lucky Exercise      | Yoga Flow  |
+| Lucky Country       | Zimbabwe    |
 
 
 ##  Final Reflections on Dreams

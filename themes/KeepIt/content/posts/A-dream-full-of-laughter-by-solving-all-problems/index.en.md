@@ -1,8 +1,8 @@
 ---
     weight: 637
     title: "A dream full of laughter by solving all problems"  # Assuming 'title' column exists
-    date: 2024-10-13T05:04:00+08:00
-    lastmod: 2024-10-13T05:04:00+08:00
+    date: 2024-10-15T13:27:00+08:00
+    lastmod: 2024-10-15T13:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['solving', 'laughter', 'full', 'all', 'dream', 'by', 'problems', 'of', 'A']
+    tags: ['solving', 'dream', 'full', 'A', 'all', 'laughter', 'problems']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you a variety of luck.If the problems are solved and overco
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Sea     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Scone      |
-| Lucky Instrument    | Mandolin |
-| Lucky Flower        | Ragged Robin    |
-| Lucky Job           | Stockbroker       |
-| Lucky Exercise      | Leg Press  |
-| Lucky Country       | Turkey    |
+| Lucky Food          | Beef Wellington      |
+| Lucky Instrument    | Triangle |
+| Lucky Flower        | Crown Daisy    |
+| Lucky Job           | Farmer       |
+| Lucky Exercise      | Yoga  |
+| Lucky Country       | Nepal    |
 
 
 ##  Final Reflections on Dreams

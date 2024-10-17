@@ -1,8 +1,8 @@
 ---
     weight: 600
     title: "Dream of walking on the clouds"  # Assuming 'title' column exists
-    date: 2024-10-13T01:37:00+08:00
-    lastmod: 2024-10-13T01:37:00+08:00
+    date: 2024-10-15T11:53:00+08:00
+    lastmod: 2024-10-15T11:53:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'Dream', 'clouds', 'on', 'of', 'walking']
+    tags: ['Dream', 'walking', 'clouds']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The dream of walking on the clouds can symbolize good luck and success.This drea
 | Lucky Animal        | Leopard |
 | Lucky Place         | River     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Salad      |
-| Lucky Instrument    | Synthesizer |
-| Lucky Flower        | Yarrow    |
-| Lucky Job           | Nuclear Engineer       |
-| Lucky Exercise      | Mobility Training  |
-| Lucky Country       | Kyrgyzstan    |
+| Lucky Food          | Chowder      |
+| Lucky Instrument    | Horn |
+| Lucky Flower        | Scabiosa    |
+| Lucky Job           | Life Coach       |
+| Lucky Exercise      | Bouldering  |
+| Lucky Country       | Italy    |
 
 
 ##  Final Reflections on Dreams

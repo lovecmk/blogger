@@ -1,8 +1,8 @@
 ---
     weight: 782
     title: "Dream of running freely in a fantastic city"  # Assuming 'title' column exists
-    date: 2024-10-13T17:53:00+08:00
-    lastmod: 2024-10-13T17:53:00+08:00
+    date: 2024-10-15T02:03:00+08:00
+    lastmod: 2024-10-15T02:03:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['freely', 'running', 'city', 'Dream', 'a', 'in', 'of', 'fantastic']
+    tags: ['Dream', 'running', 'freely', 'fantastic', 'city']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream is a time when freedom and exploration can meet new experiences and o
 | Lucky Animal        | Sparrow |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Green     |
-| Lucky Food          | Prawn Crackers      |
-| Lucky Instrument    | Maracas |
-| Lucky Flower        | Hoya    |
-| Lucky Job           | Customer Service Representative       |
-| Lucky Exercise      | Lacrosse  |
-| Lucky Country       | Canada    |
+| Lucky Food          | Burrito      |
+| Lucky Instrument    | Electric Violin |
+| Lucky Flower        | Borage    |
+| Lucky Job           | Content Creator       |
+| Lucky Exercise      | Cross-Country Skiing  |
+| Lucky Country       | Croatia    |
 
 
 ##  Final Reflections on Dreams

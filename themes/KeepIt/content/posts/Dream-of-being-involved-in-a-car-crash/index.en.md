@@ -1,8 +1,8 @@
 ---
     weight: 1377
     title: "Dream of being involved in a car crash"  # Assuming 'title' column exists
-    date: 2024-10-13T22:19:00+08:00
-    lastmod: 2024-10-13T22:19:00+08:00
+    date: 2024-10-12T01:19:00+08:00
+    lastmod: 2024-10-12T01:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['involved', 'crash', 'Dream', 'being', 'a', 'in', 'car', 'of']
+    tags: ['being', 'Dream', 'involved', 'crash', 'car']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Horse |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Samosa      |
-| Lucky Instrument    | Clarinet |
-| Lucky Flower        | Aster    |
-| Lucky Job           | Nuclear Engineer       |
-| Lucky Exercise      | Paddleboarding  |
-| Lucky Country       | China    |
+| Lucky Food          | Pizza      |
+| Lucky Instrument    | Charango |
+| Lucky Flower        | Alyssum    |
+| Lucky Job           | Bus Driver       |
+| Lucky Exercise      | Ballet  |
+| Lucky Country       | Austria    |
 
 
 ##  Final Reflections on Dreams

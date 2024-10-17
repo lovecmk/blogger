@@ -1,8 +1,8 @@
 ---
     weight: 1147
     title: "Dream about Musician"  # Assuming 'title' column exists
-    date: 2024-10-13T10:54:00+08:00
-    lastmod: 2024-10-13T10:54:00+08:00
+    date: 2024-10-15T21:48:00+08:00
+    lastmod: 2024-10-15T21:48:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Musician', 'about', 'Dream']
+    tags: ['Musician', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can mean that you can have the opportunity to show your c
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | White     |
-| Lucky Food          | Beef Tacos      |
-| Lucky Instrument    | Wooden Flute |
-| Lucky Flower        | Petunia    |
-| Lucky Job           | Interpreter       |
-| Lucky Exercise      | Cycling  |
-| Lucky Country       | Kiribati    |
+| Lucky Food          | Muffin      |
+| Lucky Instrument    | Oboe |
+| Lucky Flower        | Maranta    |
+| Lucky Job           | Mathematician       |
+| Lucky Exercise      | Beach Volleyball  |
+| Lucky Country       | Botswana    |
 
 
 ##  Final Reflections on Dreams

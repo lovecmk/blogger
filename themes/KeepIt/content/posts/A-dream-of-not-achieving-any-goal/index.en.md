@@ -1,8 +1,8 @@
 ---
     weight: 461
     title: "A dream of not achieving any goal"  # Assuming 'title' column exists
-    date: 2024-10-13T09:11:00+08:00
-    lastmod: 2024-10-13T09:11:00+08:00
+    date: 2024-10-12T03:32:00+08:00
+    lastmod: 2024-10-12T03:32:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['goal', 'not', 'dream', 'achieving', 'of', 'A', 'any']
+    tags: ['goal', 'dream', 'A', 'not', 'any', 'achieving']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ What is this dream luck to you?Even if you can't achieve your goals, this dream 
 | Lucky Animal        | Chicken |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Red     |
-| Lucky Food          | Burrito      |
-| Lucky Instrument    | Trompeta |
-| Lucky Flower        | Zantedeschia    |
-| Lucky Job           | Police Officer       |
-| Lucky Exercise      | Dance Aerobics  |
-| Lucky Country       | Palau    |
+| Lucky Food          | Beef Stroganoff      |
+| Lucky Instrument    | Tambourine |
+| Lucky Flower        | Zinnia    |
+| Lucky Job           | Teacher       |
+| Lucky Exercise      | Pull-Ups  |
+| Lucky Country       | Georgia    |
 
 
 ##  Final Reflections on Dreams

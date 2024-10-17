@@ -1,8 +1,8 @@
 ---
     weight: 1223
     title: "Dream about technician"  # Assuming 'title' column exists
-    date: 2024-10-13T03:43:00+08:00
-    lastmod: 2024-10-13T03:43:00+08:00
+    date: 2024-10-13T22:54:00+08:00
+    lastmod: 2024-10-13T22:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['technician', 'about', 'Dream']
+    tags: ['Dream', 'technician']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of dreams can depend on individuals.In some dreams, you may have intere
 | Lucky Animal        | Chicken |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Caprese Skewers      |
-| Lucky Instrument    | Pipa |
-| Lucky Flower        | Bee Balm    |
-| Lucky Job           | Police Officer       |
-| Lucky Exercise      | Lacrosse  |
-| Lucky Country       | Russia    |
+| Lucky Food          | Tacos      |
+| Lucky Instrument    | Tenor Guitar |
+| Lucky Flower        | Cyclamen    |
+| Lucky Job           | Dentist       |
+| Lucky Exercise      | Beach Volleyball  |
+| Lucky Country       | Canada    |
 
 
 ##  Final Reflections on Dreams

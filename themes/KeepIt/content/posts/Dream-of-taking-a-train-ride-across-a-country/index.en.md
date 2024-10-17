@@ -1,8 +1,8 @@
 ---
     weight: 1323
     title: "Dream of taking a train ride across a country"  # Assuming 'title' column exists
-    date: 2024-10-13T07:58:00+08:00
-    lastmod: 2024-10-13T07:58:00+08:00
+    date: 2024-10-11T19:42:00+08:00
+    lastmod: 2024-10-11T19:42:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['ride', 'taking', 'Dream', 'train', 'a', 'across', 'country', 'of']
+    tags: ['Dream', 'ride', 'taking', 'country', 'train', 'across']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Lake     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Casserole      |
-| Lucky Instrument    | Oboe |
-| Lucky Flower        | Hydrangea    |
-| Lucky Job           | Data Analyst       |
-| Lucky Exercise      | Salsa  |
-| Lucky Country       | Kiribati    |
+| Lucky Food          | Popcorn      |
+| Lucky Instrument    | Tama |
+| Lucky Flower        | Peony    |
+| Lucky Job           | Oceanographer       |
+| Lucky Exercise      | Horseback Riding  |
+| Lucky Country       | Argentina    |
 
 
 ##  Final Reflections on Dreams

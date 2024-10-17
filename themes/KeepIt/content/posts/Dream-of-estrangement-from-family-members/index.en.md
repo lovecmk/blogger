@@ -1,8 +1,8 @@
 ---
     weight: 1731
     title: "Dream of hostility between family members"  # Assuming 'title' column exists
-    date: 2024-10-13T20:23:00+08:00
-    lastmod: 2024-10-13T20:23:00+08:00
+    date: 2024-10-14T16:17:00+08:00
+    lastmod: 2024-10-14T16:17:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['between', 'family', 'Dream', 'hostility', 'of', 'members']
+    tags: ['family', 'Dream', 'members', 'hostility']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream does not inherently bring luck, but it can be viewed as an opportunit
 | Lucky Animal        | Deer |
 | Lucky Place         | Mart     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Caprese Skewers      |
-| Lucky Instrument    | Flute |
-| Lucky Flower        | Heliotrope    |
-| Lucky Job           | Hair Stylist       |
-| Lucky Exercise      | Zumba  |
-| Lucky Country       | Mozambique    |
+| Lucky Food          | Tacos      |
+| Lucky Instrument    | Xylophone |
+| Lucky Flower        | Geranium    |
+| Lucky Job           | Catering Manager       |
+| Lucky Exercise      | Interval Training  |
+| Lucky Country       | Greece    |
 
 
 ##  Final Reflections on Dreams

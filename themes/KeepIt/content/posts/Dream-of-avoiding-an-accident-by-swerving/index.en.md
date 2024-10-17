@@ -1,8 +1,8 @@
 ---
     weight: 1327
     title: "Dream of avoiding an accident by swerving"  # Assuming 'title' column exists
-    date: 2024-10-13T06:41:00+08:00
-    lastmod: 2024-10-13T06:41:00+08:00
+    date: 2024-10-14T14:17:00+08:00
+    lastmod: 2024-10-14T14:17:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['swerving', 'avoiding', 'Dream', 'an', 'by', 'accident', 'of']
+    tags: ['Dream', 'avoiding', 'swerving', 'accident', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Library     |
 | Lucky Color         | White     |
-| Lucky Food          | Sushi      |
-| Lucky Instrument    | Drums |
-| Lucky Flower        | Wisteria    |
+| Lucky Food          | Scone      |
+| Lucky Instrument    | Ukulele |
+| Lucky Flower        | Vinca    |
 | Lucky Job           | Public Relations Specialist       |
-| Lucky Exercise      | Soccer  |
-| Lucky Country       | Tanzania    |
+| Lucky Exercise      | Horseback Riding  |
+| Lucky Country       | Nigeria    |
 
 
 ##  Final Reflections on Dreams

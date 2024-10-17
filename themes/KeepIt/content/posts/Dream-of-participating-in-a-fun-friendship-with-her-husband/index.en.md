@@ -1,8 +1,8 @@
 ---
     weight: 96
     title: "Dream of participating in a fun friendship with her husband"  # Assuming 'title' column exists
-    date: 2024-10-13T16:40:00+08:00
-    lastmod: 2024-10-13T16:40:00+08:00
+    date: 2024-10-14T01:37:00+08:00
+    lastmod: 2024-10-14T01:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['her', 'Dream', 'friendship', 'participating', 'a', 'husband', 'in', 'of', 'with', 'fun']
+    tags: ['Dream', 'participating', 'fun', 'friendship', 'her', 'husband']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can symbolize the luck of social activities or relationships that giv
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Salad      |
-| Lucky Instrument    | Charango |
-| Lucky Flower        | Celosia    |
-| Lucky Job           | Bus Driver       |
-| Lucky Exercise      | Dance Aerobics  |
-| Lucky Country       | Tonga    |
+| Lucky Food          | Fried Rice      |
+| Lucky Instrument    | Trumpet |
+| Lucky Flower        | Hoya    |
+| Lucky Job           | Insurance Underwriter       |
+| Lucky Exercise      | Stair Climbing  |
+| Lucky Country       | Thailand    |
 
 
 ##  Final Reflections on Dreams

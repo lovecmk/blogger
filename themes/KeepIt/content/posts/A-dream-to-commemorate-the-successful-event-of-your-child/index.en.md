@@ -1,8 +1,8 @@
 ---
     weight: 164
     title: "A dream to commemorate the successful event of your child"  # Assuming 'title' column exists
-    date: 2024-10-13T03:58:00+08:00
-    lastmod: 2024-10-13T03:58:00+08:00
+    date: 2024-10-12T05:43:00+08:00
+    lastmod: 2024-10-12T05:43:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['commemorate', 'the', 'your', 'child', 'to', 'dream', 'event', 'of', 'A', 'successful']
+    tags: ['event', 'dream', 'to', 'A', 'child', 'successful', 'commemorate']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you good luck.The success and development of children can h
 | Lucky Animal        | Lion |
 | Lucky Place         | Sea     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Pork Belly      |
-| Lucky Instrument    | Erhu |
-| Lucky Flower        | Verbena    |
-| Lucky Job           | Anthropologist       |
-| Lucky Exercise      | Aerobics  |
-| Lucky Country       | Malawi    |
+| Lucky Food          | Lasagna      |
+| Lucky Instrument    | Maracas |
+| Lucky Flower        | Daffodil    |
+| Lucky Job           | Sales Representative       |
+| Lucky Exercise      | Cross-Country Skiing  |
+| Lucky Country       | Laos    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1770
     title: "Dream of attending a class or workshop together with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T04:13:00+08:00
-    lastmod: 2024-10-13T04:13:00+08:00
+    date: 2024-10-14T07:31:00+08:00
+    lastmod: 2024-10-14T07:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['together', 'or', 'workshop', 'your', 'boyfriend', 'Dream', 'class', 'a', 'of', 'attending', 'with']
+    tags: ['Dream', 'boyfriend', 'workshop', 'class', 'together', 'attending']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Otter |
 | Lucky Place         | Sea     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Potato Skins      |
-| Lucky Instrument    | Saxophone |
-| Lucky Flower        | Nymphaea    |
-| Lucky Job           | Pilot       |
-| Lucky Exercise      | Skiing  |
-| Lucky Country       | China    |
+| Lucky Food          | Baba Ganoush      |
+| Lucky Instrument    | Lute |
+| Lucky Flower        | Bee Balm    |
+| Lucky Job           | Software Engineer       |
+| Lucky Exercise      | Cricket  |
+| Lucky Country       | Lesotho    |
 
 
 ##  Final Reflections on Dreams

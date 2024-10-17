@@ -1,8 +1,8 @@
 ---
     weight: 1791
     title: "Dream of your husband being a supportive partner in your aspirations."  # Assuming 'title' column exists
-    date: 2024-10-13T17:23:00+08:00
-    lastmod: 2024-10-13T17:23:00+08:00
+    date: 2024-10-15T21:25:00+08:00
+    lastmod: 2024-10-15T21:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['aspirations.', 'your', 'supportive', 'Dream', 'being', 'husband', 'a', 'partner', 'in', 'of']
+    tags: ['being', 'Dream', 'partner', 'aspirations', 'supportive', 'husband']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Lasagna      |
-| Lucky Instrument    | Guitarlele |
-| Lucky Flower        | Freesia    |
-| Lucky Job           | Geologist       |
-| Lucky Exercise      | Sit-Ups  |
-| Lucky Country       | Azerbaijan    |
+| Lucky Food          | Pico de Gallo      |
+| Lucky Instrument    | Claves |
+| Lucky Flower        | Daisy    |
+| Lucky Job           | Copywriter       |
+| Lucky Exercise      | Plank  |
+| Lucky Country       | Tuvalu    |
 
 
 ##  Final Reflections on Dreams

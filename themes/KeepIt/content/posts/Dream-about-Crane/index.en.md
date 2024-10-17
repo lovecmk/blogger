@@ -1,8 +1,8 @@
 ---
     weight: 1089
     title: "Dream about Crane"  # Assuming 'title' column exists
-    date: 2024-10-13T18:12:00+08:00
-    lastmod: 2024-10-13T18:12:00+08:00
+    date: 2024-10-15T02:24:00+08:00
+    lastmod: 2024-10-15T02:24:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['about', 'Dream', 'Crane']
+    tags: ['Crane', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of the dream of 'crane' can vary depending on the individual.But in gen
 | Lucky Animal        | Seal |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Kebab      |
-| Lucky Instrument    | Fiddle |
-| Lucky Flower        | Zantedeschia    |
-| Lucky Job           | Philosopher       |
-| Lucky Exercise      | Racquetball  |
-| Lucky Country       | New Zealand    |
+| Lucky Food          | Chia Pudding      |
+| Lucky Instrument    | Bass Clarinet |
+| Lucky Flower        | Hibiscus    |
+| Lucky Job           | Nurse       |
+| Lucky Exercise      | Leg Press  |
+| Lucky Country       | Romania    |
 
 
 ##  Final Reflections on Dreams

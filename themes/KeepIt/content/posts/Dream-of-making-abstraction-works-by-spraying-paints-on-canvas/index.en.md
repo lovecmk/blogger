@@ -1,8 +1,8 @@
 ---
     weight: 624
     title: "Dream of making abstraction works by spraying paints on canvas"  # Assuming 'title' column exists
-    date: 2024-10-13T08:51:00+08:00
-    lastmod: 2024-10-13T08:51:00+08:00
+    date: 2024-10-11T17:06:00+08:00
+    lastmod: 2024-10-11T17:06:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['canvas', 'abstraction', 'spraying', 'works', 'Dream', 'making', 'by', 'on', 'of', 'paints']
+    tags: ['works', 'abstraction', 'Dream', 'canvas', 'making', 'spraying', 'paints']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can represent a variety of possibilities related to freed
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Museum     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Stir Fry      |
-| Lucky Instrument    | Darbuka |
-| Lucky Flower        | Ragged Robin    |
-| Lucky Job           | Life Coach       |
-| Lucky Exercise      | Gymnastics  |
-| Lucky Country       | Mexico    |
+| Lucky Food          | Chips      |
+| Lucky Instrument    | Clavichord |
+| Lucky Flower        | Perennial Aster    |
+| Lucky Job           | Producer       |
+| Lucky Exercise      | Weightlifting  |
+| Lucky Country       | Maldives    |
 
 
 ##  Final Reflections on Dreams

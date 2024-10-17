@@ -1,8 +1,8 @@
 ---
     weight: 1841
     title: "Dream of fighting in a rebellion"  # Assuming 'title' column exists
-    date: 2024-10-13T11:52:00+08:00
-    lastmod: 2024-10-13T11:52:00+08:00
+    date: 2024-10-11T00:38:00+08:00
+    lastmod: 2024-10-11T00:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['rebellion', 'fighting', 'Dream', 'a', 'in', 'of']
+    tags: ['rebellion', 'Dream', 'fighting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Horse |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Spring Roll      |
-| Lucky Instrument    | Kettledrum |
+| Lucky Food          | Croissant      |
+| Lucky Instrument    | Melodica |
 | Lucky Flower        | Celosia    |
-| Lucky Job           | Consultant       |
-| Lucky Exercise      | Belly Dancing  |
-| Lucky Country       | Lesotho    |
+| Lucky Job           | Graphic Designer       |
+| Lucky Exercise      | Lunges  |
+| Lucky Country       | Fiji    |
 
 
 ##  Final Reflections on Dreams

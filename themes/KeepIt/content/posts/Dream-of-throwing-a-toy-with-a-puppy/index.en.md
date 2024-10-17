@@ -1,8 +1,8 @@
 ---
     weight: 291
     title: "Dream of throwing a toy with a puppy"  # Assuming 'title' column exists
-    date: 2024-10-13T15:46:00+08:00
-    lastmod: 2024-10-13T15:46:00+08:00
+    date: 2024-10-12T16:03:00+08:00
+    lastmod: 2024-10-12T16:03:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['toy', 'Dream', 'puppy', 'a', 'throwing', 'of', 'with']
+    tags: ['Dream', 'puppy', 'toy', 'throwing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be expressed with pleasure and happiness.Playing with
 | Lucky Animal        | Hippo |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Fruit Tart      |
-| Lucky Instrument    | Steel Pan |
-| Lucky Flower        | Celosia    |
-| Lucky Job           | Field Technician       |
-| Lucky Exercise      | Racquetball  |
-| Lucky Country       | Singapore    |
+| Lucky Food          | Chicken Parmesan      |
+| Lucky Instrument    | Marimba |
+| Lucky Flower        | Gladiolus    |
+| Lucky Job           | Marketing Manager       |
+| Lucky Exercise      | Kite Surfing  |
+| Lucky Country       | Poland    |
 
 
 ##  Final Reflections on Dreams

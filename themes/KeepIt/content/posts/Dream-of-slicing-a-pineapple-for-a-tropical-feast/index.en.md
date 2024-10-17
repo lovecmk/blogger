@@ -1,8 +1,8 @@
 ---
     weight: 1534
     title: "Dream of slicing a pineapple for a tropical feast"  # Assuming 'title' column exists
-    date: 2024-10-13T22:42:00+08:00
-    lastmod: 2024-10-13T22:42:00+08:00
+    date: 2024-10-11T09:58:00+08:00
+    lastmod: 2024-10-11T09:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['slicing', 'Dream', 'pineapple', 'for', 'a', 'feast', 'of', 'tropical']
+    tags: ['pineapple', 'Dream', 'tropical', 'feast', 'slicing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams of dying in a tragic accident are not commonly associated with luck. Rath
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Lake     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Pork Belly      |
-| Lucky Instrument    | Viola |
-| Lucky Flower        | Magnolia    |
-| Lucky Job           | Stockbroker       |
-| Lucky Exercise      | Mobility Training  |
-| Lucky Country       | Yemen    |
+| Lucky Food          | Fried Rice      |
+| Lucky Instrument    | Ney |
+| Lucky Flower        | Rudbeckia    |
+| Lucky Job           | SEO Specialist       |
+| Lucky Exercise      | Trail Running  |
+| Lucky Country       | Ukraine    |
 
 
 ##  Final Reflections on Dreams

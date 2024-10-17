@@ -1,8 +1,8 @@
 ---
     weight: 1022
     title: "Dreams full of love and happiness"  # Assuming 'title' column exists
-    date: 2024-10-13T08:09:00+08:00
-    lastmod: 2024-10-13T08:09:00+08:00
+    date: 2024-10-14T22:02:00+08:00
+    lastmod: 2024-10-14T22:02:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['happiness', 'full', 'Dreams', 'and', 'love', 'of']
+    tags: ['love', 'full', 'happiness', 'Dreams']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can suggest the opportunity to experience more love and h
 | Lucky Animal        | Red fox |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Chicken Parmesan      |
-| Lucky Instrument    | Oboe |
-| Lucky Flower        | Daffodil    |
-| Lucky Job           | Web Developer       |
-| Lucky Exercise      | Lunges  |
-| Lucky Country       | Laos    |
+| Lucky Food          | Potato Skins      |
+| Lucky Instrument    | Hang Drum |
+| Lucky Flower        | Tithonia    |
+| Lucky Job           | Software Engineer       |
+| Lucky Exercise      | Baseball  |
+| Lucky Country       | Iraq    |
 
 
 ##  Final Reflections on Dreams

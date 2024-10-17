@@ -1,8 +1,8 @@
 ---
     weight: 1746
     title: "Dream of your cat having a cat nap"  # Assuming 'title' column exists
-    date: 2024-10-13T20:26:00+08:00
-    lastmod: 2024-10-13T20:26:00+08:00
+    date: 2024-10-13T14:00:00+08:00
+    lastmod: 2024-10-13T14:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['nap', 'your', 'cat', 'Dream', 'a', 'of', 'having']
+    tags: ['Dream', 'nap', 'cat', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Polar bear |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Beef Tacos      |
-| Lucky Instrument    | Harp |
-| Lucky Flower        | Hibiscus    |
-| Lucky Job           | Software Engineer       |
-| Lucky Exercise      | Golf  |
-| Lucky Country       | Latvia    |
+| Lucky Food          | Eggplant Parmesan      |
+| Lucky Instrument    | Mandolin |
+| Lucky Flower        | Scabiosa    |
+| Lucky Job           | Plumber       |
+| Lucky Exercise      | Yoga Flow  |
+| Lucky Country       | United Kingdom    |
 
 
 ##  Final Reflections on Dreams

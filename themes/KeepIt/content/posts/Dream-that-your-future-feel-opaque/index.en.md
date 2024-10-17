@@ -1,8 +1,8 @@
 ---
     weight: 480
     title: "Dream that your future feel opaque"  # Assuming 'title' column exists
-    date: 2024-10-13T01:00:00+08:00
-    lastmod: 2024-10-13T01:00:00+08:00
+    date: 2024-10-11T00:49:00+08:00
+    lastmod: 2024-10-11T00:49:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['opaque', 'feel', 'your', 'Dream', 'future', 'that']
+    tags: ['Dream', 'opaque', 'that', 'future', 'feel']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can be a sign of lucky to bring new opportunities and changes, unlike
 | Lucky Animal        | Parrot |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | White     |
-| Lucky Food          | Steak      |
-| Lucky Instrument    | Djembe |
-| Lucky Flower        | Swan River Daisy    |
-| Lucky Job           | Electrician       |
-| Lucky Exercise      | Paddleboarding  |
-| Lucky Country       | Poland    |
+| Lucky Food          | Ceviche      |
+| Lucky Instrument    | Snare Drum |
+| Lucky Flower        | Periwinkle    |
+| Lucky Job           | Personal Trainer       |
+| Lucky Exercise      | Hot Yoga  |
+| Lucky Country       | Bahrain    |
 
 
 ##  Final Reflections on Dreams

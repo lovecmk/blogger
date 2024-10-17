@@ -1,8 +1,8 @@
 ---
     weight: 893
     title: "Dream of not eating something after the teeth"  # Assuming 'title' column exists
-    date: 2024-10-13T01:48:00+08:00
-    lastmod: 2024-10-13T01:48:00+08:00
+    date: 2024-10-11T17:58:00+08:00
+    lastmod: 2024-10-11T17:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['eating', 'the', 'teeth', 'after', 'Dream', 'not', 'of', 'something']
+    tags: ['Dream', 'eating', 'not', 'teeth', 'after', 'something']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is that you have the ability to recognize some limited si
 | Lucky Animal        | Duck |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Biryani      |
-| Lucky Instrument    | Recorder |
-| Lucky Flower        | Crown Daisy    |
-| Lucky Job           | Sales Representative       |
-| Lucky Exercise      | Surfing  |
-| Lucky Country       | Japan    |
+| Lucky Food          | Deviled Eggs      |
+| Lucky Instrument    | Lap Steel Guitar |
+| Lucky Flower        | Lobelia    |
+| Lucky Job           | Interior Designer       |
+| Lucky Exercise      | Salsa  |
+| Lucky Country       | United Kingdom    |
 
 
 ##  Final Reflections on Dreams

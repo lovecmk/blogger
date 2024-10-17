@@ -1,8 +1,8 @@
 ---
     weight: 2004
     title: "Dream of finding a cherished heirloom or artifact belonging to your ancestors."  # Assuming 'title' column exists
-    date: 2024-10-13T17:39:00+08:00
-    lastmod: 2024-10-13T17:39:00+08:00
+    date: 2024-10-12T00:37:00+08:00
+    lastmod: 2024-10-12T00:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['artifact', 'cherished', 'or', 'your', 'to', 'Dream', 'a', 'belonging', 'heirloom', 'of', 'finding', 'ancestors.']
+    tags: ['heirloom', 'Dream', 'artifact', 'to', 'finding', 'cherished', 'belonging', 'ancestors']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Lasagna      |
-| Lucky Instrument    | Zouaves |
-| Lucky Flower        | Daisy    |
-| Lucky Job           | Real Estate Agent       |
-| Lucky Exercise      | Slacklining  |
-| Lucky Country       | Serbia    |
+| Lucky Food          | Brownies      |
+| Lucky Instrument    | Keyboard Synthesizer |
+| Lucky Flower        | Agapanthus    |
+| Lucky Job           | Video Editor       |
+| Lucky Exercise      | Walking  |
+| Lucky Country       | Samoa    |
 
 
 ##  Final Reflections on Dreams

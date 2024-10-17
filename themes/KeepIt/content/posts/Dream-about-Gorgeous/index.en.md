@@ -1,8 +1,8 @@
 ---
     weight: 553
     title: "Dream about Gorgeous"  # Assuming 'title' column exists
-    date: 2024-10-13T06:41:00+08:00
-    lastmod: 2024-10-13T06:41:00+08:00
+    date: 2024-10-11T19:37:00+08:00
+    lastmod: 2024-10-11T19:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Gorgeous', 'about', 'Dream']
+    tags: ['Gorgeous', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be diverse.Dreams of colorful flowers can be interpre
 | Lucky Animal        | Rhino |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Spring Roll      |
-| Lucky Instrument    | Keyboard Synthesizer |
-| Lucky Flower        | Stock    |
-| Lucky Job           | Insurance Agent       |
-| Lucky Exercise      | Cross-Country Skiing  |
-| Lucky Country       | Afghanistan    |
+| Lucky Food          | Chowder      |
+| Lucky Instrument    | Saxello |
+| Lucky Flower        | Hibiscus    |
+| Lucky Job           | Flight Attendant       |
+| Lucky Exercise      | Pole Vaulting  |
+| Lucky Country       | Finland    |
 
 
 ##  Final Reflections on Dreams

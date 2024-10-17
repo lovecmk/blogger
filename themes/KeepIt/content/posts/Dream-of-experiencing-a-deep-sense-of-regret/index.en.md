@@ -1,8 +1,8 @@
 ---
     weight: 1889
     title: "Dream of dying and feeling scared"  # Assuming 'title' column exists
-    date: 2024-10-13T00:42:00+08:00
-    lastmod: 2024-10-13T00:42:00+08:00
+    date: 2024-10-11T23:12:00+08:00
+    lastmod: 2024-10-11T23:12:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dying', 'feeling', 'scared', 'Dream', 'and', 'of']
+    tags: ['Dream', 'scared', 'feeling', 'dying']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Red     |
-| Lucky Food          | Clams      |
-| Lucky Instrument    | Sarangi |
-| Lucky Flower        | Pansy    |
-| Lucky Job           | Firefighter       |
-| Lucky Exercise      | Belly Dancing  |
-| Lucky Country       | Laos    |
+| Lucky Food          | Falafel      |
+| Lucky Instrument    | Melodic Percussion |
+| Lucky Flower        | Mums    |
+| Lucky Job           | Project Manager       |
+| Lucky Exercise      | Sit-Ups  |
+| Lucky Country       | Serbia    |
 
 
 ##  Final Reflections on Dreams

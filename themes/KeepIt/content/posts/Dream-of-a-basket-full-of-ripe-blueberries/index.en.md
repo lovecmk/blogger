@@ -1,8 +1,8 @@
 ---
     weight: 1852
     title: "Dream of your husband being your source of strength."  # Assuming 'title' column exists
-    date: 2024-10-13T03:49:00+08:00
-    lastmod: 2024-10-13T03:49:00+08:00
+    date: 2024-10-11T09:51:00+08:00
+    lastmod: 2024-10-11T09:51:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'Dream', 'strength.', 'being', 'husband', 'of', 'source']
+    tags: ['being', 'Dream', 'strength', 'husband', 'source']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Monkey |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Fried Rice      |
-| Lucky Instrument    | Oboe |
-| Lucky Flower        | Ragged Robin    |
-| Lucky Job           | Human Resources Manager       |
-| Lucky Exercise      | Resistance Bands  |
-| Lucky Country       | Brazil    |
+| Lucky Food          | Zucchini Noodles      |
+| Lucky Instrument    | Melodica |
+| Lucky Flower        | Verbena    |
+| Lucky Job           | SEO Specialist       |
+| Lucky Exercise      | Spin Class  |
+| Lucky Country       | Ireland    |
 
 
 ##  Final Reflections on Dreams

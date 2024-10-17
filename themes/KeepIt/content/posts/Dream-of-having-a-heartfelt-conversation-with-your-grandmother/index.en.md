@@ -1,8 +1,8 @@
 ---
     weight: 2101
     title: "Dream of biting into a juicy pear"  # Assuming 'title' column exists
-    date: 2024-10-13T23:12:00+08:00
-    lastmod: 2024-10-13T23:12:00+08:00
+    date: 2024-10-13T03:55:00+08:00
+    lastmod: 2024-10-13T03:55:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['pear', 'biting', 'into', 'Dream', 'a', 'of', 'juicy']
+    tags: ['pear', 'Dream', 'biting', 'into', 'juicy']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Deer |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Green     |
-| Lucky Food          | Fruit Smoothie      |
-| Lucky Instrument    | Saz |
-| Lucky Flower        | Alstroemeria    |
-| Lucky Job           | Project Manager       |
-| Lucky Exercise      | Running  |
-| Lucky Country       | Pakistan    |
+| Lucky Food          | Tuna Tartare      |
+| Lucky Instrument    | Sackbut |
+| Lucky Flower        | Moss Rose    |
+| Lucky Job           | Security Guard       |
+| Lucky Exercise      | Calisthenics  |
+| Lucky Country       | Zambia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 988
     title: "A dream full of joy"  # Assuming 'title' column exists
-    date: 2024-10-13T02:18:00+08:00
-    lastmod: 2024-10-13T02:18:00+08:00
+    date: 2024-10-12T06:10:00+08:00
+    lastmod: 2024-10-12T06:10:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['joy', 'full', 'dream', 'of', 'A']
+    tags: ['joy', 'dream', 'full', 'A']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be even more expressed when you have positive thought
 | Lucky Animal        | Snake |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Pasta Salad      |
-| Lucky Instrument    | Basset Horn |
-| Lucky Flower        | Butterfly Bush    |
-| Lucky Job           | Actor       |
-| Lucky Exercise      | Swimming  |
-| Lucky Country       | Lebanon    |
+| Lucky Food          | Scone      |
+| Lucky Instrument    | Erhu |
+| Lucky Flower        | Verbena    |
+| Lucky Job           | Quality Assurance Tester       |
+| Lucky Exercise      | Pilates  |
+| Lucky Country       | Turkmenistan    |
 
 
 ##  Final Reflections on Dreams

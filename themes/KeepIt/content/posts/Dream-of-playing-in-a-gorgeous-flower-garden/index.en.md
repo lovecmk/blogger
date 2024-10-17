@@ -1,8 +1,8 @@
 ---
     weight: 593
     title: "Dream of playing in a gorgeous flower garden"  # Assuming 'title' column exists
-    date: 2024-10-13T21:05:00+08:00
-    lastmod: 2024-10-13T21:05:00+08:00
+    date: 2024-10-14T18:15:00+08:00
+    lastmod: 2024-10-14T18:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['flower', 'playing', 'Dream', 'gorgeous', 'a', 'in', 'of', 'garden']
+    tags: ['Dream', 'garden', 'flower', 'playing', 'gorgeous']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream gives you good luck and positive energy.Playing in the flower field s
 | Lucky Animal        | Parrot |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Nachos      |
-| Lucky Instrument    | Cello |
-| Lucky Flower        | Tansy    |
-| Lucky Job           | Construction Worker       |
-| Lucky Exercise      | Squats  |
-| Lucky Country       | Western Sahara    |
+| Lucky Food          | Lasagna      |
+| Lucky Instrument    | Banjo |
+| Lucky Flower        | Hydrangea    |
+| Lucky Job           | Fashion Designer       |
+| Lucky Exercise      | Sprinting  |
+| Lucky Country       | India    |
 
 
 ##  Final Reflections on Dreams

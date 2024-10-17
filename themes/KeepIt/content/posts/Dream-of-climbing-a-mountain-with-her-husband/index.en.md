@@ -1,8 +1,8 @@
 ---
     weight: 88
     title: "Dream of climbing a mountain with her husband"  # Assuming 'title' column exists
-    date: 2024-10-13T19:29:00+08:00
-    lastmod: 2024-10-13T19:29:00+08:00
+    date: 2024-10-13T13:51:00+08:00
+    lastmod: 2024-10-13T13:51:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['climbing', 'her', 'Dream', 'a', 'husband', 'mountain', 'of', 'with']
+    tags: ['Dream', 'her', 'husband', 'climbing', 'mountain']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the situation and the interpretatio
 | Lucky Animal        | Cheetah |
 | Lucky Place         | School     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Tart      |
-| Lucky Instrument    | Tabor |
-| Lucky Flower        | Lily    |
-| Lucky Job           | Pastry Chef       |
-| Lucky Exercise      | Capoeira  |
-| Lucky Country       | Lithuania    |
+| Lucky Food          | Tuna Tartare      |
+| Lucky Instrument    | Accordion |
+| Lucky Flower        | Tiger Lily    |
+| Lucky Job           | Software Engineer       |
+| Lucky Exercise      | Resistance Training  |
+| Lucky Country       | Iceland    |
 
 
 ##  Final Reflections on Dreams

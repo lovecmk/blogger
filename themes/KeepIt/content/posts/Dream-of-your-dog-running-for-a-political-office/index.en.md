@@ -1,8 +1,8 @@
 ---
     weight: 1409
     title: "Dream of your dog running for a political office"  # Assuming 'title' column exists
-    date: 2024-10-13T11:13:00+08:00
-    lastmod: 2024-10-13T11:13:00+08:00
+    date: 2024-10-11T11:48:00+08:00
+    lastmod: 2024-10-11T11:48:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['office', 'running', 'your', 'political', 'Dream', 'for', 'a', 'of', 'dog']
+    tags: ['Dream', 'office', 'running', 'dog', 'political']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Pig |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Caramel Flan      |
-| Lucky Instrument    | Bandoneon |
-| Lucky Flower        | Lobelia    |
-| Lucky Job           | Event Coordinator       |
-| Lucky Exercise      | Plank  |
-| Lucky Country       | Mozambique    |
+| Lucky Food          | Mango Sticky Rice      |
+| Lucky Instrument    | Charango |
+| Lucky Flower        | Gillyflower    |
+| Lucky Job           | Graphic Designer       |
+| Lucky Exercise      | Handball  |
+| Lucky Country       | India    |
 
 
 ##  Final Reflections on Dreams

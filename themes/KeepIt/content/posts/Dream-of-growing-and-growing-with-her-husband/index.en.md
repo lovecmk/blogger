@@ -1,8 +1,8 @@
 ---
     weight: 100
     title: "Dream of growing and growing with her husband"  # Assuming 'title' column exists
-    date: 2024-10-13T00:29:00+08:00
-    lastmod: 2024-10-13T00:29:00+08:00
+    date: 2024-10-15T04:21:00+08:00
+    lastmod: 2024-10-15T04:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['her', 'Dream', 'husband', 'and', 'growing', 'of', 'with']
+    tags: ['Dream', 'growing', 'her', 'husband']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be in many forms of learning and growth.The dream of 
 | Lucky Animal        | Ostrich |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Chocolate Mousse      |
-| Lucky Instrument    | Sitar |
-| Lucky Flower        | Lilac    |
-| Lucky Job           | Interior Designer       |
-| Lucky Exercise      | Swimming Laps  |
-| Lucky Country       | Botswana    |
+| Lucky Food          | Baba Ganoush      |
+| Lucky Instrument    | Didgeridoo |
+| Lucky Flower        | Sundew    |
+| Lucky Job           | Game Developer       |
+| Lucky Exercise      | Basketball  |
+| Lucky Country       | Qatar    |
 
 
 ##  Final Reflections on Dreams

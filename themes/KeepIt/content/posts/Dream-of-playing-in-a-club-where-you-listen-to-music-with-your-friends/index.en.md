@@ -1,8 +1,8 @@
 ---
     weight: 718
     title: "Dream of playing in a club where you listen to music with your friends"  # Assuming 'title' column exists
-    date: 2024-10-13T09:05:00+08:00
-    lastmod: 2024-10-13T09:05:00+08:00
+    date: 2024-10-12T04:06:00+08:00
+    lastmod: 2024-10-12T04:06:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['with', 'playing', 'your', 'to', 'friends', 'Dream', 'a', 'listen', 'in', 'club', 'of', 'where', 'you', 'music']
+    tags: ['Dream', 'friends', 'club', 'listen', 'to', 'playing', 'where', 'music', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream symbolizes a fun and positive experience and opportunity.This dream c
 | Lucky Animal        | Beaver |
 | Lucky Place         | River     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Gnocchi      |
-| Lucky Instrument    | Recorder |
-| Lucky Flower        | Celosia    |
-| Lucky Job           | Writer       |
-| Lucky Exercise      | CrossFit  |
-| Lucky Country       | Georgia    |
+| Lucky Food          | Baba Ganoush      |
+| Lucky Instrument    | Balalaika |
+| Lucky Flower        | Sweet Pea    |
+| Lucky Job           | Nurse       |
+| Lucky Exercise      | Rock Climbing  |
+| Lucky Country       | Oman    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 822
     title: "Dream of fire on the train"  # Assuming 'title' column exists
-    date: 2024-10-13T08:50:00+08:00
-    lastmod: 2024-10-13T08:50:00+08:00
+    date: 2024-10-11T07:57:00+08:00
+    lastmod: 2024-10-11T07:57:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'fire', 'Dream', 'train', 'on', 'of']
+    tags: ['Dream', 'fire', 'train']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ What are the lucky luck that this dream can give?'Dream of fire on a train' usua
 | Lucky Animal        | Hyena |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Paella      |
-| Lucky Instrument    | Pipa |
-| Lucky Flower        | Verbena    |
-| Lucky Job           | Lawyer       |
-| Lucky Exercise      | Gymnastics  |
-| Lucky Country       | Lesotho    |
+| Lucky Food          | Cornbread      |
+| Lucky Instrument    | Accordion Synth |
+| Lucky Flower        | Petal Plant    |
+| Lucky Job           | SEO Specialist       |
+| Lucky Exercise      | Shot Put  |
+| Lucky Country       | Pakistan    |
 
 
 ##  Final Reflections on Dreams

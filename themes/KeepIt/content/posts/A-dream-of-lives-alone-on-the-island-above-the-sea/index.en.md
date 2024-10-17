@@ -1,8 +1,8 @@
 ---
     weight: 762
     title: "A dream of lives alone on the island above the sea"  # Assuming 'title' column exists
-    date: 2024-10-13T16:34:00+08:00
-    lastmod: 2024-10-13T16:34:00+08:00
+    date: 2024-10-13T15:05:00+08:00
+    lastmod: 2024-10-13T15:05:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['alone', 'the', 'lives', 'sea', 'dream', 'on', 'island', 'of', 'A', 'above']
+    tags: ['island', 'sea', 'above', 'dream', 'lives', 'A', 'alone']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ What are the luck of this dream?This dream can symbolize the good luck of findin
 | Lucky Animal        | Red fox |
 | Lucky Place         | Museum     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Nachos      |
-| Lucky Instrument    | Harmonica |
-| Lucky Flower        | Daisy    |
-| Lucky Job           | Veterinarian       |
-| Lucky Exercise      | Sledge Hockey  |
-| Lucky Country       | United Kingdom    |
+| Lucky Food          | Ramen      |
+| Lucky Instrument    | Bass Guitar |
+| Lucky Flower        | Orchid    |
+| Lucky Job           | Sous Chef       |
+| Lucky Exercise      | Skating  |
+| Lucky Country       | Pakistan    |
 
 
 ##  Final Reflections on Dreams

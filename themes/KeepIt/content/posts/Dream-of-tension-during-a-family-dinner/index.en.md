@@ -1,8 +1,8 @@
 ---
     weight: 1549
     title: "Dream of tension during a family dinner"  # Assuming 'title' column exists
-    date: 2024-10-13T14:32:00+08:00
-    lastmod: 2024-10-13T14:32:00+08:00
+    date: 2024-10-15T11:46:00+08:00
+    lastmod: 2024-10-15T11:46:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'Dream', 'during', 'tension', 'dinner', 'a', 'of']
+    tags: ['tension', 'family', 'Dream', 'dinner']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Raccoon |
 | Lucky Place         | School     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Ramen      |
-| Lucky Instrument    | Trombone |
-| Lucky Flower        | Vinca    |
-| Lucky Job           | Financial Analyst       |
-| Lucky Exercise      | Swimming  |
-| Lucky Country       | Greece    |
+| Lucky Food          | Clams      |
+| Lucky Instrument    | French Horn |
+| Lucky Flower        | Hellebore    |
+| Lucky Job           | Dentist       |
+| Lucky Exercise      | Jump Squats  |
+| Lucky Country       | Romania    |
 
 
 ##  Final Reflections on Dreams

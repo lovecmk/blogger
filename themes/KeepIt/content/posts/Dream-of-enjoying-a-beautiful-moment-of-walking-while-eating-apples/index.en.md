@@ -1,8 +1,8 @@
 ---
     weight: 62
     title: "Dream of enjoying a beautiful moment of walking while eating apples"  # Assuming 'title' column exists
-    date: 2024-10-13T11:40:00+08:00
-    lastmod: 2024-10-13T11:40:00+08:00
+    date: 2024-10-14T09:48:00+08:00
+    lastmod: 2024-10-14T09:48:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['enjoying', 'eating', 'beautiful', 'moment', 'Dream', 'a', 'of', 'apples', 'while', 'walking']
+    tags: ['while', 'beautiful', 'apples', 'Dream', 'walking', 'eating', 'enjoying', 'moment']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is inner harmony with everyday satisfaction.If this dream
 | Lucky Animal        | Gorilla |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Green     |
-| Lucky Food          | Pasta Primavera      |
-| Lucky Instrument    | Trombone Slide |
-| Lucky Flower        | Buttercup    |
-| Lucky Job           | Insurance Agent       |
-| Lucky Exercise      | CrossFit  |
-| Lucky Country       | Pakistan    |
+| Lucky Food          | Potato Skins      |
+| Lucky Instrument    | Calimba |
+| Lucky Flower        | Lobelia    |
+| Lucky Job           | Accountant       |
+| Lucky Exercise      | Squash  |
+| Lucky Country       | Australia    |
 
 
 ##  Final Reflections on Dreams

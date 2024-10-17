@@ -1,8 +1,8 @@
 ---
     weight: 914
     title: "Dream of being chased by tornado"  # Assuming 'title' column exists
-    date: 2024-10-13T02:43:00+08:00
-    lastmod: 2024-10-13T02:43:00+08:00
+    date: 2024-10-11T05:09:00+08:00
+    lastmod: 2024-10-11T05:09:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'being', 'by', 'tornado', 'of', 'chased']
+    tags: ['being', 'tornado', 'chased', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The dream of being chased by tornado is not a dream that suggests good luck.Rath
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Pizza      |
-| Lucky Instrument    | Slide Guitar |
-| Lucky Flower        | Scented Geranium    |
-| Lucky Job           | Brand Manager       |
-| Lucky Exercise      | Ultimate Frisbee  |
-| Lucky Country       | Egypt    |
+| Lucky Food          | Pesto      |
+| Lucky Instrument    | Glockenspiel |
+| Lucky Flower        | Hydrangea    |
+| Lucky Job           | Financial Analyst       |
+| Lucky Exercise      | Parkour  |
+| Lucky Country       | Kazakhstan    |
 
 
 ##  Final Reflections on Dreams

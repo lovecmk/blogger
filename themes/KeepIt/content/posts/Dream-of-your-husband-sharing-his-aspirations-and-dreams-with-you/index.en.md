@@ -1,8 +1,8 @@
 ---
     weight: 1908
     title: "Dream of your husband comforting you during a challenging situation."  # Assuming 'title' column exists
-    date: 2024-10-13T13:55:00+08:00
-    lastmod: 2024-10-13T13:55:00+08:00
+    date: 2024-10-12T23:44:00+08:00
+    lastmod: 2024-10-12T23:44:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['situation.', 'your', 'comforting', 'Dream', 'during', 'challenging', 'husband', 'a', 'of', 'you']
+    tags: ['comforting', 'Dream', 'challenging', 'situation', 'husband', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hyena |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Gnocchi      |
-| Lucky Instrument    | Claves |
-| Lucky Flower        | Wisteria    |
-| Lucky Job           | Art Director       |
-| Lucky Exercise      | Javelin  |
-| Lucky Country       | Finland    |
+| Lucky Food          | Curry      |
+| Lucky Instrument    | Dulcimer |
+| Lucky Flower        | Jasmine    |
+| Lucky Job           | Flight Attendant       |
+| Lucky Exercise      | Shot Put  |
+| Lucky Country       | Marshall Islands    |
 
 
 ##  Final Reflections on Dreams

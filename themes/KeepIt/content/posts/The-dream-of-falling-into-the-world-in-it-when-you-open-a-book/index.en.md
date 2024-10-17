@@ -1,8 +1,8 @@
 ---
     weight: 608
     title: "The dream of falling into the world in it when you open a book"  # Assuming 'title' column exists
-    date: 2024-10-13T05:26:00+08:00
-    lastmod: 2024-10-13T05:26:00+08:00
+    date: 2024-10-11T04:20:00+08:00
+    lastmod: 2024-10-11T04:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['in', 'the', 'when', 'falling', 'into', 'open', 'book', 'a', 'dream', 'The', 'world', 'it', 'of', 'you']
+    tags: ['it', 'The', 'open', 'into', 'dream', 'falling', 'world', 'when', 'book', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can occur in various ways.First, this dream suggests that
 | Lucky Animal        | Heron |
 | Lucky Place         | Sea     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Curry      |
-| Lucky Instrument    | Triangle |
-| Lucky Flower        | Scabiosa    |
-| Lucky Job           | Firefighter       |
-| Lucky Exercise      | Rugby  |
-| Lucky Country       | Kyrgyzstan    |
+| Lucky Food          | Beef Tacos      |
+| Lucky Instrument    | Sarangi |
+| Lucky Flower        | Periwinkle    |
+| Lucky Job           | Network Administrator       |
+| Lucky Exercise      | Boxing  |
+| Lucky Country       | South Africa    |
 
 
 ##  Final Reflections on Dreams

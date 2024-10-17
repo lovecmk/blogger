@@ -1,8 +1,8 @@
 ---
     weight: 2082
     title: "Dream of being trapped in an emotional turmoil"  # Assuming 'title' column exists
-    date: 2024-10-13T04:04:00+08:00
-    lastmod: 2024-10-13T04:04:00+08:00
+    date: 2024-10-14T07:11:00+08:00
+    lastmod: 2024-10-14T07:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['turmoil', 'Dream', 'being', 'emotional', 'an', 'in', 'trapped', 'of']
+    tags: ['being', 'emotional', 'Dream', 'turmoil', 'trapped', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Polar bear |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Hot Dog      |
-| Lucky Instrument    | Marimba |
-| Lucky Flower        | Dahlia    |
-| Lucky Job           | Farmer       |
-| Lucky Exercise      | Bench Press  |
-| Lucky Country       | Iraq    |
+| Lucky Food          | Quesadilla      |
+| Lucky Instrument    | Darbuka |
+| Lucky Flower        | Pelargonium    |
+| Lucky Job           | Recruiter       |
+| Lucky Exercise      | Yoga  |
+| Lucky Country       | Spain    |
 
 
 ##  Final Reflections on Dreams

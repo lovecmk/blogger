@@ -1,8 +1,8 @@
 ---
     weight: 268
     title: "Dream of flying like a bird walking on the water"  # Assuming 'title' column exists
-    date: 2024-10-13T03:13:00+08:00
-    lastmod: 2024-10-13T03:13:00+08:00
+    date: 2024-10-14T19:50:00+08:00
+    lastmod: 2024-10-14T19:50:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['flying', 'water', 'like', 'the', 'bird', 'Dream', 'a', 'on', 'of', 'walking']
+    tags: ['water', 'Dream', 'flying', 'walking', 'bird', 'like']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can symbolize the possibility of success through freedom,
 | Lucky Animal        | Pig |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Ice Cream      |
-| Lucky Instrument    | Clarinet |
-| Lucky Flower        | Larkspur    |
-| Lucky Job           | Copywriter       |
-| Lucky Exercise      | Resistance Bands  |
-| Lucky Country       | Ireland    |
+| Lucky Food          | Noodles      |
+| Lucky Instrument    | Piccolo Trumpet |
+| Lucky Flower        | Sunflower    |
+| Lucky Job           | Nurse       |
+| Lucky Exercise      | Cricket  |
+| Lucky Country       | Kyrgyzstan    |
 
 
 ##  Final Reflections on Dreams

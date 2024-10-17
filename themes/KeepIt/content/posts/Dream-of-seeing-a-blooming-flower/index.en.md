@@ -1,8 +1,8 @@
 ---
     weight: 563
     title: "Dream of seeing a blooming flower"  # Assuming 'title' column exists
-    date: 2024-10-13T02:32:00+08:00
-    lastmod: 2024-10-13T02:32:00+08:00
+    date: 2024-10-15T00:12:00+08:00
+    lastmod: 2024-10-15T00:12:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['flower', 'blooming', 'seeing', 'Dream', 'a', 'of']
+    tags: ['Dream', 'blooming', 'flower', 'seeing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can bring you new opportunities and positive changes.This
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Tuna Tartare      |
-| Lucky Instrument    | Harp |
-| Lucky Flower        | Lilac    |
-| Lucky Job           | Police Officer       |
-| Lucky Exercise      | Salsa  |
-| Lucky Country       | South Korea    |
+| Lucky Food          | Noodles      |
+| Lucky Instrument    | Zither |
+| Lucky Flower        | Jasmine    |
+| Lucky Job           | Public Relations Specialist       |
+| Lucky Exercise      | Calisthenics  |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

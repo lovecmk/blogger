@@ -1,8 +1,8 @@
 ---
     weight: 1221
     title: "Dream about Project manager"  # Assuming 'title' column exists
-    date: 2024-10-13T12:04:00+08:00
-    lastmod: 2024-10-13T12:04:00+08:00
+    date: 2024-10-11T14:51:00+08:00
+    lastmod: 2024-10-11T14:51:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['manager', 'about', 'Dream', 'Project']
+    tags: ['manager', 'Project', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ In relation to the role of a project manager, dreams can deliver a lucky message
 | Lucky Animal        | Gorilla |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Spring Roll      |
-| Lucky Instrument    | Piccolo |
-| Lucky Flower        | Jasmine    |
-| Lucky Job           | Pharmacist       |
-| Lucky Exercise      | Jumping Rope  |
-| Lucky Country       | Afghanistan    |
+| Lucky Food          | Scallops      |
+| Lucky Instrument    | Mandolin |
+| Lucky Flower        | Marigold    |
+| Lucky Job           | Director       |
+| Lucky Exercise      | Running  |
+| Lucky Country       | Cambodia    |
 
 
 ##  Final Reflections on Dreams

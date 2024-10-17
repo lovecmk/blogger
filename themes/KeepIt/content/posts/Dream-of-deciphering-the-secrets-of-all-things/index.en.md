@@ -1,8 +1,8 @@
 ---
     weight: 267
     title: "Dream of deciphering the secrets of all things"  # Assuming 'title' column exists
-    date: 2024-10-13T18:13:00+08:00
-    lastmod: 2024-10-13T18:13:00+08:00
+    date: 2024-10-15T17:17:00+08:00
+    lastmod: 2024-10-15T17:17:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['things', 'the', 'Dream', 'all', 'secrets', 'deciphering', 'of']
+    tags: ['deciphering', 'Dream', 'all', 'things', 'secrets']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can remind you of the opportunity to show your intelligence and knowl
 | Lucky Animal        | Deer |
 | Lucky Place         | Theater     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Baba Ganoush      |
-| Lucky Instrument    | Bassoon |
-| Lucky Flower        | Geranium    |
-| Lucky Job           | Pastry Chef       |
-| Lucky Exercise      | Trail Running  |
-| Lucky Country       | Japan    |
+| Lucky Food          | Dumplings      |
+| Lucky Instrument    | Oboe |
+| Lucky Flower        | Tansy    |
+| Lucky Job           | Art Director       |
+| Lucky Exercise      | Hula Hooping  |
+| Lucky Country       | Brazil    |
 
 
 ##  Final Reflections on Dreams

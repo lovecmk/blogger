@@ -1,8 +1,8 @@
 ---
     weight: 544
     title: "Dream of resting in the shade"  # Assuming 'title' column exists
-    date: 2024-10-13T01:48:00+08:00
-    lastmod: 2024-10-13T01:48:00+08:00
+    date: 2024-10-13T03:32:00+08:00
+    lastmod: 2024-10-13T03:32:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['resting', 'the', 'shade', 'Dream', 'in', 'of']
+    tags: ['Dream', 'shade', 'resting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is a positive change and success caused by rest and stabi
 | Lucky Animal        | Hippo |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Gelato      |
-| Lucky Instrument    | Piccolo |
-| Lucky Flower        | Mums    |
-| Lucky Job           | Data Analyst       |
-| Lucky Exercise      | Running  |
-| Lucky Country       | Qatar    |
+| Lucky Food          | Chocolate      |
+| Lucky Instrument    | Violin Bow |
+| Lucky Flower        | Begonia    |
+| Lucky Job           | Doctor       |
+| Lucky Exercise      | Spin Class  |
+| Lucky Country       | Kenya    |
 
 
 ##  Final Reflections on Dreams

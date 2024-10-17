@@ -1,8 +1,8 @@
 ---
     weight: 1447
     title: "Dream of experiencing a minor injury"  # Assuming 'title' column exists
-    date: 2024-10-13T18:52:00+08:00
-    lastmod: 2024-10-13T18:52:00+08:00
+    date: 2024-10-13T12:17:00+08:00
+    lastmod: 2024-10-13T12:17:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['injury', 'minor', 'experiencing', 'Dream', 'a', 'of']
+    tags: ['experiencing', 'Dream', 'injury', 'minor']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Orangutan |
 | Lucky Place         | River     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Falafel      |
-| Lucky Instrument    | Harp |
-| Lucky Flower        | Nasturtium    |
-| Lucky Job           | Physical Therapist       |
-| Lucky Exercise      | Hiking  |
-| Lucky Country       | Lithuania    |
+| Lucky Food          | Sandwich      |
+| Lucky Instrument    | Darabuka |
+| Lucky Flower        | Primrose    |
+| Lucky Job           | Nuclear Engineer       |
+| Lucky Exercise      | Underwater Diving  |
+| Lucky Country       | United Arab Emirates    |
 
 
 ##  Final Reflections on Dreams

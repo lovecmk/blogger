@@ -1,8 +1,8 @@
 ---
     weight: 633
     title: "Dream of meeting a family that has never been seen for a long time"  # Assuming 'title' column exists
-    date: 2024-10-13T17:13:00+08:00
-    lastmod: 2024-10-13T17:13:00+08:00
+    date: 2024-10-12T07:49:00+08:00
+    lastmod: 2024-10-12T07:49:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['has', 'family', 'long', 'never', 'Dream', 'seen', 'for', 'meeting', 'a', 'time', 'been', 'of', 'that']
+    tags: ['family', 'never', 'Dream', 'meeting', 'seen', 'has', 'long', 'time', 'that', 'been']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream has the meaning of the importance of meeting, reconciliation, and pre
 | Lucky Animal        | Kangaroo |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Croissant      |
-| Lucky Instrument    | French Horn |
-| Lucky Flower        | Verbena    |
-| Lucky Job           | Chemist       |
-| Lucky Exercise      | Step Aerobics  |
-| Lucky Country       | Jordan    |
+| Lucky Food          | Pasta Primavera      |
+| Lucky Instrument    | Recorder |
+| Lucky Flower        | Larkspur    |
+| Lucky Job           | Astrophysicist       |
+| Lucky Exercise      | Bouldering  |
+| Lucky Country       | Finland    |
 
 
 ##  Final Reflections on Dreams

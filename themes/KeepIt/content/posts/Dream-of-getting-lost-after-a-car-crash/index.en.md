@@ -1,8 +1,8 @@
 ---
     weight: 1288
     title: "Dream of getting lost after a car crash"  # Assuming 'title' column exists
-    date: 2024-10-13T01:22:00+08:00
-    lastmod: 2024-10-13T01:22:00+08:00
+    date: 2024-10-11T01:27:00+08:00
+    lastmod: 2024-10-11T01:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lost', 'crash', 'after', 'Dream', 'a', 'car', 'of', 'getting']
+    tags: ['lost', 'Dream', 'crash', 'getting', 'after', 'car']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Pig |
 | Lucky Place         | Beach     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Salad      |
-| Lucky Instrument    | Cowbell |
-| Lucky Flower        | Sea Holly    |
-| Lucky Job           | Flight Attendant       |
-| Lucky Exercise      | Cross-Country Skiing  |
-| Lucky Country       | Iraq    |
+| Lucky Food          | Caprese Salad      |
+| Lucky Instrument    | Saxophone |
+| Lucky Flower        | Hellebore    |
+| Lucky Job           | Life Coach       |
+| Lucky Exercise      | Powerlifting  |
+| Lucky Country       | Serbia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1475
     title: "Dream of causing a traffic accident"  # Assuming 'title' column exists
-    date: 2024-10-13T09:26:00+08:00
-    lastmod: 2024-10-13T09:26:00+08:00
+    date: 2024-10-12T09:58:00+08:00
+    lastmod: 2024-10-12T09:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['causing', 'Dream', 'a', 'accident', 'of', 'traffic']
+    tags: ['traffic', 'Dream', 'causing', 'accident']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams do not necessarily bring luck. However, this dream could be seen as a rem
 | Lucky Animal        | Monkey |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Red     |
-| Lucky Food          | Risotto      |
-| Lucky Instrument    | Electric Violin |
-| Lucky Flower        | Scented Geranium    |
-| Lucky Job           | Mechanic       |
-| Lucky Exercise      | Crunches  |
-| Lucky Country       | Kiribati    |
+| Lucky Food          | Lentil Soup      |
+| Lucky Instrument    | Basset Horn |
+| Lucky Flower        | Clover    |
+| Lucky Job           | App Developer       |
+| Lucky Exercise      | Stand-Up Paddleboarding  |
+| Lucky Country       | Romania    |
 
 
 ##  Final Reflections on Dreams

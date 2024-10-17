@@ -1,8 +1,8 @@
 ---
     weight: 911
     title: "Dream of being chased by a bull"  # Assuming 'title' column exists
-    date: 2024-10-13T10:34:00+08:00
-    lastmod: 2024-10-13T10:34:00+08:00
+    date: 2024-10-14T09:59:00+08:00
+    lastmod: 2024-10-14T09:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['bull', 'Dream', 'being', 'a', 'by', 'of', 'chased']
+    tags: ['being', 'chased', 'Dream', 'bull']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,11 +59,11 @@ This dream mainly shows danger and challenge, so it's hard to interpret it as lu
 | Lucky Animal        | Rhino |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Ramen      |
-| Lucky Instrument    | Trombone |
-| Lucky Flower        | Hydrangea    |
-| Lucky Job           | Data Scientist       |
-| Lucky Exercise      | Plank  |
+| Lucky Food          | Scallops      |
+| Lucky Instrument    | Triangle |
+| Lucky Flower        | Forget-Me-Not    |
+| Lucky Job           | Content Creator       |
+| Lucky Exercise      | Hot Yoga  |
 | Lucky Country       | Czech Republic    |
 
 

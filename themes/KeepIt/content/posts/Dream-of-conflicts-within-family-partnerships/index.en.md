@@ -1,8 +1,8 @@
 ---
     weight: 2111
     title: "Dream of being abandoned in a dangerous place"  # Assuming 'title' column exists
-    date: 2024-10-13T03:15:00+08:00
-    lastmod: 2024-10-13T03:15:00+08:00
+    date: 2024-10-15T20:53:00+08:00
+    lastmod: 2024-10-15T20:53:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dangerous', 'Dream', 'being', 'abandoned', 'a', 'in', 'place', 'of']
+    tags: ['being', 'abandoned', 'Dream', 'place', 'dangerous']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams of experiencing a great loss or failure are not typically associated with
 | Lucky Animal        | Hamster |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Casserole      |
-| Lucky Instrument    | Fujara |
-| Lucky Flower        | Buttercup    |
-| Lucky Job           | Content Creator       |
-| Lucky Exercise      | Ashtanga Yoga  |
-| Lucky Country       | Canada    |
+| Lucky Food          | Pulled Pork      |
+| Lucky Instrument    | Wooden Flute |
+| Lucky Flower        | Gladiolus    |
+| Lucky Job           | Event Coordinator       |
+| Lucky Exercise      | Snowboarding  |
+| Lucky Country       | Brunei    |
 
 
 ##  Final Reflections on Dreams

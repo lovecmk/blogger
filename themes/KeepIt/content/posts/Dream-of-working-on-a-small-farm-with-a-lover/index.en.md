@@ -1,8 +1,8 @@
 ---
     weight: 688
     title: "Dream of working on a small farm with a lover"  # Assuming 'title' column exists
-    date: 2024-10-13T04:39:00+08:00
-    lastmod: 2024-10-13T04:39:00+08:00
+    date: 2024-10-13T06:48:00+08:00
+    lastmod: 2024-10-13T06:48:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['small', 'lover', 'working', 'Dream', 'a', 'on', 'farm', 'of', 'with']
+    tags: ['Dream', 'working', 'small', 'lover', 'farm']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be obtained through a harmonious relationship with mu
 | Lucky Animal        | Elephant |
 | Lucky Place         | Mart     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Spring Roll      |
-| Lucky Instrument    | Koto |
-| Lucky Flower        | Rose    |
-| Lucky Job           | Pastry Chef       |
-| Lucky Exercise      | Underwater Diving  |
-| Lucky Country       | Russia    |
+| Lucky Food          | Tart      |
+| Lucky Instrument    | Recorder |
+| Lucky Flower        | Thistle    |
+| Lucky Job           | Doctor       |
+| Lucky Exercise      | Water Polo  |
+| Lucky Country       | Mozambique    |
 
 
 ##  Final Reflections on Dreams

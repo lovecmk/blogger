@@ -1,8 +1,8 @@
 ---
     weight: 1012
     title: "Lovely dream"  # Assuming 'title' column exists
-    date: 2024-10-13T12:05:00+08:00
-    lastmod: 2024-10-13T12:05:00+08:00
+    date: 2024-10-12T20:16:00+08:00
+    lastmod: 2024-10-12T20:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -59,12 +59,12 @@ The luck of 'lovely dream' can give you power and joy in various areas.This drea
 | Lucky Animal        | Seagull |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Red     |
-| Lucky Food          | Beef Wellington      |
-| Lucky Instrument    | Soprano Recorder |
-| Lucky Flower        | Dandelion    |
-| Lucky Job           | Physical Therapist       |
-| Lucky Exercise      | Salsa  |
-| Lucky Country       | Kazakhstan    |
+| Lucky Food          | Tuna Tartare      |
+| Lucky Instrument    | Conga |
+| Lucky Flower        | Petunia    |
+| Lucky Job           | Event Coordinator       |
+| Lucky Exercise      | Bouldering  |
+| Lucky Country       | Nauru    |
 
 
 ##  Final Reflections on Dreams

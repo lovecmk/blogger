@@ -1,8 +1,8 @@
 ---
     weight: 441
     title: "Dream of running away from darkness or nightmare"  # Assuming 'title' column exists
-    date: 2024-10-13T20:14:00+08:00
-    lastmod: 2024-10-13T20:14:00+08:00
+    date: 2024-10-13T18:21:00+08:00
+    lastmod: 2024-10-13T18:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['nightmare', 'or', 'running', 'away', 'Dream', 'darkness', 'from', 'of']
+    tags: ['nightmare', 'darkness', 'Dream', 'running', 'from', 'away']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can show your desire and will to get out of difficult situations.Runn
 | Lucky Animal        | Otter |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Fish and Chips      |
-| Lucky Instrument    | Electric Cello |
-| Lucky Flower        | Buttercup    |
-| Lucky Job           | Firefighter       |
-| Lucky Exercise      | Ballet  |
-| Lucky Country       | Bulgaria    |
+| Lucky Food          | Chips      |
+| Lucky Instrument    | Synthesizer |
+| Lucky Flower        | Butterfly Bush    |
+| Lucky Job           | Event Planner       |
+| Lucky Exercise      | Surfing  |
+| Lucky Country       | Saudi Arabia    |
 
 
 ##  Final Reflections on Dreams

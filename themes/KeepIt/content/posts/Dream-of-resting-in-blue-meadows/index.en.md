@@ -1,8 +1,8 @@
 ---
     weight: 558
     title: "Dream of resting in blue meadows"  # Assuming 'title' column exists
-    date: 2024-10-13T17:36:00+08:00
-    lastmod: 2024-10-13T17:36:00+08:00
+    date: 2024-10-13T21:12:00+08:00
+    lastmod: 2024-10-13T21:12:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['blue', 'resting', 'Dream', 'meadows', 'in', 'of']
+    tags: ['Dream', 'meadows', 'resting', 'blue']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The meaning of 'Dream of resting in blue meadows' depends on the personal experi
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Beef Wellington      |
-| Lucky Instrument    | Synthesizer |
-| Lucky Flower        | Swan River Daisy    |
-| Lucky Job           | Dentist       |
-| Lucky Exercise      | Bodyweight Training  |
-| Lucky Country       | China    |
+| Lucky Food          | Caramel Flan      |
+| Lucky Instrument    | Piano |
+| Lucky Flower        | Sea Holly    |
+| Lucky Job           | Translator       |
+| Lucky Exercise      | Swimming  |
+| Lucky Country       | Spain    |
 
 
 ##  Final Reflections on Dreams

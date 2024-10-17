@@ -1,8 +1,8 @@
 ---
     weight: 878
     title: "Dream of breaking teeth"  # Assuming 'title' column exists
-    date: 2024-10-13T14:02:00+08:00
-    lastmod: 2024-10-13T14:02:00+08:00
+    date: 2024-10-14T08:40:00+08:00
+    lastmod: 2024-10-14T08:40:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['teeth', 'of', 'breaking', 'Dream']
+    tags: ['breaking', 'teeth', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream is not seen as a precursor to luck, but it can help you to recognize 
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Fruit Tart      |
-| Lucky Instrument    | Timpani |
-| Lucky Flower        | Sage    |
-| Lucky Job           | Hair Stylist       |
-| Lucky Exercise      | Crunches  |
-| Lucky Country       | Azerbaijan    |
+| Lucky Food          | Pico de Gallo      |
+| Lucky Instrument    | Sarangi |
+| Lucky Flower        | Foxglove    |
+| Lucky Job           | Journalist       |
+| Lucky Exercise      | Aerobics  |
+| Lucky Country       | Nauru    |
 
 
 ##  Final Reflections on Dreams

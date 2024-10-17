@@ -1,8 +1,8 @@
 ---
     weight: 560
     title: "Dream of discovering brilliant flowers"  # Assuming 'title' column exists
-    date: 2024-10-13T00:23:00+08:00
-    lastmod: 2024-10-13T00:23:00+08:00
+    date: 2024-10-15T02:11:00+08:00
+    lastmod: 2024-10-15T02:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['brilliant', 'flowers', 'Dream', 'of', 'discovering']
+    tags: ['Dream', 'discovering', 'flowers', 'brilliant']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can contain a variety of aspects.The first colorful flowe
 | Lucky Animal        | Mouse |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Red     |
-| Lucky Food          | Steak      |
-| Lucky Instrument    | Didgeridoo |
-| Lucky Flower        | Petunia    |
-| Lucky Job           | Fashion Designer       |
-| Lucky Exercise      | Walking  |
-| Lucky Country       | Bhutan    |
+| Lucky Food          | Pudding      |
+| Lucky Instrument    | Hang Drum |
+| Lucky Flower        | Maranta    |
+| Lucky Job           | Plumber       |
+| Lucky Exercise      | Hiking  |
+| Lucky Country       | Lithuania    |
 
 
 ##  Final Reflections on Dreams

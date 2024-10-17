@@ -1,8 +1,8 @@
 ---
     weight: 1528
     title: "Dream of being disappointed or betrayed by someone you trust"  # Assuming 'title' column exists
-    date: 2024-10-13T13:55:00+08:00
-    lastmod: 2024-10-13T13:55:00+08:00
+    date: 2024-10-11T15:10:00+08:00
+    lastmod: 2024-10-11T15:10:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'disappointed', 'trust', 'betrayed', 'Dream', 'being', 'someone', 'by', 'of', 'you']
+    tags: ['being', 'betrayed', 'Dream', 'disappointed', 'someone', 'trust', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Pasta      |
-| Lucky Instrument    | Tenor Saxophone |
-| Lucky Flower        | Zinnia    |
-| Lucky Job           | Firefighter       |
-| Lucky Exercise      | Yoga  |
-| Lucky Country       | Canada    |
+| Lucky Food          | Chia Pudding      |
+| Lucky Instrument    | Bass Guitar |
+| Lucky Flower        | Lilac    |
+| Lucky Job           | Data Analyst       |
+| Lucky Exercise      | Zumba  |
+| Lucky Country       | Kyrgyzstan    |
 
 
 ##  Final Reflections on Dreams

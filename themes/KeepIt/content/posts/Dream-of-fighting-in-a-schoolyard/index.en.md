@@ -1,8 +1,8 @@
 ---
     weight: 2201
     title: "Dream of being in a state of intense sorrow"  # Assuming 'title' column exists
-    date: 2024-10-13T05:01:00+08:00
-    lastmod: 2024-10-13T05:01:00+08:00
+    date: 2024-10-11T07:15:00+08:00
+    lastmod: 2024-10-11T07:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['state', 'intense', 'Dream', 'being', 'a', 'in', 'of', 'sorrow']
+    tags: ['being', 'Dream', 'sorrow', 'intense', 'state']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,11 +59,11 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Otter |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Scone      |
-| Lucky Instrument    | Claves |
-| Lucky Flower        | Celosia    |
-| Lucky Job           | Data Analyst       |
-| Lucky Exercise      | Cricket  |
+| Lucky Food          | Gnocchi      |
+| Lucky Instrument    | Melodica |
+| Lucky Flower        | Feverfew    |
+| Lucky Job           | Welder       |
+| Lucky Exercise      | Boxing  |
 | Lucky Country       | Micronesia    |
 
 

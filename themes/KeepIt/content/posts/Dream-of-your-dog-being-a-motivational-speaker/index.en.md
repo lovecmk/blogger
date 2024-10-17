@@ -1,8 +1,8 @@
 ---
     weight: 1307
     title: "Dream of your dog being a motivational speaker"  # Assuming 'title' column exists
-    date: 2024-10-13T08:57:00+08:00
-    lastmod: 2024-10-13T08:57:00+08:00
+    date: 2024-10-13T08:13:00+08:00
+    lastmod: 2024-10-13T08:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'motivational', 'Dream', 'being', 'a', 'of', 'speaker', 'dog']
+    tags: ['being', 'Dream', 'speaker', 'motivational', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Pig |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Scallops      |
-| Lucky Instrument    | Pandeiro |
-| Lucky Flower        | Poppy    |
-| Lucky Job           | IT Specialist       |
-| Lucky Exercise      | Pilates  |
-| Lucky Country       | Georgia    |
+| Lucky Food          | Seafood Paella      |
+| Lucky Instrument    | Saxophone |
+| Lucky Flower        | Cyclamen    |
+| Lucky Job           | Consultant       |
+| Lucky Exercise      | Softball  |
+| Lucky Country       | Israel    |
 
 
 ##  Final Reflections on Dreams

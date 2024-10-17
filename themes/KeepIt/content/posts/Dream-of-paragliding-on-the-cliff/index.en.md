@@ -1,8 +1,8 @@
 ---
     weight: 739
     title: "Dream of paragliding on the cliff"  # Assuming 'title' column exists
-    date: 2024-10-13T10:52:00+08:00
-    lastmod: 2024-10-13T10:52:00+08:00
+    date: 2024-10-15T23:16:00+08:00
+    lastmod: 2024-10-15T23:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'Dream', 'paragliding', 'on', 'of', 'cliff']
+    tags: ['paragliding', 'cliff', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can indicate that you can meet a free and successful situ
 | Lucky Animal        | Snake |
 | Lucky Place         | Museum     |
 | Lucky Color         | Green     |
-| Lucky Food          | Bruschetta      |
-| Lucky Instrument    | Ocarina |
-| Lucky Flower        | Jade Plant    |
-| Lucky Job           | Dentist       |
-| Lucky Exercise      | Ashtanga Yoga  |
-| Lucky Country       | Palau    |
+| Lucky Food          | Eggplant Parmesan      |
+| Lucky Instrument    | Tuba Horn |
+| Lucky Flower        | Lavender    |
+| Lucky Job           | Art Director       |
+| Lucky Exercise      | Sledge Hockey  |
+| Lucky Country       | Cyprus    |
 
 
 ##  Final Reflections on Dreams

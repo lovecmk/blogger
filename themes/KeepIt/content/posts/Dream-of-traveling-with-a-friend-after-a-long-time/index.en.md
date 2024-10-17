@@ -1,8 +1,8 @@
 ---
     weight: 665
     title: "Dream of traveling with a friend after a long time"  # Assuming 'title' column exists
-    date: 2024-10-13T09:32:00+08:00
-    lastmod: 2024-10-13T09:32:00+08:00
+    date: 2024-10-13T20:05:00+08:00
+    lastmod: 2024-10-13T20:05:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['friend', 'long', 'of', 'after', 'traveling', 'Dream', 'a', 'time', 'with']
+    tags: ['Dream', 'traveling', 'friend', 'long', 'time', 'after']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can suggest that you can get lucky through meetings with new people o
 | Lucky Animal        | Chameleon |
 | Lucky Place         | School     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Tiramisu      |
-| Lucky Instrument    | Bandoneon |
-| Lucky Flower        | Chive Blossom    |
-| Lucky Job           | Philosopher       |
-| Lucky Exercise      | Stand-Up Paddleboarding  |
-| Lucky Country       | Spain    |
+| Lucky Food          | Tofu      |
+| Lucky Instrument    | Banjo |
+| Lucky Flower        | Bee Balm    |
+| Lucky Job           | Business Analyst       |
+| Lucky Exercise      | Calisthenics  |
+| Lucky Country       | Kuwait    |
 
 
 ##  Final Reflections on Dreams

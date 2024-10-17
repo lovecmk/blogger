@@ -1,8 +1,8 @@
 ---
     weight: 106
     title: "Dream of talking with her husband and talking in the forest"  # Assuming 'title' column exists
-    date: 2024-10-13T22:58:00+08:00
-    lastmod: 2024-10-13T22:58:00+08:00
+    date: 2024-10-14T22:59:00+08:00
+    lastmod: 2024-10-14T22:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['her', 'forest', 'the', 'talking', 'Dream', 'husband', 'and', 'in', 'of', 'with']
+    tags: ['forest', 'Dream', 'talking', 'her', 'husband']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can symbolize good luck in the relationship between you and your husb
 | Lucky Animal        | Panda |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Casserole      |
-| Lucky Instrument    | Accordion |
-| Lucky Flower        | Gillyflower    |
-| Lucky Job           | Anthropologist       |
-| Lucky Exercise      | Squash  |
-| Lucky Country       | Palau    |
+| Lucky Food          | Baked Ziti      |
+| Lucky Instrument    | Tenor Saxophone |
+| Lucky Flower        | Ranunculus    |
+| Lucky Job           | Teacher       |
+| Lucky Exercise      | Stand-Up Paddleboarding  |
+| Lucky Country       | Iceland    |
 
 
 ##  Final Reflections on Dreams

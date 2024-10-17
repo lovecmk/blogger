@@ -1,8 +1,8 @@
 ---
     weight: 1458
     title: "Dream of your dog writing a bestselling book"  # Assuming 'title' column exists
-    date: 2024-10-13T13:47:00+08:00
-    lastmod: 2024-10-13T13:47:00+08:00
+    date: 2024-10-11T13:00:00+08:00
+    lastmod: 2024-10-11T13:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'Dream', 'bestselling', 'book', 'a', 'of', 'writing', 'dog']
+    tags: ['Dream', 'bestselling', 'dog', 'book', 'writing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Snake |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Chips      |
-| Lucky Instrument    | Melodica |
-| Lucky Flower        | Mandevilla    |
-| Lucky Job           | Welder       |
-| Lucky Exercise      | Tai Chi  |
-| Lucky Country       | Angola    |
+| Lucky Food          | Burrito      |
+| Lucky Instrument    | Octobass |
+| Lucky Flower        | Mullein    |
+| Lucky Job           | Teacher       |
+| Lucky Exercise      | Bouldering  |
+| Lucky Country       | Poland    |
 
 
 ##  Final Reflections on Dreams

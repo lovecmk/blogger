@@ -1,8 +1,8 @@
 ---
     weight: 448
     title: "Dream of not making any decisions"  # Assuming 'title' column exists
-    date: 2024-10-13T15:24:00+08:00
-    lastmod: 2024-10-13T15:24:00+08:00
+    date: 2024-10-14T07:28:00+08:00
+    lastmod: 2024-10-14T07:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'not', 'making', 'decisions', 'of', 'any']
+    tags: ['Dream', 'making', 'not', 'decisions', 'any']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is a message hidden for you, indicating that you can find
 | Lucky Animal        | Elephant |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Pico de Gallo      |
-| Lucky Instrument    | Ocarina |
-| Lucky Flower        | Gladiolus    |
-| Lucky Job           | Astrophysicist       |
-| Lucky Exercise      | Yoga  |
-| Lucky Country       | Hungary    |
+| Lucky Food          | Beef Tacos      |
+| Lucky Instrument    | Basset Horn |
+| Lucky Flower        | Stephanotis    |
+| Lucky Job           | Statistician       |
+| Lucky Exercise      | Kettlebell Training  |
+| Lucky Country       | Philippines    |
 
 
 ##  Final Reflections on Dreams

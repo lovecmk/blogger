@@ -1,8 +1,8 @@
 ---
     weight: 1985
     title: "Dream of your grandmother expressing pride in your accomplishments."  # Assuming 'title' column exists
-    date: 2024-10-13T18:02:00+08:00
-    lastmod: 2024-10-13T18:02:00+08:00
+    date: 2024-10-14T14:53:00+08:00
+    lastmod: 2024-10-14T14:53:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['accomplishments.', 'expressing', 'grandmother', 'your', 'Dream', 'in', 'of', 'pride']
+    tags: ['Dream', 'grandmother', 'accomplishments', 'expressing', 'pride']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams are not directly connected to luck. However, this dream could symbolize a
 | Lucky Animal        | Chick |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Chocolate      |
-| Lucky Instrument    | Synthesizer |
-| Lucky Flower        | Vinca    |
-| Lucky Job           | Translator       |
-| Lucky Exercise      | Bodyweight Training  |
-| Lucky Country       | Canada    |
+| Lucky Food          | Beef Wellington      |
+| Lucky Instrument    | Sarangi |
+| Lucky Flower        | Yarrow    |
+| Lucky Job           | Logistician       |
+| Lucky Exercise      | Walking  |
+| Lucky Country       | Romania    |
 
 
 ##  Final Reflections on Dreams

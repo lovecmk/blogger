@@ -1,8 +1,8 @@
 ---
     weight: 569
     title: "Dream of resting in an outdoor garden"  # Assuming 'title' column exists
-    date: 2024-10-13T16:47:00+08:00
-    lastmod: 2024-10-13T16:47:00+08:00
+    date: 2024-10-12T12:09:00+08:00
+    lastmod: 2024-10-12T12:09:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['outdoor', 'resting', 'Dream', 'an', 'in', 'of', 'garden']
+    tags: ['Dream', 'garden', 'outdoor', 'resting', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can give you relaxation and peace, and foretell lucky and positive ch
 | Lucky Animal        | Hyena |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Quiche      |
-| Lucky Instrument    | Didgeridoo |
-| Lucky Flower        | Bleeding Heart    |
-| Lucky Job           | IT Specialist       |
-| Lucky Exercise      | Yoga Flow  |
-| Lucky Country       | France    |
+| Lucky Food          | Corn on the Cob      |
+| Lucky Instrument    | Zither |
+| Lucky Flower        | Chrysanthemum    |
+| Lucky Job           | Brand Manager       |
+| Lucky Exercise      | Running  |
+| Lucky Country       | Thailand    |
 
 
 ##  Final Reflections on Dreams

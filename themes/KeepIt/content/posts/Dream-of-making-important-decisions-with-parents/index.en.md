@@ -1,8 +1,8 @@
 ---
     weight: 169
     title: "Dream of making important decisions with parents"  # Assuming 'title' column exists
-    date: 2024-10-13T06:53:00+08:00
-    lastmod: 2024-10-13T06:53:00+08:00
+    date: 2024-10-14T16:10:00+08:00
+    lastmod: 2024-10-14T16:10:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['parents', 'Dream', 'making', 'decisions', 'of', 'with', 'important']
+    tags: ['Dream', 'important', 'making', 'decisions', 'parents']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can depend on the individual's interpretation.However, th
 | Lucky Animal        | Cheetah |
 | Lucky Place         | River     |
 | Lucky Color         | White     |
-| Lucky Food          | Stuffed Mushrooms      |
-| Lucky Instrument    | Chimes |
-| Lucky Flower        | Thunbergia    |
-| Lucky Job           | Artist       |
-| Lucky Exercise      | Horseback Riding  |
-| Lucky Country       | Jordan    |
+| Lucky Food          | Omelette      |
+| Lucky Instrument    | Glockenspiel |
+| Lucky Flower        | Fuchsia    |
+| Lucky Job           | IT Specialist       |
+| Lucky Exercise      | Plank  |
+| Lucky Country       | Azerbaijan    |
 
 
 ##  Final Reflections on Dreams

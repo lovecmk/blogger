@@ -1,8 +1,8 @@
 ---
     weight: 1399
     title: "Dream of a bicycle accident"  # Assuming 'title' column exists
-    date: 2024-10-13T03:03:00+08:00
-    lastmod: 2024-10-13T03:03:00+08:00
+    date: 2024-10-14T07:47:00+08:00
+    lastmod: 2024-10-14T07:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['bicycle', 'Dream', 'a', 'accident', 'of']
+    tags: ['Dream', 'bicycle', 'accident']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Snake |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Caprese Salad      |
-| Lucky Instrument    | Melodic Percussion |
-| Lucky Flower        | Scented Geranium    |
-| Lucky Job           | Artist       |
-| Lucky Exercise      | Burpees  |
-| Lucky Country       | Malaysia    |
+| Lucky Food          | Onion Rings      |
+| Lucky Instrument    | Soprano Recorder |
+| Lucky Flower        | Stock    |
+| Lucky Job           | Firefighter       |
+| Lucky Exercise      | Paddleboarding  |
+| Lucky Country       | Iceland    |
 
 
 ##  Final Reflections on Dreams

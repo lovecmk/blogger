@@ -1,8 +1,8 @@
 ---
     weight: 931
     title: "Dream falling from the building"  # Assuming 'title' column exists
-    date: 2024-10-13T00:53:00+08:00
-    lastmod: 2024-10-13T00:53:00+08:00
+    date: 2024-10-13T09:28:00+08:00
+    lastmod: 2024-10-13T09:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'falling', 'Dream', 'from', 'building']
+    tags: ['Dream', 'building', 'falling', 'from']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can indicate that it can indicate freedom, change of change, and grow
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Chicken Curry      |
-| Lucky Instrument    | French Horn |
-| Lucky Flower        | Buttercup    |
-| Lucky Job           | Sous Chef       |
-| Lucky Exercise      | Kickboxing  |
-| Lucky Country       | Greece    |
+| Lucky Food          | Sushi      |
+| Lucky Instrument    | Keyboard Synthesizer |
+| Lucky Flower        | Alstroemeria    |
+| Lucky Job           | Baker       |
+| Lucky Exercise      | Hula Hooping  |
+| Lucky Country       | South Korea    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1820
     title: "Dream of your husband achieving a personal goal he's been pursuing."  # Assuming 'title' column exists
-    date: 2024-10-13T16:03:00+08:00
-    lastmod: 2024-10-13T16:03:00+08:00
+    date: 2024-10-15T01:03:00+08:00
+    lastmod: 2024-10-15T01:03:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'goal', 'Dream', 'personal', "he's", 'husband', 'a', 'achieving', 'been', 'of', 'pursuing.']
+    tags: ['pursuing', 'Dream', "he's", 'goal', 'been', 'husband', 'personal', 'achieving']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Museum     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Baba Ganoush      |
-| Lucky Instrument    | Snare Drum |
-| Lucky Flower        | Ragged Robin    |
-| Lucky Job           | Art Director       |
-| Lucky Exercise      | Trail Running  |
-| Lucky Country       | Malawi    |
+| Lucky Food          | Muffin      |
+| Lucky Instrument    | Koto |
+| Lucky Flower        | Sage    |
+| Lucky Job           | Farmer       |
+| Lucky Exercise      | Ashtanga Yoga  |
+| Lucky Country       | Austria    |
 
 
 ##  Final Reflections on Dreams

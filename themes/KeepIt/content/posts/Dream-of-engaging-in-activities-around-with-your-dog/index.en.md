@@ -1,8 +1,8 @@
 ---
     weight: 1482
     title: "Dream of engaging in activities around with your dog"  # Assuming 'title' column exists
-    date: 2024-10-13T07:14:00+08:00
-    lastmod: 2024-10-13T07:14:00+08:00
+    date: 2024-10-13T14:09:00+08:00
+    lastmod: 2024-10-13T14:09:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'activities', 'Dream', 'engaging', 'around', 'in', 'of', 'with', 'dog']
+    tags: ['Dream', 'activities', 'engaging', 'dog', 'around']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams do not directly bring luck, but they can reflect your current emotional s
 | Lucky Animal        | Beaver |
 | Lucky Place         | Library     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Zucchini Noodles      |
-| Lucky Instrument    | Ney |
-| Lucky Flower        | Gladiolus    |
-| Lucky Job           | Consultant       |
-| Lucky Exercise      | Horseback Riding  |
-| Lucky Country       | Australia    |
+| Lucky Food          | Brownies      |
+| Lucky Instrument    | Bassoon |
+| Lucky Flower        | Begonia    |
+| Lucky Job           | Social Worker       |
+| Lucky Exercise      | Swimming Laps  |
+| Lucky Country       | Sri Lanka    |
 
 
 ##  Final Reflections on Dreams

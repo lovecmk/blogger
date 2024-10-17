@@ -1,8 +1,8 @@
 ---
     weight: 1222
     title: "Dream about Coffee Shop"  # Assuming 'title' column exists
-    date: 2024-10-13T20:55:00+08:00
-    lastmod: 2024-10-13T20:55:00+08:00
+    date: 2024-10-14T20:11:00+08:00
+    lastmod: 2024-10-14T20:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Shop', 'about', 'Dream', 'Coffee']
+    tags: ['Shop', 'Dream', 'Coffee']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be a variety of forms.For example, you will be able t
 | Lucky Animal        | Hippo |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Black     |
-| Lucky Food          | Pasta Salad      |
-| Lucky Instrument    | Tromba |
-| Lucky Flower        | Bougainvillea    |
-| Lucky Job           | Insurance Agent       |
-| Lucky Exercise      | Skimboarding  |
-| Lucky Country       | Slovakia    |
+| Lucky Food          | Tart      |
+| Lucky Instrument    | Zouaves |
+| Lucky Flower        | Forget-Me-Not    |
+| Lucky Job           | Firefighter       |
+| Lucky Exercise      | Dancing  |
+| Lucky Country       | Latvia    |
 
 
 ##  Final Reflections on Dreams

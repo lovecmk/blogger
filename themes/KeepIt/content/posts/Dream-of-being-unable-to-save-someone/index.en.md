@@ -1,8 +1,8 @@
 ---
     weight: 1705
     title: "Dream of clashes over family traditions"  # Assuming 'title' column exists
-    date: 2024-10-13T09:50:00+08:00
-    lastmod: 2024-10-13T09:50:00+08:00
+    date: 2024-10-12T06:02:00+08:00
+    lastmod: 2024-10-12T06:02:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'clashes', 'Dream', 'over', 'of', 'traditions']
+    tags: ['family', 'Dream', 'clashes', 'over', 'traditions']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings positive luck in terms of your relationship. It indicates that
 | Lucky Animal        | Cat |
 | Lucky Place         | Museum     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Chia Pudding      |
-| Lucky Instrument    | Accordion Synth |
-| Lucky Flower        | Celosia    |
-| Lucky Job           | Musician       |
-| Lucky Exercise      | Cross-Country Skiing  |
-| Lucky Country       | Kyrgyzstan    |
+| Lucky Food          | Pulled Pork      |
+| Lucky Instrument    | Chimes |
+| Lucky Flower        | Gillyflower    |
+| Lucky Job           | Consultant       |
+| Lucky Exercise      | Resistance Bands  |
+| Lucky Country       | Syria    |
 
 
 ##  Final Reflections on Dreams

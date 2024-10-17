@@ -1,8 +1,8 @@
 ---
     weight: 285
     title: "Dream of a puppy waving the tail"  # Assuming 'title' column exists
-    date: 2024-10-13T13:15:00+08:00
-    lastmod: 2024-10-13T13:15:00+08:00
+    date: 2024-10-15T04:53:00+08:00
+    lastmod: 2024-10-15T04:53:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'waving', 'Dream', 'a', 'of', 'tail', 'puppy']
+    tags: ['waving', 'Dream', 'puppy', 'tail']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can mainly show positive luck.The dog shakes the tail and welcomes yo
 | Lucky Animal        | Fox |
 | Lucky Place         | River     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Cheeseboard      |
-| Lucky Instrument    | Melodica |
-| Lucky Flower        | Lobelia    |
-| Lucky Job           | Consultant       |
-| Lucky Exercise      | Box Jumps  |
-| Lucky Country       | Mozambique    |
+| Lucky Food          | Baked Ziti      |
+| Lucky Instrument    | Ocarina |
+| Lucky Flower        | Clover    |
+| Lucky Job           | Data Scientist       |
+| Lucky Exercise      | Hot Yoga  |
+| Lucky Country       | Lithuania    |
 
 
 ##  Final Reflections on Dreams

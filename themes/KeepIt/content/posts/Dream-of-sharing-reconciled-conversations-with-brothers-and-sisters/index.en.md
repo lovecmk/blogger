@@ -1,8 +1,8 @@
 ---
     weight: 147
     title: "Dream of sharing reconciled conversations with brothers and sisters"  # Assuming 'title' column exists
-    date: 2024-10-13T19:30:00+08:00
-    lastmod: 2024-10-13T19:30:00+08:00
+    date: 2024-10-11T15:21:00+08:00
+    lastmod: 2024-10-11T15:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['reconciled', 'conversations', 'sisters', 'Dream', 'sharing', 'and', 'of', 'brothers', 'with']
+    tags: ['Dream', 'brothers', 'sisters', 'conversations', 'sharing', 'reconciled']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can symbolize harmonious relationships and luck with your family.A re
 | Lucky Animal        | Seagull |
 | Lucky Place         | Academy     |
 | Lucky Color         | Green     |
-| Lucky Food          | Tacos      |
-| Lucky Instrument    | Chimes |
-| Lucky Flower        | Forget-Me-Not    |
-| Lucky Job           | Musician       |
-| Lucky Exercise      | Salsa  |
-| Lucky Country       | Greece    |
+| Lucky Food          | Tiramisu      |
+| Lucky Instrument    | Bandoneon |
+| Lucky Flower        | Mums    |
+| Lucky Job           | Art Director       |
+| Lucky Exercise      | Discus Throw  |
+| Lucky Country       | Vanuatu    |
 
 
 ##  Final Reflections on Dreams

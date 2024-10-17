@@ -1,8 +1,8 @@
 ---
     weight: 631
     title: "A dream that everyone coexists peacefully"  # Assuming 'title' column exists
-    date: 2024-10-13T05:23:00+08:00
-    lastmod: 2024-10-13T05:23:00+08:00
+    date: 2024-10-13T15:26:00+08:00
+    lastmod: 2024-10-13T15:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['everyone', 'peacefully', 'dream', 'A', 'coexists', 'that']
+    tags: ['coexists', 'dream', 'peacefully', 'A', 'everyone', 'that']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can provide opportunities to enjoy good luck through mutual understan
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Noodles      |
-| Lucky Instrument    | Electric Guitar |
-| Lucky Flower        | Moss Rose    |
-| Lucky Job           | Security Guard       |
-| Lucky Exercise      | Hula Hooping  |
-| Lucky Country       | Lebanon    |
+| Lucky Food          | Samosa      |
+| Lucky Instrument    | Melodic Percussion |
+| Lucky Flower        | Bee Balm    |
+| Lucky Job           | Electrician       |
+| Lucky Exercise      | Stair Climbing  |
+| Lucky Country       | France    |
 
 
 ##  Final Reflections on Dreams

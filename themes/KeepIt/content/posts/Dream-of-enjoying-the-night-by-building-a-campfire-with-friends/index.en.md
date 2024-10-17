@@ -1,8 +1,8 @@
 ---
     weight: 671
     title: "Dream of enjoying the night by building a campfire with friends"  # Assuming 'title' column exists
-    date: 2024-10-13T09:06:00+08:00
-    lastmod: 2024-10-13T09:06:00+08:00
+    date: 2024-10-12T21:59:00+08:00
+    lastmod: 2024-10-12T21:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['with', 'enjoying', 'the', 'night', 'Dream', 'a', 'by', 'campfire', 'of', 'building', 'friends']
+    tags: ['Dream', 'campfire', 'building', 'night', 'enjoying', 'friends']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream may have a variety of aspects that give you good luck.Enjoying the ni
 | Lucky Animal        | Crab |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Vegetable Stir Fry      |
-| Lucky Instrument    | Piccolo Trumpet |
-| Lucky Flower        | Yarrow    |
-| Lucky Job           | Research Scientist       |
-| Lucky Exercise      | Running  |
-| Lucky Country       | Lithuania    |
+| Lucky Food          | Paella      |
+| Lucky Instrument    | Shakuhachi |
+| Lucky Flower        | Nasturtium    |
+| Lucky Job           | Veterinarian       |
+| Lucky Exercise      | Sprinting  |
+| Lucky Country       | Bangladesh    |
 
 
 ##  Final Reflections on Dreams

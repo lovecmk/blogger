@@ -1,8 +1,8 @@
 ---
     weight: 1735
     title: "Dream of fighting for independence"  # Assuming 'title' column exists
-    date: 2024-10-13T15:27:00+08:00
-    lastmod: 2024-10-13T15:27:00+08:00
+    date: 2024-10-14T02:40:00+08:00
+    lastmod: 2024-10-14T02:40:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fighting', 'Dream', 'for', 'independence', 'of']
+    tags: ['Dream', 'independence', 'fighting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Dog |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Coconut Shrimp      |
-| Lucky Instrument    | Pandeiro |
-| Lucky Flower        | Vinca    |
-| Lucky Job           | Journalist       |
-| Lucky Exercise      | Step Aerobics  |
-| Lucky Country       | Marshall Islands    |
+| Lucky Food          | Scallops      |
+| Lucky Instrument    | Charango |
+| Lucky Flower        | Rose    |
+| Lucky Job           | Brand Manager       |
+| Lucky Exercise      | Bench Press  |
+| Lucky Country       | Georgia    |
 
 
 ##  Final Reflections on Dreams

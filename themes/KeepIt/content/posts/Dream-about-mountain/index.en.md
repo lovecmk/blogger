@@ -1,8 +1,8 @@
 ---
     weight: 1136
     title: "Dream about mountain"  # Assuming 'title' column exists
-    date: 2024-10-13T22:51:00+08:00
-    lastmod: 2024-10-13T22:51:00+08:00
+    date: 2024-10-12T20:23:00+08:00
+    lastmod: 2024-10-12T20:23:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['mountain', 'about', 'Dream']
+    tags: ['Dream', 'mountain']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck that this dream can give depends on the individual's interpretation and
 | Lucky Animal        | Hyena |
 | Lucky Place         | Promenade     |
 | Lucky Color         | White     |
-| Lucky Food          | Quesadilla      |
-| Lucky Instrument    | Bass Clarinet |
-| Lucky Flower        | Zinnia    |
-| Lucky Job           | Librarian       |
-| Lucky Exercise      | Skating  |
-| Lucky Country       | Nauru    |
+| Lucky Food          | Pasta Salad      |
+| Lucky Instrument    | Didgeridoo |
+| Lucky Flower        | Sage    |
+| Lucky Job           | Lawyer       |
+| Lucky Exercise      | Surf Lifesaving  |
+| Lucky Country       | Angola    |
 
 
 ##  Final Reflections on Dreams

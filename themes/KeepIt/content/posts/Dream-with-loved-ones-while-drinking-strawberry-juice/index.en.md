@@ -1,8 +1,8 @@
 ---
     weight: 48
     title: "Dream with loved ones while drinking strawberry juice"  # Assuming 'title' column exists
-    date: 2024-10-13T22:35:00+08:00
-    lastmod: 2024-10-13T22:35:00+08:00
+    date: 2024-10-14T18:05:00+08:00
+    lastmod: 2024-10-14T18:05:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['juice', 'ones', 'Dream', 'strawberry', 'drinking', 'loved', 'with', 'while']
+    tags: ['while', 'Dream', 'loved', 'strawberry', 'juice', 'ones', 'drinking']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream is full of positive symbols, and drinking strawberry juice and loved 
 | Lucky Animal        | Sloth |
 | Lucky Place         | Library     |
 | Lucky Color         | Red     |
-| Lucky Food          | Baked Potato      |
-| Lucky Instrument    | Tama |
-| Lucky Flower        | Marigold    |
-| Lucky Job           | SEO Specialist       |
-| Lucky Exercise      | Parkour Training  |
-| Lucky Country       | South Korea    |
+| Lucky Food          | Quesadilla      |
+| Lucky Instrument    | Pipa |
+| Lucky Flower        | Kalanchoe    |
+| Lucky Job           | Nurse       |
+| Lucky Exercise      | Resistance Training  |
+| Lucky Country       | Latvia    |
 
 
 ##  Final Reflections on Dreams

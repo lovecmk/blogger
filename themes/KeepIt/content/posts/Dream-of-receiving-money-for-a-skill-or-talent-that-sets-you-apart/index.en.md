@@ -1,8 +1,8 @@
 ---
     weight: 1784
     title: "Dream of tasting sweet grapes from a vineyard"  # Assuming 'title' column exists
-    date: 2024-10-13T21:36:00+08:00
-    lastmod: 2024-10-13T21:36:00+08:00
+    date: 2024-10-15T02:54:00+08:00
+    lastmod: 2024-10-15T02:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['grapes', 'vineyard', 'Dream', 'a', 'from', 'of', 'sweet', 'tasting']
+    tags: ['Dream', 'tasting', 'from', 'vineyard', 'sweet', 'grapes']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Panda |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Crab      |
-| Lucky Instrument    | Melodic Percussion |
-| Lucky Flower        | Hollyhock    |
-| Lucky Job           | Public Relations Specialist       |
-| Lucky Exercise      | Mobility Training  |
-| Lucky Country       | France    |
+| Lucky Food          | Clams      |
+| Lucky Instrument    | Tromba |
+| Lucky Flower        | Jatropha    |
+| Lucky Job           | Network Administrator       |
+| Lucky Exercise      | Belly Dancing  |
+| Lucky Country       | Bhutan    |
 
 
 ##  Final Reflections on Dreams

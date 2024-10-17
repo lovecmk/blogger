@@ -1,8 +1,8 @@
 ---
     weight: 311
     title: "A dream of imagining a happy family with a puppy in a dream"  # Assuming 'title' column exists
-    date: 2024-10-13T19:51:00+08:00
-    lastmod: 2024-10-13T19:51:00+08:00
+    date: 2024-10-14T08:46:00+08:00
+    lastmod: 2024-10-14T08:46:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'imagining', 'puppy', 'a', 'dream', 'in', 'happy', 'of', 'A', 'with']
+    tags: ['family', 'happy', 'puppy', 'dream', 'A', 'imagining']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream depends on the personal interpretation of the dreamer.In 
 | Lucky Animal        | Snake |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Ice Cream      |
-| Lucky Instrument    | Hang Drum |
-| Lucky Flower        | Cornflower    |
-| Lucky Job           | Veterinarian       |
-| Lucky Exercise      | Deadlifts  |
-| Lucky Country       | Botswana    |
+| Lucky Food          | Ramen      |
+| Lucky Instrument    | Lute |
+| Lucky Flower        | Dahlia    |
+| Lucky Job           | Mathematician       |
+| Lucky Exercise      | Yoga  |
+| Lucky Country       | Malaysia    |
 
 
 ##  Final Reflections on Dreams

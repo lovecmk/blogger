@@ -1,8 +1,8 @@
 ---
     weight: 1853
     title: "Dream of attending a wake"  # Assuming 'title' column exists
-    date: 2024-10-13T07:41:00+08:00
-    lastmod: 2024-10-13T07:41:00+08:00
+    date: 2024-10-15T23:19:00+08:00
+    lastmod: 2024-10-15T23:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'a', 'wake', 'of', 'attending']
+    tags: ['Dream', 'wake', 'attending']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Otter |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Brownies      |
-| Lucky Instrument    | Electric Cello |
-| Lucky Flower        | Cosmos    |
-| Lucky Job           | Historian       |
-| Lucky Exercise      | Yoga  |
-| Lucky Country       | Tuvalu    |
+| Lucky Food          | Chocolate Mousse      |
+| Lucky Instrument    | Tabor |
+| Lucky Flower        | Lavender    |
+| Lucky Job           | Makeup Artist       |
+| Lucky Exercise      | Rugby  |
+| Lucky Country       | Malawi    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1938
     title: "Dream of fighting for equality"  # Assuming 'title' column exists
-    date: 2024-10-13T02:03:00+08:00
-    lastmod: 2024-10-13T02:03:00+08:00
+    date: 2024-10-12T11:41:00+08:00
+    lastmod: 2024-10-12T11:41:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fighting', 'equality', 'Dream', 'for', 'of']
+    tags: ['Dream', 'equality', 'fighting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Crab |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Pancakes      |
-| Lucky Instrument    | Drums |
-| Lucky Flower        | Hibiscus    |
-| Lucky Job           | Baker       |
-| Lucky Exercise      | Spin Class  |
-| Lucky Country       | Egypt    |
+| Lucky Food          | Prawn Crackers      |
+| Lucky Instrument    | Accordion |
+| Lucky Flower        | Bellflower    |
+| Lucky Job           | Chef de Cuisine       |
+| Lucky Exercise      | Belly Dancing  |
+| Lucky Country       | Kazakhstan    |
 
 
 ##  Final Reflections on Dreams

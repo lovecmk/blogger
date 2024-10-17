@@ -1,8 +1,8 @@
 ---
     weight: 335
     title: "Dream of having a deep conversation with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T01:03:00+08:00
-    lastmod: 2024-10-13T01:03:00+08:00
+    date: 2024-10-13T11:00:00+08:00
+    lastmod: 2024-10-13T11:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'deep', 'boyfriend', 'Dream', 'a', 'of', 'conversation', 'with', 'having']
+    tags: ['conversation', 'Dream', 'boyfriend', 'deep', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream suggests that deep conversation and communication can be lucky.Commun
 | Lucky Animal        | Beaver |
 | Lucky Place         | Theater     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Scone      |
-| Lucky Instrument    | Lap Steel Guitar |
-| Lucky Flower        | Lilac    |
-| Lucky Job           | Producer       |
-| Lucky Exercise      | Rowing  |
-| Lucky Country       | Solomon Islands    |
+| Lucky Food          | Gelato      |
+| Lucky Instrument    | Hang Drum |
+| Lucky Flower        | Celosia    |
+| Lucky Job           | Philosopher       |
+| Lucky Exercise      | Bench Press  |
+| Lucky Country       | Syria    |
 
 
 ##  Final Reflections on Dreams

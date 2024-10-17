@@ -1,8 +1,8 @@
 ---
     weight: 948
     title: "Dream falling into infinite darkness"  # Assuming 'title' column exists
-    date: 2024-10-13T12:48:00+08:00
-    lastmod: 2024-10-13T12:48:00+08:00
+    date: 2024-10-11T21:11:00+08:00
+    lastmod: 2024-10-11T21:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['infinite', 'into', 'falling', 'Dream', 'darkness']
+    tags: ['darkness', 'Dream', 'into', 'falling', 'infinite']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream mainly represents negative feelings and situations, but you can also 
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Biryani      |
-| Lucky Instrument    | Oboe |
-| Lucky Flower        | Ornamental Pepper    |
-| Lucky Job           | Geologist       |
-| Lucky Exercise      | Tai Chi  |
-| Lucky Country       | China    |
+| Lucky Food          | Tiramisu      |
+| Lucky Instrument    | Harmonium |
+| Lucky Flower        | Petal Plant    |
+| Lucky Job           | Scientist       |
+| Lucky Exercise      | Handball  |
+| Lucky Country       | Syria    |
 
 
 ##  Final Reflections on Dreams

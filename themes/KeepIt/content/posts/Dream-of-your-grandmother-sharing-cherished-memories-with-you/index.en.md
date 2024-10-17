@@ -1,8 +1,8 @@
 ---
     weight: 2186
     title: "Dream of your grandmother sharing pearls of wisdom about relationships."  # Assuming 'title' column exists
-    date: 2024-10-13T23:37:00+08:00
-    lastmod: 2024-10-13T23:37:00+08:00
+    date: 2024-10-11T02:57:00+08:00
+    lastmod: 2024-10-11T02:57:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['wisdom', 'grandmother', 'about', 'your', 'Dream', 'sharing', 'pearls', 'of', 'relationships.']
+    tags: ['Dream', 'sharing', 'grandmother', 'relationships', 'wisdom', 'pearls']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Sloth |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Stir Fry      |
-| Lucky Instrument    | Tuba |
-| Lucky Flower        | Periwinkle    |
-| Lucky Job           | Security Guard       |
-| Lucky Exercise      | Beach Volleyball  |
-| Lucky Country       | Turkey    |
+| Lucky Food          | Tofu      |
+| Lucky Instrument    | Sitar |
+| Lucky Flower        | Sundew    |
+| Lucky Job           | Public Relations Specialist       |
+| Lucky Exercise      | Futsal  |
+| Lucky Country       | Kenya    |
 
 
 ##  Final Reflections on Dreams

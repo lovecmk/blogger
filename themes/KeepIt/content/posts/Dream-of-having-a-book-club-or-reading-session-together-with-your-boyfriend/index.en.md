@@ -1,8 +1,8 @@
 ---
     weight: 1879
     title: "Dream of a feud with your in-laws"  # Assuming 'title' column exists
-    date: 2024-10-13T23:48:00+08:00
-    lastmod: 2024-10-13T23:48:00+08:00
+    date: 2024-10-13T21:30:00+08:00
+    lastmod: 2024-10-13T21:30:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['in-laws', 'of', 'your', 'feud', 'Dream', 'a', 'with']
+    tags: ['feud', 'Dream', 'in-laws']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Eggplant Parmesan      |
-| Lucky Instrument    | Koto |
-| Lucky Flower        | Daffodil    |
-| Lucky Job           | Construction Worker       |
-| Lucky Exercise      | Pole Vaulting  |
-| Lucky Country       | Tonga    |
+| Lucky Food          | Bagel      |
+| Lucky Instrument    | Lyre |
+| Lucky Flower        | Hydrangea    |
+| Lucky Job           | Architect       |
+| Lucky Exercise      | Kayaking  |
+| Lucky Country       | Bangladesh    |
 
 
 ##  Final Reflections on Dreams

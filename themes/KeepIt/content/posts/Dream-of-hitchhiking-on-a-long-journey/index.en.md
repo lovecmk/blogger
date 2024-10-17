@@ -1,8 +1,8 @@
 ---
     weight: 1368
     title: "Dream of hitchhiking on a long journey"  # Assuming 'title' column exists
-    date: 2024-10-13T14:31:00+08:00
-    lastmod: 2024-10-13T14:31:00+08:00
+    date: 2024-10-13T07:56:00+08:00
+    lastmod: 2024-10-13T07:56:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['long', 'hitchhiking', 'journey', 'Dream', 'a', 'on', 'of']
+    tags: ['Dream', 'journey', 'hitchhiking', 'long']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Mole |
 | Lucky Place         | Sea     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Gelato      |
-| Lucky Instrument    | Oboe |
-| Lucky Flower        | Clover    |
-| Lucky Job           | Pilot       |
-| Lucky Exercise      | Surf Lifesaving  |
-| Lucky Country       | Portugal    |
+| Lucky Food          | Zucchini Noodles      |
+| Lucky Instrument    | Koto |
+| Lucky Flower        | Dandelion    |
+| Lucky Job           | Operations Manager       |
+| Lucky Exercise      | Parkour  |
+| Lucky Country       | Malaysia    |
 
 
 ##  Final Reflections on Dreams

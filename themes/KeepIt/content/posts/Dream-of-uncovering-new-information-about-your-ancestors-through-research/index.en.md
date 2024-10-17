@@ -1,8 +1,8 @@
 ---
     weight: 1594
     title: "Dream of your grandmother being a source of inspiration and strength."  # Assuming 'title' column exists
-    date: 2024-10-13T17:47:00+08:00
-    lastmod: 2024-10-13T17:47:00+08:00
+    date: 2024-10-13T10:07:00+08:00
+    lastmod: 2024-10-13T10:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['grandmother', 'your', 'Dream', 'strength.', 'being', 'a', 'inspiration', 'and', 'of', 'source']
+    tags: ['being', 'Dream', 'grandmother', 'strength', 'inspiration', 'source']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Beaver |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Quiche      |
-| Lucky Instrument    | Saz |
-| Lucky Flower        | Dandelion    |
-| Lucky Job           | UX Designer       |
-| Lucky Exercise      | Rugby  |
-| Lucky Country       | Zimbabwe    |
+| Lucky Food          | Quesadilla      |
+| Lucky Instrument    | Tuba Horn |
+| Lucky Flower        | Agapanthus    |
+| Lucky Job           | Astrophysicist       |
+| Lucky Exercise      | Trail Running  |
+| Lucky Country       | Philippines    |
 
 
 ##  Final Reflections on Dreams

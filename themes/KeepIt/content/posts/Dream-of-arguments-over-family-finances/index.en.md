@@ -1,8 +1,8 @@
 ---
     weight: 1663
     title: "Dream of being blamed for something you didn’t do"  # Assuming 'title' column exists
-    date: 2024-10-13T05:38:00+08:00
-    lastmod: 2024-10-13T05:38:00+08:00
+    date: 2024-10-15T05:30:00+08:00
+    lastmod: 2024-10-15T05:30:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['didn’t', 'do', 'blamed', 'Dream', 'for', 'being', 'of', 'something', 'you']
+    tags: ['being', 'blamed', 'you', 'Dream', 'do', 'didn’t', 'something']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Polar bear |
 | Lucky Place         | Mart     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Vegetarian Chili      |
-| Lucky Instrument    | Snare Drum |
-| Lucky Flower        | Hellebore    |
-| Lucky Job           | Accountant       |
-| Lucky Exercise      | Snowshoeing  |
-| Lucky Country       | United States    |
+| Lucky Food          | Cornbread      |
+| Lucky Instrument    | Calimba |
+| Lucky Flower        | Mandevilla    |
+| Lucky Job           | Director       |
+| Lucky Exercise      | Softball  |
+| Lucky Country       | Namibia    |
 
 
 ##  Final Reflections on Dreams

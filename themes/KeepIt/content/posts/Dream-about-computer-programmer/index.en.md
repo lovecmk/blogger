@@ -1,8 +1,8 @@
 ---
     weight: 1219
     title: "Dream about computer programmer"  # Assuming 'title' column exists
-    date: 2024-10-13T20:19:00+08:00
-    lastmod: 2024-10-13T20:19:00+08:00
+    date: 2024-10-11T10:31:00+08:00
+    lastmod: 2024-10-11T10:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['programmer', 'computer', 'about', 'Dream']
+    tags: ['computer', 'programmer', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can provide opportunities to achieve better results throu
 | Lucky Animal        | Seagull |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Cheeseboard      |
-| Lucky Instrument    | Tuba |
-| Lucky Flower        | Agapanthus    |
-| Lucky Job           | Geologist       |
-| Lucky Exercise      | Handball  |
-| Lucky Country       | Nigeria    |
+| Lucky Food          | Ramen      |
+| Lucky Instrument    | Cowbell |
+| Lucky Flower        | Orchid    |
+| Lucky Job           | Network Administrator       |
+| Lucky Exercise      | Foam Rolling  |
+| Lucky Country       | Uzbekistan    |
 
 
 ##  Final Reflections on Dreams

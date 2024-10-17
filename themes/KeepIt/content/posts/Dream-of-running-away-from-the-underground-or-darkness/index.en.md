@@ -1,8 +1,8 @@
 ---
     weight: 409
     title: "Dream of running away from the underground or darkness"  # Assuming 'title' column exists
-    date: 2024-10-13T19:47:00+08:00
-    lastmod: 2024-10-13T19:47:00+08:00
+    date: 2024-10-14T09:19:00+08:00
+    lastmod: 2024-10-14T09:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'the', 'running', 'away', 'Dream', 'darkness', 'underground', 'from', 'of']
+    tags: ['darkness', 'Dream', 'running', 'underground', 'from', 'away']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can have the ability to discover and cope with the power 
 | Lucky Animal        | Deer |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Biryani      |
-| Lucky Instrument    | Bassoon |
-| Lucky Flower        | Periwinkle    |
-| Lucky Job           | Consultant       |
-| Lucky Exercise      | Push-Ups  |
-| Lucky Country       | Denmark    |
+| Lucky Food          | Burger      |
+| Lucky Instrument    | Guitar |
+| Lucky Flower        | Marigold    |
+| Lucky Job           | Pilot       |
+| Lucky Exercise      | Gymnastics  |
+| Lucky Country       | Czech Republic    |
 
 
 ##  Final Reflections on Dreams

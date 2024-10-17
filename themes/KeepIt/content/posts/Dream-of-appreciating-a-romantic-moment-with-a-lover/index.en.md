@@ -1,8 +1,8 @@
 ---
     weight: 220
     title: "Dream of appreciating a romantic moment with a lover"  # Assuming 'title' column exists
-    date: 2024-10-13T10:43:00+08:00
-    lastmod: 2024-10-13T10:43:00+08:00
+    date: 2024-10-14T21:04:00+08:00
+    lastmod: 2024-10-14T21:04:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['romantic', 'moment', 'appreciating', 'lover', 'Dream', 'a', 'of', 'with']
+    tags: ['Dream', 'appreciating', 'romantic', 'moment', 'lover']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream generally symbolizes good luck.The dream of appreciating a romantic m
 | Lucky Animal        | Gorilla |
 | Lucky Place         | Theater     |
 | Lucky Color         | Green     |
-| Lucky Food          | Pasta Primavera      |
-| Lucky Instrument    | Conga Drum |
-| Lucky Flower        | Freesia    |
-| Lucky Job           | Landscaper       |
-| Lucky Exercise      | Hammer Throw  |
-| Lucky Country       | Switzerland    |
+| Lucky Food          | Scallops      |
+| Lucky Instrument    | Conga |
+| Lucky Flower        | Gladiolus    |
+| Lucky Job           | Philosopher       |
+| Lucky Exercise      | Active Recovery  |
+| Lucky Country       | Kiribati    |
 
 
 ##  Final Reflections on Dreams

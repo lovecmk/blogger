@@ -1,8 +1,8 @@
 ---
     weight: 1188
     title: "Dream about Mathematics school"  # Assuming 'title' column exists
-    date: 2024-10-13T04:53:00+08:00
-    lastmod: 2024-10-13T04:53:00+08:00
+    date: 2024-10-11T02:41:00+08:00
+    lastmod: 2024-10-11T02:41:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['school', 'Mathematics', 'about', 'Dream']
+    tags: ['school', 'Dream', 'Mathematics']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream gives you a chance to get your knowledge and get better r
 | Lucky Animal        | Bear |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Black     |
-| Lucky Food          | Pesto      |
-| Lucky Instrument    | Bassoon |
-| Lucky Flower        | Hoya    |
-| Lucky Job           | Psychologist       |
-| Lucky Exercise      | Pilates  |
-| Lucky Country       | Mexico    |
+| Lucky Food          | Muffin      |
+| Lucky Instrument    | Ukulele |
+| Lucky Flower        | Poinsettia    |
+| Lucky Job           | Writer       |
+| Lucky Exercise      | Tennis  |
+| Lucky Country       | China    |
 
 
 ##  Final Reflections on Dreams

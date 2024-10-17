@@ -1,8 +1,8 @@
 ---
     weight: 555
     title: "Dream of finding a tree in the mountain"  # Assuming 'title' column exists
-    date: 2024-10-13T15:42:00+08:00
-    lastmod: 2024-10-13T15:42:00+08:00
+    date: 2024-10-12T04:45:00+08:00
+    lastmod: 2024-10-12T04:45:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['tree', 'the', 'Dream', 'a', 'mountain', 'in', 'of', 'finding']
+    tags: ['Dream', 'finding', 'tree', 'mountain']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you luck to growth and success.Trees symbolize stability an
 | Lucky Animal        | Chameleon |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Caramel Flan      |
-| Lucky Instrument    | Tabla |
-| Lucky Flower        | Tithonia    |
-| Lucky Job           | Interior Designer       |
-| Lucky Exercise      | Kettlebell Training  |
-| Lucky Country       | Zimbabwe    |
+| Lucky Food          | Kebab      |
+| Lucky Instrument    | Guitar |
+| Lucky Flower        | Anemone    |
+| Lucky Job           | Sales Manager       |
+| Lucky Exercise      | Crunches  |
+| Lucky Country       | Brunei    |
 
 
 ##  Final Reflections on Dreams

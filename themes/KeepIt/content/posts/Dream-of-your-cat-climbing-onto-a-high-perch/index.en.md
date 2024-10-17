@@ -1,8 +1,8 @@
 ---
     weight: 1917
     title: "Dream of pear orchards in the countryside"  # Assuming 'title' column exists
-    date: 2024-10-13T08:44:00+08:00
-    lastmod: 2024-10-13T08:44:00+08:00
+    date: 2024-10-15T10:51:00+08:00
+    lastmod: 2024-10-15T10:51:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'pear', 'Dream', 'countryside', 'in', 'orchards', 'of']
+    tags: ['pear', 'Dream', 'orchards', 'countryside']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Chicken |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Green     |
-| Lucky Food          | Ceviche      |
-| Lucky Instrument    | Trompeta |
-| Lucky Flower        | Peach Blossom    |
-| Lucky Job           | Consultant       |
-| Lucky Exercise      | Walking  |
-| Lucky Country       | Zambia    |
+| Lucky Food          | Pulled Pork      |
+| Lucky Instrument    | Banjo |
+| Lucky Flower        | Crown Daisy    |
+| Lucky Job           | Researcher       |
+| Lucky Exercise      | Softball  |
+| Lucky Country       | Azerbaijan    |
 
 
 ##  Final Reflections on Dreams

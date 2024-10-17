@@ -1,8 +1,8 @@
 ---
     weight: 1785
     title: "Dream of going to a drive-in movie or outdoor cinema with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T22:04:00+08:00
-    lastmod: 2024-10-13T22:04:00+08:00
+    date: 2024-10-12T22:21:00+08:00
+    lastmod: 2024-10-12T22:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['outdoor', 'movie', 'or', 'cinema', 'your', 'to', 'boyfriend', 'Dream', 'going', 'a', 'drive-in', 'of', 'with']
+    tags: ['drive-in', 'Dream', 'outdoor', 'boyfriend', 'to', 'going', 'movie', 'cinema']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Leopard |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | White     |
-| Lucky Food          | Kale Salad      |
-| Lucky Instrument    | Basset Horn |
-| Lucky Flower        | Petal Plant    |
-| Lucky Job           | Writer       |
-| Lucky Exercise      | Trail Running  |
-| Lucky Country       | Nigeria    |
+| Lucky Food          | Coconut Shrimp      |
+| Lucky Instrument    | Zither |
+| Lucky Flower        | Periwinkle    |
+| Lucky Job           | Firefighter       |
+| Lucky Exercise      | Ultimate Frisbee  |
+| Lucky Country       | Japan    |
 
 
 ##  Final Reflections on Dreams

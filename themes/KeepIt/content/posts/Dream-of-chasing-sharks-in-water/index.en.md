@@ -1,8 +1,8 @@
 ---
     weight: 919
     title: "Dream of chasing sharks in water"  # Assuming 'title' column exists
-    date: 2024-10-13T05:02:00+08:00
-    lastmod: 2024-10-13T05:02:00+08:00
+    date: 2024-10-15T04:31:00+08:00
+    lastmod: 2024-10-15T04:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['water', 'chasing', 'Dream', 'sharks', 'in', 'of']
+    tags: ['water', 'Dream', 'chasing', 'sharks']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck that this dream gives is rarely seen.This dream often shows threats or 
 | Lucky Animal        | Guinea pig |
 | Lucky Place         | Academy     |
 | Lucky Color         | Black     |
-| Lucky Food          | Bagel      |
-| Lucky Instrument    | Ney |
-| Lucky Flower        | Forget-Me-Not    |
-| Lucky Job           | Field Technician       |
-| Lucky Exercise      | Fencing  |
-| Lucky Country       | Kazakhstan    |
+| Lucky Food          | Ceviche      |
+| Lucky Instrument    | Maracas |
+| Lucky Flower        | Kalanchoe    |
+| Lucky Job           | Quality Assurance Tester       |
+| Lucky Exercise      | Dancing  |
+| Lucky Country       | Brazil    |
 
 
 ##  Final Reflections on Dreams

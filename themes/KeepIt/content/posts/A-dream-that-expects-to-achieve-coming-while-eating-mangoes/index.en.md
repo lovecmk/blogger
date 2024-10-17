@@ -1,8 +1,8 @@
 ---
     weight: 69
     title: "A dream that expects to achieve coming while eating mangoes"  # Assuming 'title' column exists
-    date: 2024-10-13T03:24:00+08:00
-    lastmod: 2024-10-13T03:24:00+08:00
+    date: 2024-10-14T11:42:00+08:00
+    lastmod: 2024-10-14T11:42:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['mangoes', 'eating', 'achieve', 'expects', 'to', 'coming', 'dream', 'A', 'that', 'while']
+    tags: ['while', 'expects', 'dream', 'to', 'eating', 'A', 'coming', 'achieve', 'that', 'mangoes']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you good luck.Mangoes are considered fruits that symbolize 
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Pork Belly      |
-| Lucky Instrument    | Violin Bow |
-| Lucky Flower        | Buttercup    |
-| Lucky Job           | Geologist       |
-| Lucky Exercise      | Surf Lifesaving  |
-| Lucky Country       | Pakistan    |
+| Lucky Food          | Ice Cream      |
+| Lucky Instrument    | Harmonic Piano |
+| Lucky Flower        | Poppy    |
+| Lucky Job           | Pharmacist       |
+| Lucky Exercise      | Paddleboarding  |
+| Lucky Country       | Japan    |
 
 
 ##  Final Reflections on Dreams

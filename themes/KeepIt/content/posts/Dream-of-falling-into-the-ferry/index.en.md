@@ -1,8 +1,8 @@
 ---
     weight: 985
     title: "Dream of falling into the ferry"  # Assuming 'title' column exists
-    date: 2024-10-13T16:22:00+08:00
-    lastmod: 2024-10-13T16:22:00+08:00
+    date: 2024-10-11T03:03:00+08:00
+    lastmod: 2024-10-11T03:03:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['ferry', 'the', 'into', 'falling', 'Dream', 'of']
+    tags: ['Dream', 'into', 'falling', 'ferry']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream is mainly interpreted as indicating misery or anxiety.But this dream 
 | Lucky Animal        | Owl |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Sushi      |
-| Lucky Instrument    | Steel Pan |
-| Lucky Flower        | Freesia    |
-| Lucky Job           | Chemist       |
-| Lucky Exercise      | Yoga Flow  |
-| Lucky Country       | Nauru    |
+| Lucky Food          | Fried Rice      |
+| Lucky Instrument    | Guitarlele |
+| Lucky Flower        | Cosmos    |
+| Lucky Job           | Actor       |
+| Lucky Exercise      | CrossFit  |
+| Lucky Country       | Latvia    |
 
 
 ##  Final Reflections on Dreams

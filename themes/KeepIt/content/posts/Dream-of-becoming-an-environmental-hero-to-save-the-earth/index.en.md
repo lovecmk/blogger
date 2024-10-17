@@ -1,8 +1,8 @@
 ---
     weight: 259
     title: "Dream of becoming an environmental hero to save the earth"  # Assuming 'title' column exists
-    date: 2024-10-13T23:42:00+08:00
-    lastmod: 2024-10-13T23:42:00+08:00
+    date: 2024-10-11T12:43:00+08:00
+    lastmod: 2024-10-11T12:43:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'environmental', 'to', 'Dream', 'earth', 'an', 'hero', 'save', 'of', 'becoming']
+    tags: ['save', 'Dream', 'to', 'environmental', 'earth', 'becoming', 'hero', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can provide us with opportunities for good luck and success related t
 | Lucky Animal        | Duck |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Caprese Salad      |
-| Lucky Instrument    | Saxello |
-| Lucky Flower        | Jasmine    |
-| Lucky Job           | Pastry Chef       |
-| Lucky Exercise      | Discus Throw  |
-| Lucky Country       | Hungary    |
+| Lucky Food          | Roast Chicken      |
+| Lucky Instrument    | Octobass |
+| Lucky Flower        | Snapdragon    |
+| Lucky Job           | Operations Manager       |
+| Lucky Exercise      | Horseback Riding  |
+| Lucky Country       | Austria    |
 
 
 ##  Final Reflections on Dreams

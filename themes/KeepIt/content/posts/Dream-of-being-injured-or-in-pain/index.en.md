@@ -1,8 +1,8 @@
 ---
     weight: 1365
     title: "Dream of being injured or in pain"  # Assuming 'title' column exists
-    date: 2024-10-13T04:33:00+08:00
-    lastmod: 2024-10-13T04:33:00+08:00
+    date: 2024-10-12T20:26:00+08:00
+    lastmod: 2024-10-12T20:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'Dream', 'pain', 'being', 'injured', 'in', 'of']
+    tags: ['being', 'injured', 'Dream', 'pain']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Lion |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Baked Potato      |
-| Lucky Instrument    | Trombone Slide |
-| Lucky Flower        | Lavender    |
-| Lucky Job           | Real Estate Agent       |
-| Lucky Exercise      | Powerlifting  |
-| Lucky Country       | France    |
+| Lucky Food          | Caramel Flan      |
+| Lucky Instrument    | Tenor Banjo |
+| Lucky Flower        | Wisteria    |
+| Lucky Job           | Dentist       |
+| Lucky Exercise      | Cycling  |
+| Lucky Country       | Sri Lanka    |
 
 
 ##  Final Reflections on Dreams

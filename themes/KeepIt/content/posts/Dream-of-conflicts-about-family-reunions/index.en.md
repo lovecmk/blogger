@@ -1,8 +1,8 @@
 ---
     weight: 2010
     title: "Dream of sharing a peaceful moment of silence with your grandmother."  # Assuming 'title' column exists
-    date: 2024-10-13T23:35:00+08:00
-    lastmod: 2024-10-13T23:35:00+08:00
+    date: 2024-10-12T22:54:00+08:00
+    lastmod: 2024-10-12T22:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['silence', 'moment', 'your', 'grandmother.', 'Dream', 'peaceful', 'sharing', 'a', 'of', 'with']
+    tags: ['Dream', 'sharing', 'grandmother', 'silence', 'moment', 'peaceful']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Red     |
-| Lucky Food          | Coconut Shrimp      |
-| Lucky Instrument    | Drums |
-| Lucky Flower        | Bleeding Heart    |
-| Lucky Job           | Neuroscientist       |
-| Lucky Exercise      | Foam Rolling  |
-| Lucky Country       | Finland    |
+| Lucky Food          | Pork Chops      |
+| Lucky Instrument    | Harp |
+| Lucky Flower        | Forget-Me-Not    |
+| Lucky Job           | Data Analyst       |
+| Lucky Exercise      | Snowboarding  |
+| Lucky Country       | Micronesia    |
 
 
 ##  Final Reflections on Dreams

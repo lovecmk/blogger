@@ -1,8 +1,8 @@
 ---
     weight: 617
     title: "All animals dreamed of playing together as friends"  # Assuming 'title' column exists
-    date: 2024-10-13T09:10:00+08:00
-    lastmod: 2024-10-13T09:10:00+08:00
+    date: 2024-10-13T09:45:00+08:00
+    lastmod: 2024-10-13T09:45:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['animals', 'together', 'All', 'playing', 'as', 'dreamed', 'of', 'friends']
+    tags: ['dreamed', 'playing', 'as', 'All', 'animals', 'friends', 'together']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you good luck and pleasure.Playing with animals as friends 
 | Lucky Animal        | Rhino |
 | Lucky Place         | Theater     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Coconut Shrimp      |
-| Lucky Instrument    | Basset Horn |
-| Lucky Flower        | Calla Lily    |
-| Lucky Job           | Anthropologist       |
-| Lucky Exercise      | Underwater Diving  |
-| Lucky Country       | India    |
+| Lucky Food          | Fruit Smoothie      |
+| Lucky Instrument    | Ocarina |
+| Lucky Flower        | Tulip    |
+| Lucky Job           | Neuroscientist       |
+| Lucky Exercise      | Zumba  |
+| Lucky Country       | Philippines    |
 
 
 ##  Final Reflections on Dreams

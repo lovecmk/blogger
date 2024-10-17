@@ -1,8 +1,8 @@
 ---
     weight: 1211
     title: "Dream about Electric ball"  # Assuming 'title' column exists
-    date: 2024-10-13T07:02:00+08:00
-    lastmod: 2024-10-13T07:02:00+08:00
+    date: 2024-10-15T03:34:00+08:00
+    lastmod: 2024-10-15T03:34:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Electric', 'ball', 'about', 'Dream']
+    tags: ['Dream', 'Electric', 'ball']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the content and situation of the dr
 | Lucky Animal        | Chicken |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Crab      |
-| Lucky Instrument    | Zouaves |
-| Lucky Flower        | Gladiolus    |
-| Lucky Job           | Sous Chef       |
-| Lucky Exercise      | Horseback Riding  |
-| Lucky Country       | Malaysia    |
+| Lucky Food          | Scallops      |
+| Lucky Instrument    | Keyboard |
+| Lucky Flower        | Heliotrope    |
+| Lucky Job           | Event Coordinator       |
+| Lucky Exercise      | Stretching  |
+| Lucky Country       | Latvia    |
 
 
 ##  Final Reflections on Dreams

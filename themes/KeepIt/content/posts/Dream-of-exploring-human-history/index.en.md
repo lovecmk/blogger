@@ -1,8 +1,8 @@
 ---
     weight: 251
     title: "Dream of exploring human history"  # Assuming 'title' column exists
-    date: 2024-10-13T22:27:00+08:00
-    lastmod: 2024-10-13T22:27:00+08:00
+    date: 2024-10-13T10:47:00+08:00
+    lastmod: 2024-10-13T10:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['history', 'human', 'Dream', 'of', 'exploring']
+    tags: ['Dream', 'exploring', 'human', 'history']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'the dream of exploring human history' can vary depending on the int
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Library     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Kale Salad      |
-| Lucky Instrument    | Guitarlele |
-| Lucky Flower        | Narcissus    |
-| Lucky Job           | Art Director       |
-| Lucky Exercise      | Surfing  |
-| Lucky Country       | Italy    |
+| Lucky Food          | Zucchini Noodles      |
+| Lucky Instrument    | Bass Guitar |
+| Lucky Flower        | Lilac    |
+| Lucky Job           | Research Scientist       |
+| Lucky Exercise      | Skiing  |
+| Lucky Country       | Botswana    |
 
 
 ##  Final Reflections on Dreams

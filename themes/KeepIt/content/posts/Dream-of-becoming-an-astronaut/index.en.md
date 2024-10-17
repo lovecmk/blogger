@@ -1,8 +1,8 @@
 ---
     weight: 255
     title: "Dream of becoming an astronaut"  # Assuming 'title' column exists
-    date: 2024-10-13T09:25:00+08:00
-    lastmod: 2024-10-13T09:25:00+08:00
+    date: 2024-10-12T00:47:00+08:00
+    lastmod: 2024-10-12T00:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['astronaut', 'Dream', 'an', 'of', 'becoming']
+    tags: ['Dream', 'astronaut', 'becoming', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can give us the courage to new possibilities, experiences and challen
 | Lucky Animal        | Bear |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Red     |
-| Lucky Food          | Scallops      |
-| Lucky Instrument    | Tenor Saxophone |
-| Lucky Flower        | Aster    |
-| Lucky Job           | Hair Stylist       |
-| Lucky Exercise      | Zumba  |
-| Lucky Country       | Tonga    |
+| Lucky Food          | Omelette      |
+| Lucky Instrument    | Djembe |
+| Lucky Flower        | Cosmos    |
+| Lucky Job           | Event Coordinator       |
+| Lucky Exercise      | Ashtanga Yoga  |
+| Lucky Country       | Saudi Arabia    |
 
 
 ##  Final Reflections on Dreams

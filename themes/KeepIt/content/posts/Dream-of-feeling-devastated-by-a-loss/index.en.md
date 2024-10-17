@@ -1,8 +1,8 @@
 ---
     weight: 1662
     title: "Dream of visiting a zoo or aquarium together with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T02:52:00+08:00
-    lastmod: 2024-10-13T02:52:00+08:00
+    date: 2024-10-11T19:18:00+08:00
+    lastmod: 2024-10-11T19:18:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['aquarium', 'together', 'or', 'your', 'boyfriend', 'Dream', 'visiting', 'a', 'of', 'with', 'zoo']
+    tags: ['Dream', 'visiting', 'boyfriend', 'zoo', 'aquarium', 'together']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Deer |
 | Lucky Place         | Library     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Sushi      |
-| Lucky Instrument    | Ney |
-| Lucky Flower        | Perennial Aster    |
-| Lucky Job           | Public Relations Specialist       |
-| Lucky Exercise      | Skating  |
-| Lucky Country       | Kyrgyzstan    |
+| Lucky Food          | Stir Fry      |
+| Lucky Instrument    | Electric Violin |
+| Lucky Flower        | Gladiolus    |
+| Lucky Job           | Network Administrator       |
+| Lucky Exercise      | CrossFit  |
+| Lucky Country       | Canada    |
 
 
 ##  Final Reflections on Dreams

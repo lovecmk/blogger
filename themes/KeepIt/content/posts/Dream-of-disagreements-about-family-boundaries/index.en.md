@@ -1,8 +1,8 @@
 ---
     weight: 1674
     title: "Dream of dying and seeing a white room"  # Assuming 'title' column exists
-    date: 2024-10-13T06:58:00+08:00
-    lastmod: 2024-10-13T06:58:00+08:00
+    date: 2024-10-11T07:27:00+08:00
+    lastmod: 2024-10-11T07:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dying', 'room', 'white', 'seeing', 'Dream', 'a', 'and', 'of']
+    tags: ['white', 'Dream', 'dying', 'seeing', 'room']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings the luck of new opportunities and personal expansion. It signi
 | Lucky Animal        | Ostrich |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Burrito      |
-| Lucky Instrument    | Xylophone |
-| Lucky Flower        | Petunia    |
-| Lucky Job           | Graphic Designer       |
-| Lucky Exercise      | Swimming  |
-| Lucky Country       | Zambia    |
+| Lucky Food          | Chili      |
+| Lucky Instrument    | Wooden Flute |
+| Lucky Flower        | Scented Geranium    |
+| Lucky Job           | Neuroscientist       |
+| Lucky Exercise      | Pole Vaulting  |
+| Lucky Country       | Eswatini    |
 
 
 ##  Final Reflections on Dreams

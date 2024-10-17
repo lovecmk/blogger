@@ -1,8 +1,8 @@
 ---
     weight: 472
     title: "Dream of difficulties in a situation"  # Assuming 'title' column exists
-    date: 2024-10-13T17:24:00+08:00
-    lastmod: 2024-10-13T17:24:00+08:00
+    date: 2024-10-14T21:06:00+08:00
+    lastmod: 2024-10-14T21:06:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['difficulties', 'Dream', 'situation', 'a', 'in', 'of']
+    tags: ['Dream', 'difficulties', 'situation']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Even if it is a dream of difficulties, dreams can be an expression inner and may
 | Lucky Animal        | Sparrow |
 | Lucky Place         | Museum     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Chowder      |
-| Lucky Instrument    | Trombone |
-| Lucky Flower        | Bluebell    |
-| Lucky Job           | Pastry Chef       |
-| Lucky Exercise      | Ballet  |
-| Lucky Country       | Malawi    |
+| Lucky Food          | Beef Stroganoff      |
+| Lucky Instrument    | Bandoneon |
+| Lucky Flower        | Mums    |
+| Lucky Job           | Psychologist       |
+| Lucky Exercise      | Boxing  |
+| Lucky Country       | Ireland    |
 
 
 ##  Final Reflections on Dreams

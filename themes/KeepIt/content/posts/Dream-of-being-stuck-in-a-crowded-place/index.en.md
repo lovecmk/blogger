@@ -1,8 +1,8 @@
 ---
     weight: 1397
     title: "Dream of being stuck in a crowded place"  # Assuming 'title' column exists
-    date: 2024-10-13T19:37:00+08:00
-    lastmod: 2024-10-13T19:37:00+08:00
+    date: 2024-10-11T19:54:00+08:00
+    lastmod: 2024-10-11T19:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'being', 'stuck', 'a', 'crowded', 'in', 'place', 'of']
+    tags: ['being', 'Dream', 'stuck', 'crowded', 'place']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Beef Stroganoff      |
-| Lucky Instrument    | Darabuka |
-| Lucky Flower        | Anemone    |
-| Lucky Job           | Chef       |
-| Lucky Exercise      | Horseback Riding  |
-| Lucky Country       | Ukraine    |
+| Lucky Food          | Salad      |
+| Lucky Instrument    | Piano |
+| Lucky Flower        | Strelitzia    |
+| Lucky Job           | Welder       |
+| Lucky Exercise      | Gymnastics  |
+| Lucky Country       | Spain    |
 
 
 ##  Final Reflections on Dreams

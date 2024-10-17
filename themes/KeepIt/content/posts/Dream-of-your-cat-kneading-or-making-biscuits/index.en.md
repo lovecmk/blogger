@@ -1,8 +1,8 @@
 ---
     weight: 1640
     title: "Dream of rivalry among family members"  # Assuming 'title' column exists
-    date: 2024-10-13T19:43:00+08:00
-    lastmod: 2024-10-13T19:43:00+08:00
+    date: 2024-10-14T18:37:00+08:00
+    lastmod: 2024-10-14T18:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'rivalry', 'Dream', 'members', 'of', 'among']
+    tags: ['among', 'family', 'Dream', 'members', 'rivalry']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Turtle |
 | Lucky Place         | Park     |
 | Lucky Color         | White     |
-| Lucky Food          | Scallops      |
-| Lucky Instrument    | Harmonica |
-| Lucky Flower        | Tansy    |
-| Lucky Job           | Technical Writer       |
-| Lucky Exercise      | Javelin  |
-| Lucky Country       | Turkmenistan    |
+| Lucky Food          | Falafel      |
+| Lucky Instrument    | Tuba |
+| Lucky Flower        | Cyclamen    |
+| Lucky Job           | Interpreter       |
+| Lucky Exercise      | Sledge Hockey  |
+| Lucky Country       | Spain    |
 
 
 ##  Final Reflections on Dreams

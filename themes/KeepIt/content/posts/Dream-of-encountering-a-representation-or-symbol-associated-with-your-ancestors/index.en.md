@@ -1,8 +1,8 @@
 ---
     weight: 2110
     title: "Dream of receiving money for a service or job well done."  # Assuming 'title' column exists
-    date: 2024-10-13T05:03:00+08:00
-    lastmod: 2024-10-13T05:03:00+08:00
+    date: 2024-10-11T17:26:00+08:00
+    lastmod: 2024-10-11T17:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['receiving', 'or', 'service', 'money', 'Dream', 'for', 'a', 'done.', 'of', 'job', 'well']
+    tags: ['job', 'Dream', 'money', 'service', 'receiving', 'well', 'done']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hyena |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Minestrone      |
-| Lucky Instrument    | Tenor Guitar |
-| Lucky Flower        | Hoya    |
-| Lucky Job           | Data Analyst       |
-| Lucky Exercise      | Cross-Country Skiing  |
-| Lucky Country       | Malta    |
+| Lucky Food          | Buffalo Wings      |
+| Lucky Instrument    | Tenor Banjo |
+| Lucky Flower        | Forget-Me-Not    |
+| Lucky Job           | Dentist       |
+| Lucky Exercise      | Softball  |
+| Lucky Country       | Syria    |
 
 
 ##  Final Reflections on Dreams

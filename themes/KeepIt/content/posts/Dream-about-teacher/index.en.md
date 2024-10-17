@@ -1,8 +1,8 @@
 ---
     weight: 1140
     title: "Dream about teacher"  # Assuming 'title' column exists
-    date: 2024-10-13T19:02:00+08:00
-    lastmod: 2024-10-13T19:02:00+08:00
+    date: 2024-10-13T13:53:00+08:00
+    lastmod: 2024-10-13T13:53:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['teacher', 'about', 'Dream']
+    tags: ['teacher', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'teacher' dreams can symbolize the opportunity to gain knowledge and
 | Lucky Animal        | Deer |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Quesadilla      |
-| Lucky Instrument    | Steel Pan |
-| Lucky Flower        | Celosia    |
-| Lucky Job           | App Developer       |
-| Lucky Exercise      | Calisthenics  |
-| Lucky Country       | Finland    |
+| Lucky Food          | Ice Cream      |
+| Lucky Instrument    | Bongo Drums |
+| Lucky Flower        | Feverfew    |
+| Lucky Job           | Stockbroker       |
+| Lucky Exercise      | Capoeira  |
+| Lucky Country       | China    |
 
 
 ##  Final Reflections on Dreams

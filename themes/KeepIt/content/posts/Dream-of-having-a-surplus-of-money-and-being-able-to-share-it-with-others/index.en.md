@@ -1,8 +1,8 @@
 ---
     weight: 2206
     title: "Dream of your cat rubbing against your leg"  # Assuming 'title' column exists
-    date: 2024-10-13T23:28:00+08:00
-    lastmod: 2024-10-13T23:28:00+08:00
+    date: 2024-10-12T05:10:00+08:00
+    lastmod: 2024-10-12T05:10:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'cat', 'against', 'Dream', 'leg', 'rubbing', 'of']
+    tags: ['Dream', 'rubbing', 'leg', 'cat']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Owl |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Prawn Crackers      |
-| Lucky Instrument    | Zither |
-| Lucky Flower        | Peony    |
-| Lucky Job           | Librarian       |
-| Lucky Exercise      | CrossFit  |
-| Lucky Country       | Tanzania    |
+| Lucky Food          | Kebab      |
+| Lucky Instrument    | Banjo |
+| Lucky Flower        | Aster    |
+| Lucky Job           | Web Designer       |
+| Lucky Exercise      | Cross-Country Skiing  |
+| Lucky Country       | Botswana    |
 
 
 ##  Final Reflections on Dreams

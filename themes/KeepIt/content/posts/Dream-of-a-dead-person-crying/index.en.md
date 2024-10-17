@@ -1,8 +1,8 @@
 ---
     weight: 1869
     title: "Dream of your grandmother's laughter echoing through your dreams."  # Assuming 'title' column exists
-    date: 2024-10-13T23:18:00+08:00
-    lastmod: 2024-10-13T23:18:00+08:00
+    date: 2024-10-12T13:25:00+08:00
+    lastmod: 2024-10-12T13:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['echoing', 'your', 'Dream', 'laughter', 'through', "grandmother's", 'of', 'dreams.']
+    tags: ['Dream', 'echoing', 'dreams', 'laughter', "grandmother's"]
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Tiger |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Pasta      |
-| Lucky Instrument    | Mandolin |
-| Lucky Flower        | Jade Plant    |
-| Lucky Job           | Fitness Instructor       |
-| Lucky Exercise      | Rock Climbing  |
-| Lucky Country       | Mexico    |
+| Lucky Food          | Deviled Eggs      |
+| Lucky Instrument    | Ocarina |
+| Lucky Flower        | Zantedeschia    |
+| Lucky Job           | Pharmacist       |
+| Lucky Exercise      | Kickboxing  |
+| Lucky Country       | Greece    |
 
 
 ##  Final Reflections on Dreams

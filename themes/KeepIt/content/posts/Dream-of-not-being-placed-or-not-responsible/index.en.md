@@ -1,8 +1,8 @@
 ---
     weight: 458
     title: "Dream of not being placed or not responsible"  # Assuming 'title' column exists
-    date: 2024-10-13T03:34:00+08:00
-    lastmod: 2024-10-13T03:34:00+08:00
+    date: 2024-10-12T10:02:00+08:00
+    lastmod: 2024-10-12T10:02:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'responsible', 'Dream', 'being', 'not', 'of', 'placed']
+    tags: ['being', 'Dream', 'not', 'responsible', 'placed']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream is mainly related to negative feelings, so good luck is not directly 
 | Lucky Animal        | Chicken |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Cheesecake      |
-| Lucky Instrument    | Trompeta |
-| Lucky Flower        | Crown Daisy    |
-| Lucky Job           | Architect       |
-| Lucky Exercise      | Rugby  |
-| Lucky Country       | Norway    |
+| Lucky Food          | Falafel      |
+| Lucky Instrument    | Bouzouki |
+| Lucky Flower        | Lilac    |
+| Lucky Job           | Field Technician       |
+| Lucky Exercise      | Boxing  |
+| Lucky Country       | Iraq    |
 
 
 ##  Final Reflections on Dreams

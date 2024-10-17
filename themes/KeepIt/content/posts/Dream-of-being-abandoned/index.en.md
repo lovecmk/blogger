@@ -1,8 +1,8 @@
 ---
     weight: 1733
     title: "Dream of conflicts about family rivalries"  # Assuming 'title' column exists
-    date: 2024-10-13T08:47:00+08:00
-    lastmod: 2024-10-13T08:47:00+08:00
+    date: 2024-10-12T00:20:00+08:00
+    lastmod: 2024-10-12T00:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'conflicts', 'about', 'Dream', 'rivalries', 'of']
+    tags: ['family', 'rivalries', 'Dream', 'conflicts']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings a sense of luck and good fortune in your relationship. It sugg
 | Lucky Animal        | Camel |
 | Lucky Place         | Theater     |
 | Lucky Color         | Green     |
-| Lucky Food          | Eggplant Parmesan      |
-| Lucky Instrument    | Harmonium |
-| Lucky Flower        | Stock    |
-| Lucky Job           | Biologist       |
-| Lucky Exercise      | Leg Press  |
-| Lucky Country       | Greece    |
+| Lucky Food          | Chowder      |
+| Lucky Instrument    | Conga Drum |
+| Lucky Flower        | Scented Geranium    |
+| Lucky Job           | Electrician       |
+| Lucky Exercise      | Sledge Hockey  |
+| Lucky Country       | Lithuania    |
 
 
 ##  Final Reflections on Dreams

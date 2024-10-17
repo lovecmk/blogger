@@ -1,8 +1,8 @@
 ---
     weight: 408
     title: "Dream of running away from unknown threats"  # Assuming 'title' column exists
-    date: 2024-10-13T21:23:00+08:00
-    lastmod: 2024-10-13T21:23:00+08:00
+    date: 2024-10-11T08:40:00+08:00
+    lastmod: 2024-10-11T08:40:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['threats', 'running', 'away', 'Dream', 'unknown', 'from', 'of']
+    tags: ['Dream', 'running', 'unknown', 'from', 'threats', 'away']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can suggest that you have the ability to escape or solve 
 | Lucky Animal        | Koala |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Brownies      |
-| Lucky Instrument    | Zither |
-| Lucky Flower        | Thistle    |
-| Lucky Job           | Statistician       |
-| Lucky Exercise      | Skiing  |
-| Lucky Country       | Sweden    |
+| Lucky Food          | Burrito      |
+| Lucky Instrument    | Saz |
+| Lucky Flower        | Fuchsia    |
+| Lucky Job           | Content Creator       |
+| Lucky Exercise      | Push-Ups  |
+| Lucky Country       | Philippines    |
 
 
 ##  Final Reflections on Dreams

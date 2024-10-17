@@ -1,8 +1,8 @@
 ---
     weight: 800
     title: "Dream of having a skateboard accident"  # Assuming 'title' column exists
-    date: 2024-10-13T09:00:00+08:00
-    lastmod: 2024-10-13T09:00:00+08:00
+    date: 2024-10-11T08:16:00+08:00
+    lastmod: 2024-10-11T08:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'having', 'a', 'accident', 'of', 'skateboard']
+    tags: ['Dream', 'skateboard', 'having', 'accident']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual.For example, this dr
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Steak      |
-| Lucky Instrument    | Kettledrum |
-| Lucky Flower        | Scabiosa    |
-| Lucky Job           | Environmental Scientist       |
-| Lucky Exercise      | Powerlifting  |
-| Lucky Country       | Jordan    |
+| Lucky Food          | Sushi      |
+| Lucky Instrument    | Electric Violin |
+| Lucky Flower        | Tulip    |
+| Lucky Job           | Welder       |
+| Lucky Exercise      | Surf Lifesaving  |
+| Lucky Country       | Tanzania    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1581
     title: "Dream of seeing your own dead body"  # Assuming 'title' column exists
-    date: 2024-10-13T10:47:00+08:00
-    lastmod: 2024-10-13T10:47:00+08:00
+    date: 2024-10-14T23:11:00+08:00
+    lastmod: 2024-10-14T23:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['body', 'own', 'your', 'seeing', 'Dream', 'dead', 'of']
+    tags: ['Dream', 'own', 'dead', 'body', 'seeing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Fried Rice      |
-| Lucky Instrument    | Dulcimer |
-| Lucky Flower        | Stock    |
-| Lucky Job           | Financial Analyst       |
-| Lucky Exercise      | Hammer Throw  |
-| Lucky Country       | Mexico    |
+| Lucky Food          | Caprese Salad      |
+| Lucky Instrument    | Guitar |
+| Lucky Flower        | Wisteria    |
+| Lucky Job           | Statistician       |
+| Lucky Exercise      | Basketball  |
+| Lucky Country       | Japan    |
 
 
 ##  Final Reflections on Dreams

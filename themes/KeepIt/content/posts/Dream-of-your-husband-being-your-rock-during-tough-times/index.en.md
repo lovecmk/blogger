@@ -1,8 +1,8 @@
 ---
     weight: 2179
     title: "Dream of your grandmother sharing her wisdom and life lessons with you."  # Assuming 'title' column exists
-    date: 2024-10-13T01:17:00+08:00
-    lastmod: 2024-10-13T01:17:00+08:00
+    date: 2024-10-14T21:27:00+08:00
+    lastmod: 2024-10-14T21:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['wisdom', 'grandmother', 'you.', 'her', 'life', 'your', 'Dream', 'sharing', 'lessons', 'and', 'of', 'with']
+    tags: ['life', 'Dream', 'lessons', 'sharing', 'grandmother', 'her', 'wisdom', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Green     |
-| Lucky Food          | Pizza      |
-| Lucky Instrument    | Bagpipes |
-| Lucky Flower        | Cornflower    |
-| Lucky Job           | Copywriter       |
-| Lucky Exercise      | Rugby  |
-| Lucky Country       | Bahrain    |
+| Lucky Food          | Caramel Flan      |
+| Lucky Instrument    | Slide Guitar |
+| Lucky Flower        | Lobelia    |
+| Lucky Job           | Project Manager       |
+| Lucky Exercise      | Ultimate Frisbee  |
+| Lucky Country       | Argentina    |
 
 
 ##  Final Reflections on Dreams

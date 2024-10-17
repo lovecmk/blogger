@@ -1,8 +1,8 @@
 ---
     weight: 300
     title: "Dream of making a snowman with a puppy"  # Assuming 'title' column exists
-    date: 2024-10-13T01:10:00+08:00
-    lastmod: 2024-10-13T01:10:00+08:00
+    date: 2024-10-11T18:05:00+08:00
+    lastmod: 2024-10-11T18:05:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['snowman', 'Dream', 'puppy', 'a', 'making', 'of', 'with']
+    tags: ['Dream', 'puppy', 'making', 'snowman']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the interpretation of each individu
 | Lucky Animal        | Hamster |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Tart      |
-| Lucky Instrument    | Sackbut |
-| Lucky Flower        | Tulip    |
-| Lucky Job           | Accountant       |
-| Lucky Exercise      | Resistance Bands  |
-| Lucky Country       | Lesotho    |
+| Lucky Food          | Cornbread      |
+| Lucky Instrument    | Cymbals |
+| Lucky Flower        | Celosia    |
+| Lucky Job           | Event Coordinator       |
+| Lucky Exercise      | Salsa  |
+| Lucky Country       | Turkey    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 17
     title: "A dream full of citrus fragrance"  # Assuming 'title' column exists
-    date: 2024-10-13T10:01:00+08:00
-    lastmod: 2024-10-13T10:01:00+08:00
+    date: 2024-10-14T18:54:00+08:00
+    lastmod: 2024-10-14T18:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['citrus', 'full', 'dream', 'fragrance', 'of', 'A']
+    tags: ['fragrance', 'dream', 'full', 'A', 'citrus']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'dream full of citrus fragrance' can appear in various forms.Citrus 
 | Lucky Animal        | Gorilla |
 | Lucky Place         | Park     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Zucchini Noodles      |
-| Lucky Instrument    | Piano |
-| Lucky Flower        | Clover    |
-| Lucky Job           | Plumber       |
-| Lucky Exercise      | High-Intensity Interval Training (HIIT)  |
-| Lucky Country       | India    |
+| Lucky Food          | Pesto      |
+| Lucky Instrument    | Claves |
+| Lucky Flower        | Alyssum    |
+| Lucky Job           | Mechanic       |
+| Lucky Exercise      | Crunches  |
+| Lucky Country       | Switzerland    |
 
 
 ##  Final Reflections on Dreams

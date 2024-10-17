@@ -1,8 +1,8 @@
 ---
     weight: 1714
     title: "Dream of experiencing a great sense of emptiness"  # Assuming 'title' column exists
-    date: 2024-10-13T22:06:00+08:00
-    lastmod: 2024-10-13T22:06:00+08:00
+    date: 2024-10-12T05:00:00+08:00
+    lastmod: 2024-10-12T05:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['emptiness', 'experiencing', 'Dream', 'great', 'a', 'of', 'sense']
+    tags: ['experiencing', 'Dream', 'emptiness', 'great', 'sense']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Crab |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Salad      |
-| Lucky Instrument    | Basset Horn |
-| Lucky Flower        | Bougainvillea    |
-| Lucky Job           | Welder       |
-| Lucky Exercise      | Ashtanga Yoga  |
-| Lucky Country       | Malta    |
+| Lucky Food          | Pork Belly      |
+| Lucky Instrument    | Darbuka |
+| Lucky Flower        | Magnolia    |
+| Lucky Job           | Insurance Agent       |
+| Lucky Exercise      | Mobility Training  |
+| Lucky Country       | Eswatini    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1462
     title: "Dream of witnessing a helicopter or plane crash"  # Assuming 'title' column exists
-    date: 2024-10-13T07:20:00+08:00
-    lastmod: 2024-10-13T07:20:00+08:00
+    date: 2024-10-12T07:35:00+08:00
+    lastmod: 2024-10-12T07:35:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['witnessing', 'crash', 'or', 'plane', 'helicopter', 'Dream', 'a', 'of']
+    tags: ['plane', 'Dream', 'helicopter', 'crash', 'witnessing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Monkey |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Risotto      |
-| Lucky Instrument    | Conga |
-| Lucky Flower        | Heliotrope    |
-| Lucky Job           | Welder       |
-| Lucky Exercise      | Tennis  |
-| Lucky Country       | Malawi    |
+| Lucky Food          | Pork Belly      |
+| Lucky Instrument    | Cymbals |
+| Lucky Flower        | Peach Blossom    |
+| Lucky Job           | Landscaper       |
+| Lucky Exercise      | Active Recovery  |
+| Lucky Country       | Micronesia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 775
     title: "Dream of finding treasures in mysterious caves"  # Assuming 'title' column exists
-    date: 2024-10-13T14:07:00+08:00
-    lastmod: 2024-10-13T14:07:00+08:00
+    date: 2024-10-14T06:46:00+08:00
+    lastmod: 2024-10-14T06:46:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['treasures', 'Dream', 'mysterious', 'caves', 'in', 'of', 'finding']
+    tags: ['Dream', 'caves', 'finding', 'treasures', 'mysterious']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -60,11 +60,11 @@ The luck of this dream can appear in many forms.Finding treasures in caves can m
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Yellow     |
 | Lucky Food          | Bruschetta      |
-| Lucky Instrument    | French Horn |
-| Lucky Flower        | Pincushion Flower    |
-| Lucky Job           | Sales Manager       |
-| Lucky Exercise      | Aqua Aerobics  |
-| Lucky Country       | Azerbaijan    |
+| Lucky Instrument    | Marimba |
+| Lucky Flower        | Swan River Daisy    |
+| Lucky Job           | Lawyer       |
+| Lucky Exercise      | Soccer  |
+| Lucky Country       | Croatia    |
 
 
 ##  Final Reflections on Dreams

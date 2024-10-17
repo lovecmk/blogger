@@ -1,8 +1,8 @@
 ---
     weight: 349
     title: "I am alone and dream of hearing something disadvantageous to someone"  # Assuming 'title' column exists
-    date: 2024-10-13T07:33:00+08:00
-    lastmod: 2024-10-13T07:33:00+08:00
+    date: 2024-10-15T18:46:00+08:00
+    lastmod: 2024-10-15T18:46:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['am', 'alone', 'disadvantageous', 'something', 'to', 'I', 'someone', 'dream', 'and', 'of', 'hearing']
+    tags: ['hearing', 'something', 'someone', 'dream', 'to', 'I', 'disadvantageous', 'am', 'alone']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ What are the luck of this dream?This dream tends to be influenced by others even
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Theater     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Fried Rice      |
-| Lucky Instrument    | Soprano Recorder |
-| Lucky Flower        | Lily    |
-| Lucky Job           | Consultant       |
-| Lucky Exercise      | Dancing  |
-| Lucky Country       | Kyrgyzstan    |
+| Lucky Food          | Ice Cream      |
+| Lucky Instrument    | Cello |
+| Lucky Flower        | Chrysanthemum    |
+| Lucky Job           | Pastry Chef       |
+| Lucky Exercise      | Horseback Riding  |
+| Lucky Country       | Qatar    |
 
 
 ##  Final Reflections on Dreams

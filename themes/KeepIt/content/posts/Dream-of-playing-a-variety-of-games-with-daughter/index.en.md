@@ -1,8 +1,8 @@
 ---
     weight: 128
     title: "Dream of playing a variety of games with daughter"  # Assuming 'title' column exists
-    date: 2024-10-13T18:39:00+08:00
-    lastmod: 2024-10-13T18:39:00+08:00
+    date: 2024-10-12T09:30:00+08:00
+    lastmod: 2024-10-12T09:30:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['playing', 'Dream', 'variety', 'a', 'daughter', 'games', 'of', 'with']
+    tags: ['Dream', 'games', 'playing', 'variety', 'daughter']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can usually be related to positive aspects such as the bo
 | Lucky Animal        | Snake |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Kale Salad      |
-| Lucky Instrument    | Viola |
-| Lucky Flower        | Clover    |
-| Lucky Job           | Journalist       |
-| Lucky Exercise      | CrossFit  |
-| Lucky Country       | Slovakia    |
+| Lucky Food          | Chia Pudding      |
+| Lucky Instrument    | Bouzouki |
+| Lucky Flower        | Yarrow    |
+| Lucky Job           | Archaeologist       |
+| Lucky Exercise      | Snowboarding  |
+| Lucky Country       | Brunei    |
 
 
 ##  Final Reflections on Dreams

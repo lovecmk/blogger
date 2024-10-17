@@ -1,8 +1,8 @@
 ---
     weight: 1079
     title: "Dream about vampire"  # Assuming 'title' column exists
-    date: 2024-10-13T07:11:00+08:00
-    lastmod: 2024-10-13T07:11:00+08:00
+    date: 2024-10-15T05:14:00+08:00
+    lastmod: 2024-10-15T05:14:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['about', 'Dream', 'vampire']
+    tags: ['vampire', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'vampire' dreams can vary.This dream reminds you that you can enjoy 
 | Lucky Animal        | Horse |
 | Lucky Place         | School     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Cheeseboard      |
-| Lucky Instrument    | Snare Drum |
-| Lucky Flower        | Cyclamen    |
-| Lucky Job           | Chemist       |
-| Lucky Exercise      | Box Jumps  |
-| Lucky Country       | Samoa    |
+| Lucky Food          | Pasta      |
+| Lucky Instrument    | Timpani |
+| Lucky Flower        | Heliotrope    |
+| Lucky Job           | Catering Manager       |
+| Lucky Exercise      | Deadlifts  |
+| Lucky Country       | Papua New Guinea    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 434
     title: "Dream of pursuing escape or liberation"  # Assuming 'title' column exists
-    date: 2024-10-13T08:15:00+08:00
-    lastmod: 2024-10-13T08:15:00+08:00
+    date: 2024-10-15T18:14:00+08:00
+    lastmod: 2024-10-15T18:14:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'Dream', 'pursuing', 'liberation', 'escape', 'of']
+    tags: ['pursuing', 'Dream', 'escape', 'liberation']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can provide opportunities to meet freedom and new possibi
 | Lucky Animal        | Elephant |
 | Lucky Place         | Library     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Chia Pudding      |
-| Lucky Instrument    | Didgeridoo |
-| Lucky Flower        | Sweet William    |
-| Lucky Job           | Catering Manager       |
-| Lucky Exercise      | Weightlifting  |
-| Lucky Country       | Estonia    |
+| Lucky Food          | Bruschetta      |
+| Lucky Instrument    | Electric Cello |
+| Lucky Flower        | Sundew    |
+| Lucky Job           | Biologist       |
+| Lucky Exercise      | Tennis  |
+| Lucky Country       | South Africa    |
 
 
 ##  Final Reflections on Dreams

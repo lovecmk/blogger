@@ -1,8 +1,8 @@
 ---
     weight: 1797
     title: "Dream of disagreements over family roles"  # Assuming 'title' column exists
-    date: 2024-10-13T00:29:00+08:00
-    lastmod: 2024-10-13T00:29:00+08:00
+    date: 2024-10-15T03:18:00+08:00
+    lastmod: 2024-10-15T03:18:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'Dream', 'disagreements', 'over', 'roles', 'of']
+    tags: ['family', 'Dream', 'disagreements', 'roles', 'over']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Wolf |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Ratatouille      |
-| Lucky Instrument    | Lyre |
-| Lucky Flower        | Geranium    |
-| Lucky Job           | App Developer       |
-| Lucky Exercise      | Leg Press  |
-| Lucky Country       | Portugal    |
+| Lucky Food          | Potato Skins      |
+| Lucky Instrument    | Ukulele |
+| Lucky Flower        | Freesia    |
+| Lucky Job           | Personal Trainer       |
+| Lucky Exercise      | Weightlifting  |
+| Lucky Country       | Australia    |
 
 
 ##  Final Reflections on Dreams

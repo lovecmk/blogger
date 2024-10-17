@@ -1,8 +1,8 @@
 ---
     weight: 1345
     title: "Dream of your dog attending a costume party"  # Assuming 'title' column exists
-    date: 2024-10-13T13:06:00+08:00
-    lastmod: 2024-10-13T13:06:00+08:00
+    date: 2024-10-13T15:09:00+08:00
+    lastmod: 2024-10-13T15:09:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'costume', 'Dream', 'a', 'party', 'of', 'attending', 'dog']
+    tags: ['Dream', 'party', 'costume', 'dog', 'attending']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Sloth |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Green     |
-| Lucky Food          | Beef Wellington      |
-| Lucky Instrument    | Trombone Slide |
-| Lucky Flower        | Jatropha    |
-| Lucky Job           | Web Developer       |
-| Lucky Exercise      | Gymnastics  |
-| Lucky Country       | Afghanistan    |
+| Lucky Food          | Cheeseboard      |
+| Lucky Instrument    | Lute |
+| Lucky Flower        | Lilac    |
+| Lucky Job           | Translator       |
+| Lucky Exercise      | Dance Aerobics  |
+| Lucky Country       | Eswatini    |
 
 
 ##  Final Reflections on Dreams

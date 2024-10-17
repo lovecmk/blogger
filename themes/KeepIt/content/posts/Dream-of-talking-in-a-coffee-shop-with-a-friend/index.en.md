@@ -1,8 +1,8 @@
 ---
     weight: 702
     title: "Dream of talking in a coffee shop with a friend"  # Assuming 'title' column exists
-    date: 2024-10-13T08:14:00+08:00
-    lastmod: 2024-10-13T08:14:00+08:00
+    date: 2024-10-11T00:08:00+08:00
+    lastmod: 2024-10-11T00:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['with', 'friend', 'coffee', 'talking', 'Dream', 'a', 'in', 'of', 'shop']
+    tags: ['Dream', 'talking', 'friend', 'shop', 'coffee']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you new ties and good luck.You may find new ideas or opport
 | Lucky Animal        | Hyena |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Zucchini Noodles      |
-| Lucky Instrument    | Calimba |
-| Lucky Flower        | Borage    |
-| Lucky Job           | Research Scientist       |
-| Lucky Exercise      | CrossFit  |
-| Lucky Country       | Brazil    |
+| Lucky Food          | Scallops      |
+| Lucky Instrument    | Lute |
+| Lucky Flower        | Mullein    |
+| Lucky Job           | Architect       |
+| Lucky Exercise      | Kettlebell Training  |
+| Lucky Country       | Slovakia    |
 
 
 ##  Final Reflections on Dreams

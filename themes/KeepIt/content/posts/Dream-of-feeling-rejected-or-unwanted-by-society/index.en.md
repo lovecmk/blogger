@@ -1,8 +1,8 @@
 ---
     weight: 1605
     title: "Dream of taking a scenic bike ride or cycling adventure with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T03:36:00+08:00
-    lastmod: 2024-10-13T03:36:00+08:00
+    date: 2024-10-15T09:52:00+08:00
+    lastmod: 2024-10-15T09:52:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['ride', 'scenic', 'taking', 'or', 'adventure', 'your', 'boyfriend', 'Dream', 'a', 'bike', 'cycling', 'of', 'with']
+    tags: ['cycling', 'Dream', 'boyfriend', 'ride', 'taking', 'adventure', 'scenic', 'bike']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings luck in the form of shared creativity, unity, and accomplishme
 | Lucky Animal        | Tiger |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Fruit Smoothie      |
-| Lucky Instrument    | Guitar |
-| Lucky Flower        | Sundew    |
-| Lucky Job           | Interior Designer       |
+| Lucky Food          | Fish and Chips      |
+| Lucky Instrument    | Maracas |
+| Lucky Flower        | Periwinkle    |
+| Lucky Job           | Translator       |
 | Lucky Exercise      | Tai Chi  |
-| Lucky Country       | India    |
+| Lucky Country       | Latvia    |
 
 
 ##  Final Reflections on Dreams

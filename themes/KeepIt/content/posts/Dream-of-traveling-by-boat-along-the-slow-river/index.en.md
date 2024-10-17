@@ -1,8 +1,8 @@
 ---
     weight: 627
     title: "Dream of traveling by boat along the slow river"  # Assuming 'title' column exists
-    date: 2024-10-13T11:45:00+08:00
-    lastmod: 2024-10-13T11:45:00+08:00
+    date: 2024-10-14T17:28:00+08:00
+    lastmod: 2024-10-14T17:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['boat', 'slow', 'along', 'the', 'traveling', 'Dream', 'river', 'by', 'of']
+    tags: ['Dream', 'traveling', 'along', 'slow', 'boat', 'river']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you a variety of luck.The dream of traveling along the rive
 | Lucky Animal        | Monkey |
 | Lucky Place         | Sea     |
 | Lucky Color         | Red     |
-| Lucky Food          | Burrito      |
-| Lucky Instrument    | Lap Steel Guitar |
-| Lucky Flower        | Peach Blossom    |
-| Lucky Job           | Video Editor       |
-| Lucky Exercise      | Basketball  |
-| Lucky Country       | South Africa    |
+| Lucky Food          | Roast Chicken      |
+| Lucky Instrument    | Cowbell |
+| Lucky Flower        | Petal Plant    |
+| Lucky Job           | Historian       |
+| Lucky Exercise      | Kickboxing  |
+| Lucky Country       | Portugal    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 40
     title: "Dream of eating tangerines and feeling fragrant forest"  # Assuming 'title' column exists
-    date: 2024-10-13T17:17:00+08:00
-    lastmod: 2024-10-13T17:17:00+08:00
+    date: 2024-10-12T05:28:00+08:00
+    lastmod: 2024-10-12T05:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['eating', 'feeling', 'forest', 'Dream', 'fragrant', 'tangerines', 'and', 'of']
+    tags: ['forest', 'Dream', 'fragrant', 'eating', 'feeling', 'tangerines']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can suggest lucky and positive changes.Tangerine generally symbolizes
 | Lucky Animal        | Snake |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Quesadilla      |
-| Lucky Instrument    | Maracas |
-| Lucky Flower        | Nymphaea    |
-| Lucky Job           | Catering Manager       |
-| Lucky Exercise      | Kite Surfing  |
-| Lucky Country       | Zambia    |
+| Lucky Food          | Gnocchi      |
+| Lucky Instrument    | Sackbut |
+| Lucky Flower        | Tansy    |
+| Lucky Job           | Historian       |
+| Lucky Exercise      | Zumba  |
+| Lucky Country       | Qatar    |
 
 
 ##  Final Reflections on Dreams

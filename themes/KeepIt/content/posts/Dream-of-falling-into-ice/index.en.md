@@ -1,8 +1,8 @@
 ---
     weight: 974
     title: "Dream of falling into ice"  # Assuming 'title' column exists
-    date: 2024-10-13T01:45:00+08:00
-    lastmod: 2024-10-13T01:45:00+08:00
+    date: 2024-10-12T08:28:00+08:00
+    lastmod: 2024-10-12T08:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['into', 'falling', 'Dream', 'of', 'ice']
+    tags: ['ice', 'Dream', 'into', 'falling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The meaning of 'dream of falling into ice' can depend on personal experiences an
 | Lucky Animal        | Parrot |
 | Lucky Place         | River     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Chia Pudding      |
-| Lucky Instrument    | Melodica |
-| Lucky Flower        | Alstroemeria    |
-| Lucky Job           | Interpreter       |
-| Lucky Exercise      | Basketball  |
-| Lucky Country       | Mozambique    |
+| Lucky Food          | Buffalo Wings      |
+| Lucky Instrument    | Balalaika |
+| Lucky Flower        | Buttercup    |
+| Lucky Job           | Consultant       |
+| Lucky Exercise      | Plank  |
+| Lucky Country       | Finland    |
 
 
 ##  Final Reflections on Dreams

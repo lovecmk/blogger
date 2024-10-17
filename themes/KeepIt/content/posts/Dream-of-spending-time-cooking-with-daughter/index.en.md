@@ -1,8 +1,8 @@
 ---
     weight: 123
     title: "Dream of spending time cooking with daughter"  # Assuming 'title' column exists
-    date: 2024-10-13T07:24:00+08:00
-    lastmod: 2024-10-13T07:24:00+08:00
+    date: 2024-10-13T03:02:00+08:00
+    lastmod: 2024-10-13T03:02:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['cooking', 'Dream', 'time', 'daughter', 'of', 'with', 'spending']
+    tags: ['cooking', 'Dream', 'spending', 'time', 'daughter']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of dreams can vary depending on your personal experience and interpreta
 | Lucky Animal        | Duck |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Stir Fry      |
-| Lucky Instrument    | Wooden Flute |
-| Lucky Flower        | Geranium    |
-| Lucky Job           | Geologist       |
-| Lucky Exercise      | Squats  |
-| Lucky Country       | Malawi    |
+| Lucky Food          | Fruit Tart      |
+| Lucky Instrument    | Calimba |
+| Lucky Flower        | Clover    |
+| Lucky Job           | Landscaper       |
+| Lucky Exercise      | Kickboxing  |
+| Lucky Country       | Cyprus    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 414
     title: "Dream of running away from a typhoon or storm"  # Assuming 'title' column exists
-    date: 2024-10-13T17:43:00+08:00
-    lastmod: 2024-10-13T17:43:00+08:00
+    date: 2024-10-11T21:03:00+08:00
+    lastmod: 2024-10-11T21:03:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'storm', 'running', 'away', 'Dream', 'typhoon', 'a', 'from', 'of']
+    tags: ['Dream', 'storm', 'running', 'from', 'away', 'typhoon']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream mainly shows anxiety and stress, but does not have a lucky element.Ho
 | Lucky Animal        | Hyena |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Baked Potato      |
-| Lucky Instrument    | Tromba |
-| Lucky Flower        | Zantedeschia    |
-| Lucky Job           | Mathematician       |
-| Lucky Exercise      | Martial Arts  |
-| Lucky Country       | Italy    |
+| Lucky Food          | Lentil Soup      |
+| Lucky Instrument    | Drums |
+| Lucky Flower        | Bee Balm    |
+| Lucky Job           | Physical Therapist       |
+| Lucky Exercise      | Burpees  |
+| Lucky Country       | Thailand    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 192
     title: "Dream of traveling with lovers"  # Assuming 'title' column exists
-    date: 2024-10-13T10:45:00+08:00
-    lastmod: 2024-10-13T10:45:00+08:00
+    date: 2024-10-15T08:00:00+08:00
+    lastmod: 2024-10-15T08:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lovers', 'of', 'traveling', 'Dream', 'with']
+    tags: ['lovers', 'Dream', 'traveling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Good luck in 'Dreams of Traveling with Lovers' can depend on individual experien
 | Lucky Animal        | Sloth |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Lasagna      |
-| Lucky Instrument    | Slide Guitar |
-| Lucky Flower        | Tulip    |
-| Lucky Job           | Chemist       |
-| Lucky Exercise      | Swimming Laps  |
-| Lucky Country       | Netherlands    |
+| Lucky Food          | Quesadilla      |
+| Lucky Instrument    | Melodic Percussion |
+| Lucky Flower        | Lobelia    |
+| Lucky Job           | Human Resources Manager       |
+| Lucky Exercise      | Cross-Country Skiing  |
+| Lucky Country       | Samoa    |
 
 
 ##  Final Reflections on Dreams

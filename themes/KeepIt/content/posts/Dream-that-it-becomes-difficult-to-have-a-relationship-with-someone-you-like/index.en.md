@@ -1,8 +1,8 @@
 ---
     weight: 459
     title: "Dream that it becomes difficult to have a relationship with someone you like"  # Assuming 'title' column exists
-    date: 2024-10-13T02:32:00+08:00
-    lastmod: 2024-10-13T02:32:00+08:00
+    date: 2024-10-12T12:37:00+08:00
+    lastmod: 2024-10-12T12:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['like', 'to', 'Dream', 'difficult', 'a', 'relationship', 'someone', 'becomes', 'have', 'it', 'with', 'that', 'you']
+    tags: ['it', 'difficult', 'Dream', 'have', 'becomes', 'to', 'like', 'someone', 'that', 'you', 'relationship']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary by personal interpretation.In general, this drea
 | Lucky Animal        | Monkey |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Coconut Shrimp      |
-| Lucky Instrument    | Hang Drum |
-| Lucky Flower        | Bouvardia    |
-| Lucky Job           | Statistician       |
-| Lucky Exercise      | Circuit Workout  |
-| Lucky Country       | Botswana    |
+| Lucky Food          | Waffles      |
+| Lucky Instrument    | Bass Drum |
+| Lucky Flower        | Gillyflower    |
+| Lucky Job           | Musician       |
+| Lucky Exercise      | Jump Squats  |
+| Lucky Country       | Armenia    |
 
 
 ##  Final Reflections on Dreams

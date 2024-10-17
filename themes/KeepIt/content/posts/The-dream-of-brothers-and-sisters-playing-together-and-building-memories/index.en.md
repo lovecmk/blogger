@@ -1,8 +1,8 @@
 ---
     weight: 662
     title: "The dream of brothers and sisters playing together and building memories"  # Assuming 'title' column exists
-    date: 2024-10-13T16:21:00+08:00
-    lastmod: 2024-10-13T16:21:00+08:00
+    date: 2024-10-15T11:28:00+08:00
+    lastmod: 2024-10-15T11:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['together', 'playing', 'memories', 'sisters', 'dream', 'The', 'and', 'of', 'brothers', 'building']
+    tags: ['The', 'brothers', 'sisters', 'memories', 'dream', 'building', 'playing', 'together']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream suggests the opportunity to strengthen your relationship with your fa
 | Lucky Animal        | Beaver |
 | Lucky Place         | Museum     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Vegetarian Chili      |
-| Lucky Instrument    | Tenor Banjo |
-| Lucky Flower        | Ornamental Pepper    |
-| Lucky Job           | Technical Writer       |
-| Lucky Exercise      | Body Pump  |
-| Lucky Country       | South Africa    |
+| Lucky Food          | Muffin      |
+| Lucky Instrument    | Accordion Synth |
+| Lucky Flower        | Balsam    |
+| Lucky Job           | Logistician       |
+| Lucky Exercise      | Trail Running  |
+| Lucky Country       | Nigeria    |
 
 
 ##  Final Reflections on Dreams

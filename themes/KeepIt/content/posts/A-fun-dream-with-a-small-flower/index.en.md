@@ -1,8 +1,8 @@
 ---
     weight: 597
     title: "A fun dream with a small flower"  # Assuming 'title' column exists
-    date: 2024-10-13T22:41:00+08:00
-    lastmod: 2024-10-13T22:41:00+08:00
+    date: 2024-10-14T19:51:00+08:00
+    lastmod: 2024-10-14T19:51:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['flower', 'small', 'a', 'dream', 'with', 'A', 'fun']
+    tags: ['small', 'dream', 'fun', 'flower', 'A']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring good luck and positive change.Small flowers suggest that go
 | Lucky Animal        | Hyena |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Omelette      |
-| Lucky Instrument    | Guitarlele |
-| Lucky Flower        | Scabiosa    |
-| Lucky Job           | Hair Stylist       |
-| Lucky Exercise      | High-Intensity Interval Training (HIIT)  |
-| Lucky Country       | Bhutan    |
+| Lucky Food          | Crab      |
+| Lucky Instrument    | Tuba |
+| Lucky Flower        | Narcissus    |
+| Lucky Job           | Chemist       |
+| Lucky Exercise      | Burpees  |
+| Lucky Country       | Iceland    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 2081
     title: "Dream of fighting in a riot"  # Assuming 'title' column exists
-    date: 2024-10-13T02:20:00+08:00
-    lastmod: 2024-10-13T02:20:00+08:00
+    date: 2024-10-15T03:00:00+08:00
+    lastmod: 2024-10-15T03:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fighting', 'Dream', 'riot', 'a', 'in', 'of']
+    tags: ['Dream', 'fighting', 'riot']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams of extreme disappointment may not necessarily bring immediate luck or goo
 | Lucky Animal        | Sloth |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Fajitas      |
-| Lucky Instrument    | Keyboard Synthesizer |
-| Lucky Flower        | Forget-Me-Not    |
-| Lucky Job           | Producer       |
-| Lucky Exercise      | Kripalu Yoga  |
-| Lucky Country       | Sri Lanka    |
+| Lucky Food          | Pork Chops      |
+| Lucky Instrument    | Cymbals |
+| Lucky Flower        | Stephanotis    |
+| Lucky Job           | Chef de Cuisine       |
+| Lucky Exercise      | Boxing  |
+| Lucky Country       | Estonia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 610
     title: "Dream of standing on a stormy coast"  # Assuming 'title' column exists
-    date: 2024-10-13T12:26:00+08:00
-    lastmod: 2024-10-13T12:26:00+08:00
+    date: 2024-10-12T00:08:00+08:00
+    lastmod: 2024-10-12T00:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'a', 'on', 'standing', 'coast', 'of', 'stormy']
+    tags: ['Dream', 'standing', 'coast', 'stormy']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is that you can achieve greater achievements through the 
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Sea     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Lasagna      |
-| Lucky Instrument    | Saxello |
-| Lucky Flower        | Alyssum    |
-| Lucky Job           | Pastry Chef       |
-| Lucky Exercise      | Baseball  |
-| Lucky Country       | Iceland    |
+| Lucky Food          | Cornbread      |
+| Lucky Instrument    | Marimba |
+| Lucky Flower        | Sunflower    |
+| Lucky Job           | Makeup Artist       |
+| Lucky Exercise      | Parkour  |
+| Lucky Country       | Lesotho    |
 
 
 ##  Final Reflections on Dreams

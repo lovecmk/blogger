@@ -1,8 +1,8 @@
 ---
     weight: 1864
     title: "Dream of attending a festival or fair with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T14:36:00+08:00
-    lastmod: 2024-10-13T14:36:00+08:00
+    date: 2024-10-11T22:28:00+08:00
+    lastmod: 2024-10-11T22:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['festival', 'fair', 'or', 'your', 'boyfriend', 'Dream', 'a', 'of', 'attending', 'with']
+    tags: ['Dream', 'boyfriend', 'fair', 'festival', 'attending']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings the luck of inner peace, family support, and a harmonious conn
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Baked Ziti      |
-| Lucky Instrument    | Keyboard Synthesizer |
-| Lucky Flower        | Cyclamen    |
-| Lucky Job           | Software Engineer       |
-| Lucky Exercise      | Mobility Training  |
-| Lucky Country       | Nepal    |
+| Lucky Food          | Gumbo      |
+| Lucky Instrument    | Harmonic Piano |
+| Lucky Flower        | Stock    |
+| Lucky Job           | Doctor       |
+| Lucky Exercise      | CrossFit  |
+| Lucky Country       | Australia    |
 
 
 ##  Final Reflections on Dreams

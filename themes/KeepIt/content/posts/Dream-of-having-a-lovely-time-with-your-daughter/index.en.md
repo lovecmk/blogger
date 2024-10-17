@@ -1,8 +1,8 @@
 ---
     weight: 141
     title: "Dream of having a lovely time with your daughter"  # Assuming 'title' column exists
-    date: 2024-10-13T22:45:00+08:00
-    lastmod: 2024-10-13T22:45:00+08:00
+    date: 2024-10-12T18:43:00+08:00
+    lastmod: 2024-10-12T18:43:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lovely', 'your', 'Dream', 'a', 'time', 'daughter', 'of', 'with', 'having']
+    tags: ['lovely', 'Dream', 'time', 'daughter', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be an opportunity to improve your relationship with y
 | Lucky Animal        | Gorilla |
 | Lucky Place         | School     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Pudding      |
-| Lucky Instrument    | Conga |
-| Lucky Flower        | Lobelia    |
-| Lucky Job           | Logistician       |
-| Lucky Exercise      | Tennis  |
-| Lucky Country       | Azerbaijan    |
+| Lucky Food          | Chicken Parmesan      |
+| Lucky Instrument    | Chimes |
+| Lucky Flower        | Cherry Blossom    |
+| Lucky Job           | Architect       |
+| Lucky Exercise      | Lacrosse  |
+| Lucky Country       | Lesotho    |
 
 
 ##  Final Reflections on Dreams

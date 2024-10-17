@@ -1,8 +1,8 @@
 ---
     weight: 1794
     title: "Dream of discord during family holidays"  # Assuming 'title' column exists
-    date: 2024-10-13T19:28:00+08:00
-    lastmod: 2024-10-13T19:28:00+08:00
+    date: 2024-10-12T19:54:00+08:00
+    lastmod: 2024-10-12T19:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'Dream', 'during', 'holidays', 'of', 'discord']
+    tags: ['family', 'Dream', 'holidays', 'discord']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings the luck of financial success and prosperity. It signifies tha
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Bruschetta      |
-| Lucky Instrument    | Kettledrum |
-| Lucky Flower        | Tulip    |
-| Lucky Job           | Fashion Designer       |
-| Lucky Exercise      | Swimming  |
-| Lucky Country       | Ukraine    |
+| Lucky Food          | Nachos      |
+| Lucky Instrument    | Cello |
+| Lucky Flower        | Bellflower    |
+| Lucky Job           | Nurse       |
+| Lucky Exercise      | Leg Press  |
+| Lucky Country       | United Kingdom    |
 
 
 ##  Final Reflections on Dreams

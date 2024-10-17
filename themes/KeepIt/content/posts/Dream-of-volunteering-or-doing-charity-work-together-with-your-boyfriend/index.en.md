@@ -1,8 +1,8 @@
 ---
     weight: 1613
     title: "Dream of successfully managing and growing finances over time."  # Assuming 'title' column exists
-    date: 2024-10-13T04:37:00+08:00
-    lastmod: 2024-10-13T04:37:00+08:00
+    date: 2024-10-14T12:40:00+08:00
+    lastmod: 2024-10-14T12:40:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['finances', 'successfully', 'Dream', 'managing', 'over', 'and', 'growing', 'of', 'time.']
+    tags: ['successfully', 'Dream', 'growing', 'time', 'managing', 'over', 'finances']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Black     |
-| Lucky Food          | Casserole      |
-| Lucky Instrument    | Saz |
-| Lucky Flower        | Lilac    |
-| Lucky Job           | Quality Assurance Tester       |
-| Lucky Exercise      | Lacrosse  |
-| Lucky Country       | Sri Lanka    |
+| Lucky Food          | Gnocchi      |
+| Lucky Instrument    | Synthesizer |
+| Lucky Flower        | Scented Geranium    |
+| Lucky Job           | Photographer       |
+| Lucky Exercise      | Zumba  |
+| Lucky Country       | Poland    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 466
     title: "Dream of having difficulties in relationships with others"  # Assuming 'title' column exists
-    date: 2024-10-13T12:43:00+08:00
-    lastmod: 2024-10-13T12:43:00+08:00
+    date: 2024-10-11T05:22:00+08:00
+    lastmod: 2024-10-11T05:22:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['relationships', 'difficulties', 'Dream', 'others', 'in', 'of', 'with', 'having']
+    tags: ['others', 'Dream', 'relationships', 'difficulties', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -60,11 +60,11 @@ This dream is not a direct luck because it shows mainly negative patterns.But th
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Deep orange     |
 | Lucky Food          | Cheeseboard      |
-| Lucky Instrument    | Darabuka |
-| Lucky Flower        | Hellebore    |
-| Lucky Job           | Life Coach       |
-| Lucky Exercise      | Pull-Ups  |
-| Lucky Country       | Pakistan    |
+| Lucky Instrument    | Calimba |
+| Lucky Flower        | Lantana    |
+| Lucky Job           | Anthropologist       |
+| Lucky Exercise      | Zumba  |
+| Lucky Country       | Cambodia    |
 
 
 ##  Final Reflections on Dreams

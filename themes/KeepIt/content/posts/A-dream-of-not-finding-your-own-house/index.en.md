@@ -1,8 +1,8 @@
 ---
     weight: 358
     title: "A dream of not finding your own house"  # Assuming 'title' column exists
-    date: 2024-10-13T07:44:00+08:00
-    lastmod: 2024-10-13T07:44:00+08:00
+    date: 2024-10-13T20:38:00+08:00
+    lastmod: 2024-10-13T20:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['own', 'your', 'not', 'house', 'dream', 'A', 'of', 'finding']
+    tags: ['dream', 'finding', 'A', 'own', 'house', 'not']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can provide the opportunity to find self -growth and physical and men
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Vegetarian Chili      |
-| Lucky Instrument    | Piano |
-| Lucky Flower        | Celosia    |
-| Lucky Job           | Electrician       |
-| Lucky Exercise      | Squash  |
-| Lucky Country       | Canada    |
+| Lucky Food          | Tofu      |
+| Lucky Instrument    | Wooden Flute |
+| Lucky Flower        | Dandelion    |
+| Lucky Job           | Software Engineer       |
+| Lucky Exercise      | Plank  |
+| Lucky Country       | Nepal    |
 
 
 ##  Final Reflections on Dreams

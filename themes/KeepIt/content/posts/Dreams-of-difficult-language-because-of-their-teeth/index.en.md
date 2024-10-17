@@ -1,8 +1,8 @@
 ---
     weight: 899
     title: "Dreams of difficult language because of their teeth"  # Assuming 'title' column exists
-    date: 2024-10-13T03:27:00+08:00
-    lastmod: 2024-10-13T03:27:00+08:00
+    date: 2024-10-15T21:57:00+08:00
+    lastmod: 2024-10-15T21:57:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['language', 'teeth', 'their', 'difficult', 'because', 'Dreams', 'of']
+    tags: ['difficult', 'language', 'teeth', 'Dreams', 'their']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream suggests the opportunity to find good luck in the process of conveyin
 | Lucky Animal        | Heron |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Vegetarian Chili      |
-| Lucky Instrument    | Piccolo |
-| Lucky Flower        | Alyssum    |
-| Lucky Job           | Data Scientist       |
-| Lucky Exercise      | Racquetball  |
-| Lucky Country       | Oman    |
+| Lucky Food          | Shepherd's Pie      |
+| Lucky Instrument    | Cajón |
+| Lucky Flower        | Celosia    |
+| Lucky Job           | App Developer       |
+| Lucky Exercise      | Circuit Training  |
+| Lucky Country       | New Zealand    |
 
 
 ##  Final Reflections on Dreams

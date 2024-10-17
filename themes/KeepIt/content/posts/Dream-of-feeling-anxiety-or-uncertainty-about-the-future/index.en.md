@@ -1,8 +1,8 @@
 ---
     weight: 468
     title: "Dream of feeling anxiety or uncertainty about the future"  # Assuming 'title' column exists
-    date: 2024-10-13T22:34:00+08:00
-    lastmod: 2024-10-13T22:34:00+08:00
+    date: 2024-10-13T19:18:00+08:00
+    lastmod: 2024-10-13T19:18:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['feeling', 'uncertainty', 'or', 'about', 'the', 'anxiety', 'Dream', 'future', 'of']
+    tags: ['Dream', 'anxiety', 'uncertainty', 'feeling', 'future']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream is mainly anxiety and uncertainty, but can also be interpreted in pos
 | Lucky Animal        | Sloth |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Falafel      |
-| Lucky Instrument    | Harmonic Piano |
-| Lucky Flower        | Snapdragon    |
-| Lucky Job           | Quality Assurance Tester       |
-| Lucky Exercise      | Dance Aerobics  |
-| Lucky Country       | Tuvalu    |
+| Lucky Food          | Deviled Eggs      |
+| Lucky Instrument    | Tabla |
+| Lucky Flower        | Butterfly Bush    |
+| Lucky Job           | IT Specialist       |
+| Lucky Exercise      | Capoeira  |
+| Lucky Country       | Iraq    |
 
 
 ##  Final Reflections on Dreams

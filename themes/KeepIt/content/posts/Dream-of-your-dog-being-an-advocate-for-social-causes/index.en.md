@@ -1,8 +1,8 @@
 ---
     weight: 1273
     title: "Dream of your dog being an advocate for social causes"  # Assuming 'title' column exists
-    date: 2024-10-13T15:32:00+08:00
-    lastmod: 2024-10-13T15:32:00+08:00
+    date: 2024-10-11T15:46:00+08:00
+    lastmod: 2024-10-11T15:46:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'advocate', 'social', 'Dream', 'for', 'being', 'causes', 'an', 'of', 'dog']
+    tags: ['being', 'advocate', 'Dream', 'causes', 'dog', 'social', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Beach     |
 | Lucky Color         | Black     |
-| Lucky Food          | Shrimp      |
-| Lucky Instrument    | Conga |
-| Lucky Flower        | Periwinkle    |
-| Lucky Job           | Engineer       |
-| Lucky Exercise      | Pole Vaulting  |
-| Lucky Country       | New Zealand    |
+| Lucky Food          | Curry      |
+| Lucky Instrument    | Darabuka |
+| Lucky Flower        | Safflower    |
+| Lucky Job           | Musician       |
+| Lucky Exercise      | Skating  |
+| Lucky Country       | Brazil    |
 
 
 ##  Final Reflections on Dreams

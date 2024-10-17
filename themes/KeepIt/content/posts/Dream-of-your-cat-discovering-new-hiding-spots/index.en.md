@@ -1,8 +1,8 @@
 ---
     weight: 2133
     title: "Dream of fighting in a medieval combat"  # Assuming 'title' column exists
-    date: 2024-10-13T10:10:00+08:00
-    lastmod: 2024-10-13T10:10:00+08:00
+    date: 2024-10-12T23:26:00+08:00
+    lastmod: 2024-10-12T23:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['medieval', 'combat', 'fighting', 'Dream', 'a', 'in', 'of']
+    tags: ['Dream', 'fighting', 'combat', 'medieval']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Pizza      |
-| Lucky Instrument    | Sackbut |
-| Lucky Flower        | Marigold    |
-| Lucky Job           | Pilot       |
-| Lucky Exercise      | Salsa  |
-| Lucky Country       | Iran    |
+| Lucky Food          | Caprese Skewers      |
+| Lucky Instrument    | Djembe |
+| Lucky Flower        | Perennial Aster    |
+| Lucky Job           | Flight Attendant       |
+| Lucky Exercise      | Hammer Throw  |
+| Lucky Country       | South Korea    |
 
 
 ##  Final Reflections on Dreams

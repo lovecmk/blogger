@@ -1,8 +1,8 @@
 ---
     weight: 174
     title: "A dream of having a cooperative conversation with your family"  # Assuming 'title' column exists
-    date: 2024-10-13T16:55:00+08:00
-    lastmod: 2024-10-13T16:55:00+08:00
+    date: 2024-10-12T05:40:00+08:00
+    lastmod: 2024-10-12T05:40:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'your', 'conversation', 'a', 'cooperative', 'dream', 'of', 'A', 'with', 'having']
+    tags: ['conversation', 'family', 'dream', 'cooperative', 'A', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual.However, in general,
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Mart     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Guacamole      |
-| Lucky Instrument    | Bass Clarinet |
-| Lucky Flower        | Clover Blossom    |
-| Lucky Job           | Director       |
-| Lucky Exercise      | Ballet  |
-| Lucky Country       | Bangladesh    |
+| Lucky Food          | Kale Salad      |
+| Lucky Instrument    | Cello |
+| Lucky Flower        | Scabiosa    |
+| Lucky Job           | Software Engineer       |
+| Lucky Exercise      | Ashtanga Yoga  |
+| Lucky Country       | Azerbaijan    |
 
 
 ##  Final Reflections on Dreams

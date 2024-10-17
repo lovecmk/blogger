@@ -1,8 +1,8 @@
 ---
     weight: 1400
     title: "Dream of traveling back in time"  # Assuming 'title' column exists
-    date: 2024-10-13T13:07:00+08:00
-    lastmod: 2024-10-13T13:07:00+08:00
+    date: 2024-10-14T19:07:00+08:00
+    lastmod: 2024-10-14T19:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['traveling', 'Dream', 'time', 'in', 'of', 'back']
+    tags: ['Dream', 'traveling', 'back', 'time']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Cat |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Brownies      |
-| Lucky Instrument    | Fiddle |
-| Lucky Flower        | Tithonia    |
-| Lucky Job           | Hair Stylist       |
-| Lucky Exercise      | Powerlifting  |
-| Lucky Country       | Estonia    |
+| Lucky Food          | Chocolate      |
+| Lucky Instrument    | Ney |
+| Lucky Flower        | Dahlia    |
+| Lucky Job           | Scientist       |
+| Lucky Exercise      | Shot Put  |
+| Lucky Country       | Zambia    |
 
 
 ##  Final Reflections on Dreams

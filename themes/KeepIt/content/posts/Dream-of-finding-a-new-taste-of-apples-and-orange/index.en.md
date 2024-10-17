@@ -1,8 +1,8 @@
 ---
     weight: 29
     title: "Dream of finding a new taste of apples and orange"  # Assuming 'title' column exists
-    date: 2024-10-13T15:38:00+08:00
-    lastmod: 2024-10-13T15:38:00+08:00
+    date: 2024-10-13T21:15:00+08:00
+    lastmod: 2024-10-13T21:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['new', 'apples', 'Dream', 'orange', 'a', 'and', 'taste', 'of', 'finding']
+    tags: ['apples', 'Dream', 'orange', 'finding', 'taste', 'new']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream shows the desire to seek new experiences and pleasure, so you can exp
 | Lucky Animal        | Panda |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Vegetarian Chili      |
-| Lucky Instrument    | Oboe |
-| Lucky Flower        | Feverfew    |
-| Lucky Job           | Lawyer       |
-| Lucky Exercise      | Cycling  |
-| Lucky Country       | Lithuania    |
+| Lucky Food          | Biryani      |
+| Lucky Instrument    | Slide Guitar |
+| Lucky Flower        | Pincushion Flower    |
+| Lucky Job           | Data Analyst       |
+| Lucky Exercise      | Kite Surfing  |
+| Lucky Country       | Denmark    |
 
 
 ##  Final Reflections on Dreams

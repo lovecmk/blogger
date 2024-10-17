@@ -1,8 +1,8 @@
 ---
     weight: 1527
     title: "Dream of fighting for honor"  # Assuming 'title' column exists
-    date: 2024-10-13T18:31:00+08:00
-    lastmod: 2024-10-13T18:31:00+08:00
+    date: 2024-10-12T23:35:00+08:00
+    lastmod: 2024-10-12T23:35:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fighting', 'Dream', 'for', 'of', 'honor']
+    tags: ['honor', 'Dream', 'fighting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Snake |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Fajitas      |
-| Lucky Instrument    | Triangle |
-| Lucky Flower        | Thistle    |
-| Lucky Job           | Chef       |
-| Lucky Exercise      | Obstacle Course Racing  |
-| Lucky Country       | Vanuatu    |
+| Lucky Food          | Ice Cream      |
+| Lucky Instrument    | Hang Drum |
+| Lucky Flower        | Nymphaea    |
+| Lucky Job           | Journalist       |
+| Lucky Exercise      | Stair Climbing  |
+| Lucky Country       | Botswana    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1716
     title: "Dream of your grandmother reminiscing about her younger days with you."  # Assuming 'title' column exists
-    date: 2024-10-13T11:13:00+08:00
-    lastmod: 2024-10-13T11:13:00+08:00
+    date: 2024-10-14T20:40:00+08:00
+    lastmod: 2024-10-14T20:40:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['grandmother', 'you.', 'days', 'about', 'her', 'younger', 'your', 'reminiscing', 'Dream', 'of', 'with']
+    tags: ['Dream', 'reminiscing', 'grandmother', 'younger', 'her', 'days', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hamster |
 | Lucky Place         | Theater     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Vegetarian Chili      |
-| Lucky Instrument    | Harp |
-| Lucky Flower        | Hellebore    |
-| Lucky Job           | Artist       |
-| Lucky Exercise      | Dance Aerobics  |
-| Lucky Country       | Palau    |
+| Lucky Food          | Fajitas      |
+| Lucky Instrument    | Steel Pan |
+| Lucky Flower        | Ragged Robin    |
+| Lucky Job           | Art Director       |
+| Lucky Exercise      | Lunges  |
+| Lucky Country       | Croatia    |
 
 
 ##  Final Reflections on Dreams

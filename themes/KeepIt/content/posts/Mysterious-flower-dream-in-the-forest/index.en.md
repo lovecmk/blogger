@@ -1,8 +1,8 @@
 ---
     weight: 529
     title: "Mysterious flower dream in the forest"  # Assuming 'title' column exists
-    date: 2024-10-13T13:31:00+08:00
-    lastmod: 2024-10-13T13:31:00+08:00
+    date: 2024-10-11T14:56:00+08:00
+    lastmod: 2024-10-11T14:56:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['flower', 'forest', 'the', 'dream', 'Mysterious', 'in']
+    tags: ['forest', 'Mysterious', 'flower', 'dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream symbolizes new opportunities and luck, and you can get luck by discov
 | Lucky Animal        | Guinea pig |
 | Lucky Place         | Academy     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Baked Ziti      |
-| Lucky Instrument    | Bagpipes |
-| Lucky Flower        | Carnation    |
-| Lucky Job           | Web Designer       |
-| Lucky Exercise      | Aerobics  |
-| Lucky Country       | Bahrain    |
+| Lucky Food          | Chili      |
+| Lucky Instrument    | Bass Drum |
+| Lucky Flower        | Jade Plant    |
+| Lucky Job           | Data Scientist       |
+| Lucky Exercise      | Mobility Training  |
+| Lucky Country       | Malawi    |
 
 
 ##  Final Reflections on Dreams

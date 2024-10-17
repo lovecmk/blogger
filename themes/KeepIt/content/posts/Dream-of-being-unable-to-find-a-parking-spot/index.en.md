@@ -1,8 +1,8 @@
 ---
     weight: 1520
     title: "Dream of being unable to find a parking spot"  # Assuming 'title' column exists
-    date: 2024-10-13T19:13:00+08:00
-    lastmod: 2024-10-13T19:13:00+08:00
+    date: 2024-10-11T18:34:00+08:00
+    lastmod: 2024-10-11T18:34:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['unable', 'to', 'Dream', 'being', 'a', 'spot', 'of', 'find', 'parking']
+    tags: ['being', 'Dream', 'to', 'unable', 'spot', 'find', 'parking']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Sloth |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Hot Dog      |
-| Lucky Instrument    | Lyre |
-| Lucky Flower        | Sweet William    |
-| Lucky Job           | Life Coach       |
-| Lucky Exercise      | Kickboxing  |
-| Lucky Country       | Ukraine    |
+| Lucky Food          | Chicken Parmesan      |
+| Lucky Instrument    | Tuba |
+| Lucky Flower        | Perennial Aster    |
+| Lucky Job           | Pilot       |
+| Lucky Exercise      | Active Recovery  |
+| Lucky Country       | Japan    |
 
 
 ##  Final Reflections on Dreams

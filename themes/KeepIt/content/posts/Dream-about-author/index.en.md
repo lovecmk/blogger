@@ -1,8 +1,8 @@
 ---
     weight: 1173
     title: "Dream about author"  # Assuming 'title' column exists
-    date: 2024-10-13T10:08:00+08:00
-    lastmod: 2024-10-13T10:08:00+08:00
+    date: 2024-10-15T08:42:00+08:00
+    lastmod: 2024-10-15T08:42:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['author', 'about', 'Dream']
+    tags: ['Dream', 'author']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be diverse.For example, if things or situations in yo
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | School     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Beef Tacos      |
-| Lucky Instrument    | Harp |
-| Lucky Flower        | Balsam    |
-| Lucky Job           | Database Administrator       |
-| Lucky Exercise      | Sit-Ups  |
-| Lucky Country       | Brunei    |
+| Lucky Food          | Gelato      |
+| Lucky Instrument    | Claves |
+| Lucky Flower        | Marigold    |
+| Lucky Job           | Taxi Driver       |
+| Lucky Exercise      | Bodyweight Training  |
+| Lucky Country       | Japan    |
 
 
 ##  Final Reflections on Dreams

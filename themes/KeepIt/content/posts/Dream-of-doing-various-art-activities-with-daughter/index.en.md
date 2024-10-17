@@ -1,8 +1,8 @@
 ---
     weight: 122
     title: "Dream of doing various art activities with daughter"  # Assuming 'title' column exists
-    date: 2024-10-13T04:18:00+08:00
-    lastmod: 2024-10-13T04:18:00+08:00
+    date: 2024-10-13T13:41:00+08:00
+    lastmod: 2024-10-13T13:41:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['with', 'activities', 'doing', 'Dream', 'various', 'daughter', 'of', 'art']
+    tags: ['doing', 'Dream', 'art', 'activities', 'daughter', 'various']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual.However, in general,
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Prawn Crackers      |
-| Lucky Instrument    | French Horn |
-| Lucky Flower        | Alyssum    |
-| Lucky Job           | Interior Designer       |
-| Lucky Exercise      | Bodyweight Training  |
-| Lucky Country       | Ireland    |
+| Lucky Food          | Gnocchi      |
+| Lucky Instrument    | Octobass |
+| Lucky Flower        | Alstroemeria    |
+| Lucky Job           | Astrophysicist       |
+| Lucky Exercise      | Jumping Rope  |
+| Lucky Country       | Jordan    |
 
 
 ##  Final Reflections on Dreams

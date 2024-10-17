@@ -1,8 +1,8 @@
 ---
     weight: 913
     title: "Dream of being chased by a robot"  # Assuming 'title' column exists
-    date: 2024-10-13T13:31:00+08:00
-    lastmod: 2024-10-13T13:31:00+08:00
+    date: 2024-10-15T14:38:00+08:00
+    lastmod: 2024-10-15T14:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'being', 'robot', 'a', 'by', 'of', 'chased']
+    tags: ['being', 'chased', 'Dream', 'robot']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can help you to recognize your inner conflict or anxiety 
 | Lucky Animal        | Chick |
 | Lucky Place         | Mart     |
 | Lucky Color         | Black     |
-| Lucky Food          | Chicken Curry      |
-| Lucky Instrument    | Horn |
-| Lucky Flower        | Geranium    |
-| Lucky Job           | Logistician       |
-| Lucky Exercise      | Fencing  |
-| Lucky Country       | Egypt    |
+| Lucky Food          | Beef Tacos      |
+| Lucky Instrument    | Chimes |
+| Lucky Flower        | Forget-Me-Not    |
+| Lucky Job           | Operations Manager       |
+| Lucky Exercise      | Foam Rolling  |
+| Lucky Country       | Western Sahara    |
 
 
 ##  Final Reflections on Dreams

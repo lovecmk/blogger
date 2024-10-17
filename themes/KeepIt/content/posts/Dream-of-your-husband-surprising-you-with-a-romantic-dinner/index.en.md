@@ -1,8 +1,8 @@
 ---
     weight: 1562
     title: "Dream of your husband surprising you with a romantic dinner."  # Assuming 'title' column exists
-    date: 2024-10-13T07:52:00+08:00
-    lastmod: 2024-10-13T07:52:00+08:00
+    date: 2024-10-14T06:13:00+08:00
+    lastmod: 2024-10-14T06:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['with', 'surprising', 'romantic', 'your', 'Dream', 'husband', 'a', 'dinner.', 'of', 'you']
+    tags: ['Dream', 'dinner', 'surprising', 'romantic', 'husband', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Chick |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Roast Chicken      |
-| Lucky Instrument    | Harmonica |
-| Lucky Flower        | Agapanthus    |
-| Lucky Job           | Human Resources Manager       |
-| Lucky Exercise      | Stretching  |
-| Lucky Country       | Syria    |
+| Lucky Food          | Chocolate      |
+| Lucky Instrument    | Tromba |
+| Lucky Flower        | Verbena    |
+| Lucky Job           | Field Technician       |
+| Lucky Exercise      | Leg Press  |
+| Lucky Country       | Eswatini    |
 
 
 ##  Final Reflections on Dreams

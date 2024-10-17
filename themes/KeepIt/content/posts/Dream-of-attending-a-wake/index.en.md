@@ -1,8 +1,8 @@
 ---
     weight: 1859
     title: "Dream of fighting against supernatural beings"  # Assuming 'title' column exists
-    date: 2024-10-13T23:24:00+08:00
-    lastmod: 2024-10-13T23:24:00+08:00
+    date: 2024-10-15T02:43:00+08:00
+    lastmod: 2024-10-15T02:43:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['supernatural', 'fighting', 'against', 'beings', 'Dream', 'of']
+    tags: ['Dream', 'supernatural', 'fighting', 'beings']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Beaver |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Dumplings      |
-| Lucky Instrument    | Oboe |
-| Lucky Flower        | Periwinkle    |
-| Lucky Job           | Architect       |
-| Lucky Exercise      | Stair Climbing  |
-| Lucky Country       | Samoa    |
+| Lucky Food          | Popcorn      |
+| Lucky Instrument    | Harmonica |
+| Lucky Flower        | Sage    |
+| Lucky Job           | Public Relations Specialist       |
+| Lucky Exercise      | Lifting  |
+| Lucky Country       | Micronesia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 457
     title: "Dream of receiving negative evaluation of any person or group"  # Assuming 'title' column exists
-    date: 2024-10-13T05:26:00+08:00
-    lastmod: 2024-10-13T05:26:00+08:00
+    date: 2024-10-15T19:42:00+08:00
+    lastmod: 2024-10-15T19:42:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['receiving', 'or', 'Dream', 'group', 'evaluation', 'person', 'of', 'any', 'negative']
+    tags: ['person', 'Dream', 'negative', 'receiving', 'group', 'any', 'evaluation']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be an opportunity for self -growth and conflict resol
 | Lucky Animal        | Heron |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Beef Wellington      |
-| Lucky Instrument    | Bassoon |
-| Lucky Flower        | Clover Blossom    |
-| Lucky Job           | Chemist       |
-| Lucky Exercise      | Kite Surfing  |
-| Lucky Country       | Bulgaria    |
+| Lucky Food          | Quiche      |
+| Lucky Instrument    | Charango |
+| Lucky Flower        | Tulip    |
+| Lucky Job           | Data Analyst       |
+| Lucky Exercise      | Paddleboarding  |
+| Lucky Country       | Samoa    |
 
 
 ##  Final Reflections on Dreams

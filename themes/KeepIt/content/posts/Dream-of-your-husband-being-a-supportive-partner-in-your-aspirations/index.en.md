@@ -1,8 +1,8 @@
 ---
     weight: 1795
     title: "Dream of spending a peaceful afternoon painting or crafting with your grandmother."  # Assuming 'title' column exists
-    date: 2024-10-13T20:36:00+08:00
-    lastmod: 2024-10-13T20:36:00+08:00
+    date: 2024-10-15T23:27:00+08:00
+    lastmod: 2024-10-15T23:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['with', 'painting', 'afternoon', 'or', 'your', 'grandmother.', 'peaceful', 'Dream', 'a', 'of', 'crafting', 'spending']
+    tags: ['crafting', 'Dream', 'painting', 'grandmother', 'spending', 'afternoon', 'peaceful']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Panda |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Quesadilla      |
-| Lucky Instrument    | Erhu |
-| Lucky Flower        | Swan River Daisy    |
-| Lucky Job           | Plumber       |
-| Lucky Exercise      | Boxing  |
-| Lucky Country       | Solomon Islands    |
+| Lucky Food          | Hummus      |
+| Lucky Instrument    | Trumpet |
+| Lucky Flower        | Lobelia    |
+| Lucky Job           | Oceanographer       |
+| Lucky Exercise      | Soccer  |
+| Lucky Country       | Croatia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 717
     title: "Dream of enjoying a theme party at a character cafe with a friend"  # Assuming 'title' column exists
-    date: 2024-10-13T02:35:00+08:00
-    lastmod: 2024-10-13T02:35:00+08:00
+    date: 2024-10-15T04:01:00+08:00
+    lastmod: 2024-10-15T04:01:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['friend', 'enjoying', 'character', 'theme', 'Dream', 'cafe', 'a', 'party', 'of', 'with', 'at']
+    tags: ['theme', 'Dream', 'party', 'character', 'friend', 'enjoying', 'cafe']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can give you a chance to meet new ties and have a good time.This drea
 | Lucky Animal        | Hyena |
 | Lucky Place         | Museum     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Fried Rice      |
-| Lucky Instrument    | Guitar |
-| Lucky Flower        | Ragged Robin    |
-| Lucky Job           | App Developer       |
-| Lucky Exercise      | Parkour  |
-| Lucky Country       | Nauru    |
+| Lucky Food          | Chia Pudding      |
+| Lucky Instrument    | Melodic Percussion |
+| Lucky Flower        | Clover Blossom    |
+| Lucky Job           | Graphic Designer       |
+| Lucky Exercise      | Swimming Laps  |
+| Lucky Country       | United States    |
 
 
 ##  Final Reflections on Dreams

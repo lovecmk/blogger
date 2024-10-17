@@ -1,8 +1,8 @@
 ---
     weight: 301
     title: "Dream of dancing with a dog"  # Assuming 'title' column exists
-    date: 2024-10-13T07:28:00+08:00
-    lastmod: 2024-10-13T07:28:00+08:00
+    date: 2024-10-11T01:31:00+08:00
+    lastmod: 2024-10-11T01:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dancing', 'Dream', 'a', 'of', 'with', 'dog']
+    tags: ['Dream', 'dog', 'dancing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream contains elements that symbolize good luck.The dream of dancing with 
 | Lucky Animal        | Elephant |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Clams      |
-| Lucky Instrument    | Pipa |
-| Lucky Flower        | Magnolia    |
-| Lucky Job           | Operations Manager       |
-| Lucky Exercise      | Dancing  |
-| Lucky Country       | Slovakia    |
+| Lucky Food          | Chocolate Mousse      |
+| Lucky Instrument    | Balalaika |
+| Lucky Flower        | Feverfew    |
+| Lucky Job           | Baker       |
+| Lucky Exercise      | Underwater Diving  |
+| Lucky Country       | Czech Republic    |
 
 
 ##  Final Reflections on Dreams

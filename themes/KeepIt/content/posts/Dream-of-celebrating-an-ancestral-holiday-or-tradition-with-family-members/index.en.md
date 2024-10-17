@@ -1,8 +1,8 @@
 ---
     weight: 1631
     title: "Dream of your cat hiding or playing in a box"  # Assuming 'title' column exists
-    date: 2024-10-13T18:03:00+08:00
-    lastmod: 2024-10-13T18:03:00+08:00
+    date: 2024-10-13T03:26:00+08:00
+    lastmod: 2024-10-13T03:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['box', 'or', 'playing', 'your', 'cat', 'Dream', 'hiding', 'a', 'in', 'of']
+    tags: ['Dream', 'hiding', 'playing', 'cat', 'box']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Seal |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Fish and Chips      |
-| Lucky Instrument    | Clavichord |
-| Lucky Flower        | Mandevilla    |
-| Lucky Job           | Personal Trainer       |
-| Lucky Exercise      | Tai Chi  |
-| Lucky Country       | Poland    |
+| Lucky Food          | Steak      |
+| Lucky Instrument    | Zither |
+| Lucky Flower        | Bleeding Heart    |
+| Lucky Job           | Journalist       |
+| Lucky Exercise      | Cycling  |
+| Lucky Country       | Georgia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1350
     title: "Dream of your dog organizing an event"  # Assuming 'title' column exists
-    date: 2024-10-13T07:52:00+08:00
-    lastmod: 2024-10-13T07:52:00+08:00
+    date: 2024-10-11T18:55:00+08:00
+    lastmod: 2024-10-11T18:55:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'Dream', 'an', 'event', 'organizing', 'of', 'dog']
+    tags: ['event', 'Dream', 'dog', 'organizing', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ The luck brought by this dream is related to your ability to take charge and org
 | Lucky Animal        | Deer |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Curry      |
-| Lucky Instrument    | Viola |
-| Lucky Flower        | Peach Blossom    |
-| Lucky Job           | Operations Manager       |
-| Lucky Exercise      | Baseball  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Sushi Roll      |
+| Lucky Instrument    | Tuba Horn |
+| Lucky Flower        | Cherry Blossom    |
+| Lucky Job           | Doctor       |
+| Lucky Exercise      | Racquetball  |
+| Lucky Country       | Bulgaria    |
 
 
 ##  Final Reflections on Dreams

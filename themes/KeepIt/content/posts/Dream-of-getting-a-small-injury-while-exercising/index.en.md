@@ -1,8 +1,8 @@
 ---
     weight: 1495
     title: "Dream of getting a small injury while exercising"  # Assuming 'title' column exists
-    date: 2024-10-13T05:25:00+08:00
-    lastmod: 2024-10-13T05:25:00+08:00
+    date: 2024-10-13T21:16:00+08:00
+    lastmod: 2024-10-13T21:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['exercising', 'small', 'injury', 'Dream', 'a', 'of', 'getting', 'while']
+    tags: ['while', 'exercising', 'Dream', 'injury', 'small', 'getting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Panda |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Ice Cream      |
-| Lucky Instrument    | Flute |
-| Lucky Flower        | Firecracker Plant    |
-| Lucky Job           | Stockbroker       |
-| Lucky Exercise      | Pull-Ups  |
-| Lucky Country       | Iraq    |
+| Lucky Food          | Pesto      |
+| Lucky Instrument    | Keyboard Synthesizer |
+| Lucky Flower        | Kalanchoe    |
+| Lucky Job           | Bus Driver       |
+| Lucky Exercise      | Step Aerobics  |
+| Lucky Country       | Cyprus    |
 
 
 ##  Final Reflections on Dreams

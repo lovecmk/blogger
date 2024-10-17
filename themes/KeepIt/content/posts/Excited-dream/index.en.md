@@ -1,8 +1,8 @@
 ---
     weight: 992
     title: "Excited dream"  # Assuming 'title' column exists
-    date: 2024-10-13T12:46:00+08:00
-    lastmod: 2024-10-13T12:46:00+08:00
+    date: 2024-10-13T02:18:00+08:00
+    lastmod: 2024-10-13T02:18:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -59,12 +59,12 @@ The luck of exciting dreams can vary depending on the personal life and interpre
 | Lucky Animal        | Koala |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Red     |
-| Lucky Food          | Coconut Shrimp      |
-| Lucky Instrument    | Soprano Recorder |
-| Lucky Flower        | Lantana    |
-| Lucky Job           | Customer Service Representative       |
-| Lucky Exercise      | Yoga Flow  |
-| Lucky Country       | Afghanistan    |
+| Lucky Food          | Vegetarian Chili      |
+| Lucky Instrument    | Marimba |
+| Lucky Flower        | Gillyflower    |
+| Lucky Job           | Game Developer       |
+| Lucky Exercise      | Sit-Ups  |
+| Lucky Country       | Australia    |
 
 
 ##  Final Reflections on Dreams

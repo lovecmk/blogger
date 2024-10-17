@@ -1,8 +1,8 @@
 ---
     weight: 1164
     title: "Dream about bookstore"  # Assuming 'title' column exists
-    date: 2024-10-13T16:05:00+08:00
-    lastmod: 2024-10-13T16:05:00+08:00
+    date: 2024-10-11T14:07:00+08:00
+    lastmod: 2024-10-11T14:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['bookstore', 'about', 'Dream']
+    tags: ['bookstore', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'bookstore' dreams is related to the will to pursue knowledge and le
 | Lucky Animal        | Hamster |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Pasta      |
+| Lucky Food          | Cornbread      |
 | Lucky Instrument    | Slide Guitar |
 | Lucky Flower        | Cherry Blossom    |
-| Lucky Job           | Chef       |
-| Lucky Exercise      | Resistance Training  |
-| Lucky Country       | Western Sahara    |
+| Lucky Job           | Nuclear Engineer       |
+| Lucky Exercise      | Skimboarding  |
+| Lucky Country       | Syria    |
 
 
 ##  Final Reflections on Dreams

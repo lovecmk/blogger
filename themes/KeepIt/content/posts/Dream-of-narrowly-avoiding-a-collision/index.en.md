@@ -1,8 +1,8 @@
 ---
     weight: 1315
     title: "Dream of narrowly avoiding a collision"  # Assuming 'title' column exists
-    date: 2024-10-13T22:05:00+08:00
-    lastmod: 2024-10-13T22:05:00+08:00
+    date: 2024-10-14T13:02:00+08:00
+    lastmod: 2024-10-14T13:02:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['avoiding', 'Dream', 'a', 'collision', 'of', 'narrowly']
+    tags: ['collision', 'Dream', 'narrowly', 'avoiding']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Bear |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Minestrone      |
-| Lucky Instrument    | Djembe |
-| Lucky Flower        | Alyssum    |
-| Lucky Job           | Historian       |
-| Lucky Exercise      | Hiking  |
-| Lucky Country       | Tonga    |
+| Lucky Food          | Steak      |
+| Lucky Instrument    | Recorder |
+| Lucky Flower        | Begonia    |
+| Lucky Job           | Bus Driver       |
+| Lucky Exercise      | Rock Climbing  |
+| Lucky Country       | Kazakhstan    |
 
 
 ##  Final Reflections on Dreams

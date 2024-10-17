@@ -1,8 +1,8 @@
 ---
     weight: 1163
     title: "Dream about poet"  # Assuming 'title' column exists
-    date: 2024-10-13T09:17:00+08:00
-    lastmod: 2024-10-13T09:17:00+08:00
+    date: 2024-10-12T16:44:00+08:00
+    lastmod: 2024-10-12T16:44:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['about', 'Dream', 'poet']
+    tags: ['Dream', 'poet']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ There are many luck from dreams.Dreams often deliver messages with unconscious d
 | Lucky Animal        | Horse |
 | Lucky Place         | Museum     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Pasta      |
-| Lucky Instrument    | Trumpet |
-| Lucky Flower        | Sea Lavender    |
-| Lucky Job           | Field Technician       |
-| Lucky Exercise      | Parkour  |
-| Lucky Country       | Cyprus    |
+| Lucky Food          | Baklava      |
+| Lucky Instrument    | Tuba |
+| Lucky Flower        | Mullein    |
+| Lucky Job           | Electrician       |
+| Lucky Exercise      | Kettlebell Training  |
+| Lucky Country       | Armenia    |
 
 
 ##  Final Reflections on Dreams

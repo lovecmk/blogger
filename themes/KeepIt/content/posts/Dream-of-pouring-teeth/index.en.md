@@ -1,8 +1,8 @@
 ---
     weight: 894
     title: "Dream of pouring teeth"  # Assuming 'title' column exists
-    date: 2024-10-13T11:14:00+08:00
-    lastmod: 2024-10-13T11:14:00+08:00
+    date: 2024-10-12T22:16:00+08:00
+    lastmod: 2024-10-12T22:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['teeth', 'of', 'Dream', 'pouring']
+    tags: ['pouring', 'teeth', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can mean an opportunity for your self -strengthening and 
 | Lucky Animal        | Leopard |
 | Lucky Place         | Academy     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Roast Chicken      |
-| Lucky Instrument    | Accordion |
-| Lucky Flower        | Firecracker Plant    |
-| Lucky Job           | Web Designer       |
-| Lucky Exercise      | Basketball  |
-| Lucky Country       | Ireland    |
+| Lucky Food          | Burger      |
+| Lucky Instrument    | Trombone |
+| Lucky Flower        | Vinca    |
+| Lucky Job           | Operations Manager       |
+| Lucky Exercise      | Handball  |
+| Lucky Country       | Switzerland    |
 
 
 ##  Final Reflections on Dreams

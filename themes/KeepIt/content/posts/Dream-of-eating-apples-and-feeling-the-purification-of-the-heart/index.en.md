@@ -1,8 +1,8 @@
 ---
     weight: 74
     title: "Dream of eating apples and feeling the purification of the heart"  # Assuming 'title' column exists
-    date: 2024-10-13T01:31:00+08:00
-    lastmod: 2024-10-13T01:31:00+08:00
+    date: 2024-10-11T00:13:00+08:00
+    lastmod: 2024-10-11T00:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['eating', 'feeling', 'the', 'Dream', 'heart', 'purification', 'and', 'of', 'apples']
+    tags: ['apples', 'Dream', 'purification', 'eating', 'heart', 'feeling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can help you find inner peace and harmony.This dream will
 | Lucky Animal        | Snake |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Vegetarian Chili      |
-| Lucky Instrument    | Triangle |
-| Lucky Flower        | Fuchsia    |
-| Lucky Job           | Doctor       |
-| Lucky Exercise      | Capoeira  |
-| Lucky Country       | Bahrain    |
+| Lucky Food          | Sushi      |
+| Lucky Instrument    | Pandeiro |
+| Lucky Flower        | Geranium    |
+| Lucky Job           | Flight Attendant       |
+| Lucky Exercise      | Javelin  |
+| Lucky Country       | Brunei    |
 
 
 ##  Final Reflections on Dreams

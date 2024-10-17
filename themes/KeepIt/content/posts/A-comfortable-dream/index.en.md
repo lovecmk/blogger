@@ -1,8 +1,8 @@
 ---
     weight: 1025
     title: "A comfortable dream"  # Assuming 'title' column exists
-    date: 2024-10-13T02:37:00+08:00
-    lastmod: 2024-10-13T02:37:00+08:00
+    date: 2024-10-11T08:45:00+08:00
+    lastmod: 2024-10-11T08:45:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dream', 'A', 'comfortable']
+    tags: ['dream', 'comfortable', 'A']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of "comfortable dreams" is mainly inner stability, peace, stress relief
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Caramel Flan      |
-| Lucky Instrument    | Guitarlele |
-| Lucky Flower        | Jatropha    |
-| Lucky Job           | Director       |
-| Lucky Exercise      | Jumping Rope  |
-| Lucky Country       | Kazakhstan    |
+| Lucky Food          | Gumbo      |
+| Lucky Instrument    | Tuba Horn |
+| Lucky Flower        | Lily    |
+| Lucky Job           | Consultant       |
+| Lucky Exercise      | Powerlifting  |
+| Lucky Country       | Saudi Arabia    |
 
 
 ##  Final Reflections on Dreams

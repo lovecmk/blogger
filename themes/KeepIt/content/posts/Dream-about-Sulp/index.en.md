@@ -1,8 +1,8 @@
 ---
     weight: 1132
     title: "Dream about Sulp"  # Assuming 'title' column exists
-    date: 2024-10-13T01:37:00+08:00
-    lastmod: 2024-10-13T01:37:00+08:00
+    date: 2024-10-11T19:27:00+08:00
+    lastmod: 2024-10-11T19:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Sulp', 'about', 'Dream']
+    tags: ['Sulp', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream is mainly interpreted as a positive sign.'Cheongseolmo' is considered
 | Lucky Animal        | Cat |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Vegetable Stir Fry      |
-| Lucky Instrument    | Saxophone |
-| Lucky Flower        | Ragged Robin    |
-| Lucky Job           | Life Coach       |
-| Lucky Exercise      | Bouldering  |
-| Lucky Country       | Turkmenistan    |
+| Lucky Food          | Noodles      |
+| Lucky Instrument    | Kettledrum |
+| Lucky Flower        | Lilac    |
+| Lucky Job           | Chef de Cuisine       |
+| Lucky Exercise      | Racquetball  |
+| Lucky Country       | Tuvalu    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1722
     title: "Dream of your ancestor providing guidance in a decision-making process."  # Assuming 'title' column exists
-    date: 2024-10-13T23:56:00+08:00
-    lastmod: 2024-10-13T23:56:00+08:00
+    date: 2024-10-13T13:19:00+08:00
+    lastmod: 2024-10-13T13:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['process.', 'decision-making', 'providing', 'your', 'Dream', 'a', 'ancestor', 'in', 'of', 'guidance']
+    tags: ['guidance', 'Dream', 'decision-making', 'process', 'providing', 'ancestor']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Leopard |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Quiche      |
-| Lucky Instrument    | Cowbell |
-| Lucky Flower        | Nymphaea    |
-| Lucky Job           | Life Coach       |
-| Lucky Exercise      | Yoga  |
-| Lucky Country       | Philippines    |
+| Lucky Food          | Onion Rings      |
+| Lucky Instrument    | Ney |
+| Lucky Flower        | Sweet William    |
+| Lucky Job           | Musician       |
+| Lucky Exercise      | Step Aerobics  |
+| Lucky Country       | Israel    |
 
 
 ##  Final Reflections on Dreams

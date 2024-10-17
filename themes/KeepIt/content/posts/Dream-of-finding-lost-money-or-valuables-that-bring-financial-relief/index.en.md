@@ -1,8 +1,8 @@
 ---
     weight: 2148
     title: "Dream of your cat being curious about something"  # Assuming 'title' column exists
-    date: 2024-10-13T05:41:00+08:00
-    lastmod: 2024-10-13T05:41:00+08:00
+    date: 2024-10-11T16:16:00+08:00
+    lastmod: 2024-10-11T16:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['about', 'your', 'cat', 'curious', 'Dream', 'being', 'of', 'something']
+    tags: ['being', 'Dream', 'curious', 'cat', 'something']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Tiger |
 | Lucky Place         | Lake     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Burrito      |
-| Lucky Instrument    | Zither |
-| Lucky Flower        | Fuchsia    |
-| Lucky Job           | Public Relations Specialist       |
-| Lucky Exercise      | Weightlifting  |
-| Lucky Country       | Oman    |
+| Lucky Food          | Scallops      |
+| Lucky Instrument    | Saxophone |
+| Lucky Flower        | Cactus Flower    |
+| Lucky Job           | Hair Stylist       |
+| Lucky Exercise      | Horseback Riding  |
+| Lucky Country       | Namibia    |
 
 
 ##  Final Reflections on Dreams

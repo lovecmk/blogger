@@ -1,8 +1,8 @@
 ---
     weight: 1546
     title: "Dream of arguments about family unity"  # Assuming 'title' column exists
-    date: 2024-10-13T08:54:00+08:00
-    lastmod: 2024-10-13T08:54:00+08:00
+    date: 2024-10-12T11:29:00+08:00
+    lastmod: 2024-10-12T11:29:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'about', 'arguments', 'unity', 'Dream', 'of']
+    tags: ['family', 'Dream', 'unity', 'arguments']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings with it a sense of good luck and fortunate circumstances. It s
 | Lucky Animal        | Wolf |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Ramen      |
-| Lucky Instrument    | Saxophone |
-| Lucky Flower        | Periwinkle    |
-| Lucky Job           | Historian       |
-| Lucky Exercise      | Skating  |
-| Lucky Country       | Belgium    |
+| Lucky Food          | Baba Ganoush      |
+| Lucky Instrument    | Mandolin |
+| Lucky Flower        | Foxglove    |
+| Lucky Job           | Librarian       |
+| Lucky Exercise      | Hot Yoga  |
+| Lucky Country       | Japan    |
 
 
 ##  Final Reflections on Dreams

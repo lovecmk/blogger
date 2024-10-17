@@ -1,8 +1,8 @@
 ---
     weight: 330
     title: "Dream of dreaming of the future with boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T22:24:00+08:00
-    lastmod: 2024-10-13T22:24:00+08:00
+    date: 2024-10-11T05:22:00+08:00
+    lastmod: 2024-10-11T05:22:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'boyfriend', 'Dream', 'dreaming', 'future', 'of', 'with']
+    tags: ['Dream', 'boyfriend', 'dreaming', 'future']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is a positive view of the future relationship between you
 | Lucky Animal        | Hyena |
 | Lucky Place         | Theater     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Gnocchi      |
-| Lucky Instrument    | Ukulele |
-| Lucky Flower        | Chrysanthemum    |
-| Lucky Job           | Director       |
-| Lucky Exercise      | Yoga Flow  |
-| Lucky Country       | Marshall Islands    |
+| Lucky Food          | Ramen      |
+| Lucky Instrument    | Lute |
+| Lucky Flower        | Larkspur    |
+| Lucky Job           | Scientist       |
+| Lucky Exercise      | Beach Volleyball  |
+| Lucky Country       | Syria    |
 
 
 ##  Final Reflections on Dreams

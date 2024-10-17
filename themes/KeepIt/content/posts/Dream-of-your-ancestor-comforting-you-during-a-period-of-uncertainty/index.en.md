@@ -1,8 +1,8 @@
 ---
     weight: 2079
     title: "Dream of being in a state of profound despondency"  # Assuming 'title' column exists
-    date: 2024-10-13T13:31:00+08:00
-    lastmod: 2024-10-13T13:31:00+08:00
+    date: 2024-10-14T08:51:00+08:00
+    lastmod: 2024-10-14T08:51:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['state', 'profound', 'Dream', 'being', 'a', 'in', 'of', 'despondency']
+    tags: ['being', 'Dream', 'profound', 'despondency', 'state']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Lizard |
 | Lucky Place         | Park     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Shrimp      |
-| Lucky Instrument    | Melodica |
-| Lucky Flower        | Bougainvillea    |
-| Lucky Job           | Brand Manager       |
-| Lucky Exercise      | Sledge Hockey  |
-| Lucky Country       | Kyrgyzstan    |
+| Lucky Food          | Pasta Salad      |
+| Lucky Instrument    | Bass Clarinet |
+| Lucky Flower        | Jade Plant    |
+| Lucky Job           | Bus Driver       |
+| Lucky Exercise      | Softball  |
+| Lucky Country       | Lesotho    |
 
 
 ##  Final Reflections on Dreams

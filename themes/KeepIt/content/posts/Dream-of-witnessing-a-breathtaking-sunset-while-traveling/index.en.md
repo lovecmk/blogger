@@ -1,8 +1,8 @@
 ---
     weight: 1244
     title: "Dream of witnessing a breathtaking sunset while traveling"  # Assuming 'title' column exists
-    date: 2024-10-13T23:01:00+08:00
-    lastmod: 2024-10-13T23:01:00+08:00
+    date: 2024-10-11T23:05:00+08:00
+    lastmod: 2024-10-11T23:05:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['breathtaking', 'witnessing', 'traveling', 'Dream', 'a', 'sunset', 'of', 'while']
+    tags: ['breathtaking', 'while', 'Dream', 'traveling', 'sunset', 'witnessing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Panda |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Curry      |
-| Lucky Instrument    | Flute |
-| Lucky Flower        | Lavender    |
-| Lucky Job           | Sales Representative       |
-| Lucky Exercise      | Walking  |
-| Lucky Country       | Mozambique    |
+| Lucky Food          | Chicken Curry      |
+| Lucky Instrument    | Violin |
+| Lucky Flower        | Nymphaea    |
+| Lucky Job           | Video Editor       |
+| Lucky Exercise      | Racquetball  |
+| Lucky Country       | Yemen    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 2156
     title: "Dream of going on a hot air balloon ride or helicopter tour with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T10:03:00+08:00
-    lastmod: 2024-10-13T10:03:00+08:00
+    date: 2024-10-14T15:56:00+08:00
+    lastmod: 2024-10-14T15:56:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['ride', 'tour', 'or', 'air', 'your', 'boyfriend', 'Dream', 'going', 'helicopter', 'a', 'hot', 'on', 'of', 'with', 'balloon']
+    tags: ['tour', 'Dream', 'boyfriend', 'ride', 'hot', 'going', 'helicopter', 'balloon', 'air']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Park     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Spring Roll      |
+| Lucky Food          | Paella      |
 | Lucky Instrument    | Trompeta |
-| Lucky Flower        | Primrose    |
-| Lucky Job           | Project Manager       |
-| Lucky Exercise      | Ultimate Frisbee  |
-| Lucky Country       | Romania    |
+| Lucky Flower        | Kalanchoe    |
+| Lucky Job           | Geologist       |
+| Lucky Exercise      | Beach Volleyball  |
+| Lucky Country       | Papua New Guinea    |
 
 
 ##  Final Reflections on Dreams

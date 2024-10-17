@@ -1,8 +1,8 @@
 ---
     weight: 654
     title: "Dream of creating various things with magic power"  # Assuming 'title' column exists
-    date: 2024-10-13T07:54:00+08:00
-    lastmod: 2024-10-13T07:54:00+08:00
+    date: 2024-10-12T09:18:00+08:00
+    lastmod: 2024-10-12T09:18:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['things', 'power', 'magic', 'Dream', 'various', 'creating', 'of', 'with']
+    tags: ['creating', 'power', 'Dream', 'things', 'various', 'magic']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can indicate that in reality, it can be given a chance to
 | Lucky Animal        | Seagull |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Tuna Tartare      |
-| Lucky Instrument    | Accordion Synth |
-| Lucky Flower        | Hoya    |
-| Lucky Job           | Catering Manager       |
-| Lucky Exercise      | Bench Press  |
-| Lucky Country       | Ireland    |
+| Lucky Food          | Clams      |
+| Lucky Instrument    | Electric Guitar |
+| Lucky Flower        | Verbena    |
+| Lucky Job           | Web Designer       |
+| Lucky Exercise      | Skating  |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 601
     title: "Dream of flying freely in the air"  # Assuming 'title' column exists
-    date: 2024-10-13T01:46:00+08:00
-    lastmod: 2024-10-13T01:46:00+08:00
+    date: 2024-10-11T14:38:00+08:00
+    lastmod: 2024-10-11T14:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['freely', 'flying', 'the', 'air', 'Dream', 'in', 'of']
+    tags: ['Dream', 'flying', 'freely', 'air']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring good luck through new experiences and freedom.Dreaming free
 | Lucky Animal        | Sloth |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Red     |
-| Lucky Food          | Scallops      |
-| Lucky Instrument    | Horn |
-| Lucky Flower        | Agapanthus    |
-| Lucky Job           | Sous Chef       |
-| Lucky Exercise      | Baseball  |
-| Lucky Country       | United Kingdom    |
+| Lucky Food          | Curry      |
+| Lucky Instrument    | Wooden Flute |
+| Lucky Flower        | Swan River Daisy    |
+| Lucky Job           | Pharmacist       |
+| Lucky Exercise      | Softball  |
+| Lucky Country       | Oman    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1540
     title: "Dream of disputes about family rules"  # Assuming 'title' column exists
-    date: 2024-10-13T10:03:00+08:00
-    lastmod: 2024-10-13T10:03:00+08:00
+    date: 2024-10-13T05:42:00+08:00
+    lastmod: 2024-10-13T05:42:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'about', 'Dream', 'of', 'disputes', 'rules']
+    tags: ['family', 'Dream', 'rules', 'disputes']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Panda |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Sandwich      |
-| Lucky Instrument    | Bongo Drums |
-| Lucky Flower        | Zantedeschia    |
-| Lucky Job           | Software Engineer       |
-| Lucky Exercise      | Cross-Country Skiing  |
-| Lucky Country       | Nepal    |
+| Lucky Food          | Tofu      |
+| Lucky Instrument    | Tuba |
+| Lucky Flower        | Lotus    |
+| Lucky Job           | Baker       |
+| Lucky Exercise      | Yoga Flow  |
+| Lucky Country       | Armenia    |
 
 
 ##  Final Reflections on Dreams

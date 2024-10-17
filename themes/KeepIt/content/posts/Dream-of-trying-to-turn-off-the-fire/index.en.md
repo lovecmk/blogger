@@ -1,8 +1,8 @@
 ---
     weight: 834
     title: "Dream of trying to turn off the fire"  # Assuming 'title' column exists
-    date: 2024-10-13T21:59:00+08:00
-    lastmod: 2024-10-13T21:59:00+08:00
+    date: 2024-10-11T16:05:00+08:00
+    lastmod: 2024-10-11T16:05:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['off', 'the', 'to', 'fire', 'Dream', 'turn', 'trying', 'of']
+    tags: ['trying', 'Dream', 'turn', 'to', 'fire', 'off']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the situation and the interpretatio
 | Lucky Animal        | Sparrow |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Ceviche      |
-| Lucky Instrument    | Bagpipes |
-| Lucky Flower        | Hoya    |
-| Lucky Job           | Accountant       |
-| Lucky Exercise      | Parkour Training  |
-| Lucky Country       | Malawi    |
+| Lucky Food          | Shepherd's Pie      |
+| Lucky Instrument    | Castanets |
+| Lucky Flower        | Gillyflower    |
+| Lucky Job           | Pastry Chef       |
+| Lucky Exercise      | Sprinting  |
+| Lucky Country       | Samoa    |
 
 
 ##  Final Reflections on Dreams

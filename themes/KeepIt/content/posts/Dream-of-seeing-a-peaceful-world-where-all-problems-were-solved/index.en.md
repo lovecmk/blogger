@@ -1,8 +1,8 @@
 ---
     weight: 622
     title: "Dream of seeing a peaceful world where all problems were solved"  # Assuming 'title' column exists
-    date: 2024-10-13T06:08:00+08:00
-    lastmod: 2024-10-13T06:08:00+08:00
+    date: 2024-10-14T22:48:00+08:00
+    lastmod: 2024-10-14T22:48:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['solved', 'seeing', 'Dream', 'peaceful', 'a', 'all', 'problems', 'were', 'world', 'of', 'where']
+    tags: ['Dream', 'solved', 'where', 'were', 'world', 'all', 'peaceful', 'seeing', 'problems']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you good luck.You can provide a clear direction and a peace
 | Lucky Animal        | Hamster |
 | Lucky Place         | School     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Crab      |
-| Lucky Instrument    | Soprano Recorder |
-| Lucky Flower        | Maranta    |
-| Lucky Job           | Oceanographer       |
-| Lucky Exercise      | Interval Training  |
-| Lucky Country       | Iceland    |
+| Lucky Food          | Mango Sticky Rice      |
+| Lucky Instrument    | Bass Guitar |
+| Lucky Flower        | Verbena    |
+| Lucky Job           | Life Coach       |
+| Lucky Exercise      | Soccer  |
+| Lucky Country       | Sri Lanka    |
 
 
 ##  Final Reflections on Dreams

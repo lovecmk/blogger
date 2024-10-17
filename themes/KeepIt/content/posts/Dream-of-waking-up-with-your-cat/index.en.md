@@ -1,8 +1,8 @@
 ---
     weight: 1880
     title: "Dream of fighting with an ex-partner"  # Assuming 'title' column exists
-    date: 2024-10-13T09:57:00+08:00
-    lastmod: 2024-10-13T09:57:00+08:00
+    date: 2024-10-15T12:57:00+08:00
+    lastmod: 2024-10-15T12:57:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fighting', 'ex-partner', 'Dream', 'an', 'of', 'with']
+    tags: ['Dream', 'fighting', 'ex-partner', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Kale Salad      |
+| Lucky Food          | Roast Chicken      |
 | Lucky Instrument    | Saxophone |
-| Lucky Flower        | Lotus    |
-| Lucky Job           | Scientist       |
-| Lucky Exercise      | Hammer Throw  |
-| Lucky Country       | Latvia    |
+| Lucky Flower        | Pelargonium    |
+| Lucky Job           | Copywriter       |
+| Lucky Exercise      | Racquetball  |
+| Lucky Country       | Zimbabwe    |
 
 
 ##  Final Reflections on Dreams

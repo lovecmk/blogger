@@ -1,8 +1,8 @@
 ---
     weight: 2076
     title: "Dream of your husband receiving recognition for his hard work."  # Assuming 'title' column exists
-    date: 2024-10-13T18:25:00+08:00
-    lastmod: 2024-10-13T18:25:00+08:00
+    date: 2024-10-13T08:42:00+08:00
+    lastmod: 2024-10-13T08:42:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['receiving', 'recognition', 'your', 'hard', 'Dream', 'for', 'his', 'work.', 'husband', 'of']
+    tags: ['Dream', 'hard', 'work', 'receiving', 'recognition', 'his', 'husband']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings the kind of luck that is associated with fulfillment, prosperi
 | Lucky Animal        | Cat |
 | Lucky Place         | Museum     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Tofu      |
-| Lucky Instrument    | Bassoon |
-| Lucky Flower        | Tulip    |
-| Lucky Job           | Mechanic       |
-| Lucky Exercise      | Cycling  |
-| Lucky Country       | Saudi Arabia    |
+| Lucky Food          | Stuffed Peppers      |
+| Lucky Instrument    | Electric Violin |
+| Lucky Flower        | Clover    |
+| Lucky Job           | Director       |
+| Lucky Exercise      | Mobility Training  |
+| Lucky Country       | Brunei    |
 
 
 ##  Final Reflections on Dreams

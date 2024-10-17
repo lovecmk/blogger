@@ -1,8 +1,8 @@
 ---
     weight: 117
     title: "Dream of building sand on the beach with daughter"  # Assuming 'title' column exists
-    date: 2024-10-13T11:39:00+08:00
-    lastmod: 2024-10-13T11:39:00+08:00
+    date: 2024-10-13T07:51:00+08:00
+    lastmod: 2024-10-13T07:51:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['with', 'the', 'beach', 'Dream', 'sand', 'daughter', 'on', 'of', 'building']
+    tags: ['sand', 'Dream', 'building', 'beach', 'daughter']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can suggest a good time with your family and the lucky of the happine
 | Lucky Animal        | Parrot |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Chicken Parmesan      |
-| Lucky Instrument    | Claves |
-| Lucky Flower        | Dahlia    |
-| Lucky Job           | Postman       |
-| Lucky Exercise      | Powerlifting  |
-| Lucky Country       | Yemen    |
+| Lucky Food          | Duck Confit      |
+| Lucky Instrument    | Saxophone |
+| Lucky Flower        | Ragged Robin    |
+| Lucky Job           | Art Director       |
+| Lucky Exercise      | Mountain Climbers  |
+| Lucky Country       | France    |
 
 
 ##  Final Reflections on Dreams

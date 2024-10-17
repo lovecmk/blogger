@@ -1,8 +1,8 @@
 ---
     weight: 1544
     title: "Dream of fighting in a competition"  # Assuming 'title' column exists
-    date: 2024-10-13T22:17:00+08:00
-    lastmod: 2024-10-13T22:17:00+08:00
+    date: 2024-10-15T15:35:00+08:00
+    lastmod: 2024-10-15T15:35:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['competition', 'fighting', 'Dream', 'a', 'in', 'of']
+    tags: ['Dream', 'competition', 'fighting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Camel |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Tacos      |
-| Lucky Instrument    | Cowbell |
-| Lucky Flower        | Hollyhock    |
-| Lucky Job           | Graphic Designer       |
-| Lucky Exercise      | Weightlifting  |
-| Lucky Country       | Spain    |
+| Lucky Food          | Fruit Tart      |
+| Lucky Instrument    | Clavichord |
+| Lucky Flower        | Pelargonium    |
+| Lucky Job           | Translator       |
+| Lucky Exercise      | Cross-Country Skiing  |
+| Lucky Country       | Georgia    |
 
 
 ##  Final Reflections on Dreams

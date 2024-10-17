@@ -1,8 +1,8 @@
 ---
     weight: 1930
     title: "Dream of your grandmother and you enjoying a fun and carefree day together."  # Assuming 'title' column exists
-    date: 2024-10-13T12:07:00+08:00
-    lastmod: 2024-10-13T12:07:00+08:00
+    date: 2024-10-14T10:38:00+08:00
+    lastmod: 2024-10-14T10:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['day', 'grandmother', 'enjoying', 'together.', 'your', 'Dream', 'a', 'and', 'carefree', 'of', 'you', 'fun']
+    tags: ['Dream', 'carefree', 'fun', 'grandmother', 'enjoying', 'day', 'you', 'together']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings the potential for good luck and financial stability. It sugges
 | Lucky Animal        | Spider |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Coconut Shrimp      |
-| Lucky Instrument    | Horn |
-| Lucky Flower        | Scabiosa    |
-| Lucky Job           | Marketing Manager       |
-| Lucky Exercise      | Pilates  |
-| Lucky Country       | Netherlands    |
+| Lucky Food          | Fajitas      |
+| Lucky Instrument    | Piccolo |
+| Lucky Flower        | Chrysanthemum    |
+| Lucky Job           | Fitness Instructor       |
+| Lucky Exercise      | Resistance Bands  |
+| Lucky Country       | Lithuania    |
 
 
 ##  Final Reflections on Dreams

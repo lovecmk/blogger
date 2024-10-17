@@ -1,8 +1,8 @@
 ---
     weight: 1305
     title: "Dream of your dog starting a charity"  # Assuming 'title' column exists
-    date: 2024-10-13T05:59:00+08:00
-    lastmod: 2024-10-13T05:59:00+08:00
+    date: 2024-10-15T19:38:00+08:00
+    lastmod: 2024-10-15T19:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'Dream', 'starting', 'a', 'of', 'charity', 'dog']
+    tags: ['Dream', 'starting', 'charity', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,11 +59,11 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Bear |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Casserole      |
-| Lucky Instrument    | Shakuhachi |
-| Lucky Flower        | Aster    |
-| Lucky Job           | Dentist       |
-| Lucky Exercise      | High-Intensity Interval Training (HIIT)  |
+| Lucky Food          | Pudding      |
+| Lucky Instrument    | Hang Drum |
+| Lucky Flower        | Lantana    |
+| Lucky Job           | Journalist       |
+| Lucky Exercise      | Paddleboarding  |
 | Lucky Country       | Bulgaria    |
 
 

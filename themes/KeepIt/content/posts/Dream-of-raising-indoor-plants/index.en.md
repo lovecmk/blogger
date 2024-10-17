@@ -1,8 +1,8 @@
 ---
     weight: 536
     title: "Dream of raising indoor plants"  # Assuming 'title' column exists
-    date: 2024-10-13T02:58:00+08:00
-    lastmod: 2024-10-13T02:58:00+08:00
+    date: 2024-10-11T13:18:00+08:00
+    lastmod: 2024-10-11T13:18:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['plants', 'raising', 'indoor', 'Dream', 'of']
+    tags: ['Dream', 'plants', 'raising', 'indoor']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream suggests lucky to bring you stability and prosperity.Raising indoor p
 | Lucky Animal        | Panda |
 | Lucky Place         | Library     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Caprese Skewers      |
-| Lucky Instrument    | Lyre |
-| Lucky Flower        | Daisy    |
-| Lucky Job           | UX Designer       |
-| Lucky Exercise      | Kettlebell Training  |
-| Lucky Country       | Lesotho    |
+| Lucky Food          | Prawn Crackers      |
+| Lucky Instrument    | Erhu |
+| Lucky Flower        | Hibiscus    |
+| Lucky Job           | Psychologist       |
+| Lucky Exercise      | Handball  |
+| Lucky Country       | United Arab Emirates    |
 
 
 ##  Final Reflections on Dreams

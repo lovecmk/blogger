@@ -1,8 +1,8 @@
 ---
     weight: 801
     title: "Dream of a passenger car accident"  # Assuming 'title' column exists
-    date: 2024-10-13T23:03:00+08:00
-    lastmod: 2024-10-13T23:03:00+08:00
+    date: 2024-10-13T01:58:00+08:00
+    lastmod: 2024-10-13T01:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['passenger', 'Dream', 'a', 'accident', 'car', 'of']
+    tags: ['Dream', 'passenger', 'car', 'accident']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream usually does not foretell positive luck.Passenger car accidents often
 | Lucky Animal        | Horse |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Pasta Salad      |
+| Lucky Food          | Scallops      |
 | Lucky Instrument    | Piccolo |
-| Lucky Flower        | Pincushion Flower    |
-| Lucky Job           | Social Worker       |
-| Lucky Exercise      | Aerobics  |
-| Lucky Country       | Sri Lanka    |
+| Lucky Flower        | Magnolia    |
+| Lucky Job           | Journalist       |
+| Lucky Exercise      | Fencing  |
+| Lucky Country       | Iran    |
 
 
 ##  Final Reflections on Dreams

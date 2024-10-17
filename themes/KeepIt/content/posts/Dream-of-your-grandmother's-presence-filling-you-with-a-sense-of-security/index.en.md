@@ -1,8 +1,8 @@
 ---
     weight: 1990
     title: "Dream of your cat exploring a cardboard castle"  # Assuming 'title' column exists
-    date: 2024-10-13T09:21:00+08:00
-    lastmod: 2024-10-13T09:21:00+08:00
+    date: 2024-10-11T02:00:00+08:00
+    lastmod: 2024-10-11T02:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['castle', 'your', 'cat', 'Dream', 'cardboard', 'a', 'of', 'exploring']
+    tags: ['Dream', 'exploring', 'cardboard', 'cat', 'castle']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream could potentially bring luck in the form of increased abundance, pros
 | Lucky Animal        | Camel |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Fruit Salad      |
-| Lucky Instrument    | Horn |
-| Lucky Flower        | Rudbeckia    |
-| Lucky Job           | Fitness Instructor       |
-| Lucky Exercise      | Aqua Aerobics  |
-| Lucky Country       | Angola    |
+| Lucky Food          | Beef Stroganoff      |
+| Lucky Instrument    | Accordion |
+| Lucky Flower        | Sunflower    |
+| Lucky Job           | Statistician       |
+| Lucky Exercise      | Basketball  |
+| Lucky Country       | Russia    |
 
 
 ##  Final Reflections on Dreams

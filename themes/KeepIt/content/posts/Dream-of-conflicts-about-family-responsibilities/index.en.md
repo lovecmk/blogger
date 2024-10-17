@@ -1,8 +1,8 @@
 ---
     weight: 1612
     title: "Dream of donating money to a charitable cause or helping others financially."  # Assuming 'title' column exists
-    date: 2024-10-13T22:11:00+08:00
-    lastmod: 2024-10-13T22:11:00+08:00
+    date: 2024-10-15T17:59:00+08:00
+    lastmod: 2024-10-15T17:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['cause', 'or', 'financially.', 'to', 'money', 'Dream', 'helping', 'donating', 'a', 'others', 'of', 'charitable']
+    tags: ['cause', 'others', 'helping', 'Dream', 'money', 'to', 'charitable', 'financially', 'donating']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Sloth |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Pesto      |
-| Lucky Instrument    | Tabla |
-| Lucky Flower        | Stephanotis    |
-| Lucky Job           | Sales Representative       |
-| Lucky Exercise      | Horseback Riding  |
-| Lucky Country       | Afghanistan    |
+| Lucky Food          | Chili      |
+| Lucky Instrument    | Drums |
+| Lucky Flower        | Lobelia    |
+| Lucky Job           | Engineer       |
+| Lucky Exercise      | Kite Surfing  |
+| Lucky Country       | Tuvalu    |
 
 
 ##  Final Reflections on Dreams

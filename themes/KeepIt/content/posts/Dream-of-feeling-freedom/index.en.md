@@ -1,8 +1,8 @@
 ---
     weight: 1003
     title: "Dream of feeling freedom"  # Assuming 'title' column exists
-    date: 2024-10-13T11:04:00+08:00
-    lastmod: 2024-10-13T11:04:00+08:00
+    date: 2024-10-12T08:24:00+08:00
+    lastmod: 2024-10-12T08:24:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'feeling', 'freedom', 'Dream']
+    tags: ['freedom', 'Dream', 'feeling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you good luck.Freedom is often linked to luck, and this dre
 | Lucky Animal        | Tiger |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Minestrone      |
-| Lucky Instrument    | Timpani |
-| Lucky Flower        | Sundew    |
-| Lucky Job           | Welder       |
-| Lucky Exercise      | Parkour  |
-| Lucky Country       | Romania    |
+| Lucky Food          | Caprese Skewers      |
+| Lucky Instrument    | Basset Horn |
+| Lucky Flower        | Butterfly Bush    |
+| Lucky Job           | Human Resources Manager       |
+| Lucky Exercise      | Beach Volleyball  |
+| Lucky Country       | Sri Lanka    |
 
 
 ##  Final Reflections on Dreams

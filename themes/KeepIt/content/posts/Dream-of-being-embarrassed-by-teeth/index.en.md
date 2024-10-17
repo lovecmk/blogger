@@ -1,8 +1,8 @@
 ---
     weight: 892
     title: "Dream of being embarrassed by teeth"  # Assuming 'title' column exists
-    date: 2024-10-13T12:28:00+08:00
-    lastmod: 2024-10-13T12:28:00+08:00
+    date: 2024-10-11T16:11:00+08:00
+    lastmod: 2024-10-11T16:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['teeth', 'Dream', 'being', 'by', 'of', 'embarrassed']
+    tags: ['being', 'Dream', 'teeth', 'embarrassed']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is a positive change and self -growth about your appearan
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Red     |
-| Lucky Food          | Falafel      |
-| Lucky Instrument    | Ocarina |
-| Lucky Flower        | Moss Rose    |
-| Lucky Job           | Operations Manager       |
-| Lucky Exercise      | Squash  |
-| Lucky Country       | Finland    |
+| Lucky Food          | Beef Wellington      |
+| Lucky Instrument    | Cymbals |
+| Lucky Flower        | Edelweiss    |
+| Lucky Job           | Plumber       |
+| Lucky Exercise      | Tai Chi  |
+| Lucky Country       | South Korea    |
 
 
 ##  Final Reflections on Dreams

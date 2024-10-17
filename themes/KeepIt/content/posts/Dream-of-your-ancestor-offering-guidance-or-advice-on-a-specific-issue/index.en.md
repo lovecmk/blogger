@@ -1,8 +1,8 @@
 ---
     weight: 1559
     title: "Dream of your ancestor offering guidance or advice on a specific issue."  # Assuming 'title' column exists
-    date: 2024-10-13T11:55:00+08:00
-    lastmod: 2024-10-13T11:55:00+08:00
+    date: 2024-10-13T16:11:00+08:00
+    lastmod: 2024-10-13T16:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['advice', 'or', 'your', 'issue.', 'Dream', 'a', 'ancestor', 'on', 'specific', 'of', 'offering', 'guidance']
+    tags: ['issue', 'guidance', 'Dream', 'specific', 'offering', 'ancestor', 'advice']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Sloth |
 | Lucky Place         | Theater     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Pancakes      |
-| Lucky Instrument    | Zouaves |
-| Lucky Flower        | Lilac    |
-| Lucky Job           | Makeup Artist       |
-| Lucky Exercise      | Obstacle Course Racing  |
-| Lucky Country       | Laos    |
+| Lucky Food          | Caramel Flan      |
+| Lucky Instrument    | Electric Violin |
+| Lucky Flower        | Petunia    |
+| Lucky Job           | Event Coordinator       |
+| Lucky Exercise      | Aqua Aerobics  |
+| Lucky Country       | Bahrain    |
 
 
 ##  Final Reflections on Dreams

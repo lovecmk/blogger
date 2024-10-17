@@ -1,8 +1,8 @@
 ---
     weight: 1033
     title: "Dream of dreaming of affectionate moments"  # Assuming 'title' column exists
-    date: 2024-10-13T19:25:00+08:00
-    lastmod: 2024-10-13T19:25:00+08:00
+    date: 2024-10-13T18:07:00+08:00
+    lastmod: 2024-10-13T18:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['moments', 'Dream', 'dreaming', 'affectionate', 'of']
+    tags: ['Dream', 'moments', 'affectionate', 'dreaming']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can give you a nostalgia of love and affectionate experie
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Dumplings      |
-| Lucky Instrument    | Claves |
-| Lucky Flower        | Carnation    |
-| Lucky Job           | Chemist       |
-| Lucky Exercise      | Tennis  |
-| Lucky Country       | Georgia    |
+| Lucky Food          | Sushi      |
+| Lucky Instrument    | Erhu |
+| Lucky Flower        | Lavender    |
+| Lucky Job           | Construction Worker       |
+| Lucky Exercise      | Squats  |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

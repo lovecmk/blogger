@@ -1,8 +1,8 @@
 ---
     weight: 1923
     title: "Dream of being in a state of unbearable sadness"  # Assuming 'title' column exists
-    date: 2024-10-13T18:31:00+08:00
-    lastmod: 2024-10-13T18:31:00+08:00
+    date: 2024-10-11T22:00:00+08:00
+    lastmod: 2024-10-11T22:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['state', 'Dream', 'being', 'a', 'sadness', 'unbearable', 'in', 'of']
+    tags: ['being', 'unbearable', 'Dream', 'state', 'sadness']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Duck |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Stuffed Mushrooms      |
-| Lucky Instrument    | Timpani |
-| Lucky Flower        | Lotus    |
-| Lucky Job           | Network Administrator       |
-| Lucky Exercise      | Snowboarding  |
-| Lucky Country       | Nauru    |
+| Lucky Food          | Cheeseboard      |
+| Lucky Instrument    | Tama |
+| Lucky Flower        | Lilac    |
+| Lucky Job           | Social Worker       |
+| Lucky Exercise      | Stand-Up Paddleboarding  |
+| Lucky Country       | Canada    |
 
 
 ##  Final Reflections on Dreams

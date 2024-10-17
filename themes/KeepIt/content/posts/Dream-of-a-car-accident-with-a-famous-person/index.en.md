@@ -1,8 +1,8 @@
 ---
     weight: 1433
     title: "Dream of a car accident with a famous person"  # Assuming 'title' column exists
-    date: 2024-10-13T05:45:00+08:00
-    lastmod: 2024-10-13T05:45:00+08:00
+    date: 2024-10-14T08:35:00+08:00
+    lastmod: 2024-10-14T08:35:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'a', 'famous', 'accident', 'car', 'person', 'of', 'with']
+    tags: ['person', 'Dream', 'famous', 'car', 'accident']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Scallops      |
-| Lucky Instrument    | Electric Cello |
-| Lucky Flower        | Aster    |
-| Lucky Job           | Landscaper       |
-| Lucky Exercise      | Sprinting  |
-| Lucky Country       | Bhutan    |
+| Lucky Food          | Chicken Parmesan      |
+| Lucky Instrument    | Accordion Synth |
+| Lucky Flower        | Hoya    |
+| Lucky Job           | Research Scientist       |
+| Lucky Exercise      | Foam Rolling  |
+| Lucky Country       | Cambodia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 111
     title: "The dream of cherishing the moment with her husband"  # Assuming 'title' column exists
-    date: 2024-10-13T10:45:00+08:00
-    lastmod: 2024-10-13T10:45:00+08:00
+    date: 2024-10-13T20:37:00+08:00
+    lastmod: 2024-10-13T20:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['her', 'the', 'moment', 'husband', 'dream', 'The', 'cherishing', 'of', 'with']
+    tags: ['The', 'cherishing', 'dream', 'moment', 'her', 'husband']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you good luck.This can cherish the time with her husband an
 | Lucky Animal        | Gorilla |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Sushi Roll      |
-| Lucky Instrument    | Darbuka |
-| Lucky Flower        | Nymphaea    |
-| Lucky Job           | Interpreter       |
-| Lucky Exercise      | Boxing  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Fruit Tart      |
+| Lucky Instrument    | Bandoneon |
+| Lucky Flower        | Lobelia    |
+| Lucky Job           | Makeup Artist       |
+| Lucky Exercise      | Slacklining  |
+| Lucky Country       | Turkmenistan    |
 
 
 ##  Final Reflections on Dreams

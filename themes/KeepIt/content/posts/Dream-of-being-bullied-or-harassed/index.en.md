@@ -1,8 +1,8 @@
 ---
     weight: 1684
     title: "Dream of dying and feeling regretful"  # Assuming 'title' column exists
-    date: 2024-10-13T01:02:00+08:00
-    lastmod: 2024-10-13T01:02:00+08:00
+    date: 2024-10-13T16:49:00+08:00
+    lastmod: 2024-10-13T16:49:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dying', 'feeling', 'regretful', 'Dream', 'and', 'of']
+    tags: ['Dream', 'regretful', 'feeling', 'dying']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Fox |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Green     |
-| Lucky Food          | Cheeseboard      |
-| Lucky Instrument    | Soprano Recorder |
-| Lucky Flower        | Pincushion Flower    |
-| Lucky Job           | Engineer       |
-| Lucky Exercise      | Kettlebell Training  |
-| Lucky Country       | Maldives    |
+| Lucky Food          | Scone      |
+| Lucky Instrument    | Oboe |
+| Lucky Flower        | Poppy    |
+| Lucky Job           | Environmental Scientist       |
+| Lucky Exercise      | Squats  |
+| Lucky Country       | Slovakia    |
 
 
 ##  Final Reflections on Dreams

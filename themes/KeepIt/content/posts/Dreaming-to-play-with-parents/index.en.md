@@ -1,8 +1,8 @@
 ---
     weight: 186
     title: "Dreaming to play with parents"  # Assuming 'title' column exists
-    date: 2024-10-13T14:03:00+08:00
-    lastmod: 2024-10-13T14:03:00+08:00
+    date: 2024-10-12T19:47:00+08:00
+    lastmod: 2024-10-12T19:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dreaming', 'play', 'parents', 'to', 'with']
+    tags: ['to', 'Dreaming', 'parents', 'play']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream is closely related to everyday activities with your family, so you ca
 | Lucky Animal        | Camel |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Ratatouille      |
-| Lucky Instrument    | Flute |
-| Lucky Flower        | Tulip    |
-| Lucky Job           | Security Guard       |
-| Lucky Exercise      | Kripalu Yoga  |
-| Lucky Country       | Tanzania    |
+| Lucky Food          | Burrito      |
+| Lucky Instrument    | Zither |
+| Lucky Flower        | Alyssum    |
+| Lucky Job           | Sales Representative       |
+| Lucky Exercise      | Rugby  |
+| Lucky Country       | Fiji    |
 
 
 ##  Final Reflections on Dreams

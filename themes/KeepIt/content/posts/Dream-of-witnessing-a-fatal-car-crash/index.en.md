@@ -1,8 +1,8 @@
 ---
     weight: 1384
     title: "Dream of witnessing a fatal car crash"  # Assuming 'title' column exists
-    date: 2024-10-13T21:45:00+08:00
-    lastmod: 2024-10-13T21:45:00+08:00
+    date: 2024-10-14T16:01:00+08:00
+    lastmod: 2024-10-14T16:01:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['witnessing', 'crash', 'Dream', 'a', 'car', 'of', 'fatal']
+    tags: ['Dream', 'crash', 'fatal', 'witnessing', 'car']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ While this dream may not necessarily bring luck in the traditional sense, it can
 | Lucky Animal        | Camel |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Brownies      |
-| Lucky Instrument    | Tabor |
-| Lucky Flower        | Verbena    |
-| Lucky Job           | Real Estate Agent       |
-| Lucky Exercise      | Yoga  |
-| Lucky Country       | Philippines    |
+| Lucky Food          | Caramel Flan      |
+| Lucky Instrument    | Violin Bow |
+| Lucky Flower        | Tiger Lily    |
+| Lucky Job           | Event Planner       |
+| Lucky Exercise      | Baseball  |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1141
     title: "Dream about Flight"  # Assuming 'title' column exists
-    date: 2024-10-13T17:52:00+08:00
-    lastmod: 2024-10-13T17:52:00+08:00
+    date: 2024-10-13T22:00:00+08:00
+    lastmod: 2024-10-13T22:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['about', 'Dream', 'Flight']
+    tags: ['Flight', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual's interpretation exp
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Library     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Guacamole      |
-| Lucky Instrument    | Marimba |
-| Lucky Flower        | Balsam    |
-| Lucky Job           | Astrophysicist       |
-| Lucky Exercise      | Plank  |
-| Lucky Country       | Hungary    |
+| Lucky Food          | Ratatouille      |
+| Lucky Instrument    | Slide Guitar |
+| Lucky Flower        | Hellebore    |
+| Lucky Job           | Farmer       |
+| Lucky Exercise      | Powerlifting  |
+| Lucky Country       | Afghanistan    |
 
 
 ##  Final Reflections on Dreams

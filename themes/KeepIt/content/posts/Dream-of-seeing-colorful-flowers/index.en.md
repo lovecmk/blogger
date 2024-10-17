@@ -1,8 +1,8 @@
 ---
     weight: 585
     title: "Dream of seeing colorful flowers"  # Assuming 'title' column exists
-    date: 2024-10-13T10:29:00+08:00
-    lastmod: 2024-10-13T10:29:00+08:00
+    date: 2024-10-14T16:58:00+08:00
+    lastmod: 2024-10-14T16:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['flowers', 'seeing', 'colorful', 'Dream', 'of']
+    tags: ['Dream', 'colorful', 'flowers', 'seeing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can show good luck and positive change.The dream of seeing colorful f
 | Lucky Animal        | Hyena |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Biryani      |
-| Lucky Instrument    | Tenor Guitar |
-| Lucky Flower        | Perennial Aster    |
-| Lucky Job           | Engineer       |
-| Lucky Exercise      | Handball  |
-| Lucky Country       | Mexico    |
+| Lucky Food          | Sushi Roll      |
+| Lucky Instrument    | Bass Drum |
+| Lucky Flower        | Iris    |
+| Lucky Job           | Art Director       |
+| Lucky Exercise      | Tai Chi  |
+| Lucky Country       | Hungary    |
 
 
 ##  Final Reflections on Dreams

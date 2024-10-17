@@ -1,8 +1,8 @@
 ---
     weight: 2034
     title: "Dream of receiving a loan or financial assistance when needed."  # Assuming 'title' column exists
-    date: 2024-10-13T03:35:00+08:00
-    lastmod: 2024-10-13T03:35:00+08:00
+    date: 2024-10-12T02:52:00+08:00
+    lastmod: 2024-10-12T02:52:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['assistance', 'receiving', 'or', 'needed.', 'when', 'financial', 'Dream', 'a', 'loan', 'of']
+    tags: ['Dream', 'loan', 'assistance', 'receiving', 'needed', 'when', 'financial']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Snake |
 | Lucky Place         | Beach     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Deviled Eggs      |
-| Lucky Instrument    | Xylophone |
-| Lucky Flower        | Stephanotis    |
-| Lucky Job           | Graphic Designer       |
-| Lucky Exercise      | Squats  |
-| Lucky Country       | Armenia    |
+| Lucky Food          | Spring Roll      |
+| Lucky Instrument    | Tenor Saxophone |
+| Lucky Flower        | Verbena    |
+| Lucky Job           | Content Creator       |
+| Lucky Exercise      | Hammer Throw  |
+| Lucky Country       | Fiji    |
 
 
 ##  Final Reflections on Dreams

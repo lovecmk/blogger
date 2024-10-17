@@ -1,8 +1,8 @@
 ---
     weight: 1719
     title: "Dream of discussing financial matters with someone knowledgeable."  # Assuming 'title' column exists
-    date: 2024-10-13T11:14:00+08:00
-    lastmod: 2024-10-13T11:14:00+08:00
+    date: 2024-10-12T19:43:00+08:00
+    lastmod: 2024-10-12T19:43:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['financial', 'Dream', 'discussing', 'knowledgeable.', 'someone', 'matters', 'of', 'with']
+    tags: ['discussing', 'Dream', 'matters', 'someone', 'knowledgeable', 'financial']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Seal |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Baked Ziti      |
-| Lucky Instrument    | Guitarlele |
-| Lucky Flower        | Foxglove    |
-| Lucky Job           | Web Designer       |
-| Lucky Exercise      | Powerlifting  |
-| Lucky Country       | Lebanon    |
+| Lucky Food          | Bagel      |
+| Lucky Instrument    | Tuba |
+| Lucky Flower        | Fuchsia    |
+| Lucky Job           | SEO Specialist       |
+| Lucky Exercise      | Jumping Rope  |
+| Lucky Country       | Mozambique    |
 
 
 ##  Final Reflections on Dreams

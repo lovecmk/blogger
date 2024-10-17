@@ -1,8 +1,8 @@
 ---
     weight: 1763
     title: "Dream of your ancestor laughing or enjoying a joyful family occasion."  # Assuming 'title' column exists
-    date: 2024-10-13T01:02:00+08:00
-    lastmod: 2024-10-13T01:02:00+08:00
+    date: 2024-10-12T04:14:00+08:00
+    lastmod: 2024-10-12T04:14:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'enjoying', 'or', 'laughing', 'your', 'occasion.', 'joyful', 'Dream', 'a', 'ancestor', 'of']
+    tags: ['family', 'Dream', 'occasion', 'enjoying', 'joyful', 'ancestor', 'laughing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Beaver |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Zucchini Noodles      |
-| Lucky Instrument    | Lyre |
-| Lucky Flower        | Bougainvillea    |
-| Lucky Job           | Anthropologist       |
-| Lucky Exercise      | Mountain Climbers  |
-| Lucky Country       | Czech Republic    |
+| Lucky Food          | Clams      |
+| Lucky Instrument    | Calimba |
+| Lucky Flower        | Bee Balm    |
+| Lucky Job           | Insurance Underwriter       |
+| Lucky Exercise      | Hula Hooping  |
+| Lucky Country       | Nauru    |
 
 
 ##  Final Reflections on Dreams

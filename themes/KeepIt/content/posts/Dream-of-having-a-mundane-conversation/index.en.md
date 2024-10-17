@@ -1,8 +1,8 @@
 ---
     weight: 1518
     title: "Dream of having a mundane conversation"  # Assuming 'title' column exists
-    date: 2024-10-13T02:32:00+08:00
-    lastmod: 2024-10-13T02:32:00+08:00
+    date: 2024-10-14T00:22:00+08:00
+    lastmod: 2024-10-14T00:22:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'mundane', 'a', 'of', 'conversation', 'having']
+    tags: ['conversation', 'Dream', 'mundane', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Panda |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Bruschetta      |
-| Lucky Instrument    | Slide Guitar |
-| Lucky Flower        | Carnation    |
-| Lucky Job           | Mathematician       |
-| Lucky Exercise      | Sit-Ups  |
-| Lucky Country       | Mongolia    |
+| Lucky Food          | Baked Ziti      |
+| Lucky Instrument    | Cowbell |
+| Lucky Flower        | Nymphaea    |
+| Lucky Job           | Art Director       |
+| Lucky Exercise      | Stretching  |
+| Lucky Country       | Sweden    |
 
 
 ##  Final Reflections on Dreams

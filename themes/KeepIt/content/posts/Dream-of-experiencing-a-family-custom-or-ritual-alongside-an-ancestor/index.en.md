@@ -1,8 +1,8 @@
 ---
     weight: 2017
     title: "Dream of having a game night or playing board games with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T05:25:00+08:00
-    lastmod: 2024-10-13T05:25:00+08:00
+    date: 2024-10-13T19:20:00+08:00
+    lastmod: 2024-10-13T19:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'playing', 'your', 'game', 'night', 'Dream', 'boyfriend', 'a', 'board', 'games', 'of', 'with', 'having']
+    tags: ['Dream', 'boyfriend', 'games', 'game', 'night', 'playing', 'board', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Cat |
 | Lucky Place         | School     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Nachos      |
-| Lucky Instrument    | Keyboard Synthesizer |
-| Lucky Flower        | Lotus    |
-| Lucky Job           | Dentist       |
-| Lucky Exercise      | Jumping Rope  |
-| Lucky Country       | Tuvalu    |
+| Lucky Food          | Clams      |
+| Lucky Instrument    | Balalaika |
+| Lucky Flower        | Yarrow    |
+| Lucky Job           | Electrician       |
+| Lucky Exercise      | Gymnastics  |
+| Lucky Country       | Papua New Guinea    |
 
 
 ##  Final Reflections on Dreams

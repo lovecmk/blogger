@@ -1,8 +1,8 @@
 ---
     weight: 2189
     title: "Dream of your husband celebrating your love and partnership with you."  # Assuming 'title' column exists
-    date: 2024-10-13T11:16:00+08:00
-    lastmod: 2024-10-13T11:16:00+08:00
+    date: 2024-10-14T14:25:00+08:00
+    lastmod: 2024-10-14T14:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['you.', 'your', 'partnership', 'Dream', 'celebrating', 'husband', 'and', 'love', 'of', 'with']
+    tags: ['partnership', 'Dream', 'celebrating', 'love', 'husband', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams of attending a wake are not generally considered to bring specific luck. 
 | Lucky Animal        | Hyena |
 | Lucky Place         | Theater     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Waffles      |
-| Lucky Instrument    | Harmonica |
-| Lucky Flower        | Scabiosa    |
-| Lucky Job           | Chef       |
-| Lucky Exercise      | Step Aerobics  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Duck Confit      |
+| Lucky Instrument    | Harp |
+| Lucky Flower        | Poinsettia    |
+| Lucky Job           | Customer Service Representative       |
+| Lucky Exercise      | Kettlebell Training  |
+| Lucky Country       | Sri Lanka    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 2157
     title: "Dream of your cat enjoying a treat"  # Assuming 'title' column exists
-    date: 2024-10-13T12:08:00+08:00
-    lastmod: 2024-10-13T12:08:00+08:00
+    date: 2024-10-12T00:45:00+08:00
+    lastmod: 2024-10-12T00:45:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['enjoying', 'your', 'cat', 'Dream', 'a', 'treat', 'of']
+    tags: ['Dream', 'treat', 'enjoying', 'cat']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Sparrow |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | White     |
-| Lucky Food          | Curry      |
-| Lucky Instrument    | Hang Drum |
-| Lucky Flower        | Dahlia    |
-| Lucky Job           | Brand Manager       |
-| Lucky Exercise      | Paddleboarding  |
-| Lucky Country       | Tajikistan    |
+| Lucky Food          | Vegetarian Chili      |
+| Lucky Instrument    | Cajón |
+| Lucky Flower        | Periwinkle    |
+| Lucky Job           | Content Creator       |
+| Lucky Exercise      | Cycling  |
+| Lucky Country       | Russia    |
 
 
 ##  Final Reflections on Dreams

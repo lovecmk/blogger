@@ -1,8 +1,8 @@
 ---
     weight: 1103
     title: "Dream about crocodile"  # Assuming 'title' column exists
-    date: 2024-10-13T03:21:00+08:00
-    lastmod: 2024-10-13T03:21:00+08:00
+    date: 2024-10-14T07:21:00+08:00
+    lastmod: 2024-10-14T07:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['crocodile', 'about', 'Dream']
+    tags: ['Dream', 'crocodile']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of the dream of 'crocodile' can depend on the situation.For example, if
 | Lucky Animal        | Pig |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Fruit Tart      |
-| Lucky Instrument    | Piccolo Trumpet |
-| Lucky Flower        | Hoya    |
-| Lucky Job           | Musician       |
-| Lucky Exercise      | Resistance Bands  |
-| Lucky Country       | Nauru    |
+| Lucky Food          | Samosa      |
+| Lucky Instrument    | Snare Drum |
+| Lucky Flower        | Tulip    |
+| Lucky Job           | Accountant       |
+| Lucky Exercise      | Stair Climbing  |
+| Lucky Country       | Egypt    |
 
 
 ##  Final Reflections on Dreams

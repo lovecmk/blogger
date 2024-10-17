@@ -1,8 +1,8 @@
 ---
     weight: 180
     title: "Dream of talking with parents"  # Assuming 'title' column exists
-    date: 2024-10-13T12:16:00+08:00
-    lastmod: 2024-10-13T12:16:00+08:00
+    date: 2024-10-13T23:23:00+08:00
+    lastmod: 2024-10-13T23:23:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['parents', 'talking', 'Dream', 'of', 'with']
+    tags: ['Dream', 'talking', 'parents']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'dreaming with your parents' can depend on the personal experience a
 | Lucky Animal        | Sloth |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Pancakes      |
-| Lucky Instrument    | Guitarlele |
-| Lucky Flower        | Magnolia    |
-| Lucky Job           | Archaeologist       |
-| Lucky Exercise      | Yoga Flow  |
-| Lucky Country       | Nepal    |
+| Lucky Food          | Crab      |
+| Lucky Instrument    | Keyboard Synthesizer |
+| Lucky Flower        | Monkey Grass    |
+| Lucky Job           | Biologist       |
+| Lucky Exercise      | Ballet  |
+| Lucky Country       | Kyrgyzstan    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1085
     title: "Dream about deer"  # Assuming 'title' column exists
-    date: 2024-10-13T16:50:00+08:00
-    lastmod: 2024-10-13T16:50:00+08:00
+    date: 2024-10-12T22:03:00+08:00
+    lastmod: 2024-10-12T22:03:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['deer', 'about', 'Dream']
+    tags: ['Dream', 'deer']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Deer is known as an animal that symbolizes elegance and cleverness.Therefore, if
 | Lucky Animal        | Lion |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Red     |
-| Lucky Food          | Beef Tacos      |
-| Lucky Instrument    | Triangle |
-| Lucky Flower        | Tiger Lily    |
-| Lucky Job           | UX Designer       |
-| Lucky Exercise      | Cycling  |
-| Lucky Country       | India    |
+| Lucky Food          | Noodles      |
+| Lucky Instrument    | Mandolin |
+| Lucky Flower        | Rose    |
+| Lucky Job           | Fitness Instructor       |
+| Lucky Exercise      | Snowboarding  |
+| Lucky Country       | China    |
 
 
 ##  Final Reflections on Dreams

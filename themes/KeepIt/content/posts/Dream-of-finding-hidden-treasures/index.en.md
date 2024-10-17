@@ -1,8 +1,8 @@
 ---
     weight: 238
     title: "Dream of finding hidden treasures"  # Assuming 'title' column exists
-    date: 2024-10-13T04:42:00+08:00
-    lastmod: 2024-10-13T04:42:00+08:00
+    date: 2024-10-14T18:03:00+08:00
+    lastmod: 2024-10-14T18:03:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['treasures', 'Dream', 'of', 'finding', 'hidden']
+    tags: ['Dream', 'finding', 'treasures', 'hidden']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The dream of finding a hidden treasure can symbolize things related to luck.This
 | Lucky Animal        | Duck |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Caprese Skewers      |
-| Lucky Instrument    | Piano |
-| Lucky Flower        | Daffodil    |
-| Lucky Job           | Postman       |
-| Lucky Exercise      | Sledge Hockey  |
-| Lucky Country       | Brazil    |
+| Lucky Food          | Mango Sticky Rice      |
+| Lucky Instrument    | Cowbell |
+| Lucky Flower        | Chive Blossom    |
+| Lucky Job           | Database Administrator       |
+| Lucky Exercise      | Hula Hooping  |
+| Lucky Country       | Oman    |
 
 
 ##  Final Reflections on Dreams

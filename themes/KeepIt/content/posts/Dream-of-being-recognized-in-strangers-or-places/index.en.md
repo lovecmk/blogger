@@ -1,8 +1,8 @@
 ---
     weight: 382
     title: "Dream of being recognized in strangers or places"  # Assuming 'title' column exists
-    date: 2024-10-13T05:14:00+08:00
-    lastmod: 2024-10-13T05:14:00+08:00
+    date: 2024-10-12T19:20:00+08:00
+    lastmod: 2024-10-12T19:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['strangers', 'or', 'Dream', 'being', 'places', 'in', 'recognized', 'of']
+    tags: ['being', 'Dream', 'places', 'strangers', 'recognized']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be a form that provides encounter with new people, gr
 | Lucky Animal        | Hyena |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Tart      |
-| Lucky Instrument    | Sitar |
-| Lucky Flower        | Marigold    |
-| Lucky Job           | Archaeologist       |
-| Lucky Exercise      | Kayaking  |
-| Lucky Country       | Samoa    |
+| Lucky Food          | Shrimp      |
+| Lucky Instrument    | Horn |
+| Lucky Flower        | Bouvardia    |
+| Lucky Job           | Anthropologist       |
+| Lucky Exercise      | Kickboxing  |
+| Lucky Country       | Nepal    |
 
 
 ##  Final Reflections on Dreams

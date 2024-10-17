@@ -1,8 +1,8 @@
 ---
     weight: 611
     title: "Dream of falling asleep in the shining sky"  # Assuming 'title' column exists
-    date: 2024-10-13T18:09:00+08:00
-    lastmod: 2024-10-13T18:09:00+08:00
+    date: 2024-10-11T18:15:00+08:00
+    lastmod: 2024-10-11T18:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['sky', 'the', 'falling', 'Dream', 'in', 'shining', 'of', 'asleep']
+    tags: ['asleep', 'shining', 'Dream', 'falling', 'sky']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream may be a sign that luck can come to you.Stars are often considered a 
 | Lucky Animal        | Snake |
 | Lucky Place         | Beach     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Samosa      |
+| Lucky Food          | Crab      |
 | Lucky Instrument    | Electric Guitar |
-| Lucky Flower        | Bellflower    |
+| Lucky Flower        | Lily    |
 | Lucky Job           | Operations Manager       |
-| Lucky Exercise      | Dance Aerobics  |
-| Lucky Country       | Portugal    |
+| Lucky Exercise      | Hammer Throw  |
+| Lucky Country       | Palau    |
 
 
 ##  Final Reflections on Dreams

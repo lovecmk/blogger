@@ -1,8 +1,8 @@
 ---
     weight: 1195
     title: "Dream about farmer"  # Assuming 'title' column exists
-    date: 2024-10-13T06:57:00+08:00
-    lastmod: 2024-10-13T06:57:00+08:00
+    date: 2024-10-13T19:17:00+08:00
+    lastmod: 2024-10-13T19:17:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['farmer', 'about', 'Dream']
+    tags: ['farmer', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream shows the rewards and achievements of effort.Farmers are 
 | Lucky Animal        | Tiger |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Lasagna      |
-| Lucky Instrument    | Rudra Veena |
-| Lucky Flower        | Begonia    |
-| Lucky Job           | Real Estate Agent       |
-| Lucky Exercise      | Resistance Bands  |
-| Lucky Country       | Iceland    |
+| Lucky Food          | Mango Sticky Rice      |
+| Lucky Instrument    | Trombone |
+| Lucky Flower        | Celosia    |
+| Lucky Job           | Art Director       |
+| Lucky Exercise      | Aerobics  |
+| Lucky Country       | United Kingdom    |
 
 
 ##  Final Reflections on Dreams

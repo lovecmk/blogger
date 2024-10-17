@@ -1,8 +1,8 @@
 ---
     weight: 2072
     title: "Dream of your cat playing with a ball"  # Assuming 'title' column exists
-    date: 2024-10-13T18:52:00+08:00
-    lastmod: 2024-10-13T18:52:00+08:00
+    date: 2024-10-11T05:33:00+08:00
+    lastmod: 2024-10-11T05:33:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['playing', 'your', 'cat', 'ball', 'Dream', 'a', 'of', 'with']
+    tags: ['Dream', 'playing', 'cat', 'ball']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Lizard |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Tart      |
-| Lucky Instrument    | Chimes |
-| Lucky Flower        | Lavender    |
-| Lucky Job           | Physical Therapist       |
-| Lucky Exercise      | Body Pump  |
-| Lucky Country       | Kenya    |
+| Lucky Food          | Chicken Parmesan      |
+| Lucky Instrument    | Electric Guitar |
+| Lucky Flower        | Geranium    |
+| Lucky Job           | Hair Stylist       |
+| Lucky Exercise      | Weightlifting  |
+| Lucky Country       | Marshall Islands    |
 
 
 ##  Final Reflections on Dreams

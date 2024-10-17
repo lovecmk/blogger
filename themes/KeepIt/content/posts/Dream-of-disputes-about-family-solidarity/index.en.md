@@ -1,8 +1,8 @@
 ---
     weight: 2130
     title: "Dream of receiving money as a reward for dedication or loyalty."  # Assuming 'title' column exists
-    date: 2024-10-13T14:29:00+08:00
-    lastmod: 2024-10-13T14:29:00+08:00
+    date: 2024-10-13T16:12:00+08:00
+    lastmod: 2024-10-13T16:12:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['receiving', 'or', 'dedication', 'reward', 'money', 'Dream', 'for', 'loyalty.', 'a', 'as', 'of']
+    tags: ['Dream', 'loyalty', 'money', 'reward', 'as', 'receiving', 'dedication']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Chicken Parmesan      |
-| Lucky Instrument    | Keyboard |
-| Lucky Flower        | Hellebore    |
-| Lucky Job           | Project Manager       |
-| Lucky Exercise      | Water Polo  |
-| Lucky Country       | Estonia    |
+| Lucky Food          | Shrimp      |
+| Lucky Instrument    | Tama |
+| Lucky Flower        | Sweet William    |
+| Lucky Job           | Customer Service Representative       |
+| Lucky Exercise      | Bench Press  |
+| Lucky Country       | Austria    |
 
 
 ##  Final Reflections on Dreams

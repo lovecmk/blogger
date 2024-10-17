@@ -1,8 +1,8 @@
 ---
     weight: 706
     title: "Dream of eating at a new restaurant with friends"  # Assuming 'title' column exists
-    date: 2024-10-13T01:36:00+08:00
-    lastmod: 2024-10-13T01:36:00+08:00
+    date: 2024-10-14T00:05:00+08:00
+    lastmod: 2024-10-14T00:05:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['eating', 'new', 'Dream', 'restaurant', 'a', 'of', 'with', 'friends', 'at']
+    tags: ['Dream', 'eating', 'new', 'restaurant', 'friends']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can indicate that you can find good luck through new social connectio
 | Lucky Animal        | Panda |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Pico de Gallo      |
-| Lucky Instrument    | Ney |
-| Lucky Flower        | Perennial Aster    |
-| Lucky Job           | Accountant       |
-| Lucky Exercise      | Box Jumps  |
-| Lucky Country       | United Arab Emirates    |
+| Lucky Food          | Pesto      |
+| Lucky Instrument    | Wooden Flute |
+| Lucky Flower        | Iris    |
+| Lucky Job           | Sales Representative       |
+| Lucky Exercise      | Dancing  |
+| Lucky Country       | India    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 554
     title: "Sunshine dreams shining between green leaves"  # Assuming 'title' column exists
-    date: 2024-10-13T07:48:00+08:00
-    lastmod: 2024-10-13T07:48:00+08:00
+    date: 2024-10-12T14:55:00+08:00
+    lastmod: 2024-10-12T14:55:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['between', 'Sunshine', 'dreams', 'green', 'shining', 'leaves']
+    tags: ['shining', 'dreams', 'leaves', 'green', 'Sunshine']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,11 +59,11 @@ This dream can show good luck and positive energy.Blue leaves symbolize growth a
 | Lucky Animal        | Sparrow |
 | Lucky Place         | Lake     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Tart      |
-| Lucky Instrument    | Flute |
-| Lucky Flower        | Snapdragon    |
-| Lucky Job           | IT Specialist       |
-| Lucky Exercise      | Walking  |
+| Lucky Food          | Lasagna      |
+| Lucky Instrument    | Saz |
+| Lucky Flower        | Pincushion Flower    |
+| Lucky Job           | Farmer       |
+| Lucky Exercise      | Kickboxing  |
 | Lucky Country       | Bhutan    |
 
 

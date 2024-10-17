@@ -1,8 +1,8 @@
 ---
     weight: 101
     title: "Dream of feeling the daily life with her husband"  # Assuming 'title' column exists
-    date: 2024-10-13T22:45:00+08:00
-    lastmod: 2024-10-13T22:45:00+08:00
+    date: 2024-10-15T10:16:00+08:00
+    lastmod: 2024-10-15T10:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['feeling', 'her', 'the', 'daily', 'life', 'Dream', 'husband', 'of', 'with']
+    tags: ['life', 'Dream', 'daily', 'her', 'feeling', 'husband']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be in what you feel with your husband and share your 
 | Lucky Animal        | Chameleon |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Pesto      |
-| Lucky Instrument    | Bassoon |
-| Lucky Flower        | Stephanotis    |
-| Lucky Job           | Insurance Underwriter       |
-| Lucky Exercise      | Mobility Training  |
-| Lucky Country       | Kazakhstan    |
+| Lucky Food          | Scone      |
+| Lucky Instrument    | Violin |
+| Lucky Flower        | Mums    |
+| Lucky Job           | Event Coordinator       |
+| Lucky Exercise      | Horseback Riding  |
+| Lucky Country       | Mozambique    |
 
 
 ##  Final Reflections on Dreams

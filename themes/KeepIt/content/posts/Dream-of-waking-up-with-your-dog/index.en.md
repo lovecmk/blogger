@@ -1,8 +1,8 @@
 ---
     weight: 1330
     title: "Dream of waking up with your dog"  # Assuming 'title' column exists
-    date: 2024-10-13T17:42:00+08:00
-    lastmod: 2024-10-13T17:42:00+08:00
+    date: 2024-10-15T22:56:00+08:00
+    lastmod: 2024-10-15T22:56:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['waking', 'your', 'up', 'Dream', 'of', 'with', 'dog']
+    tags: ['Dream', 'waking', 'up', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Sloth |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Ceviche      |
-| Lucky Instrument    | Sarangi |
-| Lucky Flower        | Lobelia    |
-| Lucky Job           | Pastry Chef       |
-| Lucky Exercise      | Pilates  |
-| Lucky Country       | Qatar    |
+| Lucky Food          | Burrito      |
+| Lucky Instrument    | Tenor Guitar |
+| Lucky Flower        | Hibiscus    |
+| Lucky Job           | Pilot       |
+| Lucky Exercise      | Kripalu Yoga  |
+| Lucky Country       | Azerbaijan    |
 
 
 ##  Final Reflections on Dreams

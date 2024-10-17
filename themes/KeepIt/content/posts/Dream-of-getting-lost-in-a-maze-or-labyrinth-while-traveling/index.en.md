@@ -1,8 +1,8 @@
 ---
     weight: 1524
     title: "Dream of getting lost in a maze or labyrinth while traveling"  # Assuming 'title' column exists
-    date: 2024-10-13T03:24:00+08:00
-    lastmod: 2024-10-13T03:24:00+08:00
+    date: 2024-10-15T16:21:00+08:00
+    lastmod: 2024-10-15T16:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lost', 'or', 'traveling', 'Dream', 'maze', 'labyrinth', 'a', 'in', 'of', 'getting', 'while']
+    tags: ['lost', 'while', 'Dream', 'labyrinth', 'traveling', 'maze', 'getting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hippo |
 | Lucky Place         | Museum     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Baba Ganoush      |
-| Lucky Instrument    | Accordion |
-| Lucky Flower        | Nasturtium    |
-| Lucky Job           | Stockbroker       |
-| Lucky Exercise      | Step Aerobics  |
-| Lucky Country       | Bahrain    |
+| Lucky Food          | Caprese Skewers      |
+| Lucky Instrument    | Steel Pan |
+| Lucky Flower        | Poinsettia    |
+| Lucky Job           | Data Analyst       |
+| Lucky Exercise      | Hot Yoga  |
+| Lucky Country       | Austria    |
 
 
 ##  Final Reflections on Dreams

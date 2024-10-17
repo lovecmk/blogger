@@ -1,8 +1,8 @@
 ---
     weight: 1533
     title: "Dream of a strawberry milkshake"  # Assuming 'title' column exists
-    date: 2024-10-13T01:40:00+08:00
-    lastmod: 2024-10-13T01:40:00+08:00
+    date: 2024-10-13T06:31:00+08:00
+    lastmod: 2024-10-13T06:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['milkshake', 'Dream', 'strawberry', 'a', 'of']
+    tags: ['Dream', 'strawberry', 'milkshake']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Elephant |
 | Lucky Place         | Museum     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Vegetable Stir Fry      |
-| Lucky Instrument    | Guitarlele |
-| Lucky Flower        | Tansy    |
-| Lucky Job           | Web Designer       |
-| Lucky Exercise      | Powerlifting  |
-| Lucky Country       | Lesotho    |
+| Lucky Food          | Curry      |
+| Lucky Instrument    | Mandolin |
+| Lucky Flower        | Peony    |
+| Lucky Job           | Logistician       |
+| Lucky Exercise      | Boxing  |
+| Lucky Country       | Malta    |
 
 
 ##  Final Reflections on Dreams

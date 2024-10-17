@@ -1,8 +1,8 @@
 ---
     weight: 49
     title: "Dream of planning a new start while eating orange"  # Assuming 'title' column exists
-    date: 2024-10-13T17:53:00+08:00
-    lastmod: 2024-10-13T17:53:00+08:00
+    date: 2024-10-14T17:08:00+08:00
+    lastmod: 2024-10-14T17:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['new', 'eating', 'start', 'Dream', 'orange', 'a', 'planning', 'of', 'while']
+    tags: ['while', 'Dream', 'orange', 'eating', 'start', 'new', 'planning']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The meaning of 'dream of planning a new start while eating orange' can be differ
 | Lucky Animal        | Goose |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Zucchini Noodles      |
-| Lucky Instrument    | Steel Pan |
-| Lucky Flower        | Daffodil    |
-| Lucky Job           | Pharmacist       |
-| Lucky Exercise      | Basketball  |
-| Lucky Country       | Switzerland    |
+| Lucky Food          | Ice Cream      |
+| Lucky Instrument    | Keyboard Synthesizer |
+| Lucky Flower        | Buttercup    |
+| Lucky Job           | Teacher       |
+| Lucky Exercise      | Discus Throw  |
+| Lucky Country       | Belgium    |
 
 
 ##  Final Reflections on Dreams

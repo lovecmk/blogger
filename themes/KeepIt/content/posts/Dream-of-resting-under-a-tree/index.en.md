@@ -1,8 +1,8 @@
 ---
     weight: 550
     title: "Dream of resting under a tree"  # Assuming 'title' column exists
-    date: 2024-10-13T06:55:00+08:00
-    lastmod: 2024-10-13T06:55:00+08:00
+    date: 2024-10-12T22:14:00+08:00
+    lastmod: 2024-10-12T22:14:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['tree', 'resting', 'Dream', 'a', 'of', 'under']
+    tags: ['Dream', 'resting', 'tree', 'under']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can help you take a break and harmonize with yourself.Rest will find 
 | Lucky Animal        | Duck |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Gnocchi      |
-| Lucky Instrument    | Ukulele |
-| Lucky Flower        | Sage    |
-| Lucky Job           | Chef       |
-| Lucky Exercise      | Running  |
-| Lucky Country       | Nigeria    |
+| Lucky Food          | Tacos      |
+| Lucky Instrument    | Ocarina |
+| Lucky Flower        | Jade Plant    |
+| Lucky Job           | Sales Manager       |
+| Lucky Exercise      | Dance Aerobics  |
+| Lucky Country       | Netherlands    |
 
 
 ##  Final Reflections on Dreams

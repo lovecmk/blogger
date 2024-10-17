@@ -1,8 +1,8 @@
 ---
     weight: 1680
     title: "Dream of being bullied or harassed"  # Assuming 'title' column exists
-    date: 2024-10-13T13:57:00+08:00
-    lastmod: 2024-10-13T13:57:00+08:00
+    date: 2024-10-12T19:25:00+08:00
+    lastmod: 2024-10-12T19:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['bullied', 'or', 'harassed', 'Dream', 'being', 'of']
+    tags: ['being', 'harassed', 'Dream', 'bullied']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Corn on the Cob      |
-| Lucky Instrument    | Pipa |
-| Lucky Flower        | Nymphaea    |
-| Lucky Job           | Event Planner       |
-| Lucky Exercise      | Dancing  |
-| Lucky Country       | Switzerland    |
+| Lucky Food          | Stir Fry      |
+| Lucky Instrument    | Bassoon |
+| Lucky Flower        | Sweet Pea    |
+| Lucky Job           | Director       |
+| Lucky Exercise      | Cricket  |
+| Lucky Country       | Australia    |
 
 
 ##  Final Reflections on Dreams

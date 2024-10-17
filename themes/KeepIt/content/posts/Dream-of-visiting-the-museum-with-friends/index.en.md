@@ -1,8 +1,8 @@
 ---
     weight: 712
     title: "Dream of visiting the museum with friends"  # Assuming 'title' column exists
-    date: 2024-10-13T01:47:00+08:00
-    lastmod: 2024-10-13T01:47:00+08:00
+    date: 2024-10-12T15:18:00+08:00
+    lastmod: 2024-10-12T15:18:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'museum', 'Dream', 'visiting', 'of', 'with', 'friends']
+    tags: ['Dream', 'visiting', 'museum', 'friends']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can indicate the possibility of gaining luck through cooperation, cre
 | Lucky Animal        | Cat |
 | Lucky Place         | School     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Fajitas      |
-| Lucky Instrument    | Basset Horn |
-| Lucky Flower        | Butterfly Bush    |
-| Lucky Job           | Fashion Designer       |
-| Lucky Exercise      | Obstacle Course Racing  |
-| Lucky Country       | Mongolia    |
+| Lucky Food          | Hummus      |
+| Lucky Instrument    | Horn |
+| Lucky Flower        | Geranium    |
+| Lucky Job           | Bus Driver       |
+| Lucky Exercise      | Skiing  |
+| Lucky Country       | Malaysia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1318
     title: "Dream of getting robbed while traveling"  # Assuming 'title' column exists
-    date: 2024-10-13T04:13:00+08:00
-    lastmod: 2024-10-13T04:13:00+08:00
+    date: 2024-10-14T17:14:00+08:00
+    lastmod: 2024-10-14T17:14:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['traveling', 'Dream', 'robbed', 'of', 'getting', 'while']
+    tags: ['while', 'Dream', 'traveling', 'robbed', 'getting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Bear |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Muffin      |
-| Lucky Instrument    | Dulcimer |
-| Lucky Flower        | Alstroemeria    |
-| Lucky Job           | Database Administrator       |
-| Lucky Exercise      | Ballet  |
-| Lucky Country       | Turkey    |
+| Lucky Food          | Quiche      |
+| Lucky Instrument    | Saxophone |
+| Lucky Flower        | Iris    |
+| Lucky Job           | Project Manager       |
+| Lucky Exercise      | Sledge Hockey  |
+| Lucky Country       | Estonia    |
 
 
 ##  Final Reflections on Dreams

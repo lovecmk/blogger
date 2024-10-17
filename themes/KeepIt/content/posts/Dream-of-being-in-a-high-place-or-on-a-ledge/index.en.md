@@ -1,8 +1,8 @@
 ---
     weight: 1324
     title: "Dream of being in a high place or on a ledge"  # Assuming 'title' column exists
-    date: 2024-10-13T10:23:00+08:00
-    lastmod: 2024-10-13T10:23:00+08:00
+    date: 2024-10-11T03:21:00+08:00
+    lastmod: 2024-10-11T03:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'Dream', 'being', 'a', 'on', 'in', 'place', 'of', 'high', 'ledge']
+    tags: ['being', 'high', 'Dream', 'place', 'ledge']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream does not necessarily bring luck on its own. However, it serves as a r
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Beach     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Chicken Curry      |
-| Lucky Instrument    | Viola |
-| Lucky Flower        | Zinnia    |
-| Lucky Job           | Pastry Chef       |
-| Lucky Exercise      | Yoga Flow  |
-| Lucky Country       | Ireland    |
+| Lucky Food          | Tuna Tartare      |
+| Lucky Instrument    | Electric Cello |
+| Lucky Flower        | Clover Blossom    |
+| Lucky Job           | Nurse       |
+| Lucky Exercise      | Pull-Ups  |
+| Lucky Country       | Cyprus    |
 
 
 ##  Final Reflections on Dreams

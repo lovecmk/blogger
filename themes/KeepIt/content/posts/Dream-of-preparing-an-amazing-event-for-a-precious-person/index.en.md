@@ -1,8 +1,8 @@
 ---
     weight: 669
     title: "Dream of preparing an amazing event for a precious person"  # Assuming 'title' column exists
-    date: 2024-10-13T22:19:00+08:00
-    lastmod: 2024-10-13T22:19:00+08:00
+    date: 2024-10-15T07:32:00+08:00
+    lastmod: 2024-10-15T07:32:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['amazing', 'precious', 'person', 'Dream', 'for', 'a', 'an', 'event', 'preparing', 'of']
+    tags: ['amazing', 'event', 'person', 'Dream', 'precious', 'preparing', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can suggest a positive change and achievement of your rel
 | Lucky Animal        | Duck |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Hot Dog      |
-| Lucky Instrument    | Melodic Percussion |
-| Lucky Flower        | Heather    |
-| Lucky Job           | Bus Driver       |
-| Lucky Exercise      | Skating  |
-| Lucky Country       | Bhutan    |
+| Lucky Food          | Zucchini Noodles      |
+| Lucky Instrument    | Marimba |
+| Lucky Flower        | Thunbergia    |
+| Lucky Job           | Security Guard       |
+| Lucky Exercise      | Snowshoeing  |
+| Lucky Country       | Australia    |
 
 
 ##  Final Reflections on Dreams

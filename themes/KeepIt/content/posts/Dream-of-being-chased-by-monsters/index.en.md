@@ -1,8 +1,8 @@
 ---
     weight: 902
     title: "Dream of being chased by monsters"  # Assuming 'title' column exists
-    date: 2024-10-13T03:27:00+08:00
-    lastmod: 2024-10-13T03:27:00+08:00
+    date: 2024-10-13T00:16:00+08:00
+    lastmod: 2024-10-13T00:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['monsters', 'Dream', 'being', 'by', 'of', 'chased']
+    tags: ['being', 'chased', 'Dream', 'monsters']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of the dream of being chased by a monster can be a little different fro
 | Lucky Animal        | Chicken |
 | Lucky Place         | School     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Fruit Tart      |
-| Lucky Instrument    | Djembe |
-| Lucky Flower        | Narcissus    |
-| Lucky Job           | Field Technician       |
-| Lucky Exercise      | Leg Press  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Baked Potato      |
+| Lucky Instrument    | Electric Cello |
+| Lucky Flower        | Stephanotis    |
+| Lucky Job           | Musician       |
+| Lucky Exercise      | Plank  |
+| Lucky Country       | Saudi Arabia    |
 
 
 ##  Final Reflections on Dreams

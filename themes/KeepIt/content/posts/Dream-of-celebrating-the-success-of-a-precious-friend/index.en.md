@@ -1,8 +1,8 @@
 ---
     weight: 707
     title: "Dream of celebrating the success of a precious friend"  # Assuming 'title' column exists
-    date: 2024-10-13T10:01:00+08:00
-    lastmod: 2024-10-13T10:01:00+08:00
+    date: 2024-10-14T11:27:00+08:00
+    lastmod: 2024-10-14T11:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['friend', 'success', 'the', 'precious', 'Dream', 'celebrating', 'a', 'of']
+    tags: ['Dream', 'celebrating', 'friend', 'success', 'precious']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you a positive luck.Congratulations on your friend's succes
 | Lucky Animal        | Polar bear |
 | Lucky Place         | Library     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Kebab      |
-| Lucky Instrument    | Octobass |
-| Lucky Flower        | Lobelia    |
-| Lucky Job           | Chef       |
-| Lucky Exercise      | Spin Class  |
-| Lucky Country       | Lebanon    |
+| Lucky Food          | Croissant      |
+| Lucky Instrument    | Cymbals |
+| Lucky Flower        | Buttercup    |
+| Lucky Job           | Technical Writer       |
+| Lucky Exercise      | Juggling  |
+| Lucky Country       | Palau    |
 
 
 ##  Final Reflections on Dreams

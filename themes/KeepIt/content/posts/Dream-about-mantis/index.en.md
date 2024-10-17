@@ -1,8 +1,8 @@
 ---
     weight: 1101
     title: "Dream about mantis"  # Assuming 'title' column exists
-    date: 2024-10-13T09:21:00+08:00
-    lastmod: 2024-10-13T09:21:00+08:00
+    date: 2024-10-12T01:20:00+08:00
+    lastmod: 2024-10-12T01:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['mantis', 'about', 'Dream']
+    tags: ['Dream', 'mantis']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The dream of 'warts' can't be said to bring good luck, but this dream gives you 
 | Lucky Animal        | Ostrich |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Salad      |
-| Lucky Instrument    | Tambourine |
-| Lucky Flower        | Rudbeckia    |
-| Lucky Job           | Stockbroker       |
-| Lucky Exercise      | Powerlifting  |
-| Lucky Country       | Western Sahara    |
+| Lucky Food          | Minestrone      |
+| Lucky Instrument    | Triangle |
+| Lucky Flower        | Dandelion    |
+| Lucky Job           | Veterinarian       |
+| Lucky Exercise      | Javelin  |
+| Lucky Country       | India    |
 
 
 ##  Final Reflections on Dreams

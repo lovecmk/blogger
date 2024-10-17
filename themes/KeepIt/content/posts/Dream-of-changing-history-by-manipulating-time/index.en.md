@@ -1,8 +1,8 @@
 ---
     weight: 277
     title: "Dream of changing history by manipulating time"  # Assuming 'title' column exists
-    date: 2024-10-13T07:44:00+08:00
-    lastmod: 2024-10-13T07:44:00+08:00
+    date: 2024-10-11T21:58:00+08:00
+    lastmod: 2024-10-11T21:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['history', 'Dream', 'time', 'by', 'changing', 'manipulating', 'of']
+    tags: ['manipulating', 'Dream', 'changing', 'time', 'history']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'the dream of manipulating time and changing history' can suggest fu
 | Lucky Animal        | Sloth |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Gelato      |
-| Lucky Instrument    | Melodica |
-| Lucky Flower        | Pansy    |
-| Lucky Job           | Translator       |
-| Lucky Exercise      | Fencing  |
-| Lucky Country       | Norway    |
+| Lucky Food          | Sushi Roll      |
+| Lucky Instrument    | Keyboard Synthesizer |
+| Lucky Flower        | Petal Plant    |
+| Lucky Job           | Copywriter       |
+| Lucky Exercise      | Burpees  |
+| Lucky Country       | Iceland    |
 
 
 ##  Final Reflections on Dreams

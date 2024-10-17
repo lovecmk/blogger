@@ -1,8 +1,8 @@
 ---
     weight: 843
     title: "The dream of a family rescue after the fire"  # Assuming 'title' column exists
-    date: 2024-10-13T04:56:00+08:00
-    lastmod: 2024-10-13T04:56:00+08:00
+    date: 2024-10-15T22:06:00+08:00
+    lastmod: 2024-10-15T22:06:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'rescue', 'the', 'after', 'fire', 'a', 'dream', 'The', 'of']
+    tags: ['family', 'The', 'dream', 'fire', 'after', 'rescue']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream means that you can get the help and support of your famil
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Pasta      |
-| Lucky Instrument    | Rudra Veena |
-| Lucky Flower        | Zantedeschia    |
-| Lucky Job           | Producer       |
-| Lucky Exercise      | Box Jumps  |
-| Lucky Country       | Thailand    |
+| Lucky Food          | Beef Wellington      |
+| Lucky Instrument    | Accordion |
+| Lucky Flower        | Freesia    |
+| Lucky Job           | Musician       |
+| Lucky Exercise      | Push-Ups  |
+| Lucky Country       | South Africa    |
 
 
 ##  Final Reflections on Dreams

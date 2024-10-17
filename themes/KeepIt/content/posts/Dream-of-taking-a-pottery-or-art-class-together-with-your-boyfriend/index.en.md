@@ -1,8 +1,8 @@
 ---
     weight: 2180
     title: "Dream of witnessing a mass death"  # Assuming 'title' column exists
-    date: 2024-10-13T22:22:00+08:00
-    lastmod: 2024-10-13T22:22:00+08:00
+    date: 2024-10-12T03:13:00+08:00
+    lastmod: 2024-10-12T03:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['death', 'witnessing', 'Dream', 'a', 'mass', 'of']
+    tags: ['Dream', 'mass', 'death', 'witnessing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Heron |
 | Lucky Place         | Mart     |
 | Lucky Color         | White     |
-| Lucky Food          | Ratatouille      |
-| Lucky Instrument    | Hang Drum |
-| Lucky Flower        | Nymphaea    |
-| Lucky Job           | Artist       |
-| Lucky Exercise      | Stretching  |
-| Lucky Country       | Pakistan    |
+| Lucky Food          | Fajitas      |
+| Lucky Instrument    | Kettledrum |
+| Lucky Flower        | Pincushion Flower    |
+| Lucky Job           | Astrophysicist       |
+| Lucky Exercise      | Ashtanga Yoga  |
+| Lucky Country       | Eswatini    |
 
 
 ##  Final Reflections on Dreams

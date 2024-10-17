@@ -1,8 +1,8 @@
 ---
     weight: 479
     title: "Dream of having a conflict or problem with a favorite person or a group"  # Assuming 'title' column exists
-    date: 2024-10-13T14:19:00+08:00
-    lastmod: 2024-10-13T14:19:00+08:00
+    date: 2024-10-12T12:03:00+08:00
+    lastmod: 2024-10-12T12:03:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'problem', 'of', 'favorite', 'Dream', 'a', 'group', 'person', 'conflict', 'with', 'having']
+    tags: ['favorite', 'person', 'Dream', 'conflict', 'group', 'having', 'problem']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can help you solve the current conflict or problem situat
 | Lucky Animal        | Red fox |
 | Lucky Place         | River     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Lasagna      |
-| Lucky Instrument    | Harmonium |
-| Lucky Flower        | Pelargonium    |
-| Lucky Job           | Electrician       |
-| Lucky Exercise      | Obstacle Course Racing  |
-| Lucky Country       | Austria    |
+| Lucky Food          | Chicken Curry      |
+| Lucky Instrument    | Piccolo |
+| Lucky Flower        | Poinsettia    |
+| Lucky Job           | Real Estate Agent       |
+| Lucky Exercise      | Hot Yoga  |
+| Lucky Country       | Vanuatu    |
 
 
 ##  Final Reflections on Dreams

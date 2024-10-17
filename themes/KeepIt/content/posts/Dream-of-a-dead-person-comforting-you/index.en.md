@@ -1,8 +1,8 @@
 ---
     weight: 2152
     title: "Dream of visiting a theme park or amusement park together with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T12:06:00+08:00
-    lastmod: 2024-10-13T12:06:00+08:00
+    date: 2024-10-12T16:39:00+08:00
+    lastmod: 2024-10-12T16:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['park', 'together', 'or', 'your', 'boyfriend', 'theme', 'Dream', 'visiting', 'a', 'of', 'amusement', 'with']
+    tags: ['amusement', 'theme', 'Dream', 'visiting', 'boyfriend', 'together', 'park']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Snake |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Vegetable Stir Fry      |
-| Lucky Instrument    | Balalaika |
-| Lucky Flower        | Tansy    |
-| Lucky Job           | Firefighter       |
-| Lucky Exercise      | Step Aerobics  |
-| Lucky Country       | Malawi    |
+| Lucky Food          | Chocolate      |
+| Lucky Instrument    | Bass Drum |
+| Lucky Flower        | Marigold    |
+| Lucky Job           | Pilot       |
+| Lucky Exercise      | Resistance Bands  |
+| Lucky Country       | Zimbabwe    |
 
 
 ##  Final Reflections on Dreams

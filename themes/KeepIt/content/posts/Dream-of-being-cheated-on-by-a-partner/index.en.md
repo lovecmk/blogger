@@ -1,8 +1,8 @@
 ---
     weight: 1811
     title: "Dream of your cat watching birds from a window"  # Assuming 'title' column exists
-    date: 2024-10-13T07:20:00+08:00
-    lastmod: 2024-10-13T07:20:00+08:00
+    date: 2024-10-13T20:41:00+08:00
+    lastmod: 2024-10-13T20:41:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['window', 'your', 'cat', 'Dream', 'a', 'birds', 'from', 'of', 'watching']
+    tags: ['Dream', 'birds', 'window', 'from', 'watching', 'cat']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Shrimp      |
-| Lucky Instrument    | Octobass |
-| Lucky Flower        | Larkspur    |
-| Lucky Job           | Hair Stylist       |
-| Lucky Exercise      | Crunches  |
-| Lucky Country       | Maldives    |
+| Lucky Food          | Gnocchi      |
+| Lucky Instrument    | Horn |
+| Lucky Flower        | Chrysanthemum    |
+| Lucky Job           | Game Developer       |
+| Lucky Exercise      | Basketball  |
+| Lucky Country       | Afghanistan    |
 
 
 ##  Final Reflections on Dreams

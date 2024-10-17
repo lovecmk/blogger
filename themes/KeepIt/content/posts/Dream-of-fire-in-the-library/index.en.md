@@ -1,8 +1,8 @@
 ---
     weight: 827
     title: "Dream of fire in the library"  # Assuming 'title' column exists
-    date: 2024-10-13T16:08:00+08:00
-    lastmod: 2024-10-13T16:08:00+08:00
+    date: 2024-10-13T20:17:00+08:00
+    lastmod: 2024-10-13T20:17:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'fire', 'Dream', 'in', 'library', 'of']
+    tags: ['Dream', 'library', 'fire']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream has a greater meaning of warning or danger than luck.Dreams of fire i
 | Lucky Animal        | Ostrich |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | White     |
-| Lucky Food          | Fruit Tart      |
-| Lucky Instrument    | Maracas |
-| Lucky Flower        | Sweet William    |
-| Lucky Job           | Insurance Agent       |
-| Lucky Exercise      | Boxing  |
-| Lucky Country       | Iraq    |
+| Lucky Food          | Sushi Roll      |
+| Lucky Instrument    | Cajón |
+| Lucky Flower        | Lobelia    |
+| Lucky Job           | Event Planner       |
+| Lucky Exercise      | Salsa  |
+| Lucky Country       | Namibia    |
 
 
 ##  Final Reflections on Dreams

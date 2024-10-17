@@ -1,8 +1,8 @@
 ---
     weight: 1109
     title: "Dream about leopard"  # Assuming 'title' column exists
-    date: 2024-10-13T07:05:00+08:00
-    lastmod: 2024-10-13T07:05:00+08:00
+    date: 2024-10-14T05:29:00+08:00
+    lastmod: 2024-10-14T05:29:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['leopard', 'about', 'Dream']
+    tags: ['Dream', 'leopard']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ If you have seen a 'leopard' in a dream, this can mean that you can be lucky to 
 | Lucky Animal        | Guinea pig |
 | Lucky Place         | Lake     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Scone      |
-| Lucky Instrument    | Ocarina |
-| Lucky Flower        | Cherry Blossom    |
-| Lucky Job           | Mathematician       |
-| Lucky Exercise      | Running  |
-| Lucky Country       | Uzbekistan    |
+| Lucky Food          | Pasta      |
+| Lucky Instrument    | Cymbals |
+| Lucky Flower        | Cyclamen    |
+| Lucky Job           | Event Planner       |
+| Lucky Exercise      | Resistance Bands  |
+| Lucky Country       | Norway    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1894
     title: "Dream of your grandmother telling you bedtime stories from your childhood."  # Assuming 'title' column exists
-    date: 2024-10-13T14:45:00+08:00
-    lastmod: 2024-10-13T14:45:00+08:00
+    date: 2024-10-14T19:30:00+08:00
+    lastmod: 2024-10-14T19:30:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['grandmother', 'stories', 'your', 'telling', 'Dream', 'childhood.', 'bedtime', 'from', 'of', 'you']
+    tags: ['Dream', 'childhood', 'grandmother', 'from', 'bedtime', 'telling', 'stories', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Pork Chops      |
-| Lucky Instrument    | Melodic Percussion |
-| Lucky Flower        | Monkey Grass    |
-| Lucky Job           | Firefighter       |
-| Lucky Exercise      | Hula Hooping  |
-| Lucky Country       | New Zealand    |
+| Lucky Food          | Pasta Primavera      |
+| Lucky Instrument    | Tenor Saxophone |
+| Lucky Flower        | Peach Blossom    |
+| Lucky Job           | Welder       |
+| Lucky Exercise      | Push-Ups  |
+| Lucky Country       | Yemen    |
 
 
 ##  Final Reflections on Dreams

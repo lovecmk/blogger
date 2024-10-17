@@ -1,8 +1,8 @@
 ---
     weight: 1437
     title: "Dream of being a child or acting like a child"  # Assuming 'title' column exists
-    date: 2024-10-13T01:11:00+08:00
-    lastmod: 2024-10-13T01:11:00+08:00
+    date: 2024-10-15T06:46:00+08:00
+    lastmod: 2024-10-15T06:46:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['like', 'or', 'acting', 'Dream', 'being', 'a', 'of', 'child']
+    tags: ['being', 'Dream', 'acting', 'child', 'like']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Fox |
 | Lucky Place         | Lake     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Stuffed Mushrooms      |
-| Lucky Instrument    | Claves |
-| Lucky Flower        | Verbena    |
-| Lucky Job           | Database Administrator       |
-| Lucky Exercise      | Burpees  |
-| Lucky Country       | Kyrgyzstan    |
+| Lucky Food          | Gumbo      |
+| Lucky Instrument    | Darbuka |
+| Lucky Flower        | Pelargonium    |
+| Lucky Job           | Field Technician       |
+| Lucky Exercise      | Pole Vaulting  |
+| Lucky Country       | Sweden    |
 
 
 ##  Final Reflections on Dreams

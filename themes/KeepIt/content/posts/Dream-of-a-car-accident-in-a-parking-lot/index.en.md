@@ -1,8 +1,8 @@
 ---
     weight: 1347
     title: "Dream of a car accident in a parking lot"  # Assuming 'title' column exists
-    date: 2024-10-13T08:34:00+08:00
-    lastmod: 2024-10-13T08:34:00+08:00
+    date: 2024-10-14T01:12:00+08:00
+    lastmod: 2024-10-14T01:12:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lot', 'Dream', 'a', 'accident', 'in', 'car', 'of', 'parking']
+    tags: ['Dream', 'car', 'lot', 'parking', 'accident']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Wolf |
 | Lucky Place         | School     |
 | Lucky Color         | Green     |
-| Lucky Food          | Baked Ziti      |
-| Lucky Instrument    | Fretless Bass |
-| Lucky Flower        | Daisy    |
-| Lucky Job           | Musician       |
-| Lucky Exercise      | Golf  |
-| Lucky Country       | New Zealand    |
+| Lucky Food          | Seafood Paella      |
+| Lucky Instrument    | Ukulele |
+| Lucky Flower        | Cornflower    |
+| Lucky Job           | Physical Therapist       |
+| Lucky Exercise      | Capoeira  |
+| Lucky Country       | Solomon Islands    |
 
 
 ##  Final Reflections on Dreams

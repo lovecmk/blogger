@@ -1,8 +1,8 @@
 ---
     weight: 969
     title: "Dream of falling into a stream"  # Assuming 'title' column exists
-    date: 2024-10-13T12:06:00+08:00
-    lastmod: 2024-10-13T12:06:00+08:00
+    date: 2024-10-12T16:38:00+08:00
+    lastmod: 2024-10-12T16:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['into', 'falling', 'Dream', 'a', 'of', 'stream']
+    tags: ['Dream', 'into', 'falling', 'stream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can always depend on the personal elements and situations
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Hot Dog      |
-| Lucky Instrument    | Pipa |
-| Lucky Flower        | Begonia    |
-| Lucky Job           | Veterinarian       |
-| Lucky Exercise      | Walking  |
-| Lucky Country       | Zambia    |
+| Lucky Food          | Ratatouille      |
+| Lucky Instrument    | Fujara |
+| Lucky Flower        | Bouvardia    |
+| Lucky Job           | Data Analyst       |
+| Lucky Exercise      | Racquetball  |
+| Lucky Country       | Solomon Islands    |
 
 
 ##  Final Reflections on Dreams

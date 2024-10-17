@@ -1,8 +1,8 @@
 ---
     weight: 583
     title: "Dream of sleeping under the tree"  # Assuming 'title' column exists
-    date: 2024-10-13T03:33:00+08:00
-    lastmod: 2024-10-13T03:33:00+08:00
+    date: 2024-10-13T11:37:00+08:00
+    lastmod: 2024-10-13T11:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['tree', 'the', 'sleeping', 'Dream', 'of', 'under']
+    tags: ['Dream', 'under', 'tree', 'sleeping']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'sleeping under the tree' is that you can restore energy through inn
 | Lucky Animal        | Polar bear |
 | Lucky Place         | Lake     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Seafood Paella      |
-| Lucky Instrument    | Pipa |
-| Lucky Flower        | Larkspur    |
-| Lucky Job           | Research Scientist       |
-| Lucky Exercise      | Baseball  |
-| Lucky Country       | Austria    |
+| Lucky Food          | Chowder      |
+| Lucky Instrument    | Bass Clarinet |
+| Lucky Flower        | Alstroemeria    |
+| Lucky Job           | Operations Manager       |
+| Lucky Exercise      | Trail Running  |
+| Lucky Country       | United Arab Emirates    |
 
 
 ##  Final Reflections on Dreams

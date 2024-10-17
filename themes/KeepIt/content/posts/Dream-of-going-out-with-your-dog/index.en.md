@@ -1,8 +1,8 @@
 ---
     weight: 1499
     title: "Dream of going out with your dog"  # Assuming 'title' column exists
-    date: 2024-10-13T16:52:00+08:00
-    lastmod: 2024-10-13T16:52:00+08:00
+    date: 2024-10-11T16:56:00+08:00
+    lastmod: 2024-10-11T16:56:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['out', 'your', 'Dream', 'going', 'of', 'with', 'dog']
+    tags: ['Dream', 'going', 'out', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams involving dogs are often considered lucky, as they symbolize loyalty, pro
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Cheesecake      |
+| Lucky Food          | Quiche      |
 | Lucky Instrument    | Shakuhachi |
 | Lucky Flower        | Daisy    |
-| Lucky Job           | Copywriter       |
-| Lucky Exercise      | Zumba  |
-| Lucky Country       | Bhutan    |
+| Lucky Job           | Director       |
+| Lucky Exercise      | Squash  |
+| Lucky Country       | Israel    |
 
 
 ##  Final Reflections on Dreams

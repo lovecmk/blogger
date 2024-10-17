@@ -1,8 +1,8 @@
 ---
     weight: 58
     title: "Dream of getting a new idea by drinking mango juice"  # Assuming 'title' column exists
-    date: 2024-10-13T00:51:00+08:00
-    lastmod: 2024-10-13T00:51:00+08:00
+    date: 2024-10-13T04:27:00+08:00
+    lastmod: 2024-10-13T04:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['new', 'idea', 'mango', 'juice', 'Dream', 'a', 'drinking', 'by', 'of', 'getting']
+    tags: ['Dream', 'juice', 'idea', 'getting', 'new', 'mango', 'drinking']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can be interpreted as a hint that you can meet more success and luck 
 | Lucky Animal        | Duck |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Bruschetta      |
-| Lucky Instrument    | Pipa |
-| Lucky Flower        | Pincushion Flower    |
-| Lucky Job           | Taxi Driver       |
-| Lucky Exercise      | Swimming Laps  |
-| Lucky Country       | Nauru    |
+| Lucky Food          | Mango Sticky Rice      |
+| Lucky Instrument    | Accordion Synth |
+| Lucky Flower        | Alstroemeria    |
+| Lucky Job           | Electrician       |
+| Lucky Exercise      | Surf Lifesaving  |
+| Lucky Country       | Sweden    |
 
 
 ##  Final Reflections on Dreams

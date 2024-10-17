@@ -1,8 +1,8 @@
 ---
     weight: 509
     title: "Dream of throwing basketball in any kind"  # Assuming 'title' column exists
-    date: 2024-10-13T08:45:00+08:00
-    lastmod: 2024-10-13T08:45:00+08:00
+    date: 2024-10-11T18:22:00+08:00
+    lastmod: 2024-10-11T18:22:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['kind', 'basketball', 'Dream', 'throwing', 'in', 'of', 'any']
+    tags: ['kind', 'Dream', 'basketball', 'throwing', 'any']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can convey a message that your luck is coming.Successfully throwing b
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Biryani      |
-| Lucky Instrument    | Guitar |
-| Lucky Flower        | Cyclamen    |
-| Lucky Job           | Plumber       |
-| Lucky Exercise      | Surf Lifesaving  |
-| Lucky Country       | South Korea    |
+| Lucky Food          | Cornbread      |
+| Lucky Instrument    | Ney |
+| Lucky Flower        | Crown Daisy    |
+| Lucky Job           | Operations Manager       |
+| Lucky Exercise      | Circuit Training  |
+| Lucky Country       | Palau    |
 
 
 ##  Final Reflections on Dreams

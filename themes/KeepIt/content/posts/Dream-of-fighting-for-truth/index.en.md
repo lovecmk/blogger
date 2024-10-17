@@ -1,8 +1,8 @@
 ---
     weight: 2016
     title: "Dream of being criticized or judged harshly"  # Assuming 'title' column exists
-    date: 2024-10-13T09:05:00+08:00
-    lastmod: 2024-10-13T09:05:00+08:00
+    date: 2024-10-13T13:28:00+08:00
+    lastmod: 2024-10-13T13:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'Dream', 'harshly', 'being', 'criticized', 'of', 'judged']
+    tags: ['being', 'judged', 'Dream', 'criticized', 'harshly']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Muffin      |
-| Lucky Instrument    | Harp |
-| Lucky Flower        | Pansy    |
-| Lucky Job           | Fashion Designer       |
-| Lucky Exercise      | Ashtanga Yoga  |
-| Lucky Country       | Romania    |
+| Lucky Food          | Mango Sticky Rice      |
+| Lucky Instrument    | Timpani |
+| Lucky Flower        | Tulip    |
+| Lucky Job           | Police Officer       |
+| Lucky Exercise      | Skating  |
+| Lucky Country       | Lesotho    |
 
 
 ##  Final Reflections on Dreams

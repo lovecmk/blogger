@@ -1,8 +1,8 @@
 ---
     weight: 7
     title: "Dream of having a good time eating strawberries"  # Assuming 'title' column exists
-    date: 2024-10-13T23:22:00+08:00
-    lastmod: 2024-10-13T23:22:00+08:00
+    date: 2024-10-12T18:05:00+08:00
+    lastmod: 2024-10-12T18:05:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['eating', 'Dream', 'a', 'time', 'strawberries', 'of', 'good', 'having']
+    tags: ['good', 'Dream', 'eating', 'time', 'strawberries', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is subjective and may vary by individual interpretation.B
 | Lucky Animal        | Seal |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Kale Salad      |
-| Lucky Instrument    | Sarangi |
-| Lucky Flower        | Lily    |
-| Lucky Job           | Recruiter       |
-| Lucky Exercise      | Aqua Aerobics  |
-| Lucky Country       | Tonga    |
+| Lucky Food          | Chili      |
+| Lucky Instrument    | Melodic Percussion |
+| Lucky Flower        | Orchid    |
+| Lucky Job           | Pharmacist       |
+| Lucky Exercise      | Sledge Hockey  |
+| Lucky Country       | Vanuatu    |
 
 
 ##  Final Reflections on Dreams

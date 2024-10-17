@@ -1,8 +1,8 @@
 ---
     weight: 1442
     title: "Dream of being paralyzed after a traffic accident"  # Assuming 'title' column exists
-    date: 2024-10-13T09:45:00+08:00
-    lastmod: 2024-10-13T09:45:00+08:00
+    date: 2024-10-11T01:31:00+08:00
+    lastmod: 2024-10-11T01:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['after', 'paralyzed', 'Dream', 'being', 'a', 'accident', 'of', 'traffic']
+    tags: ['being', 'traffic', 'Dream', 'paralyzed', 'after', 'accident']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Seal |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Stuffed Mushrooms      |
-| Lucky Instrument    | Koto |
-| Lucky Flower        | Fuchsia    |
-| Lucky Job           | Environmental Scientist       |
-| Lucky Exercise      | Foam Rolling  |
-| Lucky Country       | Brazil    |
+| Lucky Food          | Beef Wellington      |
+| Lucky Instrument    | Piano |
+| Lucky Flower        | Larkspur    |
+| Lucky Job           | Statistician       |
+| Lucky Exercise      | Hammer Throw  |
+| Lucky Country       | South Africa    |
 
 
 ##  Final Reflections on Dreams

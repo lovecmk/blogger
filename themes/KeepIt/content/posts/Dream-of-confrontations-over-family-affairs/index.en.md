@@ -1,8 +1,8 @@
 ---
     weight: 1951
     title: "Dream of your ancestor expressing approval or support for a decision you made."  # Assuming 'title' column exists
-    date: 2024-10-13T12:35:00+08:00
-    lastmod: 2024-10-13T12:35:00+08:00
+    date: 2024-10-14T00:54:00+08:00
+    lastmod: 2024-10-14T00:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['you', 'expressing', 'or', 'your', 'Dream', 'for', 'a', 'made.', 'ancestor', 'decision', 'approval', 'of', 'support']
+    tags: ['you', 'decision', 'Dream', 'made', 'support', 'expressing', 'ancestor', 'approval']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Elephant |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | White     |
-| Lucky Food          | Stuffed Peppers      |
-| Lucky Instrument    | Ocarina |
-| Lucky Flower        | Borage    |
-| Lucky Job           | Research Scientist       |
-| Lucky Exercise      | Underwater Diving  |
-| Lucky Country       | Latvia    |
+| Lucky Food          | Kebab      |
+| Lucky Instrument    | Fujara |
+| Lucky Flower        | Lobelia    |
+| Lucky Job           | Pharmacist       |
+| Lucky Exercise      | Softball  |
+| Lucky Country       | Brazil    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 643
     title: "Dream of exploring numerous islands on a small boat"  # Assuming 'title' column exists
-    date: 2024-10-13T21:16:00+08:00
-    lastmod: 2024-10-13T21:16:00+08:00
+    date: 2024-10-11T17:27:00+08:00
+    lastmod: 2024-10-11T17:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['small', 'numerous', 'boat', 'Dream', 'a', 'on', 'islands', 'of', 'exploring']
+    tags: ['Dream', 'exploring', 'small', 'islands', 'numerous', 'boat']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can indicate that good luck can come through new experiences and oppo
 | Lucky Animal        | Deer |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Shrimp      |
-| Lucky Instrument    | Fretless Bass |
-| Lucky Flower        | Swan River Daisy    |
-| Lucky Job           | Environmental Scientist       |
-| Lucky Exercise      | Slacklining  |
-| Lucky Country       | Switzerland    |
+| Lucky Food          | Cornbread      |
+| Lucky Instrument    | Tuba |
+| Lucky Flower        | Tulip    |
+| Lucky Job           | Chef de Cuisine       |
+| Lucky Exercise      | Swimming  |
+| Lucky Country       | Serbia    |
 
 
 ##  Final Reflections on Dreams

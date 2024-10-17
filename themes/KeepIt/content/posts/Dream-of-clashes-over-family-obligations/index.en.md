@@ -1,8 +1,8 @@
 ---
     weight: 1556
     title: "Dream of clashes over family obligations"  # Assuming 'title' column exists
-    date: 2024-10-13T14:59:00+08:00
-    lastmod: 2024-10-13T14:59:00+08:00
+    date: 2024-10-12T06:34:00+08:00
+    lastmod: 2024-10-12T06:34:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'clashes', 'obligations', 'Dream', 'over', 'of']
+    tags: ['family', 'Dream', 'clashes', 'obligations', 'over']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Turtle |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Onion Rings      |
-| Lucky Instrument    | Tenor Guitar |
-| Lucky Flower        | Stock    |
-| Lucky Job           | Nurse       |
-| Lucky Exercise      | Plank  |
-| Lucky Country       | Laos    |
+| Lucky Food          | Cheeseboard      |
+| Lucky Instrument    | Harmonium |
+| Lucky Flower        | Bluebell    |
+| Lucky Job           | Oceanographer       |
+| Lucky Exercise      | Ultimate Frisbee  |
+| Lucky Country       | Eswatini    |
 
 
 ##  Final Reflections on Dreams

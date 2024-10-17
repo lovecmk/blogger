@@ -1,8 +1,8 @@
 ---
     weight: 1900
     title: "Dream of your husband sharing his aspirations and dreams with you."  # Assuming 'title' column exists
-    date: 2024-10-13T05:29:00+08:00
-    lastmod: 2024-10-13T05:29:00+08:00
+    date: 2024-10-11T07:38:00+08:00
+    lastmod: 2024-10-11T07:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['aspirations', 'you.', 'your', 'Dream', 'his', 'sharing', 'husband', 'dreams', 'and', 'of', 'with']
+    tags: ['Dream', 'sharing', 'his', 'dreams', 'aspirations', 'husband', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Mouse |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Pizza      |
-| Lucky Instrument    | Rudra Veena |
-| Lucky Flower        | Peony    |
-| Lucky Job           | Translator       |
-| Lucky Exercise      | Yoga Flow  |
-| Lucky Country       | Western Sahara    |
+| Lucky Food          | Bagel      |
+| Lucky Instrument    | Wooden Flute |
+| Lucky Flower        | Lavender    |
+| Lucky Job           | Public Relations Specialist       |
+| Lucky Exercise      | Push-Ups  |
+| Lucky Country       | Greece    |
 
 
 ##  Final Reflections on Dreams

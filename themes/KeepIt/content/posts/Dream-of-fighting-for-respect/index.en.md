@@ -1,8 +1,8 @@
 ---
     weight: 2097
     title: "Dream of a grape harvest"  # Assuming 'title' column exists
-    date: 2024-10-13T01:26:00+08:00
-    lastmod: 2024-10-13T01:26:00+08:00
+    date: 2024-10-14T14:16:00+08:00
+    lastmod: 2024-10-14T14:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'a', 'harvest', 'of', 'grape']
+    tags: ['grape', 'Dream', 'harvest']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams themselves do not bring inherent luck or fortune. However, this dream mig
 | Lucky Animal        | Spider |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Waffles      |
-| Lucky Instrument    | Soprano Recorder |
-| Lucky Flower        | Fuchsia    |
-| Lucky Job           | Photographer       |
-| Lucky Exercise      | Lifting  |
-| Lucky Country       | Tuvalu    |
+| Lucky Food          | Chocolate      |
+| Lucky Instrument    | Trombone |
+| Lucky Flower        | Lavender    |
+| Lucky Job           | Human Resources Manager       |
+| Lucky Exercise      | Kickboxing  |
+| Lucky Country       | Kenya    |
 
 
 ##  Final Reflections on Dreams

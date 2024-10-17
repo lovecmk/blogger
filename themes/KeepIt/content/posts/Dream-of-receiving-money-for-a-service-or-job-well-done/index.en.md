@@ -1,8 +1,8 @@
 ---
     weight: 2121
     title: "Dream of fighting with a family member"  # Assuming 'title' column exists
-    date: 2024-10-13T18:44:00+08:00
-    lastmod: 2024-10-13T18:44:00+08:00
+    date: 2024-10-11T04:12:00+08:00
+    lastmod: 2024-10-11T04:12:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'fighting', 'Dream', 'member', 'a', 'of', 'with']
+    tags: ['family', 'Dream', 'fighting', 'member']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Turtle |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Black     |
-| Lucky Food          | Muffin      |
-| Lucky Instrument    | Melodica |
-| Lucky Flower        | Petal Plant    |
-| Lucky Job           | Interior Designer       |
-| Lucky Exercise      | Calisthenics  |
-| Lucky Country       | New Zealand    |
+| Lucky Food          | Fruit Smoothie      |
+| Lucky Instrument    | Zither |
+| Lucky Flower        | Aster    |
+| Lucky Job           | Fashion Designer       |
+| Lucky Exercise      | Powerlifting  |
+| Lucky Country       | Tajikistan    |
 
 
 ##  Final Reflections on Dreams

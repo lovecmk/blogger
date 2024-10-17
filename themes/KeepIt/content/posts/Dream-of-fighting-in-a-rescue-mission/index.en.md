@@ -1,8 +1,8 @@
 ---
     weight: 1997
     title: "Dream of being left out or excluded from a group"  # Assuming 'title' column exists
-    date: 2024-10-13T13:47:00+08:00
-    lastmod: 2024-10-13T13:47:00+08:00
+    date: 2024-10-15T23:48:00+08:00
+    lastmod: 2024-10-15T23:48:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['excluded', 'or', 'out', 'Dream', 'being', 'from', 'a', 'group', 'left', 'of']
+    tags: ['being', 'left', 'Dream', 'from', 'out', 'excluded', 'group']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Pig |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Onion Rings      |
-| Lucky Instrument    | Saxello |
-| Lucky Flower        | Nasturtium    |
-| Lucky Job           | Insurance Underwriter       |
-| Lucky Exercise      | Skiing  |
-| Lucky Country       | Eswatini    |
+| Lucky Food          | Pico de Gallo      |
+| Lucky Instrument    | Bass Drum |
+| Lucky Flower        | Jasmine    |
+| Lucky Job           | Data Scientist       |
+| Lucky Exercise      | Snowboarding  |
+| Lucky Country       | Lithuania    |
 
 
 ##  Final Reflections on Dreams

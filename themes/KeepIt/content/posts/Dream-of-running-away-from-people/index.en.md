@@ -1,8 +1,8 @@
 ---
     weight: 399
     title: "Dream of running away from people"  # Assuming 'title' column exists
-    date: 2024-10-13T15:15:00+08:00
-    lastmod: 2024-10-13T15:15:00+08:00
+    date: 2024-10-12T03:42:00+08:00
+    lastmod: 2024-10-12T03:42:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['running', 'people', 'away', 'Dream', 'from', 'of']
+    tags: ['Dream', 'running', 'from', 'away', 'people']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -60,11 +60,11 @@ The luck of this dream can vary depending on your situation and interpretation.O
 | Lucky Place         | Restroom     |
 | Lucky Color         | Mint     |
 | Lucky Food          | Sushi Roll      |
-| Lucky Instrument    | Flute |
-| Lucky Flower        | Chive Blossom    |
-| Lucky Job           | Musician       |
-| Lucky Exercise      | Juggling  |
-| Lucky Country       | Kazakhstan    |
+| Lucky Instrument    | Drums |
+| Lucky Flower        | Mullein    |
+| Lucky Job           | Architect       |
+| Lucky Exercise      | Resistance Bands  |
+| Lucky Country       | Micronesia    |
 
 
 ##  Final Reflections on Dreams

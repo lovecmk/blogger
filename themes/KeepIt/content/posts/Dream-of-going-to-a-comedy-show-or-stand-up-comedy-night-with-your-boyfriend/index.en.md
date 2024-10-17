@@ -1,8 +1,8 @@
 ---
     weight: 1913
     title: "Dream of winning a small amount of money in a game or lottery."  # Assuming 'title' column exists
-    date: 2024-10-13T21:55:00+08:00
-    lastmod: 2024-10-13T21:55:00+08:00
+    date: 2024-10-12T09:40:00+08:00
+    lastmod: 2024-10-12T09:40:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['small', 'or', 'winning', 'amount', 'Dream', 'money', 'game', 'a', 'lottery.', 'in', 'of']
+    tags: ['lottery', 'Dream', 'money', 'small', 'game', 'winning', 'amount']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream could bring luck in terms of personal well-being and self-improvement
 | Lucky Animal        | Heron |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Seafood Paella      |
-| Lucky Instrument    | Ocarina |
-| Lucky Flower        | Thistle    |
-| Lucky Job           | Content Creator       |
-| Lucky Exercise      | Shot Put  |
-| Lucky Country       | Mozambique    |
+| Lucky Food          | Vegetable Stir Fry      |
+| Lucky Instrument    | Conga Drum |
+| Lucky Flower        | Freesia    |
+| Lucky Job           | Interior Designer       |
+| Lucky Exercise      | Sledge Hockey  |
+| Lucky Country       | Uzbekistan    |
 
 
 ##  Final Reflections on Dreams

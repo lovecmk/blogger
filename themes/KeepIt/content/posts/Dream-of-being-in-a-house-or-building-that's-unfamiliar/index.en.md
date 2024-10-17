@@ -1,8 +1,8 @@
 ---
     weight: 1325
     title: "Dream of being in a house or building that's unfamiliar"  # Assuming 'title' column exists
-    date: 2024-10-13T19:25:00+08:00
-    lastmod: 2024-10-13T19:25:00+08:00
+    date: 2024-10-13T09:19:00+08:00
+    lastmod: 2024-10-13T09:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ["that's", 'or', 'Dream', 'being', 'a', 'house', 'unfamiliar', 'in', 'of', 'building']
+    tags: ['being', 'Dream', 'building', 'house', 'unfamiliar', "that's"]
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Crab |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Stuffed Mushrooms      |
-| Lucky Instrument    | Maracas |
-| Lucky Flower        | Jatropha    |
-| Lucky Job           | Researcher       |
-| Lucky Exercise      | Skating  |
-| Lucky Country       | Malaysia    |
+| Lucky Food          | Burger      |
+| Lucky Instrument    | Sackbut |
+| Lucky Flower        | Hibiscus    |
+| Lucky Job           | Pilot       |
+| Lucky Exercise      | Plank  |
+| Lucky Country       | Latvia    |
 
 
 ##  Final Reflections on Dreams

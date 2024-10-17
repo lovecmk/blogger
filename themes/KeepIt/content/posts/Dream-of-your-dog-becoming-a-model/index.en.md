@@ -1,8 +1,8 @@
 ---
     weight: 1280
     title: "Dream of your dog becoming a model"  # Assuming 'title' column exists
-    date: 2024-10-13T01:44:00+08:00
-    lastmod: 2024-10-13T01:44:00+08:00
+    date: 2024-10-12T23:21:00+08:00
+    lastmod: 2024-10-12T23:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['model', 'your', 'Dream', 'dog', 'a', 'of', 'becoming']
+    tags: ['Dream', 'model', 'becoming', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Otter |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Black     |
-| Lucky Food          | Dumplings      |
-| Lucky Instrument    | Tabla |
-| Lucky Flower        | Rudbeckia    |
-| Lucky Job           | Art Director       |
-| Lucky Exercise      | Bodyweight Training  |
-| Lucky Country       | Kuwait    |
+| Lucky Food          | Baked Ziti      |
+| Lucky Instrument    | Piccolo |
+| Lucky Flower        | Scabiosa    |
+| Lucky Job           | Journalist       |
+| Lucky Exercise      | Surfing  |
+| Lucky Country       | Turkmenistan    |
 
 
 ##  Final Reflections on Dreams

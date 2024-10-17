@@ -1,8 +1,8 @@
 ---
     weight: 415
     title: "Dream of running away from the past of childhood"  # Assuming 'title' column exists
-    date: 2024-10-13T22:26:00+08:00
-    lastmod: 2024-10-13T22:26:00+08:00
+    date: 2024-10-14T05:32:00+08:00
+    lastmod: 2024-10-14T05:32:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'running', 'away', 'Dream', 'from', 'childhood', 'of', 'past']
+    tags: ['Dream', 'past', 'childhood', 'running', 'from', 'away']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on your personal experience and interp
 | Lucky Animal        | Deer |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Croissant      |
-| Lucky Instrument    | Oboe |
-| Lucky Flower        | Zinnia    |
-| Lucky Job           | Construction Worker       |
-| Lucky Exercise      | Cricket  |
-| Lucky Country       | Croatia    |
+| Lucky Food          | Fish and Chips      |
+| Lucky Instrument    | Tambourine |
+| Lucky Flower        | Hoya    |
+| Lucky Job           | Customer Service Representative       |
+| Lucky Exercise      | Rowing  |
+| Lucky Country       | Portugal    |
 
 
 ##  Final Reflections on Dreams

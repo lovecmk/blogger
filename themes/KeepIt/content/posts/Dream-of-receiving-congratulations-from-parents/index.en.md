@@ -1,8 +1,8 @@
 ---
     weight: 148
     title: "Dream of receiving congratulations from parents"  # Assuming 'title' column exists
-    date: 2024-10-13T05:51:00+08:00
-    lastmod: 2024-10-13T05:51:00+08:00
+    date: 2024-10-14T17:04:00+08:00
+    lastmod: 2024-10-14T17:04:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['receiving', 'parents', 'congratulations', 'Dream', 'from', 'of']
+    tags: ['Dream', 'congratulations', 'from', 'receiving', 'parents']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can symbolize the lucky of success and achievement and the support of
 | Lucky Animal        | Dog |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Mango Sticky Rice      |
-| Lucky Instrument    | Bass Clarinet |
-| Lucky Flower        | Lilac    |
-| Lucky Job           | Public Relations Specialist       |
-| Lucky Exercise      | Kettlebell Training  |
-| Lucky Country       | Pakistan    |
+| Lucky Food          | Prawn Crackers      |
+| Lucky Instrument    | Fretless Bass |
+| Lucky Flower        | Tiger Lily    |
+| Lucky Job           | Chef       |
+| Lucky Exercise      | Gymnastics  |
+| Lucky Country       | Estonia    |
 
 
 ##  Final Reflections on Dreams

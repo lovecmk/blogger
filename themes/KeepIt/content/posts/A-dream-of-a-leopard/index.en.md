@@ -1,8 +1,8 @@
 ---
     weight: 872
     title: "A dream of a leopard"  # Assuming 'title' column exists
-    date: 2024-10-13T19:53:00+08:00
-    lastmod: 2024-10-13T19:53:00+08:00
+    date: 2024-10-14T13:51:00+08:00
+    lastmod: 2024-10-14T13:51:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['leopard', 'a', 'dream', 'of', 'A']
+    tags: ['leopard', 'dream', 'A']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The dream of a leopard may have a meaning related to luck.Since leopards symboli
 | Lucky Animal        | Elephant |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Tart      |
-| Lucky Instrument    | Tenor Saxophone |
-| Lucky Flower        | Alstroemeria    |
-| Lucky Job           | Neuroscientist       |
-| Lucky Exercise      | Crunches  |
-| Lucky Country       | Switzerland    |
+| Lucky Food          | Pudding      |
+| Lucky Instrument    | Trumpet |
+| Lucky Flower        | Alyssum    |
+| Lucky Job           | Sales Representative       |
+| Lucky Exercise      | Mobility Training  |
+| Lucky Country       | Malawi    |
 
 
 ##  Final Reflections on Dreams

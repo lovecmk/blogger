@@ -1,8 +1,8 @@
 ---
     weight: 570
     title: "Dream of reading books in the shade"  # Assuming 'title' column exists
-    date: 2024-10-13T13:24:00+08:00
-    lastmod: 2024-10-13T13:24:00+08:00
+    date: 2024-10-11T01:50:00+08:00
+    lastmod: 2024-10-11T01:50:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'shade', 'Dream', 'reading', 'books', 'in', 'of']
+    tags: ['Dream', 'reading', 'shade', 'books']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream suggests the possibility of finding good luck through stability and k
 | Lucky Animal        | Spider |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Salad      |
+| Lucky Food          | Chili      |
 | Lucky Instrument    | Maracas |
-| Lucky Flower        | Clover    |
-| Lucky Job           | Data Analyst       |
-| Lucky Exercise      | Kettlebell Training  |
-| Lucky Country       | Cyprus    |
+| Lucky Flower        | Larkspur    |
+| Lucky Job           | Architect       |
+| Lucky Exercise      | Push-Ups  |
+| Lucky Country       | Egypt    |
 
 
 ##  Final Reflections on Dreams

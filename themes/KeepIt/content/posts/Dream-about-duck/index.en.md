@@ -1,8 +1,8 @@
 ---
     weight: 1115
     title: "Dream about duck"  # Assuming 'title' column exists
-    date: 2024-10-13T09:44:00+08:00
-    lastmod: 2024-10-13T09:44:00+08:00
+    date: 2024-10-11T11:20:00+08:00
+    lastmod: 2024-10-11T11:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['duck', 'about', 'Dream']
+    tags: ['duck', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be diverse.Ducks are free, adaptable, and have a stro
 | Lucky Animal        | Seal |
 | Lucky Place         | Sea     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Zucchini Noodles      |
-| Lucky Instrument    | Bass Guitar |
-| Lucky Flower        | Sunflower    |
-| Lucky Job           | Chef       |
-| Lucky Exercise      | Circuit Training  |
-| Lucky Country       | Vanuatu    |
+| Lucky Food          | Cheesecake      |
+| Lucky Instrument    | Tenor Saxophone |
+| Lucky Flower        | Maranta    |
+| Lucky Job           | Human Resources Manager       |
+| Lucky Exercise      | Shot Put  |
+| Lucky Country       | China    |
 
 
 ##  Final Reflections on Dreams

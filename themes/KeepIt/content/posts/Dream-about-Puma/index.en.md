@@ -1,8 +1,8 @@
 ---
     weight: 1118
     title: "Dream about Puma"  # Assuming 'title' column exists
-    date: 2024-10-13T21:39:00+08:00
-    lastmod: 2024-10-13T21:39:00+08:00
+    date: 2024-10-13T01:02:00+08:00
+    lastmod: 2024-10-13T01:02:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Puma', 'about', 'Dream']
+    tags: ['Puma', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ What kind of luck will your dreams related to Puma?'Puma' generally symbolizes e
 | Lucky Animal        | Lizard |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Corn on the Cob      |
-| Lucky Instrument    | Synthesizer |
-| Lucky Flower        | Borage    |
-| Lucky Job           | Fashion Designer       |
-| Lucky Exercise      | High-Intensity Interval Training (HIIT)  |
-| Lucky Country       | India    |
+| Lucky Food          | Caramel Flan      |
+| Lucky Instrument    | Glockenspiel |
+| Lucky Flower        | Hoya    |
+| Lucky Job           | Chef       |
+| Lucky Exercise      | Cricket  |
+| Lucky Country       | Spain    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 239
     title: "Dream of discovering time capsules"  # Assuming 'title' column exists
-    date: 2024-10-13T04:53:00+08:00
-    lastmod: 2024-10-13T04:53:00+08:00
+    date: 2024-10-13T13:23:00+08:00
+    lastmod: 2024-10-13T13:23:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['capsules', 'Dream', 'time', 'of', 'discovering']
+    tags: ['Dream', 'discovering', 'time', 'capsules']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ It can't be said exactly whether this dream will bring good luck, but it can als
 | Lucky Animal        | Camel |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Crab      |
-| Lucky Instrument    | Electric Cello |
-| Lucky Flower        | Lobelia    |
-| Lucky Job           | Philosopher       |
-| Lucky Exercise      | Underwater Diving  |
-| Lucky Country       | Philippines    |
+| Lucky Food          | Guacamole      |
+| Lucky Instrument    | Calimba |
+| Lucky Flower        | Hoya    |
+| Lucky Job           | Interpreter       |
+| Lucky Exercise      | Shot Put  |
+| Lucky Country       | Thailand    |
 
 
 ##  Final Reflections on Dreams

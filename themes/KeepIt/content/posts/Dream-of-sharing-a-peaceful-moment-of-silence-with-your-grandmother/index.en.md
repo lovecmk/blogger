@@ -1,8 +1,8 @@
 ---
     weight: 2020
     title: "Dream of your cat being affectionate towards you"  # Assuming 'title' column exists
-    date: 2024-10-13T00:56:00+08:00
-    lastmod: 2024-10-13T00:56:00+08:00
+    date: 2024-10-12T01:19:00+08:00
+    lastmod: 2024-10-12T01:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'cat', 'Dream', 'being', 'affectionate', 'towards', 'of', 'you']
+    tags: ['being', 'you', 'Dream', 'affectionate', 'cat', 'towards']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Parrot |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Clams      |
-| Lucky Instrument    | Rudra Veena |
-| Lucky Flower        | Larkspur    |
-| Lucky Job           | Baker       |
-| Lucky Exercise      | Skiing  |
-| Lucky Country       | Tanzania    |
+| Lucky Food          | Corn on the Cob      |
+| Lucky Instrument    | Tambourine |
+| Lucky Flower        | Chive Blossom    |
+| Lucky Job           | Event Coordinator       |
+| Lucky Exercise      | Sprinting  |
+| Lucky Country       | Namibia    |
 
 
 ##  Final Reflections on Dreams

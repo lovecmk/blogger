@@ -1,8 +1,8 @@
 ---
     weight: 1235
     title: "Dream of exploring a mystical land"  # Assuming 'title' column exists
-    date: 2024-10-13T04:27:00+08:00
-    lastmod: 2024-10-13T04:27:00+08:00
+    date: 2024-10-14T07:26:00+08:00
+    lastmod: 2024-10-14T07:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['land', 'Dream', 'a', 'of', 'exploring', 'mystical']
+    tags: ['Dream', 'exploring', 'mystical', 'land']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ The dream of exploring a mystical land brings the luck of encountering new oppor
 | Lucky Animal        | Hyena |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Samosa      |
-| Lucky Instrument    | Saz |
-| Lucky Flower        | Borage    |
-| Lucky Job           | Nuclear Engineer       |
-| Lucky Exercise      | Rowing  |
-| Lucky Country       | Laos    |
+| Lucky Food          | Noodles      |
+| Lucky Instrument    | Djembe |
+| Lucky Flower        | Cornflower    |
+| Lucky Job           | Operations Manager       |
+| Lucky Exercise      | Mountain Climbers  |
+| Lucky Country       | China    |
 
 
 ##  Final Reflections on Dreams

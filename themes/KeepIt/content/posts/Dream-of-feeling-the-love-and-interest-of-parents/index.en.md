@@ -1,8 +1,8 @@
 ---
     weight: 159
     title: "Dream of feeling the love and interest of parents"  # Assuming 'title' column exists
-    date: 2024-10-13T04:05:00+08:00
-    lastmod: 2024-10-13T04:05:00+08:00
+    date: 2024-10-14T10:08:00+08:00
+    lastmod: 2024-10-14T10:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['feeling', 'parents', 'the', 'interest', 'Dream', 'and', 'love', 'of']
+    tags: ['Dream', 'love', 'feeling', 'interest', 'parents']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The dream of feeling the love and interest of parents is generally interpreted a
 | Lucky Animal        | Lion |
 | Lucky Place         | Library     |
 | Lucky Color         | White     |
-| Lucky Food          | Chia Pudding      |
-| Lucky Instrument    | Charango |
-| Lucky Flower        | Primrose    |
-| Lucky Job           | Fashion Designer       |
-| Lucky Exercise      | Rugby  |
-| Lucky Country       | Mongolia    |
+| Lucky Food          | Dumplings      |
+| Lucky Instrument    | Lap Steel Guitar |
+| Lucky Flower        | Edelweiss    |
+| Lucky Job           | Journalist       |
+| Lucky Exercise      | Cricket  |
+| Lucky Country       | Germany    |
 
 
 ##  Final Reflections on Dreams

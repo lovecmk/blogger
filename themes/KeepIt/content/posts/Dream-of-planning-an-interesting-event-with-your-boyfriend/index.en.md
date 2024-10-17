@@ -1,8 +1,8 @@
 ---
     weight: 340
     title: "Dream of planning an interesting event with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T12:57:00+08:00
-    lastmod: 2024-10-13T12:57:00+08:00
+    date: 2024-10-11T08:29:00+08:00
+    lastmod: 2024-10-11T08:29:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['interesting', 'your', 'boyfriend', 'Dream', 'an', 'event', 'planning', 'of', 'with']
+    tags: ['event', 'Dream', 'boyfriend', 'interesting', 'planning', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can symbolize the pursuit of pleasure and interest.This d
 | Lucky Animal        | Chick |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Eggplant Parmesan      |
-| Lucky Instrument    | Tenor Banjo |
-| Lucky Flower        | Ornamental Pepper    |
-| Lucky Job           | Welder       |
-| Lucky Exercise      | Hot Yoga  |
-| Lucky Country       | United Kingdom    |
+| Lucky Food          | Potato Skins      |
+| Lucky Instrument    | Marimba |
+| Lucky Flower        | Sea Lavender    |
+| Lucky Job           | Security Guard       |
+| Lucky Exercise      | Foam Rolling  |
+| Lucky Country       | Mozambique    |
 
 
 ##  Final Reflections on Dreams

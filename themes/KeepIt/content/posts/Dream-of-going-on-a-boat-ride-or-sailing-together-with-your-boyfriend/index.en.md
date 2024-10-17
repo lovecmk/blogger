@@ -1,8 +1,8 @@
 ---
     weight: 2162
     title: "Dream of your grandmother showing love through her caring actions."  # Assuming 'title' column exists
-    date: 2024-10-13T10:04:00+08:00
-    lastmod: 2024-10-13T10:04:00+08:00
+    date: 2024-10-14T03:19:00+08:00
+    lastmod: 2024-10-14T03:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['actions.', 'grandmother', 'her', 'your', 'showing', 'Dream', 'through', 'love', 'of', 'caring']
+    tags: ['Dream', 'love', 'grandmother', 'caring', 'actions', 'her', 'showing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Seafood Paella      |
-| Lucky Instrument    | Sarangi |
-| Lucky Flower        | Bellflower    |
-| Lucky Job           | Philosopher       |
-| Lucky Exercise      | Rock Climbing  |
-| Lucky Country       | Italy    |
+| Lucky Food          | Pork Chops      |
+| Lucky Instrument    | Electric Cello |
+| Lucky Flower        | Clover Blossom    |
+| Lucky Job           | Musician       |
+| Lucky Exercise      | Ballet  |
+| Lucky Country       | Spain    |
 
 
 ##  Final Reflections on Dreams

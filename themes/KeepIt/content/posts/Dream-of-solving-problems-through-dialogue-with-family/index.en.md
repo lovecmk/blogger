@@ -1,8 +1,8 @@
 ---
     weight: 166
     title: "Dream of solving problems through dialogue with family"  # Assuming 'title' column exists
-    date: 2024-10-13T17:08:00+08:00
-    lastmod: 2024-10-13T17:08:00+08:00
+    date: 2024-10-14T20:58:00+08:00
+    lastmod: 2024-10-14T20:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['solving', 'family', 'Dream', 'through', 'problems', 'of', 'with', 'dialogue']
+    tags: ['family', 'solving', 'Dream', 'problems', 'dialogue']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Good luck from this dream is about the ability to solve problems through communi
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Library     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Mango Sticky Rice      |
-| Lucky Instrument    | Tabla |
-| Lucky Flower        | Sea Lavender    |
-| Lucky Job           | Postman       |
-| Lucky Exercise      | Jumping Rope  |
-| Lucky Country       | Bhutan    |
+| Lucky Food          | Baklava      |
+| Lucky Instrument    | Sarangi |
+| Lucky Flower        | Cosmos    |
+| Lucky Job           | Philosopher       |
+| Lucky Exercise      | Hula Hooping  |
+| Lucky Country       | Denmark    |
 
 
 ##  Final Reflections on Dreams

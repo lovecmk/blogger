@@ -1,8 +1,8 @@
 ---
     weight: 484
     title: "Dreams of disappointing people or falling short of expectations"  # Assuming 'title' column exists
-    date: 2024-10-13T11:04:00+08:00
-    lastmod: 2024-10-13T11:04:00+08:00
+    date: 2024-10-13T18:23:00+08:00
+    lastmod: 2024-10-13T18:23:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['disappointing', 'or', 'people', 'falling', 'expectations', 'Dreams', 'short', 'of']
+    tags: ['expectations', 'disappointing', 'falling', 'short', 'Dreams', 'people']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is that you can make you more realistic about disappointm
 | Lucky Animal        | Sloth |
 | Lucky Place         | Museum     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Gumbo      |
-| Lucky Instrument    | Trompeta |
-| Lucky Flower        | Strelitzia    |
-| Lucky Job           | Field Technician       |
+| Lucky Food          | Lentil Soup      |
+| Lucky Instrument    | Marimba |
+| Lucky Flower        | Crown Daisy    |
+| Lucky Job           | Accountant       |
 | Lucky Exercise      | Parkour  |
-| Lucky Country       | Vietnam    |
+| Lucky Country       | Croatia    |
 
 
 ##  Final Reflections on Dreams

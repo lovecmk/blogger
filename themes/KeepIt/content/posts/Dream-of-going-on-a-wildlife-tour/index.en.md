@@ -1,8 +1,8 @@
 ---
     weight: 1354
     title: "Dream of going on a wildlife tour"  # Assuming 'title' column exists
-    date: 2024-10-13T07:25:00+08:00
-    lastmod: 2024-10-13T07:25:00+08:00
+    date: 2024-10-12T18:59:00+08:00
+    lastmod: 2024-10-12T18:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['wildlife', 'tour', 'Dream', 'going', 'a', 'on', 'of']
+    tags: ['tour', 'Dream', 'going', 'wildlife']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Fox |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Tuna Tartare      |
-| Lucky Instrument    | Timpani |
-| Lucky Flower        | Daisy    |
-| Lucky Job           | Mechanic       |
-| Lucky Exercise      | Step Aerobics  |
-| Lucky Country       | Malaysia    |
+| Lucky Food          | Hummus      |
+| Lucky Instrument    | Triangle |
+| Lucky Flower        | Scented Geranium    |
+| Lucky Job           | UX Designer       |
+| Lucky Exercise      | Lunges  |
+| Lucky Country       | Malawi    |
 
 
 ##  Final Reflections on Dreams

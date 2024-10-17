@@ -1,8 +1,8 @@
 ---
     weight: 866
     title: "Dream of a sheep"  # Assuming 'title' column exists
-    date: 2024-10-13T09:15:00+08:00
-    lastmod: 2024-10-13T09:15:00+08:00
+    date: 2024-10-11T17:27:00+08:00
+    lastmod: 2024-10-11T17:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'sheep', 'a', 'Dream']
+    tags: ['Dream', 'sheep']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The dream of coming out also symbolizes good luck.Since sheep symbolize purity a
 | Lucky Animal        | Gorilla |
 | Lucky Place         | Sea     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Pork Chops      |
-| Lucky Instrument    | Kettledrum |
-| Lucky Flower        | Ranunculus    |
-| Lucky Job           | Software Engineer       |
-| Lucky Exercise      | Lunges  |
-| Lucky Country       | United States    |
+| Lucky Food          | Lentil Soup      |
+| Lucky Instrument    | Pipa |
+| Lucky Flower        | Petunia    |
+| Lucky Job           | Architect       |
+| Lucky Exercise      | Yoga Flow  |
+| Lucky Country       | Micronesia    |
 
 
 ##  Final Reflections on Dreams

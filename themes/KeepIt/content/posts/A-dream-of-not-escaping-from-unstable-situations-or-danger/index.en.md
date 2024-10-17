@@ -1,8 +1,8 @@
 ---
     weight: 486
     title: "A dream of not escaping from unstable situations or danger"  # Assuming 'title' column exists
-    date: 2024-10-13T20:11:00+08:00
-    lastmod: 2024-10-13T20:11:00+08:00
+    date: 2024-10-11T03:16:00+08:00
+    lastmod: 2024-10-11T03:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['situations', 'unstable', 'or', 'not', 'danger', 'dream', 'from', 'of', 'escaping', 'A']
+    tags: ['situations', 'danger', 'dream', 'escaping', 'A', 'from', 'not', 'unstable']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream reminds me that even when I face a difficult situation in
 | Lucky Animal        | Hamster |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Mango Sticky Rice      |
-| Lucky Instrument    | Chimes |
-| Lucky Flower        | Ragged Robin    |
-| Lucky Job           | Farmer       |
-| Lucky Exercise      | Circuit Workout  |
-| Lucky Country       | Turkmenistan    |
+| Lucky Food          | Brownies      |
+| Lucky Instrument    | Sarangi |
+| Lucky Flower        | Pansy    |
+| Lucky Job           | Philosopher       |
+| Lucky Exercise      | Lifting  |
+| Lucky Country       | Israel    |
 
 
 ##  Final Reflections on Dreams

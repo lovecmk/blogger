@@ -1,8 +1,8 @@
 ---
     weight: 926
     title: "Dream of being chased by a huge spider"  # Assuming 'title' column exists
-    date: 2024-10-13T12:31:00+08:00
-    lastmod: 2024-10-13T12:31:00+08:00
+    date: 2024-10-11T22:31:00+08:00
+    lastmod: 2024-10-11T22:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['huge', 'spider', 'Dream', 'being', 'a', 'by', 'of', 'chased']
+    tags: ['being', 'chased', 'Dream', 'huge', 'spider']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can help you to succeed in the fight in your dreams or ge
 | Lucky Animal        | Wolf |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Gumbo      |
-| Lucky Instrument    | Rudra Veena |
-| Lucky Flower        | Dandelion    |
-| Lucky Job           | Content Creator       |
-| Lucky Exercise      | Hammer Throw  |
-| Lucky Country       | Eswatini    |
+| Lucky Food          | Kale Salad      |
+| Lucky Instrument    | Trombone |
+| Lucky Flower        | Bougainvillea    |
+| Lucky Job           | Makeup Artist       |
+| Lucky Exercise      | Weightlifting  |
+| Lucky Country       | Greece    |
 
 
 ##  Final Reflections on Dreams

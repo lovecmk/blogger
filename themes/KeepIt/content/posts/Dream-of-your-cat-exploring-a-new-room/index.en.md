@@ -1,8 +1,8 @@
 ---
     weight: 2211
     title: "Dream of your cat rolling around in happiness"  # Assuming 'title' column exists
-    date: 2024-10-13T05:06:00+08:00
-    lastmod: 2024-10-13T05:06:00+08:00
+    date: 2024-10-14T21:22:00+08:00
+    lastmod: 2024-10-14T21:22:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['happiness', 'rolling', 'your', 'cat', 'Dream', 'around', 'in', 'of']
+    tags: ['Dream', 'cat', 'happiness', 'rolling', 'around']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Bruschetta      |
-| Lucky Instrument    | Piano |
-| Lucky Flower        | Petunia    |
-| Lucky Job           | Sales Representative       |
-| Lucky Exercise      | Water Polo  |
-| Lucky Country       | Iraq    |
+| Lucky Food          | Chowder      |
+| Lucky Instrument    | Ney |
+| Lucky Flower        | Cornflower    |
+| Lucky Job           | Doctor       |
+| Lucky Exercise      | Skiing  |
+| Lucky Country       | Thailand    |
 
 
 ##  Final Reflections on Dreams

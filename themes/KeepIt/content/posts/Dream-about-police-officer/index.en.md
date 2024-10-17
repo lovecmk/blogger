@@ -1,8 +1,8 @@
 ---
     weight: 1187
     title: "Dream about police officer"  # Assuming 'title' column exists
-    date: 2024-10-13T03:01:00+08:00
-    lastmod: 2024-10-13T03:01:00+08:00
+    date: 2024-10-13T15:26:00+08:00
+    lastmod: 2024-10-13T15:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['officer', 'police', 'about', 'Dream']
+    tags: ['officer', 'Dream', 'police']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of the 'police officer' dream can be accepted to mean that you should a
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Sandwich      |
-| Lucky Instrument    | Slide Guitar |
-| Lucky Flower        | Bellflower    |
-| Lucky Job           | Accountant       |
-| Lucky Exercise      | Underwater Diving  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Chocolate      |
+| Lucky Instrument    | Banjo |
+| Lucky Flower        | Nymphaea    |
+| Lucky Job           | Veterinarian       |
+| Lucky Exercise      | CrossFit  |
+| Lucky Country       | Namibia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1449
     title: "Dream of being in a dark or dimly lit space"  # Assuming 'title' column exists
-    date: 2024-10-13T01:37:00+08:00
-    lastmod: 2024-10-13T01:37:00+08:00
+    date: 2024-10-15T10:20:00+08:00
+    lastmod: 2024-10-15T10:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['space', 'dark', 'lit', 'or', 'Dream', 'being', 'a', 'in', 'of', 'dimly']
+    tags: ['being', 'Dream', 'dark', 'dimly', 'lit', 'space']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams themselves do not bring luck or guarantee specific outcomes. However, thi
 | Lucky Animal        | Seal |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Steak      |
-| Lucky Instrument    | Tambourine |
-| Lucky Flower        | Heliotrope    |
-| Lucky Job           | Lawyer       |
-| Lucky Exercise      | Yoga  |
-| Lucky Country       | Germany    |
+| Lucky Food          | Lentil Soup      |
+| Lucky Instrument    | Maracas |
+| Lucky Flower        | Mullein    |
+| Lucky Job           | Consultant       |
+| Lucky Exercise      | Step Aerobics  |
+| Lucky Country       | Iraq    |
 
 
 ##  Final Reflections on Dreams

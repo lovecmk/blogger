@@ -1,8 +1,8 @@
 ---
     weight: 1135
     title: "Dream about museum"  # Assuming 'title' column exists
-    date: 2024-10-13T17:18:00+08:00
-    lastmod: 2024-10-13T17:18:00+08:00
+    date: 2024-10-13T13:22:00+08:00
+    lastmod: 2024-10-13T13:22:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['museum', 'about', 'Dream']
+    tags: ['museum', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck that the 'museum' dream gives you can be in learning new knowledge and 
 | Lucky Animal        | Sparrow |
 | Lucky Place         | Library     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Onion Rings      |
+| Lucky Food          | Scone      |
 | Lucky Instrument    | Soprano Recorder |
-| Lucky Flower        | Maranta    |
-| Lucky Job           | IT Specialist       |
-| Lucky Exercise      | Javelin  |
-| Lucky Country       | United States    |
+| Lucky Flower        | Bleeding Heart    |
+| Lucky Job           | Network Administrator       |
+| Lucky Exercise      | Softball  |
+| Lucky Country       | Netherlands    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 440
     title: "Dream of running away from your past or past behavior"  # Assuming 'title' column exists
-    date: 2024-10-13T09:44:00+08:00
-    lastmod: 2024-10-13T09:44:00+08:00
+    date: 2024-10-15T01:49:00+08:00
+    lastmod: 2024-10-15T01:49:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'running', 'your', 'behavior', 'away', 'Dream', 'from', 'of', 'past']
+    tags: ['Dream', 'past', 'running', 'from', 'behavior', 'away']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can provide opportunities for self -growth and self -development rath
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Sea     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Pesto      |
-| Lucky Instrument    | Rudra Veena |
-| Lucky Flower        | Nymphaea    |
-| Lucky Job           | Archaeologist       |
-| Lucky Exercise      | Shot Put  |
-| Lucky Country       | Philippines    |
+| Lucky Food          | Duck Confit      |
+| Lucky Instrument    | Trombone |
+| Lucky Flower        | Freesia    |
+| Lucky Job           | Artist       |
+| Lucky Exercise      | Ultimate Frisbee  |
+| Lucky Country       | Russia    |
 
 
 ##  Final Reflections on Dreams

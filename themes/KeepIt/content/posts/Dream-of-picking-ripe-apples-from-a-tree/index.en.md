@@ -1,8 +1,8 @@
 ---
     weight: 2102
     title: "Dream of having a picnic in the park with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T14:53:00+08:00
-    lastmod: 2024-10-13T14:53:00+08:00
+    date: 2024-10-11T22:01:00+08:00
+    lastmod: 2024-10-11T22:01:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['park', 'picnic', 'the', 'your', 'boyfriend', 'Dream', 'a', 'in', 'of', 'with', 'having']
+    tags: ['Dream', 'boyfriend', 'picnic', 'having', 'park']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Duck |
 | Lucky Place         | Library     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Chili      |
-| Lucky Instrument    | Slide Guitar |
-| Lucky Flower        | Dandelion    |
-| Lucky Job           | Mechanic       |
-| Lucky Exercise      | Kettlebell Training  |
-| Lucky Country       | Micronesia    |
+| Lucky Food          | Vegetable Stir Fry      |
+| Lucky Instrument    | Kettledrum |
+| Lucky Flower        | Zinnia    |
+| Lucky Job           | Nurse       |
+| Lucky Exercise      | Beach Volleyball  |
+| Lucky Country       | Bulgaria    |
 
 
 ##  Final Reflections on Dreams

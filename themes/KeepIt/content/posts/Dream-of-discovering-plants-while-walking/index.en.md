@@ -1,8 +1,8 @@
 ---
     weight: 567
     title: "Dream of discovering plants while walking"  # Assuming 'title' column exists
-    date: 2024-10-13T05:20:00+08:00
-    lastmod: 2024-10-13T05:20:00+08:00
+    date: 2024-10-12T22:18:00+08:00
+    lastmod: 2024-10-12T22:18:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['plants', 'Dream', 'discovering', 'of', 'while', 'walking']
+    tags: ['while', 'Dream', 'walking', 'discovering', 'plants']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream may be a sign of opportunities or situations to have good luck and po
 | Lucky Animal        | Parrot |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Tacos      |
-| Lucky Instrument    | Electric Guitar |
-| Lucky Flower        | Peach Blossom    |
-| Lucky Job           | Pilot       |
-| Lucky Exercise      | Sledge Hockey  |
-| Lucky Country       | Sweden    |
+| Lucky Food          | Falafel      |
+| Lucky Instrument    | Synthesizer |
+| Lucky Flower        | Cyclamen    |
+| Lucky Job           | Business Analyst       |
+| Lucky Exercise      | Deadlifts  |
+| Lucky Country       | Germany    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1964
     title: "Dream of fighting against bullies"  # Assuming 'title' column exists
-    date: 2024-10-13T02:25:00+08:00
-    lastmod: 2024-10-13T02:25:00+08:00
+    date: 2024-10-15T17:50:00+08:00
+    lastmod: 2024-10-15T17:50:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fighting', 'against', 'Dream', 'bullies', 'of']
+    tags: ['Dream', 'bullies', 'fighting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hippo |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Scallops      |
-| Lucky Instrument    | Xylophone |
-| Lucky Flower        | Butterfly Bush    |
-| Lucky Job           | Pastry Chef       |
-| Lucky Exercise      | Rowing  |
-| Lucky Country       | Azerbaijan    |
+| Lucky Food          | Cheeseboard      |
+| Lucky Instrument    | Steel Pan |
+| Lucky Flower        | Monkey Grass    |
+| Lucky Job           | Chef de Cuisine       |
+| Lucky Exercise      | Body Pump  |
+| Lucky Country       | Poland    |
 
 
 ##  Final Reflections on Dreams

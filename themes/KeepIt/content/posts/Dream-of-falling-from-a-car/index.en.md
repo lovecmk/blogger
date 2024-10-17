@@ -1,8 +1,8 @@
 ---
     weight: 940
     title: "Dream of falling from a car"  # Assuming 'title' column exists
-    date: 2024-10-13T09:06:00+08:00
-    lastmod: 2024-10-13T09:06:00+08:00
+    date: 2024-10-14T07:56:00+08:00
+    lastmod: 2024-10-14T07:56:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['falling', 'Dream', 'a', 'car', 'from', 'of']
+    tags: ['Dream', 'falling', 'from', 'car']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary mainly by individual interpretation and faith.Bu
 | Lucky Animal        | Chicken |
 | Lucky Place         | Lake     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Samosa      |
+| Lucky Food          | Ratatouille      |
 | Lucky Instrument    | Flute |
-| Lucky Flower        | Anemone    |
-| Lucky Job           | Graphic Designer       |
-| Lucky Exercise      | Snowboarding  |
-| Lucky Country       | Sweden    |
+| Lucky Flower        | Cyclamen    |
+| Lucky Job           | Chef de Cuisine       |
+| Lucky Exercise      | Calisthenics  |
+| Lucky Country       | Lesotho    |
 
 
 ##  Final Reflections on Dreams

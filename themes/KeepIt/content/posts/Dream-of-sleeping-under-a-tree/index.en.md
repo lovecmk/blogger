@@ -1,8 +1,8 @@
 ---
     weight: 565
     title: "Dream of sleeping under a tree"  # Assuming 'title' column exists
-    date: 2024-10-13T01:18:00+08:00
-    lastmod: 2024-10-13T01:18:00+08:00
+    date: 2024-10-14T22:39:00+08:00
+    lastmod: 2024-10-14T22:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['tree', 'sleeping', 'Dream', 'a', 'of', 'under']
+    tags: ['Dream', 'under', 'tree', 'sleeping']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can indicate that you can find inner calm and stability.I
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Mart     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Beef Stroganoff      |
-| Lucky Instrument    | Tenor Guitar |
-| Lucky Flower        | Lily    |
-| Lucky Job           | Interpreter       |
-| Lucky Exercise      | Snowboarding  |
-| Lucky Country       | Germany    |
+| Lucky Food          | Baked Ziti      |
+| Lucky Instrument    | Djembe |
+| Lucky Flower        | Thunbergia    |
+| Lucky Job           | Librarian       |
+| Lucky Exercise      | Sledge Hockey  |
+| Lucky Country       | Portugal    |
 
 
 ##  Final Reflections on Dreams

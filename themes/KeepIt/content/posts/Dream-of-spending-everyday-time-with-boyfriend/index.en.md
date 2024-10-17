@@ -1,8 +1,8 @@
 ---
     weight: 336
     title: "Dream of spending everyday time with boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T12:42:00+08:00
-    lastmod: 2024-10-13T12:42:00+08:00
+    date: 2024-10-11T05:43:00+08:00
+    lastmod: 2024-10-11T05:43:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['everyday', 'boyfriend', 'Dream', 'time', 'of', 'with', 'spending']
+    tags: ['Dream', 'boyfriend', 'spending', 'time', 'everyday']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can symbolize many luck.You will be able to feel good luck based on h
 | Lucky Animal        | Guinea pig |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Salad      |
-| Lucky Instrument    | Sitar |
-| Lucky Flower        | Tiger Lily    |
-| Lucky Job           | Makeup Artist       |
-| Lucky Exercise      | Surf Lifesaving  |
-| Lucky Country       | Sri Lanka    |
+| Lucky Food          | Vegetable Stir Fry      |
+| Lucky Instrument    | Accordion |
+| Lucky Flower        | Kalanchoe    |
+| Lucky Job           | Journalist       |
+| Lucky Exercise      | Bench Press  |
+| Lucky Country       | Malta    |
 
 
 ##  Final Reflections on Dreams

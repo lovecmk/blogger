@@ -1,8 +1,8 @@
 ---
     weight: 521
     title: "Dream of trying various movements"  # Assuming 'title' column exists
-    date: 2024-10-13T10:48:00+08:00
-    lastmod: 2024-10-13T10:48:00+08:00
+    date: 2024-10-14T03:23:00+08:00
+    lastmod: 2024-10-14T03:23:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'trying', 'various', 'movements', 'of']
+    tags: ['trying', 'Dream', 'movements', 'various']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Good luck from this dream is to revitalize your body and spirit, health and vita
 | Lucky Animal        | Bear |
 | Lucky Place         | Library     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Sushi Roll      |
-| Lucky Instrument    | Bagpipes |
-| Lucky Flower        | Vinca    |
-| Lucky Job           | Data Scientist       |
-| Lucky Exercise      | Sledge Hockey  |
-| Lucky Country       | Brazil    |
+| Lucky Food          | Gnocchi      |
+| Lucky Instrument    | Piano |
+| Lucky Flower        | Peony    |
+| Lucky Job           | Makeup Artist       |
+| Lucky Exercise      | Circuit Training  |
+| Lucky Country       | Bahrain    |
 
 
 ##  Final Reflections on Dreams

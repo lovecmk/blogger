@@ -1,8 +1,8 @@
 ---
     weight: 832
     title: "Dream of fire due to gas leakage"  # Assuming 'title' column exists
-    date: 2024-10-13T00:43:00+08:00
-    lastmod: 2024-10-13T00:43:00+08:00
+    date: 2024-10-13T09:46:00+08:00
+    lastmod: 2024-10-13T09:46:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['gas', 'to', 'fire', 'Dream', 'leakage', 'due', 'of']
+    tags: ['Dream', 'gas', 'due', 'to', 'fire', 'leakage']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream mainly delivers a message related to warning and danger, so lucky ele
 | Lucky Animal        | Mole |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Burger      |
-| Lucky Instrument    | Electric Cello |
-| Lucky Flower        | Heliotrope    |
-| Lucky Job           | UX Designer       |
-| Lucky Exercise      | Plank  |
-| Lucky Country       | Germany    |
+| Lucky Food          | Sushi Roll      |
+| Lucky Instrument    | Electric Guitar |
+| Lucky Flower        | Primrose    |
+| Lucky Job           | Interior Designer       |
+| Lucky Exercise      | Surf Lifesaving  |
+| Lucky Country       | United Kingdom    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 777
     title: "Dream of diving under the abyss and seeing deep sea creatures"  # Assuming 'title' column exists
-    date: 2024-10-13T23:45:00+08:00
-    lastmod: 2024-10-13T23:45:00+08:00
+    date: 2024-10-13T05:26:00+08:00
+    lastmod: 2024-10-13T05:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['creatures', 'the', 'diving', 'seeing', 'deep', 'Dream', 'sea', 'abyss', 'and', 'of', 'under']
+    tags: ['sea', 'Dream', 'creatures', 'abyss', 'diving', 'deep', 'under', 'seeing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can depend on individuals.In general, this dream can have
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Fish and Chips      |
-| Lucky Instrument    | Lyre |
-| Lucky Flower        | Jasmine    |
-| Lucky Job           | Pilot       |
-| Lucky Exercise      | Parkour  |
-| Lucky Country       | Belgium    |
+| Lucky Food          | Pesto      |
+| Lucky Instrument    | Mandolin |
+| Lucky Flower        | Anemone    |
+| Lucky Job           | Journalist       |
+| Lucky Exercise      | Stand-Up Paddleboarding  |
+| Lucky Country       | Germany    |
 
 
 ##  Final Reflections on Dreams

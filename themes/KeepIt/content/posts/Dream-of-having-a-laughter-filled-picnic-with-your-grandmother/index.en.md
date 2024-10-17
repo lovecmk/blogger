@@ -1,8 +1,8 @@
 ---
     weight: 2057
     title: "Dream of arguments about family disputes"  # Assuming 'title' column exists
-    date: 2024-10-13T09:33:00+08:00
-    lastmod: 2024-10-13T09:33:00+08:00
+    date: 2024-10-15T05:15:00+08:00
+    lastmod: 2024-10-15T05:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'about', 'arguments', 'Dream', 'of', 'disputes']
+    tags: ['family', 'Dream', 'disputes', 'arguments']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Owl |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Salad      |
-| Lucky Instrument    | Trombone Slide |
-| Lucky Flower        | Bouvardia    |
-| Lucky Job           | Mechanic       |
-| Lucky Exercise      | Kite Surfing  |
-| Lucky Country       | Palau    |
+| Lucky Food          | Fried Rice      |
+| Lucky Instrument    | Djembe |
+| Lucky Flower        | Bougainvillea    |
+| Lucky Job           | Baker       |
+| Lucky Exercise      | Hammer Throw  |
+| Lucky Country       | Norway    |
 
 
 ##  Final Reflections on Dreams

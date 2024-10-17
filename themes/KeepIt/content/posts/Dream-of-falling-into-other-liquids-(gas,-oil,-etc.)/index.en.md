@@ -1,8 +1,8 @@
 ---
     weight: 977
     title: "Dream of falling into other liquids (gas, oil, etc.)"  # Assuming 'title' column exists
-    date: 2024-10-13T04:53:00+08:00
-    lastmod: 2024-10-13T04:53:00+08:00
+    date: 2024-10-11T09:57:00+08:00
+    lastmod: 2024-10-11T09:57:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['other', 'liquids', 'into', 'falling', 'Dream', 'oil,', 'etc.)', '(gas,', 'of']
+    tags: ['Dream', 'other', 'into', '(gas,', 'falling', 'liquids', 'oil,', 'etc)']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream gives good luck depends on the situation.In general, this dream shows
 | Lucky Animal        | Deer |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Deviled Eggs      |
-| Lucky Instrument    | Fiddle |
-| Lucky Flower        | Rose    |
-| Lucky Job           | Physical Therapist       |
-| Lucky Exercise      | Lacrosse  |
-| Lucky Country       | Turkey    |
+| Lucky Food          | Quesadilla      |
+| Lucky Instrument    | Didgeridoo |
+| Lucky Flower        | Mullein    |
+| Lucky Job           | Recruiter       |
+| Lucky Exercise      | Running  |
+| Lucky Country       | Portugal    |
 
 
 ##  Final Reflections on Dreams

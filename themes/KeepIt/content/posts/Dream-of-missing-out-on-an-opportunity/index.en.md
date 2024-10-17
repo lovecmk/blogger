@@ -1,8 +1,8 @@
 ---
     weight: 1421
     title: "Dream of missing out on an opportunity"  # Assuming 'title' column exists
-    date: 2024-10-13T13:27:00+08:00
-    lastmod: 2024-10-13T13:27:00+08:00
+    date: 2024-10-15T11:02:00+08:00
+    lastmod: 2024-10-15T11:02:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['opportunity', 'missing', 'out', 'Dream', 'an', 'on', 'of']
+    tags: ['Dream', 'missing', 'out', 'opportunity', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Pig |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | White     |
-| Lucky Food          | Deviled Eggs      |
-| Lucky Instrument    | Oboe |
-| Lucky Flower        | Mums    |
-| Lucky Job           | Sales Manager       |
-| Lucky Exercise      | Sprinting  |
-| Lucky Country       | Vanuatu    |
+| Lucky Food          | Gnocchi      |
+| Lucky Instrument    | Chimes |
+| Lucky Flower        | Carnation    |
+| Lucky Job           | Photographer       |
+| Lucky Exercise      | Basketball  |
+| Lucky Country       | New Zealand    |
 
 
 ##  Final Reflections on Dreams

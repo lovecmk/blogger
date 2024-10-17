@@ -1,8 +1,8 @@
 ---
     weight: 1778
     title: "Dream of sitting with your grandmother, listening to her childhood stories."  # Assuming 'title' column exists
-    date: 2024-10-13T01:18:00+08:00
-    lastmod: 2024-10-13T01:18:00+08:00
+    date: 2024-10-15T12:15:00+08:00
+    lastmod: 2024-10-15T12:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['her', 'your', 'to', 'Dream', 'sitting', 'listening', 'childhood', 'stories.', 'grandmother,', 'of', 'with']
+    tags: ['grandmother,', 'Dream', 'childhood', 'listening', 'to', 'sitting', 'her', 'stories']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hamster |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Biryani      |
-| Lucky Instrument    | Tabla |
-| Lucky Flower        | Aster    |
-| Lucky Job           | Statistician       |
-| Lucky Exercise      | Ashtanga Yoga  |
-| Lucky Country       | Egypt    |
+| Lucky Food          | Baba Ganoush      |
+| Lucky Instrument    | Ney |
+| Lucky Flower        | Pansy    |
+| Lucky Job           | Firefighter       |
+| Lucky Exercise      | Martial Arts  |
+| Lucky Country       | Kenya    |
 
 
 ##  Final Reflections on Dreams

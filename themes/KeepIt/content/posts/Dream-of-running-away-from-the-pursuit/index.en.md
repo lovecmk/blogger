@@ -1,8 +1,8 @@
 ---
     weight: 388
     title: "Dream of running away from the pursuit"  # Assuming 'title' column exists
-    date: 2024-10-13T17:30:00+08:00
-    lastmod: 2024-10-13T17:30:00+08:00
+    date: 2024-10-14T07:10:00+08:00
+    lastmod: 2024-10-14T07:10:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'running', 'away', 'Dream', 'pursuit', 'from', 'of']
+    tags: ['Dream', 'running', 'pursuit', 'from', 'away']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream mainly shows anxiety or pressure, so it's hard to expect special luck
 | Lucky Animal        | Wolf |
 | Lucky Place         | School     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Gelato      |
-| Lucky Instrument    | Tabla |
-| Lucky Flower        | Clover    |
-| Lucky Job           | Marketing Manager       |
-| Lucky Exercise      | Salsa  |
-| Lucky Country       | Western Sahara    |
+| Lucky Food          | Falafel      |
+| Lucky Instrument    | Fiddle |
+| Lucky Flower        | Pincushion Flower    |
+| Lucky Job           | Actor       |
+| Lucky Exercise      | Stand-Up Paddleboarding  |
+| Lucky Country       | Jordan    |
 
 
 ##  Final Reflections on Dreams

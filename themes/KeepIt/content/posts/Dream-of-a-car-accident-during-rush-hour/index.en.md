@@ -1,8 +1,8 @@
 ---
     weight: 1414
     title: "Dream of a car accident during rush hour"  # Assuming 'title' column exists
-    date: 2024-10-13T08:00:00+08:00
-    lastmod: 2024-10-13T08:00:00+08:00
+    date: 2024-10-12T17:44:00+08:00
+    lastmod: 2024-10-12T17:44:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'during', 'rush', 'a', 'hour', 'accident', 'car', 'of']
+    tags: ['Dream', 'rush', 'hour', 'car', 'accident']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | White     |
-| Lucky Food          | Gumbo      |
-| Lucky Instrument    | Lap Steel Guitar |
-| Lucky Flower        | Sundew    |
-| Lucky Job           | Pilot       |
-| Lucky Exercise      | Circuit Workout  |
-| Lucky Country       | Kyrgyzstan    |
+| Lucky Food          | Clams      |
+| Lucky Instrument    | Sarangi |
+| Lucky Flower        | Larkspur    |
+| Lucky Job           | Bus Driver       |
+| Lucky Exercise      | Ashtanga Yoga  |
+| Lucky Country       | Thailand    |
 
 
 ##  Final Reflections on Dreams

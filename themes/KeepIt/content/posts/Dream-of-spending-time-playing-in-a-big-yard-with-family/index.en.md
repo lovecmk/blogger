@@ -1,8 +1,8 @@
 ---
     weight: 683
     title: "Dream of spending time playing in a big yard with family"  # Assuming 'title' column exists
-    date: 2024-10-13T22:32:00+08:00
-    lastmod: 2024-10-13T22:32:00+08:00
+    date: 2024-10-14T13:10:00+08:00
+    lastmod: 2024-10-14T13:10:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'big', 'playing', 'Dream', 'a', 'time', 'in', 'of', 'yard', 'with', 'spending']
+    tags: ['family', 'Dream', 'big', 'playing', 'spending', 'time', 'yard']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can symbolize the luck that gives you home happiness and comfort.Thro
 | Lucky Animal        | Panda |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Green     |
-| Lucky Food          | Kale Salad      |
-| Lucky Instrument    | Harmonium |
-| Lucky Flower        | Nasturtium    |
-| Lucky Job           | Data Analyst       |
-| Lucky Exercise      | Step Aerobics  |
-| Lucky Country       | Kenya    |
+| Lucky Food          | Ceviche      |
+| Lucky Instrument    | Sarangi |
+| Lucky Flower        | Cactus Flower    |
+| Lucky Job           | Recruiter       |
+| Lucky Exercise      | Gymnastics  |
+| Lucky Country       | Cyprus    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 990
     title: "Anxious dream"  # Assuming 'title' column exists
-    date: 2024-10-13T17:50:00+08:00
-    lastmod: 2024-10-13T17:50:00+08:00
+    date: 2024-10-14T16:10:00+08:00
+    lastmod: 2024-10-14T16:10:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -59,12 +59,12 @@ Luck in anxious dreams is usually not connected.But if you have any problems or 
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Black     |
-| Lucky Food          | Popcorn      |
-| Lucky Instrument    | Charango |
-| Lucky Flower        | Hoya    |
-| Lucky Job           | App Developer       |
-| Lucky Exercise      | Kite Surfing  |
-| Lucky Country       | Sri Lanka    |
+| Lucky Food          | Tiramisu      |
+| Lucky Instrument    | Banjo |
+| Lucky Flower        | Sweet Pea    |
+| Lucky Job           | Historian       |
+| Lucky Exercise      | Dance Aerobics  |
+| Lucky Country       | Turkmenistan    |
 
 
 ##  Final Reflections on Dreams

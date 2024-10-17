@@ -1,8 +1,8 @@
 ---
     weight: 1061
     title: "Dream about Scorpion"  # Assuming 'title' column exists
-    date: 2024-10-13T14:19:00+08:00
-    lastmod: 2024-10-13T14:19:00+08:00
+    date: 2024-10-14T11:12:00+08:00
+    lastmod: 2024-10-14T11:12:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['about', 'Dream', 'Scorpion']
+    tags: ['Dream', 'Scorpion']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ In general, Scorpion is considered a negative symbol, but it can be interpreted 
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Park     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Tofu      |
-| Lucky Instrument    | Banjo |
-| Lucky Flower        | Daffodil    |
-| Lucky Job           | Landscaper       |
-| Lucky Exercise      | Dancing  |
-| Lucky Country       | Saudi Arabia    |
+| Lucky Food          | Deviled Eggs      |
+| Lucky Instrument    | Violin |
+| Lucky Flower        | Agapanthus    |
+| Lucky Job           | Psychologist       |
+| Lucky Exercise      | Resistance Bands  |
+| Lucky Country       | Estonia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 115
     title: "Dream of having a comfortable time at home with her husband"  # Assuming 'title' column exists
-    date: 2024-10-13T04:02:00+08:00
-    lastmod: 2024-10-13T04:02:00+08:00
+    date: 2024-10-11T01:34:00+08:00
+    lastmod: 2024-10-11T01:34:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['her', 'at', 'Dream', 'a', 'time', 'husband', 'of', 'home', 'with', 'having', 'comfortable']
+    tags: ['Dream', 'home', 'comfortable', 'her', 'time', 'husband', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The good luck of this dream may be peaceful and stable in the surrounding enviro
 | Lucky Animal        | Lion |
 | Lucky Place         | Lake     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Chowder      |
-| Lucky Instrument    | Violin Bow |
-| Lucky Flower        | Wisteria    |
-| Lucky Job           | Accountant       |
-| Lucky Exercise      | Lacrosse  |
-| Lucky Country       | Thailand    |
+| Lucky Food          | Cheeseboard      |
+| Lucky Instrument    | Melodic Percussion |
+| Lucky Flower        | Perennial Aster    |
+| Lucky Job           | Biologist       |
+| Lucky Exercise      | Yoga Flow  |
+| Lucky Country       | Tanzania    |
 
 
 ##  Final Reflections on Dreams

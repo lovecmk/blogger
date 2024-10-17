@@ -1,8 +1,8 @@
 ---
     weight: 2026
     title: "Dream of feeling rejected by loved ones"  # Assuming 'title' column exists
-    date: 2024-10-13T17:37:00+08:00
-    lastmod: 2024-10-13T17:37:00+08:00
+    date: 2024-10-15T11:28:00+08:00
+    lastmod: 2024-10-15T11:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['feeling', 'Dream', 'ones', 'by', 'rejected', 'loved', 'of']
+    tags: ['rejected', 'Dream', 'loved', 'feeling', 'ones']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams don't inherently bring luck, but this dream could be seen as a positive s
 | Lucky Animal        | Seagull |
 | Lucky Place         | Sea     |
 | Lucky Color         | Red     |
-| Lucky Food          | Vegetable Stir Fry      |
-| Lucky Instrument    | Soprano Recorder |
-| Lucky Flower        | Vinca    |
-| Lucky Job           | Welder       |
-| Lucky Exercise      | Rock Climbing  |
-| Lucky Country       | Bangladesh    |
+| Lucky Food          | Fajitas      |
+| Lucky Instrument    | Lap Steel Guitar |
+| Lucky Flower        | Chrysanthemum    |
+| Lucky Job           | Sous Chef       |
+| Lucky Exercise      | Beach Volleyball  |
+| Lucky Country       | Qatar    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1673
     title: "Dream of conflicts about family norms"  # Assuming 'title' column exists
-    date: 2024-10-13T13:45:00+08:00
-    lastmod: 2024-10-13T13:45:00+08:00
+    date: 2024-10-11T17:52:00+08:00
+    lastmod: 2024-10-11T17:52:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'conflicts', 'about', 'Dream', 'norms', 'of']
+    tags: ['family', 'Dream', 'norms', 'conflicts']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rhino |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Pork Chops      |
-| Lucky Instrument    | Pipa |
-| Lucky Flower        | Alyssum    |
-| Lucky Job           | Mechanic       |
-| Lucky Exercise      | Hot Yoga  |
-| Lucky Country       | Kiribati    |
+| Lucky Food          | Lasagna      |
+| Lucky Instrument    | Koto |
+| Lucky Flower        | Dahlia    |
+| Lucky Job           | Graphic Designer       |
+| Lucky Exercise      | Push-Ups  |
+| Lucky Country       | Georgia    |
 
 
 ##  Final Reflections on Dreams

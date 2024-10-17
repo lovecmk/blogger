@@ -1,8 +1,8 @@
 ---
     weight: 1360
     title: "Dream of your dog winning an award"  # Assuming 'title' column exists
-    date: 2024-10-13T19:04:00+08:00
-    lastmod: 2024-10-13T19:04:00+08:00
+    date: 2024-10-14T07:45:00+08:00
+    lastmod: 2024-10-14T07:45:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'winning', 'Dream', 'an', 'award', 'of', 'dog']
+    tags: ['Dream', 'award', 'winning', 'dog', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Deer |
 | Lucky Place         | Beach     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Caramel Flan      |
-| Lucky Instrument    | Tama |
-| Lucky Flower        | Hellebore    |
-| Lucky Job           | Insurance Agent       |
-| Lucky Exercise      | Softball  |
-| Lucky Country       | Papua New Guinea    |
+| Lucky Food          | Fruit Smoothie      |
+| Lucky Instrument    | Bongo Drums |
+| Lucky Flower        | Periwinkle    |
+| Lucky Job           | Sous Chef       |
+| Lucky Exercise      | Body Pump  |
+| Lucky Country       | Nigeria    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 520
     title: "It's hard in the process of exercising, but a fun dream"  # Assuming 'title' column exists
-    date: 2024-10-13T12:32:00+08:00
-    lastmod: 2024-10-13T12:32:00+08:00
+    date: 2024-10-13T15:21:00+08:00
+    lastmod: 2024-10-13T15:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'of', 'hard', 'exercising,', 'a', 'dream', 'in', 'but', 'process', "It's", 'fun']
+    tags: ['hard', 'fun', 'process', 'dream', 'exercising,', "It's"]
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream provides a clue that can bring you good luck.This dream symbolizes th
 | Lucky Animal        | Rhino |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Scone      |
-| Lucky Instrument    | Accordion |
-| Lucky Flower        | Jasmine    |
-| Lucky Job           | Farmer       |
-| Lucky Exercise      | Trail Running  |
-| Lucky Country       | Samoa    |
+| Lucky Food          | Onion Rings      |
+| Lucky Instrument    | Pipa |
+| Lucky Flower        | Lotus    |
+| Lucky Job           | Operations Manager       |
+| Lucky Exercise      | Martial Arts  |
+| Lucky Country       | Qatar    |
 
 
 ##  Final Reflections on Dreams

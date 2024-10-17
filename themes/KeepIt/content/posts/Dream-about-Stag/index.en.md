@@ -1,8 +1,8 @@
 ---
     weight: 1045
     title: "Dream about Stag"  # Assuming 'title' column exists
-    date: 2024-10-13T00:53:00+08:00
-    lastmod: 2024-10-13T00:53:00+08:00
+    date: 2024-10-14T06:15:00+08:00
+    lastmod: 2024-10-14T06:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Stag', 'about', 'Dream']
+    tags: ['Stag', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ It is necessary to focus on challenges and problem solving rather than luck beca
 | Lucky Animal        | Seal |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Duck Confit      |
-| Lucky Instrument    | Guitar |
-| Lucky Flower        | Cornflower    |
-| Lucky Job           | Marketing Manager       |
-| Lucky Exercise      | Baseball  |
-| Lucky Country       | France    |
+| Lucky Food          | Ramen      |
+| Lucky Instrument    | Trombone |
+| Lucky Flower        | Moss Rose    |
+| Lucky Job           | Scientist       |
+| Lucky Exercise      | Surfing  |
+| Lucky Country       | Israel    |
 
 
 ##  Final Reflections on Dreams

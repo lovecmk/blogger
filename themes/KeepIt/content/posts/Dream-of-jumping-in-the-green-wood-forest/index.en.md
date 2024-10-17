@@ -1,8 +1,8 @@
 ---
     weight: 596
     title: "Dream of jumping in the green wood forest"  # Assuming 'title' column exists
-    date: 2024-10-13T22:40:00+08:00
-    lastmod: 2024-10-13T22:40:00+08:00
+    date: 2024-10-12T12:58:00+08:00
+    lastmod: 2024-10-12T12:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['forest', 'the', 'Dream', 'green', 'wood', 'in', 'of', 'jumping']
+    tags: ['wood', 'Dream', 'forest', 'jumping', 'green']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can be interpreted to give you a good luck related to freedom, vitali
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Academy     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Fruit Salad      |
-| Lucky Instrument    | Keyboard Synthesizer |
-| Lucky Flower        | Snapdragon    |
-| Lucky Job           | Archaeologist       |
-| Lucky Exercise      | Rugby  |
-| Lucky Country       | Russia    |
+| Lucky Food          | Spring Roll      |
+| Lucky Instrument    | Electric Guitar |
+| Lucky Flower        | Peach Blossom    |
+| Lucky Job           | Technical Writer       |
+| Lucky Exercise      | Ultimate Frisbee  |
+| Lucky Country       | Brunei    |
 
 
 ##  Final Reflections on Dreams

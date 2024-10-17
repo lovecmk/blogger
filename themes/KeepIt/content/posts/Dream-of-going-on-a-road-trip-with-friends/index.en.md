@@ -1,8 +1,8 @@
 ---
     weight: 1385
     title: "Dream of going on a road trip with friends"  # Assuming 'title' column exists
-    date: 2024-10-13T19:17:00+08:00
-    lastmod: 2024-10-13T19:17:00+08:00
+    date: 2024-10-12T14:06:00+08:00
+    lastmod: 2024-10-12T14:06:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['road', 'trip', 'Dream', 'going', 'a', 'on', 'of', 'with', 'friends']
+    tags: ['Dream', 'going', 'trip', 'road', 'friends']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Koala |
 | Lucky Place         | Theater     |
 | Lucky Color         | Green     |
-| Lucky Food          | Kebab      |
-| Lucky Instrument    | Xylophone |
-| Lucky Flower        | Heather    |
-| Lucky Job           | Artist       |
-| Lucky Exercise      | Aerobics  |
-| Lucky Country       | Fiji    |
+| Lucky Food          | Stuffed Peppers      |
+| Lucky Instrument    | Tambourine |
+| Lucky Flower        | Tithonia    |
+| Lucky Job           | Physical Therapist       |
+| Lucky Exercise      | Surf Lifesaving  |
+| Lucky Country       | Saudi Arabia    |
 
 
 ##  Final Reflections on Dreams

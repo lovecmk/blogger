@@ -1,8 +1,8 @@
 ---
     weight: 1428
     title: "Dream of your dog being an astronaut"  # Assuming 'title' column exists
-    date: 2024-10-13T01:43:00+08:00
-    lastmod: 2024-10-13T01:43:00+08:00
+    date: 2024-10-11T10:13:00+08:00
+    lastmod: 2024-10-11T10:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'astronaut', 'Dream', 'being', 'an', 'of', 'dog']
+    tags: ['being', 'Dream', 'astronaut', 'dog', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams typically do not bring specific luck, but this dream might signify a shif
 | Lucky Animal        | Goose |
 | Lucky Place         | Museum     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Quiche      |
-| Lucky Instrument    | Bass Drum |
-| Lucky Flower        | Peony    |
-| Lucky Job           | Web Developer       |
-| Lucky Exercise      | Javelin  |
-| Lucky Country       | Italy    |
+| Lucky Food          | Fruit Salad      |
+| Lucky Instrument    | Lute |
+| Lucky Flower        | Monkey Grass    |
+| Lucky Job           | Sales Manager       |
+| Lucky Exercise      | Ashtanga Yoga  |
+| Lucky Country       | Kiribati    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1727
     title: "Dream of estrangement from family members"  # Assuming 'title' column exists
-    date: 2024-10-13T17:33:00+08:00
-    lastmod: 2024-10-13T17:33:00+08:00
+    date: 2024-10-13T02:25:00+08:00
+    lastmod: 2024-10-13T02:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['estrangement', 'family', 'Dream', 'from', 'of', 'members']
+    tags: ['family', 'Dream', 'members', 'from', 'estrangement']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Sloth |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Black     |
-| Lucky Food          | Dumplings      |
-| Lucky Instrument    | Banjo |
-| Lucky Flower        | Clover Blossom    |
-| Lucky Job           | Data Analyst       |
-| Lucky Exercise      | Sledge Hockey  |
-| Lucky Country       | Iraq    |
+| Lucky Food          | Falafel      |
+| Lucky Instrument    | Viola |
+| Lucky Flower        | Swan River Daisy    |
+| Lucky Job           | Interior Designer       |
+| Lucky Exercise      | Slacklining  |
+| Lucky Country       | Qatar    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1126
     title: "Dream about spider"  # Assuming 'title' column exists
-    date: 2024-10-13T18:49:00+08:00
-    lastmod: 2024-10-13T18:49:00+08:00
+    date: 2024-10-11T00:32:00+08:00
+    lastmod: 2024-10-11T00:32:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['spider', 'about', 'Dream']
+    tags: ['spider', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'spider' dreams may vary by personal interpretation.In general, spid
 | Lucky Animal        | Seagull |
 | Lucky Place         | Beach     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Spring Roll      |
+| Lucky Food          | Clams      |
 | Lucky Instrument    | Drums |
-| Lucky Flower        | Sweet Pea    |
-| Lucky Job           | Accountant       |
-| Lucky Exercise      | Interval Training  |
-| Lucky Country       | Greece    |
+| Lucky Flower        | Marigold    |
+| Lucky Job           | Life Coach       |
+| Lucky Exercise      | Resistance Bands  |
+| Lucky Country       | Fiji    |
 
 
 ##  Final Reflections on Dreams

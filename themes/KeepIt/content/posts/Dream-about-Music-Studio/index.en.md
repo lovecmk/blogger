@@ -1,8 +1,8 @@
 ---
     weight: 1189
     title: "Dream about Music Studio"  # Assuming 'title' column exists
-    date: 2024-10-13T15:33:00+08:00
-    lastmod: 2024-10-13T15:33:00+08:00
+    date: 2024-10-11T07:39:00+08:00
+    lastmod: 2024-10-11T07:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Studio', 'about', 'Dream', 'Music']
+    tags: ['Studio', 'Dream', 'Music']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can suggest the opportunity for you to develop and achiev
 | Lucky Animal        | Rhino |
 | Lucky Place         | Park     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Steak      |
-| Lucky Instrument    | Guitar |
-| Lucky Flower        | Feverfew    |
-| Lucky Job           | Anthropologist       |
-| Lucky Exercise      | Jump Squats  |
-| Lucky Country       | Nauru    |
+| Lucky Food          | Vegetable Stir Fry      |
+| Lucky Instrument    | Xylophone |
+| Lucky Flower        | Thunbergia    |
+| Lucky Job           | Taxi Driver       |
+| Lucky Exercise      | Trail Running  |
+| Lucky Country       | Saudi Arabia    |
 
 
 ##  Final Reflections on Dreams

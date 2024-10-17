@@ -1,8 +1,8 @@
 ---
     weight: 410
     title: "Dream of running away from a plane or a car"  # Assuming 'title' column exists
-    date: 2024-10-13T20:12:00+08:00
-    lastmod: 2024-10-13T20:12:00+08:00
+    date: 2024-10-11T22:55:00+08:00
+    lastmod: 2024-10-11T22:55:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'plane', 'running', 'away', 'Dream', 'a', 'car', 'from', 'of']
+    tags: ['plane', 'Dream', 'running', 'from', 'away', 'car']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can appear in many forms.For example, you may have a will
 | Lucky Animal        | Sloth |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Black     |
-| Lucky Food          | Spring Roll      |
-| Lucky Instrument    | Cowbell |
-| Lucky Flower        | Poinsettia    |
-| Lucky Job           | Police Officer       |
-| Lucky Exercise      | Aqua Aerobics  |
-| Lucky Country       | Romania    |
+| Lucky Food          | Beef Wellington      |
+| Lucky Instrument    | Koto |
+| Lucky Flower        | Jasmine    |
+| Lucky Job           | Web Developer       |
+| Lucky Exercise      | Hot Yoga  |
+| Lucky Country       | Hungary    |
 
 
 ##  Final Reflections on Dreams

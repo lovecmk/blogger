@@ -1,8 +1,8 @@
 ---
     weight: 1256
     title: "Dream of going on a safari"  # Assuming 'title' column exists
-    date: 2024-10-13T09:48:00+08:00
-    lastmod: 2024-10-13T09:48:00+08:00
+    date: 2024-10-11T19:31:00+08:00
+    lastmod: 2024-10-11T19:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'going', 'a', 'safari', 'on', 'of']
+    tags: ['Dream', 'safari', 'going']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Chicken Parmesan      |
-| Lucky Instrument    | Harp |
-| Lucky Flower        | Celosia    |
-| Lucky Job           | Sales Representative       |
-| Lucky Exercise      | Horseback Riding  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Pork Belly      |
+| Lucky Instrument    | Bagpipes |
+| Lucky Flower        | Borage    |
+| Lucky Job           | Content Creator       |
+| Lucky Exercise      | Body Pump  |
+| Lucky Country       | Czech Republic    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1243
     title: "Dream of your dog running a marathon"  # Assuming 'title' column exists
-    date: 2024-10-13T19:09:00+08:00
-    lastmod: 2024-10-13T19:09:00+08:00
+    date: 2024-10-15T16:39:00+08:00
+    lastmod: 2024-10-15T16:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['running', 'your', 'Dream', 'a', 'marathon', 'of', 'dog']
+    tags: ['Dream', 'running', 'marathon', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Bear |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Pasta Salad      |
-| Lucky Instrument    | Fiddle |
-| Lucky Flower        | Zantedeschia    |
-| Lucky Job           | Scientist       |
-| Lucky Exercise      | Skating  |
-| Lucky Country       | Russia    |
+| Lucky Food          | Popcorn      |
+| Lucky Instrument    | Darbuka |
+| Lucky Flower        | Anemone    |
+| Lucky Job           | Nuclear Engineer       |
+| Lucky Exercise      | Powerlifting  |
+| Lucky Country       | Mozambique    |
 
 
 ##  Final Reflections on Dreams

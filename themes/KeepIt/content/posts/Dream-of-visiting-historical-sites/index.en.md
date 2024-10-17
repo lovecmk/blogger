@@ -1,8 +1,8 @@
 ---
     weight: 737
     title: "Dream of visiting historical sites"  # Assuming 'title' column exists
-    date: 2024-10-13T13:38:00+08:00
-    lastmod: 2024-10-13T13:38:00+08:00
+    date: 2024-10-12T08:28:00+08:00
+    lastmod: 2024-10-12T08:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['historical', 'Dream', 'visiting', 'of', 'sites']
+    tags: ['Dream', 'visiting', 'historical', 'sites']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can show the acquisition of knowledge and enlightenment, and lucky fo
 | Lucky Animal        | Pig |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Pork Chops      |
-| Lucky Instrument    | Bongo Drums |
-| Lucky Flower        | Feverfew    |
-| Lucky Job           | Psychologist       |
-| Lucky Exercise      | Resistance Bands  |
-| Lucky Country       | Belgium    |
+| Lucky Food          | Cornbread      |
+| Lucky Instrument    | Electric Violin |
+| Lucky Flower        | Iris    |
+| Lucky Job           | Video Editor       |
+| Lucky Exercise      | Active Recovery  |
+| Lucky Country       | Nauru    |
 
 
 ##  Final Reflections on Dreams

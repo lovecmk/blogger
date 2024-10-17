@@ -1,8 +1,8 @@
 ---
     weight: 110
     title: "Dream of planning to travel with her husband"  # Assuming 'title' column exists
-    date: 2024-10-13T18:42:00+08:00
-    lastmod: 2024-10-13T18:42:00+08:00
+    date: 2024-10-14T03:29:00+08:00
+    lastmod: 2024-10-14T03:29:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['her', 'to', 'Dream', 'travel', 'husband', 'planning', 'of', 'with']
+    tags: ['Dream', 'to', 'travel', 'her', 'husband', 'planning']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be to grow and enjoy with new experiences and adventu
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Deviled Eggs      |
-| Lucky Instrument    | Ukulele |
-| Lucky Flower        | Dahlia    |
-| Lucky Job           | Firefighter       |
-| Lucky Exercise      | Beach Volleyball  |
-| Lucky Country       | United Arab Emirates    |
+| Lucky Food          | Curry      |
+| Lucky Instrument    | Trombone |
+| Lucky Flower        | Vinca    |
+| Lucky Job           | Postman       |
+| Lucky Exercise      | Kettlebell Training  |
+| Lucky Country       | Egypt    |
 
 
 ##  Final Reflections on Dreams

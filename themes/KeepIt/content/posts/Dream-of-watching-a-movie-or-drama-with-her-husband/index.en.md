@@ -1,8 +1,8 @@
 ---
     weight: 104
     title: "Dream of watching a movie or drama with her husband"  # Assuming 'title' column exists
-    date: 2024-10-13T20:22:00+08:00
-    lastmod: 2024-10-13T20:22:00+08:00
+    date: 2024-10-11T01:47:00+08:00
+    lastmod: 2024-10-11T01:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['drama', 'movie', 'her', 'or', 'Dream', 'a', 'husband', 'of', 'watching', 'with']
+    tags: ['Dream', 'drama', 'movie', 'watching', 'her', 'husband']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream has a happier and satisfactory relationship and can symbolize the luc
 | Lucky Animal        | Snake |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Pesto      |
-| Lucky Instrument    | Keyboard Synthesizer |
-| Lucky Flower        | Wisteria    |
-| Lucky Job           | Hair Stylist       |
-| Lucky Exercise      | Baseball  |
-| Lucky Country       | Papua New Guinea    |
+| Lucky Food          | Pork Belly      |
+| Lucky Instrument    | Lute |
+| Lucky Flower        | Clover Blossom    |
+| Lucky Job           | Doctor       |
+| Lucky Exercise      | Parkour  |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

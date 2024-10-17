@@ -1,8 +1,8 @@
 ---
     weight: 915
     title: "Dream of being chased by fire"  # Assuming 'title' column exists
-    date: 2024-10-13T23:43:00+08:00
-    lastmod: 2024-10-13T23:43:00+08:00
+    date: 2024-10-15T23:36:00+08:00
+    lastmod: 2024-10-15T23:36:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fire', 'Dream', 'being', 'by', 'of', 'chased']
+    tags: ['being', 'chased', 'Dream', 'fire']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the personal interpretation, but in
 | Lucky Animal        | Hamster |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Stuffed Mushrooms      |
-| Lucky Instrument    | Rudra Veena |
-| Lucky Flower        | Sweet William    |
-| Lucky Job           | Video Editor       |
-| Lucky Exercise      | Dance Aerobics  |
-| Lucky Country       | Georgia    |
+| Lucky Food          | Gnocchi      |
+| Lucky Instrument    | Sarangi |
+| Lucky Flower        | Lavender    |
+| Lucky Job           | Neuroscientist       |
+| Lucky Exercise      | Box Jumps  |
+| Lucky Country       | Malaysia    |
 
 
 ##  Final Reflections on Dreams

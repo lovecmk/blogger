@@ -1,8 +1,8 @@
 ---
     weight: 419
     title: "The dream of disappearing or not visible in front of your eyes"  # Assuming 'title' column exists
-    date: 2024-10-13T17:13:00+08:00
-    lastmod: 2024-10-13T17:13:00+08:00
+    date: 2024-10-13T05:34:00+08:00
+    lastmod: 2024-10-13T05:34:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['front', 'or', 'your', 'disappearing', 'eyes', 'not', 'dream', 'The', 'in', 'of', 'visible']
+    tags: ['The', 'visible', 'dream', 'front', 'not', 'disappearing', 'eyes']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can have a variety of elements that can be lucky.For example, if you 
 | Lucky Animal        | Horse |
 | Lucky Place         | River     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Curry      |
-| Lucky Instrument    | French Horn |
-| Lucky Flower        | Stock    |
-| Lucky Job           | Anthropologist       |
-| Lucky Exercise      | Snowboarding  |
-| Lucky Country       | Spain    |
+| Lucky Food          | Potato Skins      |
+| Lucky Instrument    | Banjo |
+| Lucky Flower        | Daisy    |
+| Lucky Job           | Statistician       |
+| Lucky Exercise      | Stretching  |
+| Lucky Country       | Tonga    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1392
     title: "Dream of spilling something on yourself"  # Assuming 'title' column exists
-    date: 2024-10-13T23:05:00+08:00
-    lastmod: 2024-10-13T23:05:00+08:00
+    date: 2024-10-15T16:59:00+08:00
+    lastmod: 2024-10-15T16:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'spilling', 'yourself', 'on', 'of', 'something']
+    tags: ['Dream', 'spilling', 'yourself', 'something']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams are not usually associated with bringing luck. However, if this dream tri
 | Lucky Animal        | Monkey |
 | Lucky Place         | Park     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Shepherd's Pie      |
-| Lucky Instrument    | Melodic Percussion |
-| Lucky Flower        | Hoya    |
-| Lucky Job           | Sales Manager       |
-| Lucky Exercise      | Bouldering  |
-| Lucky Country       | Tanzania    |
+| Lucky Food          | Burrito      |
+| Lucky Instrument    | Tambourine |
+| Lucky Flower        | Peach Blossom    |
+| Lucky Job           | Pilot       |
+| Lucky Exercise      | Calisthenics  |
+| Lucky Country       | New Zealand    |
 
 
 ##  Final Reflections on Dreams

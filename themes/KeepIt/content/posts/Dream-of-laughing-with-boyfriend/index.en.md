@@ -1,8 +1,8 @@
 ---
     weight: 334
     title: "Dream of laughing with boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T18:53:00+08:00
-    lastmod: 2024-10-13T18:53:00+08:00
+    date: 2024-10-11T21:19:00+08:00
+    lastmod: 2024-10-11T21:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['laughing', 'boyfriend', 'Dream', 'of', 'with']
+    tags: ['Dream', 'boyfriend', 'laughing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The meaning of 'Dream of Laughing with your boyfriend' may vary depending on the
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Beach     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Pasta Salad      |
-| Lucky Instrument    | Tabla |
-| Lucky Flower        | Jasmine    |
-| Lucky Job           | Brand Manager       |
-| Lucky Exercise      | Slacklining  |
-| Lucky Country       | Maldives    |
+| Lucky Food          | Ratatouille      |
+| Lucky Instrument    | Saz |
+| Lucky Flower        | Safflower    |
+| Lucky Job           | Musician       |
+| Lucky Exercise      | Belly Dancing  |
+| Lucky Country       | Kuwait    |
 
 
 ##  Final Reflections on Dreams

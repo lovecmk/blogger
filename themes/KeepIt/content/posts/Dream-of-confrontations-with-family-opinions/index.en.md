@@ -1,8 +1,8 @@
 ---
     weight: 2028
     title: "Dream of going on vacation together with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T01:35:00+08:00
-    lastmod: 2024-10-13T01:35:00+08:00
+    date: 2024-10-15T13:50:00+08:00
+    lastmod: 2024-10-15T13:50:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['together', 'your', 'boyfriend', 'vacation', 'Dream', 'going', 'on', 'of', 'with']
+    tags: ['Dream', 'boyfriend', 'going', 'together', 'vacation']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Cat |
 | Lucky Place         | School     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Spring Roll      |
-| Lucky Instrument    | Triangle |
-| Lucky Flower        | Dandelion    |
-| Lucky Job           | Security Guard       |
-| Lucky Exercise      | Body Pump  |
-| Lucky Country       | United States    |
+| Lucky Food          | Sandwich      |
+| Lucky Instrument    | Harmonica |
+| Lucky Flower        | Buttercup    |
+| Lucky Job           | Insurance Underwriter       |
+| Lucky Exercise      | Lacrosse  |
+| Lucky Country       | Spain    |
 
 
 ##  Final Reflections on Dreams

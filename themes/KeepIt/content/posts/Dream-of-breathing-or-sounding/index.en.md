@@ -1,8 +1,8 @@
 ---
     weight: 361
     title: "Dream of breathing or sounding"  # Assuming 'title' column exists
-    date: 2024-10-13T23:43:00+08:00
-    lastmod: 2024-10-13T23:43:00+08:00
+    date: 2024-10-11T02:33:00+08:00
+    lastmod: 2024-10-11T02:33:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['breathing', 'or', 'Dream', 'sounding', 'of']
+    tags: ['Dream', 'breathing', 'sounding']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can provide opportunities for us to recognize, improve, a
 | Lucky Animal        | Gorilla |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Chocolate Mousse      |
-| Lucky Instrument    | Xylophone |
-| Lucky Flower        | Pincushion Flower    |
-| Lucky Job           | Environmental Scientist       |
-| Lucky Exercise      | Surfing  |
-| Lucky Country       | Syria    |
+| Lucky Food          | Mango Sticky Rice      |
+| Lucky Instrument    | Wooden Flute |
+| Lucky Flower        | Chive Blossom    |
+| Lucky Job           | Bus Driver       |
+| Lucky Exercise      | Martial Arts  |
+| Lucky Country       | New Zealand    |
 
 
 ##  Final Reflections on Dreams

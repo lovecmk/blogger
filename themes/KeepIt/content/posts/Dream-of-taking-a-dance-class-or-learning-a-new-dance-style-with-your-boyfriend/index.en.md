@@ -1,8 +1,8 @@
 ---
     weight: 1536
     title: "Dream of taking a dance class or learning a new dance style with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T23:12:00+08:00
-    lastmod: 2024-10-13T23:12:00+08:00
+    date: 2024-10-14T11:04:00+08:00
+    lastmod: 2024-10-14T11:04:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['new', 'taking', 'or', 'your', 'boyfriend', 'Dream', 'class', 'a', 'learning', 'style', 'of', 'with', 'dance']
+    tags: ['Dream', 'dance', 'boyfriend', 'taking', 'style', 'class', 'new', 'learning']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rhino |
 | Lucky Place         | Library     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Samosa      |
-| Lucky Instrument    | Kettledrum |
-| Lucky Flower        | Foxglove    |
-| Lucky Job           | Construction Worker       |
-| Lucky Exercise      | Cross-Country Skiing  |
-| Lucky Country       | Portugal    |
+| Lucky Food          | Pesto      |
+| Lucky Instrument    | Saxello |
+| Lucky Flower        | Rose    |
+| Lucky Job           | Electrician       |
+| Lucky Exercise      | Baseball  |
+| Lucky Country       | Bahrain    |
 
 
 ##  Final Reflections on Dreams

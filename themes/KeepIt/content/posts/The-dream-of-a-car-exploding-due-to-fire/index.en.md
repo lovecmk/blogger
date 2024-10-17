@@ -1,8 +1,8 @@
 ---
     weight: 840
     title: "The dream of a car exploding due to fire"  # Assuming 'title' column exists
-    date: 2024-10-13T01:03:00+08:00
-    lastmod: 2024-10-13T01:03:00+08:00
+    date: 2024-10-12T22:59:00+08:00
+    lastmod: 2024-10-12T22:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['to', 'exploding', 'fire', 'a', 'due', 'dream', 'The', 'car', 'of']
+    tags: ['The', 'due', 'dream', 'to', 'fire', 'car', 'exploding']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can remind you that you can meet good luck if you overcome the confli
 | Lucky Animal        | Cat |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Guacamole      |
-| Lucky Instrument    | Tenor Banjo |
-| Lucky Flower        | Cyclamen    |
-| Lucky Job           | Field Technician       |
-| Lucky Exercise      | Rock Climbing  |
-| Lucky Country       | Kiribati    |
+| Lucky Food          | Lentil Soup      |
+| Lucky Instrument    | Harmonic Piano |
+| Lucky Flower        | Daisy    |
+| Lucky Job           | Accountant       |
+| Lucky Exercise      | Ashtanga Yoga  |
+| Lucky Country       | Vanuatu    |
 
 
 ##  Final Reflections on Dreams

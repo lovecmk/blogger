@@ -1,8 +1,8 @@
 ---
     weight: 1814
     title: "Dream of exploring a new city or neighborhood with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T13:52:00+08:00
-    lastmod: 2024-10-13T13:52:00+08:00
+    date: 2024-10-11T20:53:00+08:00
+    lastmod: 2024-10-11T20:53:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['new', 'or', 'neighborhood', 'your', 'city', 'boyfriend', 'Dream', 'a', 'of', 'exploring', 'with']
+    tags: ['Dream', 'exploring', 'boyfriend', 'city', 'new', 'neighborhood']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rabbit |
 | Lucky Place         | River     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Falafel      |
-| Lucky Instrument    | Pandeiro |
-| Lucky Flower        | Thistle    |
-| Lucky Job           | Farmer       |
-| Lucky Exercise      | Foam Rolling  |
-| Lucky Country       | Switzerland    |
+| Lucky Food          | Dumplings      |
+| Lucky Instrument    | Steel Pan |
+| Lucky Flower        | Celosia    |
+| Lucky Job           | Postman       |
+| Lucky Exercise      | Capoeira  |
+| Lucky Country       | Czech Republic    |
 
 
 ##  Final Reflections on Dreams

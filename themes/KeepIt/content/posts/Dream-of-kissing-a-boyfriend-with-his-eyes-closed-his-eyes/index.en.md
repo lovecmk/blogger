@@ -1,8 +1,8 @@
 ---
     weight: 324
     title: "Dream of kissing a boyfriend with his eyes closed his eyes"  # Assuming 'title' column exists
-    date: 2024-10-13T02:54:00+08:00
-    lastmod: 2024-10-13T02:54:00+08:00
+    date: 2024-10-11T09:36:00+08:00
+    lastmod: 2024-10-11T09:36:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['eyes', 'boyfriend', 'Dream', 'his', 'a', 'closed', 'kissing', 'of', 'with']
+    tags: ['Dream', 'boyfriend', 'his', 'kissing', 'eyes', 'closed']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream will be able to understand each other deeper and build a 
 | Lucky Animal        | Chicken |
 | Lucky Place         | Academy     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Caramel Flan      |
-| Lucky Instrument    | Tenor Saxophone |
-| Lucky Flower        | Primrose    |
-| Lucky Job           | Research Scientist       |
-| Lucky Exercise      | Rowing  |
-| Lucky Country       | Uzbekistan    |
+| Lucky Food          | Noodles      |
+| Lucky Instrument    | Ocarina |
+| Lucky Flower        | Sweet Pea    |
+| Lucky Job           | Network Administrator       |
+| Lucky Exercise      | Kettlebell Training  |
+| Lucky Country       | Armenia    |
 
 
 ##  Final Reflections on Dreams

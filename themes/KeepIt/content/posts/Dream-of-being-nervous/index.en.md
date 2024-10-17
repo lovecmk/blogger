@@ -1,8 +1,8 @@
 ---
     weight: 891
     title: "Dream of being nervous"  # Assuming 'title' column exists
-    date: 2024-10-13T20:43:00+08:00
-    lastmod: 2024-10-13T20:43:00+08:00
+    date: 2024-10-15T02:27:00+08:00
+    lastmod: 2024-10-15T02:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['being', 'of', 'nervous', 'Dream']
+    tags: ['being', 'Dream', 'nervous']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream may not bring good luck in the short term, but the anxiety and tensio
 | Lucky Animal        | Camel |
 | Lucky Place         | School     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Croissant      |
-| Lucky Instrument    | Viola |
-| Lucky Flower        | Stock    |
-| Lucky Job           | Data Scientist       |
-| Lucky Exercise      | Kettlebell Training  |
-| Lucky Country       | Denmark    |
+| Lucky Food          | Fried Rice      |
+| Lucky Instrument    | Lyre |
+| Lucky Flower        | Perennial Aster    |
+| Lucky Job           | App Developer       |
+| Lucky Exercise      | Sledge Hockey  |
+| Lucky Country       | Bahrain    |
 
 
 ##  Final Reflections on Dreams

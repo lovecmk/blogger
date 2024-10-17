@@ -1,8 +1,8 @@
 ---
     weight: 522
     title: "Dream of exercising in sportswear"  # Assuming 'title' column exists
-    date: 2024-10-13T10:54:00+08:00
-    lastmod: 2024-10-13T10:54:00+08:00
+    date: 2024-10-14T09:57:00+08:00
+    lastmod: 2024-10-14T09:57:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['exercising', 'sportswear', 'Dream', 'in', 'of']
+    tags: ['exercising', 'Dream', 'sportswear']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be obtained through active and energetic life.Exercis
 | Lucky Animal        | Duck |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Cheesecake      |
-| Lucky Instrument    | Electric Guitar |
-| Lucky Flower        | Verbena    |
-| Lucky Job           | Biologist       |
-| Lucky Exercise      | Javelin  |
-| Lucky Country       | Serbia    |
+| Lucky Food          | Chips      |
+| Lucky Instrument    | Rudra Veena |
+| Lucky Flower        | Bee Balm    |
+| Lucky Job           | Pharmacist       |
+| Lucky Exercise      | Squats  |
+| Lucky Country       | Angola    |
 
 
 ##  Final Reflections on Dreams

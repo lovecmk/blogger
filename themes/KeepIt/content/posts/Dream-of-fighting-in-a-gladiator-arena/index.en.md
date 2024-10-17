@@ -1,8 +1,8 @@
 ---
     weight: 1809
     title: "Dream of fighting against a rival gang"  # Assuming 'title' column exists
-    date: 2024-10-13T11:13:00+08:00
-    lastmod: 2024-10-13T11:13:00+08:00
+    date: 2024-10-14T20:33:00+08:00
+    lastmod: 2024-10-14T20:33:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fighting', 'against', 'Dream', 'gang', 'a', 'rival', 'of']
+    tags: ['Dream', 'gang', 'fighting', 'rival']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Panda |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Scone      |
-| Lucky Instrument    | Claves |
-| Lucky Flower        | Narcissus    |
-| Lucky Job           | Life Coach       |
-| Lucky Exercise      | Calisthenics  |
-| Lucky Country       | Romania    |
+| Lucky Food          | Caprese Salad      |
+| Lucky Instrument    | Lute |
+| Lucky Flower        | Fuchsia    |
+| Lucky Job           | Writer       |
+| Lucky Exercise      | Hot Yoga  |
+| Lucky Country       | United States    |
 
 
 ##  Final Reflections on Dreams

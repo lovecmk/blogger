@@ -1,8 +1,8 @@
 ---
     weight: 728
     title: "Dream of sharing love and friendship while holding a barbecue party with friends"  # Assuming 'title' column exists
-    date: 2024-10-13T15:02:00+08:00
-    lastmod: 2024-10-13T15:02:00+08:00
+    date: 2024-10-15T07:48:00+08:00
+    lastmod: 2024-10-15T07:48:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['holding', 'with', 'Dream', 'friendship', 'sharing', 'barbecue', 'a', 'party', 'and', 'love', 'of', 'while', 'friends']
+    tags: ['while', 'Dream', 'holding', 'barbecue', 'love', 'sharing', 'party', 'friendship', 'friends']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you luck and positive energy.The love and friendship you ex
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Gelato      |
-| Lucky Instrument    | Darabuka |
-| Lucky Flower        | Hellebore    |
-| Lucky Job           | Librarian       |
-| Lucky Exercise      | Hammer Throw  |
-| Lucky Country       | Kyrgyzstan    |
+| Lucky Food          | Ice Cream      |
+| Lucky Instrument    | Hang Drum |
+| Lucky Flower        | Celosia    |
+| Lucky Job           | Pharmacist       |
+| Lucky Exercise      | Salsa  |
+| Lucky Country       | Namibia    |
 
 
 ##  Final Reflections on Dreams

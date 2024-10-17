@@ -1,8 +1,8 @@
 ---
     weight: 1018
     title: "Dream of feeling unstable feelings"  # Assuming 'title' column exists
-    date: 2024-10-13T10:59:00+08:00
-    lastmod: 2024-10-13T10:59:00+08:00
+    date: 2024-10-11T13:06:00+08:00
+    lastmod: 2024-10-11T13:06:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['unstable', 'feeling', 'feelings', 'Dream', 'of']
+    tags: ['Dream', 'feelings', 'feeling', 'unstable']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of dreams of unstable feelings can be interpreted in a variety of ways.
 | Lucky Animal        | Beaver |
 | Lucky Place         | River     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Bagel      |
-| Lucky Instrument    | Rudra Veena |
-| Lucky Flower        | Lilac    |
-| Lucky Job           | Environmental Scientist       |
-| Lucky Exercise      | Body Pump  |
-| Lucky Country       | Latvia    |
+| Lucky Food          | Kebab      |
+| Lucky Instrument    | Fretless Bass |
+| Lucky Flower        | Tithonia    |
+| Lucky Job           | Chef de Cuisine       |
+| Lucky Exercise      | Parkour  |
+| Lucky Country       | Kenya    |
 
 
 ##  Final Reflections on Dreams

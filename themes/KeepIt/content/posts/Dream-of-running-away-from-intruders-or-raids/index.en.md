@@ -1,8 +1,8 @@
 ---
     weight: 406
     title: "Dream of running away from intruders or raids"  # Assuming 'title' column exists
-    date: 2024-10-13T04:49:00+08:00
-    lastmod: 2024-10-13T04:49:00+08:00
+    date: 2024-10-15T05:16:00+08:00
+    lastmod: 2024-10-15T05:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['intruders', 'or', 'running', 'away', 'Dream', 'raids', 'from', 'of']
+    tags: ['Dream', 'raids', 'running', 'from', 'away', 'intruders']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream is not directly lucky, but this dream may result in lucky results by 
 | Lucky Animal        | Hamster |
 | Lucky Place         | Park     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Tacos      |
-| Lucky Instrument    | Lap Steel Guitar |
-| Lucky Flower        | Crown Daisy    |
-| Lucky Job           | Neuroscientist       |
-| Lucky Exercise      | Step Aerobics  |
-| Lucky Country       | Uzbekistan    |
+| Lucky Food          | Cheeseboard      |
+| Lucky Instrument    | Accordion Synth |
+| Lucky Flower        | Hibiscus    |
+| Lucky Job           | Biologist       |
+| Lucky Exercise      | Circuit Workout  |
+| Lucky Country       | United States    |
 
 
 ##  Final Reflections on Dreams

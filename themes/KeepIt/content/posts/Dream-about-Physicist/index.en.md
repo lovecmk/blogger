@@ -1,8 +1,8 @@
 ---
     weight: 1146
     title: "Dream about Physicist"  # Assuming 'title' column exists
-    date: 2024-10-13T09:14:00+08:00
-    lastmod: 2024-10-13T09:14:00+08:00
+    date: 2024-10-13T00:02:00+08:00
+    lastmod: 2024-10-13T00:02:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Physicist', 'about', 'Dream']
+    tags: ['Physicist', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of dreams can vary depending on individuals.In a physical approach, luc
 | Lucky Animal        | Hamster |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Beef Stroganoff      |
-| Lucky Instrument    | Timpani |
-| Lucky Flower        | Cactus Flower    |
-| Lucky Job           | Artist       |
-| Lucky Exercise      | Snowboarding  |
-| Lucky Country       | Russia    |
+| Lucky Food          | Steak      |
+| Lucky Instrument    | Xylophone |
+| Lucky Flower        | Chive Blossom    |
+| Lucky Job           | Software Engineer       |
+| Lucky Exercise      | Kickboxing  |
+| Lucky Country       | Egypt    |
 
 
 ##  Final Reflections on Dreams

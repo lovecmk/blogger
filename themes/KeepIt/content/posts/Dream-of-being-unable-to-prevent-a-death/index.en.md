@@ -1,8 +1,8 @@
 ---
     weight: 1987
     title: "Dream of fighting in a rescue mission"  # Assuming 'title' column exists
-    date: 2024-10-13T11:46:00+08:00
-    lastmod: 2024-10-13T11:46:00+08:00
+    date: 2024-10-12T20:04:00+08:00
+    lastmod: 2024-10-12T20:04:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['rescue', 'fighting', 'Dream', 'a', 'in', 'of', 'mission']
+    tags: ['Dream', 'mission', 'fighting', 'rescue']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings the luck of emotional strength and stability. It suggests that
 | Lucky Animal        | Camel |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Red     |
-| Lucky Food          | Dumplings      |
-| Lucky Instrument    | Lyre |
-| Lucky Flower        | Sea Holly    |
-| Lucky Job           | Event Coordinator       |
-| Lucky Exercise      | Bouldering  |
-| Lucky Country       | Papua New Guinea    |
+| Lucky Food          | Scallops      |
+| Lucky Instrument    | Ney |
+| Lucky Flower        | Cactus Flower    |
+| Lucky Job           | Research Scientist       |
+| Lucky Exercise      | Mobility Training  |
+| Lucky Country       | Angola    |
 
 
 ##  Final Reflections on Dreams

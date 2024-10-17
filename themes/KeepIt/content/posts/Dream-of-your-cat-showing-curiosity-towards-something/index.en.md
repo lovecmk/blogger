@@ -1,8 +1,8 @@
 ---
     weight: 1781
     title: "Dream of fighting against inner demons"  # Assuming 'title' column exists
-    date: 2024-10-13T14:12:00+08:00
-    lastmod: 2024-10-13T14:12:00+08:00
+    date: 2024-10-15T09:21:00+08:00
+    lastmod: 2024-10-15T09:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fighting', 'against', 'Dream', 'inner', 'demons', 'of']
+    tags: ['Dream', 'demons', 'fighting', 'inner']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Monkey |
 | Lucky Place         | Historic village     |
 | Lucky Color         | White     |
-| Lucky Food          | Hummus      |
-| Lucky Instrument    | Viola |
-| Lucky Flower        | Hydrangea    |
-| Lucky Job           | Postman       |
-| Lucky Exercise      | Lunges  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Beef Wellington      |
+| Lucky Instrument    | Electric Violin |
+| Lucky Flower        | Edelweiss    |
+| Lucky Job           | Lawyer       |
+| Lucky Exercise      | Mountain Climbers  |
+| Lucky Country       | Czech Republic    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1500
     title: "Dream of exploring a haunted location while traveling"  # Assuming 'title' column exists
-    date: 2024-10-13T15:53:00+08:00
-    lastmod: 2024-10-13T15:53:00+08:00
+    date: 2024-10-14T12:19:00+08:00
+    lastmod: 2024-10-14T12:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['haunted', 'traveling', 'Dream', 'location', 'a', 'of', 'exploring', 'while']
+    tags: ['while', 'haunted', 'Dream', 'exploring', 'traveling', 'location']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Chicken |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Pasta Primavera      |
-| Lucky Instrument    | Lap Steel Guitar |
-| Lucky Flower        | Cactus Flower    |
-| Lucky Job           | Engineer       |
-| Lucky Exercise      | Lifting  |
-| Lucky Country       | Malawi    |
+| Lucky Food          | Sushi Roll      |
+| Lucky Instrument    | Harp |
+| Lucky Flower        | Lily    |
+| Lucky Job           | Musician       |
+| Lucky Exercise      | Walking  |
+| Lucky Country       | Mongolia    |
 
 
 ##  Final Reflections on Dreams

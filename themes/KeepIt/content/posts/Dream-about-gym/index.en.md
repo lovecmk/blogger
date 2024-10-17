@@ -1,8 +1,8 @@
 ---
     weight: 1154
     title: "Dream about gym"  # Assuming 'title' column exists
-    date: 2024-10-13T02:06:00+08:00
-    lastmod: 2024-10-13T02:06:00+08:00
+    date: 2024-10-14T07:37:00+08:00
+    lastmod: 2024-10-14T07:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['gym', 'about', 'Dream']
+    tags: ['gym', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be different.In general, the gym represents the activ
 | Lucky Animal        | Hyena |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Burrito      |
-| Lucky Instrument    | Accordion Synth |
-| Lucky Flower        | Bellflower    |
-| Lucky Job           | Data Scientist       |
-| Lucky Exercise      | Shot Put  |
-| Lucky Country       | Lithuania    |
+| Lucky Food          | Chips      |
+| Lucky Instrument    | Accordion |
+| Lucky Flower        | Borage    |
+| Lucky Job           | Sales Manager       |
+| Lucky Exercise      | Bench Press  |
+| Lucky Country       | Uzbekistan    |
 
 
 ##  Final Reflections on Dreams

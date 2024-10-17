@@ -1,8 +1,8 @@
 ---
     weight: 549
     title: "Dreams during flowers"  # Assuming 'title' column exists
-    date: 2024-10-13T02:10:00+08:00
-    lastmod: 2024-10-13T02:10:00+08:00
+    date: 2024-10-11T19:00:00+08:00
+    lastmod: 2024-10-11T19:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['flowers', 'Dreams', 'during']
+    tags: ['Dreams', 'flowers']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Dreams of flowers can symbolize good luck and positive energy.This dream can mak
 | Lucky Animal        | Turtle |
 | Lucky Place         | School     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Pancakes      |
-| Lucky Instrument    | Soprano Recorder |
-| Lucky Flower        | Nymphaea    |
-| Lucky Job           | Geologist       |
-| Lucky Exercise      | Swimming  |
-| Lucky Country       | United States    |
+| Lucky Food          | Pasta      |
+| Lucky Instrument    | Harp |
+| Lucky Flower        | Yarrow    |
+| Lucky Job           | Postman       |
+| Lucky Exercise      | Sit-Ups  |
+| Lucky Country       | Hungary    |
 
 
 ##  Final Reflections on Dreams

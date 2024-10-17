@@ -1,8 +1,8 @@
 ---
     weight: 1569
     title: "Dream of learning an ancestral language or skill from a relative."  # Assuming 'title' column exists
-    date: 2024-10-13T00:42:00+08:00
-    lastmod: 2024-10-13T00:42:00+08:00
+    date: 2024-10-12T23:16:00+08:00
+    lastmod: 2024-10-12T23:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['relative.', 'language', 'or', 'ancestral', 'Dream', 'learning', 'an', 'a', 'skill', 'from', 'of']
+    tags: ['skill', 'Dream', 'relative', 'an', 'language', 'from', 'learning', 'ancestral']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Bear |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Caprese Salad      |
-| Lucky Instrument    | Fretless Bass |
-| Lucky Flower        | Periwinkle    |
-| Lucky Job           | Environmental Scientist       |
-| Lucky Exercise      | Surfing  |
-| Lucky Country       | Mexico    |
+| Lucky Food          | Caprese Skewers      |
+| Lucky Instrument    | Pipa |
+| Lucky Flower        | Moss Rose    |
+| Lucky Job           | Teacher       |
+| Lucky Exercise      | Obstacle Course Racing  |
+| Lucky Country       | Nigeria    |
 
 
 ##  Final Reflections on Dreams

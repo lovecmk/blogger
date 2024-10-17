@@ -1,8 +1,8 @@
 ---
     weight: 742
     title: "Dream of traveling the moon with a spaceship"  # Assuming 'title' column exists
-    date: 2024-10-13T14:19:00+08:00
-    lastmod: 2024-10-13T14:19:00+08:00
+    date: 2024-10-14T11:35:00+08:00
+    lastmod: 2024-10-14T11:35:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'traveling', 'Dream', 'spaceship', 'a', 'moon', 'of', 'with']
+    tags: ['Dream', 'traveling', 'spaceship', 'moon']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream gives you courage and enterprise, and you can suggest the opportunity
 | Lucky Animal        | Leopard |
 | Lucky Place         | Academy     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Cheesecake      |
-| Lucky Instrument    | Saxello |
+| Lucky Food          | Chicken Curry      |
+| Lucky Instrument    | Piano |
 | Lucky Flower        | Ranunculus    |
-| Lucky Job           | Interpreter       |
-| Lucky Exercise      | Sit-Ups  |
-| Lucky Country       | Botswana    |
+| Lucky Job           | Chemist       |
+| Lucky Exercise      | Hiking  |
+| Lucky Country       | Nigeria    |
 
 
 ##  Final Reflections on Dreams

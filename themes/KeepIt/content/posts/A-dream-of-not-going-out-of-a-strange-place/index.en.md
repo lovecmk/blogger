@@ -1,8 +1,8 @@
 ---
     weight: 350
     title: "A dream of not going out of a strange place"  # Assuming 'title' column exists
-    date: 2024-10-13T07:36:00+08:00
-    lastmod: 2024-10-13T07:36:00+08:00
+    date: 2024-10-12T06:24:00+08:00
+    lastmod: 2024-10-12T06:24:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['strange', 'out', 'going', 'not', 'a', 'dream', 'place', 'of', 'A']
+    tags: ['dream', 'place', 'going', 'A', 'out', 'not', 'strange']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream cannot be said to bring direct luck, but sometimes the dream provides
 | Lucky Animal        | Giraffe |
 | Lucky Place         | River     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Shepherd's Pie      |
-| Lucky Instrument    | Synthesizer |
-| Lucky Flower        | Primrose    |
-| Lucky Job           | Librarian       |
-| Lucky Exercise      | Jump Squats  |
-| Lucky Country       | Argentina    |
+| Lucky Food          | Scone      |
+| Lucky Instrument    | Lute |
+| Lucky Flower        | Rudbeckia    |
+| Lucky Job           | Postman       |
+| Lucky Exercise      | Lifting  |
+| Lucky Country       | Samoa    |
 
 
 ##  Final Reflections on Dreams

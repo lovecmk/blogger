@@ -1,8 +1,8 @@
 ---
     weight: 766
     title: "Dream of a static journey in the countryside outside the busy city"  # Assuming 'title' column exists
-    date: 2024-10-13T15:44:00+08:00
-    lastmod: 2024-10-13T15:44:00+08:00
+    date: 2024-10-15T05:11:00+08:00
+    lastmod: 2024-10-15T05:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['static', 'the', 'journey', 'city', 'Dream', 'countryside', 'busy', 'a', 'in', 'of', 'outside']
+    tags: ['Dream', 'journey', 'static', 'countryside', 'city', 'outside', 'busy']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can symbolize the luck that can bring you peace and internal stabilit
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Bagel      |
-| Lucky Instrument    | Shakuhachi |
-| Lucky Flower        | Poppy    |
-| Lucky Job           | Statistician       |
-| Lucky Exercise      | Handball  |
-| Lucky Country       | Bulgaria    |
+| Lucky Food          | Onion Rings      |
+| Lucky Instrument    | Chimes |
+| Lucky Flower        | Sweet Pea    |
+| Lucky Job           | Postman       |
+| Lucky Exercise      | Circuit Workout  |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

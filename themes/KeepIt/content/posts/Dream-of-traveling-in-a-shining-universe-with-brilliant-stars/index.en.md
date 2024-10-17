@@ -1,8 +1,8 @@
 ---
     weight: 645
     title: "Dream of traveling in a shining universe with brilliant stars"  # Assuming 'title' column exists
-    date: 2024-10-13T21:14:00+08:00
-    lastmod: 2024-10-13T21:14:00+08:00
+    date: 2024-10-11T14:26:00+08:00
+    lastmod: 2024-10-11T14:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['brilliant', 'traveling', 'Dream', 'a', 'universe', 'in', 'shining', 'of', 'stars', 'with']
+    tags: ['shining', 'Dream', 'traveling', 'stars', 'brilliant', 'universe']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ What are the luck of this dream?This dream can expect new opportunities and good
 | Lucky Animal        | Camel |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Cheeseboard      |
-| Lucky Instrument    | Drums |
-| Lucky Flower        | Zinnia    |
-| Lucky Job           | Content Creator       |
-| Lucky Exercise      | Kite Surfing  |
-| Lucky Country       | Kenya    |
+| Lucky Food          | Casserole      |
+| Lucky Instrument    | Accordion Synth |
+| Lucky Flower        | Pansy    |
+| Lucky Job           | Interpreter       |
+| Lucky Exercise      | Step Aerobics  |
+| Lucky Country       | Solomon Islands    |
 
 
 ##  Final Reflections on Dreams

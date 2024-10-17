@@ -1,8 +1,8 @@
 ---
     weight: 1866
     title: "Dream of your cat chasing a laser pointer"  # Assuming 'title' column exists
-    date: 2024-10-13T07:12:00+08:00
-    lastmod: 2024-10-13T07:12:00+08:00
+    date: 2024-10-13T11:38:00+08:00
+    lastmod: 2024-10-13T11:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['pointer', 'chasing', 'laser', 'your', 'cat', 'Dream', 'a', 'of']
+    tags: ['Dream', 'chasing', 'laser', 'cat', 'pointer']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Parrot |
 | Lucky Place         | Museum     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Pasta Salad      |
-| Lucky Instrument    | Oboe |
-| Lucky Flower        | Lantana    |
-| Lucky Job           | Accountant       |
-| Lucky Exercise      | Zumba  |
-| Lucky Country       | Syria    |
+| Lucky Food          | Tuna Tartare      |
+| Lucky Instrument    | Triangle |
+| Lucky Flower        | Jasmine    |
+| Lucky Job           | Doctor       |
+| Lucky Exercise      | Stand-Up Paddleboarding  |
+| Lucky Country       | Vanuatu    |
 
 
 ##  Final Reflections on Dreams

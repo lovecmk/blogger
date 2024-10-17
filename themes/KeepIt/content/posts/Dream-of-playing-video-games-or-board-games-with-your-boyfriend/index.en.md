@@ -1,8 +1,8 @@
 ---
     weight: 1547
     title: "Dream of playing video games or board games with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T08:46:00+08:00
-    lastmod: 2024-10-13T08:46:00+08:00
+    date: 2024-10-15T09:29:00+08:00
+    lastmod: 2024-10-15T09:29:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['video', 'or', 'playing', 'your', 'boyfriend', 'Dream', 'games', 'of', 'with', 'board']
+    tags: ['video', 'Dream', 'boyfriend', 'games', 'playing', 'board']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Horse |
 | Lucky Place         | River     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Caramel Flan      |
+| Lucky Food          | Chicken Curry      |
 | Lucky Instrument    | Cymbals |
-| Lucky Flower        | Sundew    |
-| Lucky Job           | Baker       |
-| Lucky Exercise      | Snowboarding  |
-| Lucky Country       | United Kingdom    |
+| Lucky Flower        | Begonia    |
+| Lucky Job           | Chemist       |
+| Lucky Exercise      | Ultimate Frisbee  |
+| Lucky Country       | Greece    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1568
     title: "Dream of being in a state of profound sorrow"  # Assuming 'title' column exists
-    date: 2024-10-13T17:31:00+08:00
-    lastmod: 2024-10-13T17:31:00+08:00
+    date: 2024-10-15T02:03:00+08:00
+    lastmod: 2024-10-15T02:03:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['state', 'profound', 'Dream', 'being', 'a', 'in', 'of', 'sorrow']
+    tags: ['being', 'Dream', 'sorrow', 'profound', 'state']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hippo |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Mango Sticky Rice      |
-| Lucky Instrument    | Glockenspiel |
-| Lucky Flower        | Stephanotis    |
-| Lucky Job           | Public Relations Specialist       |
-| Lucky Exercise      | Push-Ups  |
-| Lucky Country       | Bulgaria    |
+| Lucky Food          | Fajitas      |
+| Lucky Instrument    | Dulcimer |
+| Lucky Flower        | Vinca    |
+| Lucky Job           | Actor       |
+| Lucky Exercise      | Circuit Training  |
+| Lucky Country       | Malawi    |
 
 
 ##  Final Reflections on Dreams

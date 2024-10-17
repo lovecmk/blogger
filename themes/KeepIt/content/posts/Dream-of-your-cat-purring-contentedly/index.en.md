@@ -1,8 +1,8 @@
 ---
     weight: 1659
     title: "Dream of feeling devastated by a loss"  # Assuming 'title' column exists
-    date: 2024-10-13T01:44:00+08:00
-    lastmod: 2024-10-13T01:44:00+08:00
+    date: 2024-10-13T05:49:00+08:00
+    lastmod: 2024-10-13T05:49:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['feeling', 'devastated', 'Dream', 'a', 'loss', 'by', 'of']
+    tags: ['Dream', 'loss', 'feeling', 'devastated']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Guinea pig |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Quiche      |
-| Lucky Instrument    | Violin Bow |
-| Lucky Flower        | Bellflower    |
-| Lucky Job           | Firefighter       |
+| Lucky Food          | Fruit Smoothie      |
+| Lucky Instrument    | Oboe |
+| Lucky Flower        | Tulip    |
+| Lucky Job           | Artist       |
 | Lucky Exercise      | Hula Hooping  |
-| Lucky Country       | Russia    |
+| Lucky Country       | United States    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 747
     title: "Dream of watching stars in the night sky in outdoor camping"  # Assuming 'title' column exists
-    date: 2024-10-13T22:01:00+08:00
-    lastmod: 2024-10-13T22:01:00+08:00
+    date: 2024-10-12T09:37:00+08:00
+    lastmod: 2024-10-12T09:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['outdoor', 'sky', 'the', 'night', 'Dream', 'camping', 'in', 'of', 'stars', 'watching']
+    tags: ['camping', 'Dream', 'outdoor', 'stars', 'night', 'watching', 'sky']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream symbolizes luck.Star is a symbolic element that represents hope and d
 | Lucky Animal        | Cat |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Chili      |
-| Lucky Instrument    | Bass Drum |
-| Lucky Flower        | Cyclamen    |
-| Lucky Job           | Consultant       |
-| Lucky Exercise      | Step Aerobics  |
-| Lucky Country       | New Zealand    |
+| Lucky Food          | Caramel Flan      |
+| Lucky Instrument    | Zouaves |
+| Lucky Flower        | Thunbergia    |
+| Lucky Job           | Human Resources Manager       |
+| Lucky Exercise      | Gymnastics  |
+| Lucky Country       | Mexico    |
 
 
 ##  Final Reflections on Dreams

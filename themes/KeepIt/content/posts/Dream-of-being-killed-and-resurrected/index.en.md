@@ -1,8 +1,8 @@
 ---
     weight: 1670
     title: "Dream of disagreements about family boundaries"  # Assuming 'title' column exists
-    date: 2024-10-13T11:34:00+08:00
-    lastmod: 2024-10-13T11:34:00+08:00
+    date: 2024-10-11T14:09:00+08:00
+    lastmod: 2024-10-11T14:09:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'about', 'Dream', 'disagreements', 'boundaries', 'of']
+    tags: ['family', 'Dream', 'disagreements', 'boundaries']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Cat |
 | Lucky Place         | Library     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Chocolate Mousse      |
-| Lucky Instrument    | Octobass |
-| Lucky Flower        | Ranunculus    |
-| Lucky Job           | Graphic Designer       |
-| Lucky Exercise      | Walking  |
-| Lucky Country       | Kiribati    |
+| Lucky Food          | Deviled Eggs      |
+| Lucky Instrument    | Tama |
+| Lucky Flower        | Lotus    |
+| Lucky Job           | Web Designer       |
+| Lucky Exercise      | Lifting  |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

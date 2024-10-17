@@ -1,8 +1,8 @@
 ---
     weight: 2154
     title: "Dream of fighting in a street brawl"  # Assuming 'title' column exists
-    date: 2024-10-13T09:44:00+08:00
-    lastmod: 2024-10-13T09:44:00+08:00
+    date: 2024-10-12T23:47:00+08:00
+    lastmod: 2024-10-12T23:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fighting', 'Dream', 'brawl', 'a', 'street', 'in', 'of']
+    tags: ['brawl', 'Dream', 'fighting', 'street']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Camel |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Gelato      |
-| Lucky Instrument    | Electric Guitar |
-| Lucky Flower        | Daffodil    |
-| Lucky Job           | Historian       |
-| Lucky Exercise      | Surf Lifesaving  |
-| Lucky Country       | Mozambique    |
+| Lucky Food          | Eggplant Parmesan      |
+| Lucky Instrument    | Maracas |
+| Lucky Flower        | Swan River Daisy    |
+| Lucky Job           | Artist       |
+| Lucky Exercise      | Shot Put  |
+| Lucky Country       | Tuvalu    |
 
 
 ##  Final Reflections on Dreams

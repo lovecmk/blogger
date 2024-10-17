@@ -1,8 +1,8 @@
 ---
     weight: 2059
     title: "Dream of experiencing a sense of utter desolation"  # Assuming 'title' column exists
-    date: 2024-10-13T16:16:00+08:00
-    lastmod: 2024-10-13T16:16:00+08:00
+    date: 2024-10-13T21:34:00+08:00
+    lastmod: 2024-10-13T21:34:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['experiencing', 'Dream', 'utter', 'a', 'of', 'sense', 'desolation']
+    tags: ['experiencing', 'Dream', 'sense', 'utter', 'desolation']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Kangaroo |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Cheeseboard      |
-| Lucky Instrument    | Ney |
-| Lucky Flower        | Tulip    |
-| Lucky Job           | Nuclear Engineer       |
-| Lucky Exercise      | Horseback Riding  |
-| Lucky Country       | Afghanistan    |
+| Lucky Food          | Fajitas      |
+| Lucky Instrument    | Sackbut |
+| Lucky Flower        | Cornflower    |
+| Lucky Job           | Brand Manager       |
+| Lucky Exercise      | Resistance Bands  |
+| Lucky Country       | Oman    |
 
 
 ##  Final Reflections on Dreams

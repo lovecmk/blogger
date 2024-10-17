@@ -1,8 +1,8 @@
 ---
     weight: 15
     title: "Dream of happiness in the hands of citrus fruits"  # Assuming 'title' column exists
-    date: 2024-10-13T20:53:00+08:00
-    lastmod: 2024-10-13T20:53:00+08:00
+    date: 2024-10-15T11:35:00+08:00
+    lastmod: 2024-10-15T11:35:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['happiness', 'fruits', 'the', 'Dream', 'citrus', 'hands', 'in', 'of']
+    tags: ['Dream', 'fruits', 'hands', 'happiness', 'citrus']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream may be a sign of affecting your happiness and satisfaction.This dream
 | Lucky Animal        | Camel |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Seafood Paella      |
-| Lucky Instrument    | Harmonium |
-| Lucky Flower        | Heliotrope    |
-| Lucky Job           | Translator       |
-| Lucky Exercise      | High-Intensity Interval Training (HIIT)  |
-| Lucky Country       | Vanuatu    |
+| Lucky Food          | Ramen      |
+| Lucky Instrument    | Steel Pan |
+| Lucky Flower        | Stephanotis    |
+| Lucky Job           | Content Creator       |
+| Lucky Exercise      | Interval Training  |
+| Lucky Country       | Japan    |
 
 
 ##  Final Reflections on Dreams

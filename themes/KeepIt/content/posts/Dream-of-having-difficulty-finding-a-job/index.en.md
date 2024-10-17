@@ -1,8 +1,8 @@
 ---
     weight: 1434
     title: "Dream of having difficulty finding a job"  # Assuming 'title' column exists
-    date: 2024-10-13T07:12:00+08:00
-    lastmod: 2024-10-13T07:12:00+08:00
+    date: 2024-10-15T09:20:00+08:00
+    lastmod: 2024-10-15T09:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'difficulty', 'a', 'job', 'of', 'finding', 'having']
+    tags: ['job', 'Dream', 'finding', 'difficulty', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Koala |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Zucchini Noodles      |
-| Lucky Instrument    | Balalaika |
-| Lucky Flower        | Cactus Flower    |
-| Lucky Job           | IT Specialist       |
-| Lucky Exercise      | Lifting  |
-| Lucky Country       | Tanzania    |
+| Lucky Food          | Ceviche      |
+| Lucky Instrument    | Trombone Slide |
+| Lucky Flower        | Pincushion Flower    |
+| Lucky Job           | Fitness Instructor       |
+| Lucky Exercise      | Foam Rolling  |
+| Lucky Country       | Turkey    |
 
 
 ##  Final Reflections on Dreams

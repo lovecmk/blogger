@@ -1,8 +1,8 @@
 ---
     weight: 378
     title: "Dream of walking on an unstable surface"  # Assuming 'title' column exists
-    date: 2024-10-13T12:31:00+08:00
-    lastmod: 2024-10-13T12:31:00+08:00
+    date: 2024-10-13T23:39:00+08:00
+    lastmod: 2024-10-13T23:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['unstable', 'Dream', 'surface', 'an', 'on', 'of', 'walking']
+    tags: ['Dream', 'surface', 'walking', 'unstable', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can give you a chance to test and achieve your abilities in a challen
 | Lucky Animal        | Sparrow |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | White     |
-| Lucky Food          | Lasagna      |
-| Lucky Instrument    | Claves |
-| Lucky Flower        | Bleeding Heart    |
-| Lucky Job           | Software Engineer       |
-| Lucky Exercise      | Running  |
-| Lucky Country       | Mexico    |
+| Lucky Food          | Popcorn      |
+| Lucky Instrument    | Fiddle |
+| Lucky Flower        | Jasmine    |
+| Lucky Job           | Biologist       |
+| Lucky Exercise      | Ultimate Frisbee  |
+| Lucky Country       | Western Sahara    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1762
     title: "Dream of your grandmother being a beacon of love and comfort to you."  # Assuming 'title' column exists
-    date: 2024-10-13T01:24:00+08:00
-    lastmod: 2024-10-13T01:24:00+08:00
+    date: 2024-10-14T22:57:00+08:00
+    lastmod: 2024-10-14T22:57:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['comfort', 'grandmother', 'you.', 'your', 'to', 'Dream', 'beacon', 'being', 'a', 'and', 'love', 'of']
+    tags: ['being', 'Dream', 'love', 'grandmother', 'to', 'beacon', 'comfort', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | White     |
-| Lucky Food          | Pulled Pork      |
-| Lucky Instrument    | Clarinet |
-| Lucky Flower        | Scabiosa    |
-| Lucky Job           | Bus Driver       |
-| Lucky Exercise      | Jumping Rope  |
-| Lucky Country       | Armenia    |
+| Lucky Food          | Hot Dog      |
+| Lucky Instrument    | French Horn |
+| Lucky Flower        | Pelargonium    |
+| Lucky Job           | Personal Trainer       |
+| Lucky Exercise      | Rock Climbing  |
+| Lucky Country       | Solomon Islands    |
 
 
 ##  Final Reflections on Dreams

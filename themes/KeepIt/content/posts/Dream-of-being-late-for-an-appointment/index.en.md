@@ -1,8 +1,8 @@
 ---
     weight: 1231
     title: "Dream of being late for an appointment"  # Assuming 'title' column exists
-    date: 2024-10-13T14:51:00+08:00
-    lastmod: 2024-10-13T14:51:00+08:00
+    date: 2024-10-11T22:47:00+08:00
+    lastmod: 2024-10-11T22:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['late', 'Dream', 'being', 'for', 'an', 'of', 'appointment']
+    tags: ['being', 'Dream', 'appointment', 'late', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Crab |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Fish and Chips      |
+| Lucky Food          | Tacos      |
 | Lucky Instrument    | Bagpipes |
-| Lucky Flower        | Sundew    |
-| Lucky Job           | Police Officer       |
-| Lucky Exercise      | Zumba  |
-| Lucky Country       | Bhutan    |
+| Lucky Flower        | Moss Rose    |
+| Lucky Job           | UX Designer       |
+| Lucky Exercise      | Stair Climbing  |
+| Lucky Country       | Laos    |
 
 
 ##  Final Reflections on Dreams

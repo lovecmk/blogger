@@ -1,8 +1,8 @@
 ---
     weight: 577
     title: "Brilliant flower field dream"  # Assuming 'title' column exists
-    date: 2024-10-13T07:20:00+08:00
-    lastmod: 2024-10-13T07:20:00+08:00
+    date: 2024-10-13T08:44:00+08:00
+    lastmod: 2024-10-13T08:44:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['flower', 'Brilliant', 'dream', 'field']
+    tags: ['field', 'Brilliant', 'dream', 'flower']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream generally shows good luck and positive situations.Looking at the gorg
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Pizza      |
-| Lucky Instrument    | Balalaika |
-| Lucky Flower        | Tansy    |
-| Lucky Job           | Teacher       |
-| Lucky Exercise      | Dancing  |
-| Lucky Country       | Slovakia    |
+| Lucky Food          | Pork Chops      |
+| Lucky Instrument    | Ney |
+| Lucky Flower        | Vinca    |
+| Lucky Job           | Insurance Underwriter       |
+| Lucky Exercise      | Sprinting  |
+| Lucky Country       | Iceland    |
 
 
 ##  Final Reflections on Dreams

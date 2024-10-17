@@ -1,8 +1,8 @@
 ---
     weight: 2021
     title: "Dream of being in a state of profound disappointment"  # Assuming 'title' column exists
-    date: 2024-10-13T02:31:00+08:00
-    lastmod: 2024-10-13T02:31:00+08:00
+    date: 2024-10-14T03:23:00+08:00
+    lastmod: 2024-10-14T03:23:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['state', 'profound', 'Dream', 'being', 'a', 'disappointment', 'in', 'of']
+    tags: ['being', 'Dream', 'profound', 'disappointment', 'state']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Library     |
 | Lucky Color         | Black     |
-| Lucky Food          | Potato Skins      |
-| Lucky Instrument    | Tenor Guitar |
-| Lucky Flower        | Hoya    |
-| Lucky Job           | Teacher       |
-| Lucky Exercise      | Running  |
-| Lucky Country       | Serbia    |
+| Lucky Food          | Paella      |
+| Lucky Instrument    | Tenor Banjo |
+| Lucky Flower        | Yarrow    |
+| Lucky Job           | Real Estate Agent       |
+| Lucky Exercise      | Bench Press  |
+| Lucky Country       | Greece    |
 
 
 ##  Final Reflections on Dreams

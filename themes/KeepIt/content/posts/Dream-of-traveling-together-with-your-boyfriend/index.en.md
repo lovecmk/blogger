@@ -1,8 +1,8 @@
 ---
     weight: 1996
     title: "Dream of your grandmother's smile lighting up the room."  # Assuming 'title' column exists
-    date: 2024-10-13T05:20:00+08:00
-    lastmod: 2024-10-13T05:20:00+08:00
+    date: 2024-10-12T19:47:00+08:00
+    lastmod: 2024-10-12T19:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lighting', 'the', 'your', 'room.', 'Dream', 'up', 'smile', "grandmother's", 'of']
+    tags: ['Dream', 'smile', 'up', "grandmother's", 'lighting', 'room']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Chick |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Prawn Crackers      |
-| Lucky Instrument    | Saxophone |
-| Lucky Flower        | Freesia    |
-| Lucky Job           | Social Worker       |
-| Lucky Exercise      | Ashtanga Yoga  |
-| Lucky Country       | Tuvalu    |
+| Lucky Food          | Samosa      |
+| Lucky Instrument    | Keyboard |
+| Lucky Flower        | Poinsettia    |
+| Lucky Job           | Field Technician       |
+| Lucky Exercise      | Golf  |
+| Lucky Country       | Russia    |
 
 
 ##  Final Reflections on Dreams

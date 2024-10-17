@@ -1,8 +1,8 @@
 ---
     weight: 449
     title: "Dream of showing a different appearance to someone in an open place"  # Assuming 'title' column exists
-    date: 2024-10-13T23:20:00+08:00
-    lastmod: 2024-10-13T23:20:00+08:00
+    date: 2024-10-11T09:32:00+08:00
+    lastmod: 2024-10-11T09:32:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['showing', 'to', 'appearance', 'Dream', 'open', 'a', 'someone', 'an', 'in', 'place', 'different', 'of']
+    tags: ['different', 'Dream', 'open', 'to', 'place', 'an', 'showing', 'someone', 'appearance']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can be lucky to bring greater freedom and personal expressions to you
 | Lucky Animal        | Raccoon |
 | Lucky Place         | River     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Fruit Salad      |
-| Lucky Instrument    | Synthesizer |
-| Lucky Flower        | Bougainvillea    |
-| Lucky Job           | Human Resources Manager       |
-| Lucky Exercise      | Hula Hooping  |
-| Lucky Country       | Hungary    |
+| Lucky Food          | Chocolate Mousse      |
+| Lucky Instrument    | Ocarina |
+| Lucky Flower        | Tulip    |
+| Lucky Job           | Mechanic       |
+| Lucky Exercise      | Discus Throw  |
+| Lucky Country       | Switzerland    |
 
 
 ##  Final Reflections on Dreams

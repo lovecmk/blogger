@@ -1,8 +1,8 @@
 ---
     weight: 836
     title: "Dream of death due to fire"  # Assuming 'title' column exists
-    date: 2024-10-13T04:16:00+08:00
-    lastmod: 2024-10-13T04:16:00+08:00
+    date: 2024-10-14T06:59:00+08:00
+    lastmod: 2024-10-14T06:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['death', 'to', 'fire', 'Dream', 'due', 'of']
+    tags: ['Dream', 'due', 'to', 'fire', 'death']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be found mainly through internal changes and growth.T
 | Lucky Animal        | Panda |
 | Lucky Place         | Museum     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Buffalo Wings      |
-| Lucky Instrument    | Harmonic Piano |
-| Lucky Flower        | Buttercup    |
-| Lucky Job           | Logistician       |
-| Lucky Exercise      | CrossFit  |
-| Lucky Country       | Lebanon    |
+| Lucky Food          | Bruschetta      |
+| Lucky Instrument    | Lap Steel Guitar |
+| Lucky Flower        | Dahlia    |
+| Lucky Job           | Pharmacist       |
+| Lucky Exercise      | Circuit Training  |
+| Lucky Country       | Tonga    |
 
 
 ##  Final Reflections on Dreams

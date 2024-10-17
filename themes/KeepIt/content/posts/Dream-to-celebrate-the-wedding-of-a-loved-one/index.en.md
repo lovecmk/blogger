@@ -1,8 +1,8 @@
 ---
     weight: 664
     title: "Dream to celebrate the wedding of a loved one"  # Assuming 'title' column exists
-    date: 2024-10-13T09:26:00+08:00
-    lastmod: 2024-10-13T09:26:00+08:00
+    date: 2024-10-13T23:11:00+08:00
+    lastmod: 2024-10-13T23:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['one', 'the', 'to', 'Dream', 'a', 'loved', 'celebrate', 'of', 'wedding']
+    tags: ['Dream', 'one', 'loved', 'to', 'wedding', 'celebrate']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can appear in various forms.The wedding generally symboli
 | Lucky Animal        | Sloth |
 | Lucky Place         | Library     |
 | Lucky Color         | Red     |
-| Lucky Food          | Cornbread      |
-| Lucky Instrument    | Claves |
-| Lucky Flower        | Jasmine    |
-| Lucky Job           | Game Developer       |
-| Lucky Exercise      | Trail Running  |
-| Lucky Country       | Cyprus    |
+| Lucky Food          | Chili      |
+| Lucky Instrument    | Glockenspiel |
+| Lucky Flower        | Freesia    |
+| Lucky Job           | Philosopher       |
+| Lucky Exercise      | Slacklining  |
+| Lucky Country       | Canada    |
 
 
 ##  Final Reflections on Dreams

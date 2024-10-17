@@ -1,8 +1,8 @@
 ---
     weight: 1885
     title: "Dream of having breakfast with your cat"  # Assuming 'title' column exists
-    date: 2024-10-13T05:42:00+08:00
-    lastmod: 2024-10-13T05:42:00+08:00
+    date: 2024-10-13T15:14:00+08:00
+    lastmod: 2024-10-13T15:14:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['breakfast', 'your', 'cat', 'Dream', 'of', 'with', 'having']
+    tags: ['breakfast', 'Dream', 'cat', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Beef Tacos      |
-| Lucky Instrument    | Saz |
-| Lucky Flower        | Swan River Daisy    |
-| Lucky Job           | Engineer       |
-| Lucky Exercise      | Ultimate Frisbee  |
-| Lucky Country       | Botswana    |
+| Lucky Food          | Shepherd's Pie      |
+| Lucky Instrument    | Piano |
+| Lucky Flower        | Aster    |
+| Lucky Job           | Network Administrator       |
+| Lucky Exercise      | Belly Dancing  |
+| Lucky Country       | Samoa    |
 
 
 ##  Final Reflections on Dreams

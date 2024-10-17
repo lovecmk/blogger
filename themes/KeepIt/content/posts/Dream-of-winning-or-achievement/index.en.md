@@ -1,8 +1,8 @@
 ---
     weight: 519
     title: "Dream of winning or achievement"  # Assuming 'title' column exists
-    date: 2024-10-13T10:59:00+08:00
-    lastmod: 2024-10-13T10:59:00+08:00
+    date: 2024-10-12T11:20:00+08:00
+    lastmod: 2024-10-12T11:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'winning', 'Dream', 'of', 'achievement']
+    tags: ['Dream', 'winning', 'achievement']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream shows you that good luck and success can come, and you will have a go
 | Lucky Animal        | Spider |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Tofu      |
-| Lucky Instrument    | Tenor Banjo |
-| Lucky Flower        | Larkspur    |
-| Lucky Job           | Brand Manager       |
-| Lucky Exercise      | Golf  |
-| Lucky Country       | Georgia    |
+| Lucky Food          | Caramel Flan      |
+| Lucky Instrument    | Saz |
+| Lucky Flower        | Magnolia    |
+| Lucky Job           | Research Scientist       |
+| Lucky Exercise      | Capoeira  |
+| Lucky Country       | Marshall Islands    |
 
 
 ##  Final Reflections on Dreams

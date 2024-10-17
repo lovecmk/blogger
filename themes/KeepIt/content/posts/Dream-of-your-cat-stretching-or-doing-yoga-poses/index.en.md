@@ -1,8 +1,8 @@
 ---
     weight: 1956
     title: "Dream of receiving news of someone's death"  # Assuming 'title' column exists
-    date: 2024-10-13T12:32:00+08:00
-    lastmod: 2024-10-13T12:32:00+08:00
+    date: 2024-10-15T00:33:00+08:00
+    lastmod: 2024-10-15T00:33:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['death', 'receiving', 'news', "someone's", 'Dream', 'of']
+    tags: ['Dream', 'news', "someone's", 'receiving', 'death']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Guinea pig |
 | Lucky Place         | Sea     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Baked Potato      |
-| Lucky Instrument    | Clarinet |
-| Lucky Flower        | Daffodil    |
-| Lucky Job           | Graphic Designer       |
-| Lucky Exercise      | Paddleboarding  |
-| Lucky Country       | Argentina    |
+| Lucky Food          | Pork Belly      |
+| Lucky Instrument    | Basset Horn |
+| Lucky Flower        | Rudbeckia    |
+| Lucky Job           | Researcher       |
+| Lucky Exercise      | Soccer  |
+| Lucky Country       | Palau    |
 
 
 ##  Final Reflections on Dreams

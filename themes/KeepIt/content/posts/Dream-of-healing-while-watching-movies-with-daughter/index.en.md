@@ -1,8 +1,8 @@
 ---
     weight: 129
     title: "Dream of healing while watching movies with daughter"  # Assuming 'title' column exists
-    date: 2024-10-13T10:42:00+08:00
-    lastmod: 2024-10-13T10:42:00+08:00
+    date: 2024-10-15T17:57:00+08:00
+    lastmod: 2024-10-15T17:57:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['with', 'movies', 'Dream', 'daughter', 'healing', 'of', 'watching', 'while']
+    tags: ['while', 'movies', 'healing', 'Dream', 'watching', 'daughter']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring good luck and positive energy.This dream symbolizes the des
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Noodles      |
-| Lucky Instrument    | Tuba Horn |
-| Lucky Flower        | Begonia    |
-| Lucky Job           | Lawyer       |
-| Lucky Exercise      | Boxing  |
-| Lucky Country       | Pakistan    |
+| Lucky Food          | Fruit Salad      |
+| Lucky Instrument    | Trombone Slide |
+| Lucky Flower        | Sundew    |
+| Lucky Job           | Security Guard       |
+| Lucky Exercise      | Box Jumps  |
+| Lucky Country       | Iraq    |
 
 
 ##  Final Reflections on Dreams

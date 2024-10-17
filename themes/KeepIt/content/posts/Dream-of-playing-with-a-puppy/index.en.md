@@ -1,8 +1,8 @@
 ---
     weight: 284
     title: "Dream of playing with a puppy"  # Assuming 'title' column exists
-    date: 2024-10-13T21:27:00+08:00
-    lastmod: 2024-10-13T21:27:00+08:00
+    date: 2024-10-12T14:59:00+08:00
+    lastmod: 2024-10-12T14:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['playing', 'Dream', 'puppy', 'a', 'of', 'with']
+    tags: ['Dream', 'puppy', 'playing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can mainly show positive luck.The puppy is known as a devoted and lov
 | Lucky Animal        | Sparrow |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Caramel Flan      |
-| Lucky Instrument    | Saxello |
-| Lucky Flower        | Buttercup    |
-| Lucky Job           | Physical Therapist       |
-| Lucky Exercise      | Ultimate Frisbee  |
-| Lucky Country       | Malta    |
+| Lucky Food          | Ceviche      |
+| Lucky Instrument    | Triangle |
+| Lucky Flower        | Cactus Flower    |
+| Lucky Job           | Architect       |
+| Lucky Exercise      | Basketball  |
+| Lucky Country       | Egypt    |
 
 
 ##  Final Reflections on Dreams

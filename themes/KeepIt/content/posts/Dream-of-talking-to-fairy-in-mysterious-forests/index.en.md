@@ -1,8 +1,8 @@
 ---
     weight: 761
     title: "Dream of talking to fairy in mysterious forests"  # Assuming 'title' column exists
-    date: 2024-10-13T11:11:00+08:00
-    lastmod: 2024-10-13T11:11:00+08:00
+    date: 2024-10-13T15:10:00+08:00
+    lastmod: 2024-10-13T15:10:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fairy', 'forests', 'to', 'talking', 'Dream', 'mysterious', 'in', 'of']
+    tags: ['Dream', 'fairy', 'forests', 'talking', 'to', 'mysterious']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream has an unrealistic and mysterious element.Fairy can be a symbol of go
 | Lucky Animal        | Chick |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Zucchini Noodles      |
-| Lucky Instrument    | Bassoon |
-| Lucky Flower        | Ragged Robin    |
-| Lucky Job           | Writer       |
-| Lucky Exercise      | Ultimate Frisbee  |
-| Lucky Country       | Tuvalu    |
+| Lucky Food          | Gnocchi      |
+| Lucky Instrument    | Tromba |
+| Lucky Flower        | Carnation    |
+| Lucky Job           | Business Analyst       |
+| Lucky Exercise      | Martial Arts  |
+| Lucky Country       | Iceland    |
 
 
 ##  Final Reflections on Dreams

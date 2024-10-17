@@ -1,8 +1,8 @@
 ---
     weight: 1032
     title: "Dream of expectation for the future"  # Assuming 'title' column exists
-    date: 2024-10-13T19:20:00+08:00
-    lastmod: 2024-10-13T19:20:00+08:00
+    date: 2024-10-15T18:51:00+08:00
+    lastmod: 2024-10-15T18:51:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['expectation', 'the', 'Dream', 'for', 'future', 'of']
+    tags: ['Dream', 'expectation', 'future']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you good luck.Because of what you have hope and expectation
 | Lucky Animal        | Chicken |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Baba Ganoush      |
-| Lucky Instrument    | Tuba Horn |
-| Lucky Flower        | Cyclamen    |
-| Lucky Job           | Insurance Underwriter       |
-| Lucky Exercise      | Tennis  |
-| Lucky Country       | Latvia    |
+| Lucky Food          | Fruit Tart      |
+| Lucky Instrument    | Slide Guitar |
+| Lucky Flower        | Jatropha    |
+| Lucky Job           | Customer Service Representative       |
+| Lucky Exercise      | Ashtanga Yoga  |
+| Lucky Country       | Kazakhstan    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1034
     title: "Dream of disappointment and frustration"  # Assuming 'title' column exists
-    date: 2024-10-13T16:34:00+08:00
-    lastmod: 2024-10-13T16:34:00+08:00
+    date: 2024-10-11T21:58:00+08:00
+    lastmod: 2024-10-11T21:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'frustration', 'disappointment', 'and', 'of']
+    tags: ['Dream', 'frustration', 'disappointment']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is the growth and learning that we gain in the process of
 | Lucky Animal        | Spider |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Duck Confit      |
-| Lucky Instrument    | Bongo Drums |
-| Lucky Flower        | Hellebore    |
-| Lucky Job           | Plumber       |
-| Lucky Exercise      | Pilates  |
-| Lucky Country       | Kiribati    |
+| Lucky Food          | Beef Tacos      |
+| Lucky Instrument    | Tenor Banjo |
+| Lucky Flower        | Swan River Daisy    |
+| Lucky Job           | Database Administrator       |
+| Lucky Exercise      | Capoeira  |
+| Lucky Country       | Argentina    |
 
 
 ##  Final Reflections on Dreams

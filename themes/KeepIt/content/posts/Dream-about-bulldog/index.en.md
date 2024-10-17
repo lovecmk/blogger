@@ -1,8 +1,8 @@
 ---
     weight: 1059
     title: "Dream about bulldog"  # Assuming 'title' column exists
-    date: 2024-10-13T13:07:00+08:00
-    lastmod: 2024-10-13T13:07:00+08:00
+    date: 2024-10-11T02:35:00+08:00
+    lastmod: 2024-10-11T02:35:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['bulldog', 'about', 'Dream']
+    tags: ['bulldog', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can give you good luck by providing courage and protection.Bulldogs a
 | Lucky Animal        | Mouse |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Chili      |
-| Lucky Instrument    | Trompeta |
-| Lucky Flower        | Lily    |
-| Lucky Job           | Farmer       |
-| Lucky Exercise      | Javelin  |
-| Lucky Country       | Australia    |
+| Lucky Food          | Tuna Tartare      |
+| Lucky Instrument    | Chimes |
+| Lucky Flower        | Aster    |
+| Lucky Job           | Interpreter       |
+| Lucky Exercise      | Sprinting  |
+| Lucky Country       | Nigeria    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1883
     title: "Dream of dying and seeing a bright figure"  # Assuming 'title' column exists
-    date: 2024-10-13T04:43:00+08:00
-    lastmod: 2024-10-13T04:43:00+08:00
+    date: 2024-10-14T20:25:00+08:00
+    lastmod: 2024-10-14T20:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['bright', 'dying', 'figure', 'seeing', 'Dream', 'a', 'and', 'of']
+    tags: ['bright', 'Dream', 'dying', 'seeing', 'figure']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream does not necessarily bring luck, but it could serve as a catalyst for
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Kale Salad      |
-| Lucky Instrument    | Ocarina |
-| Lucky Flower        | Bluebell    |
-| Lucky Job           | Lawyer       |
-| Lucky Exercise      | Resistance Bands  |
-| Lucky Country       | Afghanistan    |
+| Lucky Food          | Corn on the Cob      |
+| Lucky Instrument    | Guitarlele |
+| Lucky Flower        | Jatropha    |
+| Lucky Job           | Field Technician       |
+| Lucky Exercise      | Plank  |
+| Lucky Country       | Maldives    |
 
 
 ##  Final Reflections on Dreams

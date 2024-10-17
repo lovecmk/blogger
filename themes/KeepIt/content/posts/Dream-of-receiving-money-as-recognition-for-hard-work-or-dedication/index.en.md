@@ -1,8 +1,8 @@
 ---
     weight: 1999
     title: "Dream of feeling isolated or lonely"  # Assuming 'title' column exists
-    date: 2024-10-13T20:00:00+08:00
-    lastmod: 2024-10-13T20:00:00+08:00
+    date: 2024-10-14T14:52:00+08:00
+    lastmod: 2024-10-14T14:52:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['feeling', 'or', 'isolated', 'lonely', 'Dream', 'of']
+    tags: ['Dream', 'lonely', 'isolated', 'feeling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream could bring luck in the form of increased harmony and joy in your rel
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Beach     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Chowder      |
-| Lucky Instrument    | Drums |
-| Lucky Flower        | Lavender    |
-| Lucky Job           | Chef de Cuisine       |
-| Lucky Exercise      | Jumping Rope  |
-| Lucky Country       | Japan    |
+| Lucky Food          | Burrito      |
+| Lucky Instrument    | Maracas |
+| Lucky Flower        | Kalanchoe    |
+| Lucky Job           | Quality Assurance Tester       |
+| Lucky Exercise      | Tennis  |
+| Lucky Country       | Nigeria    |
 
 
 ##  Final Reflections on Dreams

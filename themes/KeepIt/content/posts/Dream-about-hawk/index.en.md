@@ -1,8 +1,8 @@
 ---
     weight: 1134
     title: "Dream about hawk"  # Assuming 'title' column exists
-    date: 2024-10-13T20:41:00+08:00
-    lastmod: 2024-10-13T20:41:00+08:00
+    date: 2024-10-13T01:46:00+08:00
+    lastmod: 2024-10-13T01:46:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['hawk', 'about', 'Dream']
+    tags: ['hawk', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'hawk' dreams may vary depending on the interpretation of the indivi
 | Lucky Animal        | Mole |
 | Lucky Place         | River     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Clams      |
-| Lucky Instrument    | Piccolo Trumpet |
-| Lucky Flower        | Thistle    |
-| Lucky Job           | UX Designer       |
-| Lucky Exercise      | Javelin  |
-| Lucky Country       | Iran    |
+| Lucky Food          | Vegetable Stir Fry      |
+| Lucky Instrument    | Tabla |
+| Lucky Flower        | Sundew    |
+| Lucky Job           | Pastry Chef       |
+| Lucky Exercise      | Salsa  |
+| Lucky Country       | Lesotho    |
 
 
 ##  Final Reflections on Dreams

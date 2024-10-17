@@ -1,8 +1,8 @@
 ---
     weight: 1799
     title: "Dream of receiving financial support for a personal goal or ambition."  # Assuming 'title' column exists
-    date: 2024-10-13T08:25:00+08:00
-    lastmod: 2024-10-13T08:25:00+08:00
+    date: 2024-10-14T14:37:00+08:00
+    lastmod: 2024-10-14T14:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['receiving', 'or', 'financial', 'goal', 'Dream', 'for', 'personal', 'ambition.', 'a', 'of', 'support']
+    tags: ['Dream', 'goal', 'personal', 'support', 'ambition', 'receiving', 'financial']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Sloth |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Fajitas      |
-| Lucky Instrument    | Guitar |
-| Lucky Flower        | Zinnia    |
-| Lucky Job           | Quality Assurance Tester       |
-| Lucky Exercise      | Ballet  |
-| Lucky Country       | Ireland    |
+| Lucky Food          | Pasta      |
+| Lucky Instrument    | Trombone |
+| Lucky Flower        | Swan River Daisy    |
+| Lucky Job           | Art Director       |
+| Lucky Exercise      | Foam Rolling  |
+| Lucky Country       | Bulgaria    |
 
 
 ##  Final Reflections on Dreams

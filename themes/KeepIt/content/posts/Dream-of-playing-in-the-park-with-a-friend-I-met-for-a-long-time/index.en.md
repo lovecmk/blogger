@@ -1,8 +1,8 @@
 ---
     weight: 710
     title: "Dream of playing in the park with a friend I met for a long time"  # Assuming 'title' column exists
-    date: 2024-10-13T21:49:00+08:00
-    lastmod: 2024-10-13T21:49:00+08:00
+    date: 2024-10-12T09:50:00+08:00
+    lastmod: 2024-10-12T09:50:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['park', 'friend', 'long', 'playing', 'the', 'Dream', 'for', 'I', 'a', 'time', 'in', 'met', 'of', 'with']
+    tags: ['Dream', 'I', 'playing', 'friend', 'met', 'long', 'time', 'park']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can symbolize the luck that improves the current relationship and cre
 | Lucky Animal        | Fox |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Potato Skins      |
-| Lucky Instrument    | Trompeta |
-| Lucky Flower        | Feverfew    |
-| Lucky Job           | Neuroscientist       |
-| Lucky Exercise      | Leg Press  |
-| Lucky Country       | Germany    |
+| Lucky Food          | Salad      |
+| Lucky Instrument    | Piano |
+| Lucky Flower        | Anemone    |
+| Lucky Job           | Lawyer       |
+| Lucky Exercise      | Jumping Rope  |
+| Lucky Country       | Kenya    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1190
     title: "Dream about accountant"  # Assuming 'title' column exists
-    date: 2024-10-13T22:02:00+08:00
-    lastmod: 2024-10-13T22:02:00+08:00
+    date: 2024-10-13T18:11:00+08:00
+    lastmod: 2024-10-13T18:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['accountant', 'about', 'Dream']
+    tags: ['accountant', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'accountant' dreams may vary depending on the personal situation and
 | Lucky Animal        | Snake |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Cornbread      |
-| Lucky Instrument    | Sarangi |
-| Lucky Flower        | Bluebell    |
-| Lucky Job           | Insurance Underwriter       |
-| Lucky Exercise      | Deadlifts  |
-| Lucky Country       | Afghanistan    |
+| Lucky Food          | Paella      |
+| Lucky Instrument    | Trumpet |
+| Lucky Flower        | Daffodil    |
+| Lucky Job           | Mathematician       |
+| Lucky Exercise      | Active Recovery  |
+| Lucky Country       | Canada    |
 
 
 ##  Final Reflections on Dreams

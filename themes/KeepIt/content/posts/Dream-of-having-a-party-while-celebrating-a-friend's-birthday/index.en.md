@@ -1,8 +1,8 @@
 ---
     weight: 694
     title: "Dream of having a party while celebrating a friend's birthday"  # Assuming 'title' column exists
-    date: 2024-10-13T08:08:00+08:00
-    lastmod: 2024-10-13T08:08:00+08:00
+    date: 2024-10-13T07:01:00+08:00
+    lastmod: 2024-10-13T07:01:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['birthday', 'Dream', "friend's", 'celebrating', 'a', 'party', 'of', 'while', 'having']
+    tags: ['while', 'Dream', "friend's", 'birthday', 'celebrating', 'party', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be a chance to participate in joy and joy, social con
 | Lucky Animal        | Duck |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Gelato      |
-| Lucky Instrument    | Erhu |
-| Lucky Flower        | Feverfew    |
-| Lucky Job           | Anthropologist       |
-| Lucky Exercise      | Active Recovery  |
-| Lucky Country       | Tuvalu    |
+| Lucky Food          | Pico de Gallo      |
+| Lucky Instrument    | Tabor |
+| Lucky Flower        | Sweet Pea    |
+| Lucky Job           | Philosopher       |
+| Lucky Exercise      | Rowing  |
+| Lucky Country       | Tanzania    |
 
 
 ##  Final Reflections on Dreams

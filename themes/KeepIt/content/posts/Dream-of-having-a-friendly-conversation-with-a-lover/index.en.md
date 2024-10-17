@@ -1,8 +1,8 @@
 ---
     weight: 204
     title: "Dream of having a friendly conversation with a lover"  # Assuming 'title' column exists
-    date: 2024-10-13T16:45:00+08:00
-    lastmod: 2024-10-13T16:45:00+08:00
+    date: 2024-10-11T12:37:00+08:00
+    lastmod: 2024-10-11T12:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lover', 'Dream', 'a', 'friendly', 'of', 'conversation', 'with', 'having']
+    tags: ['conversation', 'Dream', 'friendly', 'lover', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can provide you with a chance to come through a conversation with you
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Beach     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Coconut Shrimp      |
-| Lucky Instrument    | Darbuka |
-| Lucky Flower        | Lobelia    |
-| Lucky Job           | Life Coach       |
-| Lucky Exercise      | Fencing  |
-| Lucky Country       | Germany    |
+| Lucky Food          | Sushi      |
+| Lucky Instrument    | Zouaves |
+| Lucky Flower        | Bouvardia    |
+| Lucky Job           | Dentist       |
+| Lucky Exercise      | Ashtanga Yoga  |
+| Lucky Country       | Micronesia    |
 
 
 ##  Final Reflections on Dreams

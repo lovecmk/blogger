@@ -1,8 +1,8 @@
 ---
     weight: 1398
     title: "Dream of being back in school or missing a class"  # Assuming 'title' column exists
-    date: 2024-10-13T20:22:00+08:00
-    lastmod: 2024-10-13T20:22:00+08:00
+    date: 2024-10-12T11:20:00+08:00
+    lastmod: 2024-10-12T11:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['missing', 'or', 'Dream', 'class', 'being', 'a', 'in', 'of', 'school', 'back']
+    tags: ['being', 'school', 'Dream', 'missing', 'back', 'class']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams themselves do not bring or determine luck. However, this dream can be see
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Chips      |
-| Lucky Instrument    | Soprano Recorder |
-| Lucky Flower        | Yarrow    |
-| Lucky Job           | Accountant       |
-| Lucky Exercise      | Sprinting  |
-| Lucky Country       | Tuvalu    |
+| Lucky Food          | Fried Rice      |
+| Lucky Instrument    | Saz |
+| Lucky Flower        | Nymphaea    |
+| Lucky Job           | Web Designer       |
+| Lucky Exercise      | Obstacle Course Racing  |
+| Lucky Country       | Mozambique    |
 
 
 ##  Final Reflections on Dreams

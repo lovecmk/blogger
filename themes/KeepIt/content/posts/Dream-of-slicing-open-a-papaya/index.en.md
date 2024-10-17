@@ -1,8 +1,8 @@
 ---
     weight: 1829
     title: "Dream of fighting in a survival of the fittest scenario"  # Assuming 'title' column exists
-    date: 2024-10-13T22:10:00+08:00
-    lastmod: 2024-10-13T22:10:00+08:00
+    date: 2024-10-15T04:19:00+08:00
+    lastmod: 2024-10-15T04:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fittest', 'the', 'scenario', 'fighting', 'Dream', 'a', 'in', 'of', 'survival']
+    tags: ['fittest', 'Dream', 'scenario', 'survival', 'fighting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ The luck associated with this dream depends on how you interpret and respond to 
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Ratatouille      |
-| Lucky Instrument    | Lute |
-| Lucky Flower        | Moss Rose    |
-| Lucky Job           | Psychologist       |
-| Lucky Exercise      | Capoeira  |
-| Lucky Country       | Estonia    |
+| Lucky Food          | Curry      |
+| Lucky Instrument    | Melodica |
+| Lucky Flower        | Agapanthus    |
+| Lucky Job           | Software Engineer       |
+| Lucky Exercise      | Trail Running  |
+| Lucky Country       | Tuvalu    |
 
 
 ##  Final Reflections on Dreams

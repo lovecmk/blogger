@@ -1,8 +1,8 @@
 ---
     weight: 227
     title: "Dream of adventure in alien planets"  # Assuming 'title' column exists
-    date: 2024-10-13T00:16:00+08:00
-    lastmod: 2024-10-13T00:16:00+08:00
+    date: 2024-10-12T01:31:00+08:00
+    lastmod: 2024-10-12T01:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['adventure', 'alien', 'Dream', 'in', 'of', 'planets']
+    tags: ['Dream', 'adventure', 'planets', 'alien']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring a variety of luck.Dreams of adventure in alien planets can 
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Tofu      |
-| Lucky Instrument    | Accordion |
-| Lucky Flower        | Hellebore    |
-| Lucky Job           | Teacher       |
-| Lucky Exercise      | Resistance Training  |
-| Lucky Country       | Russia    |
+| Lucky Food          | Beef Wellington      |
+| Lucky Instrument    | Lyre |
+| Lucky Flower        | Daffodil    |
+| Lucky Job           | Architect       |
+| Lucky Exercise      | Bench Press  |
+| Lucky Country       | Oman    |
 
 
 ##  Final Reflections on Dreams

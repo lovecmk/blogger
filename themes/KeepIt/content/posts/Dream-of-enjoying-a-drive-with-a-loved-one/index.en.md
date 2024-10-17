@@ -1,8 +1,8 @@
 ---
     weight: 676
     title: "Dream of enjoying a drive with a loved one"  # Assuming 'title' column exists
-    date: 2024-10-13T11:07:00+08:00
-    lastmod: 2024-10-13T11:07:00+08:00
+    date: 2024-10-15T09:05:00+08:00
+    lastmod: 2024-10-15T09:05:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['one', 'enjoying', 'Dream', 'a', 'loved', 'drive', 'of', 'with']
+    tags: ['Dream', 'one', 'loved', 'enjoying', 'drive']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you luck and positive energy.The dream of enjoying a drive 
 | Lucky Animal        | Sloth |
 | Lucky Place         | Sea     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Chowder      |
-| Lucky Instrument    | Melodic Percussion |
-| Lucky Flower        | Calla Lily    |
+| Lucky Food          | Lentil Soup      |
+| Lucky Instrument    | Zouaves |
+| Lucky Flower        | Orchid    |
 | Lucky Job           | Archaeologist       |
-| Lucky Exercise      | Skimboarding  |
-| Lucky Country       | Malta    |
+| Lucky Exercise      | Obstacle Course Racing  |
+| Lucky Country       | Tanzania    |
 
 
 ##  Final Reflections on Dreams

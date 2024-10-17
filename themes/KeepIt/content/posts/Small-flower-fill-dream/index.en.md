@@ -1,8 +1,8 @@
 ---
     weight: 535
     title: "Small flower fill dream"  # Assuming 'title' column exists
-    date: 2024-10-13T17:21:00+08:00
-    lastmod: 2024-10-13T17:21:00+08:00
+    date: 2024-10-11T09:15:00+08:00
+    lastmod: 2024-10-11T09:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['flower', 'fill', 'dream', 'Small']
+    tags: ['Small', 'flower', 'dream', 'fill']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be related to your growth and personal development.Sm
 | Lucky Animal        | Heron |
 | Lucky Place         | Sea     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Guacamole      |
-| Lucky Instrument    | Tenor Saxophone |
-| Lucky Flower        | Tithonia    |
-| Lucky Job           | Fitness Instructor       |
-| Lucky Exercise      | Squats  |
-| Lucky Country       | South Korea    |
+| Lucky Food          | Mango Sticky Rice      |
+| Lucky Instrument    | Claves |
+| Lucky Flower        | Agapanthus    |
+| Lucky Job           | App Developer       |
+| Lucky Exercise      | Pilates  |
+| Lucky Country       | New Zealand    |
 
 
 ##  Final Reflections on Dreams

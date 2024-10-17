@@ -1,8 +1,8 @@
 ---
     weight: 491
     title: "A dream of not showing one's own abilities or activity"  # Assuming 'title' column exists
-    date: 2024-10-13T04:20:00+08:00
-    lastmod: 2024-10-13T04:20:00+08:00
+    date: 2024-10-12T18:55:00+08:00
+    lastmod: 2024-10-12T18:55:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['own', 'or', 'showing', 'abilities', "one's", 'activity', 'not', 'dream', 'of', 'A']
+    tags: ['dream', "one's", 'A', 'own', 'activity', 'not', 'showing', 'abilities']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream doesn't foretell good luck, but it can be accepted as providing oppor
 | Lucky Animal        | Hamster |
 | Lucky Place         | Academy     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Baked Potato      |
-| Lucky Instrument    | Trombone Slide |
-| Lucky Flower        | Swan River Daisy    |
-| Lucky Job           | Business Analyst       |
-| Lucky Exercise      | Plank  |
-| Lucky Country       | Bangladesh    |
+| Lucky Food          | Falafel      |
+| Lucky Instrument    | French Horn |
+| Lucky Flower        | Feverfew    |
+| Lucky Job           | Recruiter       |
+| Lucky Exercise      | Crunches  |
+| Lucky Country       | Czech Republic    |
 
 
 ##  Final Reflections on Dreams

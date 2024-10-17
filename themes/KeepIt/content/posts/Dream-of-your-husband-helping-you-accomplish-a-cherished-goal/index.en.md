@@ -1,8 +1,8 @@
 ---
     weight: 2049
     title: "Dream of being stuck in a never-ending problem"  # Assuming 'title' column exists
-    date: 2024-10-13T05:36:00+08:00
-    lastmod: 2024-10-13T05:36:00+08:00
+    date: 2024-10-15T21:23:00+08:00
+    lastmod: 2024-10-15T21:23:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['problem', 'Dream', 'being', 'stuck', 'a', 'in', 'never-ending', 'of']
+    tags: ['being', 'Dream', 'stuck', 'never-ending', 'problem']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Turtle |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Tiramisu      |
-| Lucky Instrument    | Recorder |
-| Lucky Flower        | Tulip    |
-| Lucky Job           | Baker       |
-| Lucky Exercise      | Juggling  |
-| Lucky Country       | Papua New Guinea    |
+| Lucky Food          | Biryani      |
+| Lucky Instrument    | Timpani |
+| Lucky Flower        | Jatropha    |
+| Lucky Job           | Research Scientist       |
+| Lucky Exercise      | Racquetball  |
+| Lucky Country       | Yemen    |
 
 
 ##  Final Reflections on Dreams

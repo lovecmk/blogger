@@ -1,8 +1,8 @@
 ---
     weight: 1993
     title: "Dream of successfully negotiating a higher salary or payment."  # Assuming 'title' column exists
-    date: 2024-10-13T13:46:00+08:00
-    lastmod: 2024-10-13T13:46:00+08:00
+    date: 2024-10-15T10:39:00+08:00
+    lastmod: 2024-10-15T10:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'successfully', 'Dream', 'payment.', 'a', 'salary', 'higher', 'of', 'negotiating']
+    tags: ['successfully', 'Dream', 'payment', 'negotiating', 'higher', 'salary']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Sparrow |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Hummus      |
-| Lucky Instrument    | Cello |
-| Lucky Flower        | Tithonia    |
-| Lucky Job           | IT Specialist       |
-| Lucky Exercise      | Paddleboarding  |
-| Lucky Country       | Afghanistan    |
+| Lucky Food          | Quesadilla      |
+| Lucky Instrument    | Basset Horn |
+| Lucky Flower        | Petal Plant    |
+| Lucky Job           | Doctor       |
+| Lucky Exercise      | Stand-Up Paddleboarding  |
+| Lucky Country       | France    |
 
 
 ##  Final Reflections on Dreams

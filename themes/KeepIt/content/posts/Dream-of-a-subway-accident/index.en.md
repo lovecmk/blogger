@@ -1,8 +1,8 @@
 ---
     weight: 797
     title: "Dream of a subway accident"  # Assuming 'title' column exists
-    date: 2024-10-13T22:54:00+08:00
-    lastmod: 2024-10-13T22:54:00+08:00
+    date: 2024-10-12T00:17:00+08:00
+    lastmod: 2024-10-12T00:17:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['subway', 'Dream', 'a', 'accident', 'of']
+    tags: ['Dream', 'subway', 'accident']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream does not show good luck directly, but it can induce elements that can
 | Lucky Animal        | Otter |
 | Lucky Place         | Museum     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Guacamole      |
-| Lucky Instrument    | Synthesizer |
-| Lucky Flower        | Jasmine    |
-| Lucky Job           | Chef de Cuisine       |
-| Lucky Exercise      | Slacklining  |
-| Lucky Country       | Saudi Arabia    |
+| Lucky Food          | Pancakes      |
+| Lucky Instrument    | Ukulele |
+| Lucky Flower        | Lobelia    |
+| Lucky Job           | Life Coach       |
+| Lucky Exercise      | Basketball  |
+| Lucky Country       | Slovakia    |
 
 
 ##  Final Reflections on Dreams

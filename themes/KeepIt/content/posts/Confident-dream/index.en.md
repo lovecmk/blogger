@@ -1,8 +1,8 @@
 ---
     weight: 1008
     title: "Confident dream"  # Assuming 'title' column exists
-    date: 2024-10-13T20:52:00+08:00
-    lastmod: 2024-10-13T20:52:00+08:00
+    date: 2024-10-12T15:40:00+08:00
+    lastmod: 2024-10-12T15:40:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dream', 'Confident']
+    tags: ['Confident', 'dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream is an emphasis on your own abilities and confidence, which can be a g
 | Lucky Animal        | Monkey |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Casserole      |
-| Lucky Instrument    | Cello |
-| Lucky Flower        | Swan River Daisy    |
-| Lucky Job           | Software Engineer       |
-| Lucky Exercise      | High-Intensity Interval Training (HIIT)  |
-| Lucky Country       | Laos    |
+| Lucky Food          | Omelette      |
+| Lucky Instrument    | Triangle |
+| Lucky Flower        | Butterfly Bush    |
+| Lucky Job           | Logistician       |
+| Lucky Exercise      | Salsa  |
+| Lucky Country       | Armenia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 603
     title: "Dream of returning time"  # Assuming 'title' column exists
-    date: 2024-10-13T08:57:00+08:00
-    lastmod: 2024-10-13T08:57:00+08:00
+    date: 2024-10-11T05:01:00+08:00
+    lastmod: 2024-10-11T05:01:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['returning', 'of', 'time', 'Dream']
+    tags: ['time', 'returning', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can provide a chance to look back and reflect on your pas
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Ice Cream      |
-| Lucky Instrument    | Xylophone |
-| Lucky Flower        | Maranta    |
-| Lucky Job           | Psychologist       |
-| Lucky Exercise      | Belly Dancing  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Chocolate Mousse      |
+| Lucky Instrument    | Octobass |
+| Lucky Flower        | Tulip    |
+| Lucky Job           | Doctor       |
+| Lucky Exercise      | Stair Climbing  |
+| Lucky Country       | Poland    |
 
 
 ##  Final Reflections on Dreams

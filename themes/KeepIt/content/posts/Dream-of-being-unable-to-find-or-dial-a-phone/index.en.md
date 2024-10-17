@@ -1,8 +1,8 @@
 ---
     weight: 1379
     title: "Dream of being unable to find or dial a phone"  # Assuming 'title' column exists
-    date: 2024-10-13T15:46:00+08:00
-    lastmod: 2024-10-13T15:46:00+08:00
+    date: 2024-10-14T05:03:00+08:00
+    lastmod: 2024-10-14T05:03:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['unable', 'or', 'dial', 'to', 'Dream', 'being', 'a', 'phone', 'of', 'find']
+    tags: ['being', 'Dream', 'to', 'unable', 'phone', 'find', 'dial']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Beaver |
 | Lucky Place         | Beach     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Gumbo      |
-| Lucky Instrument    | Bassoon |
-| Lucky Flower        | Edelweiss    |
-| Lucky Job           | Financial Analyst       |
-| Lucky Exercise      | Running  |
-| Lucky Country       | Botswana    |
+| Lucky Food          | Caprese Skewers      |
+| Lucky Instrument    | Keyboard Synthesizer |
+| Lucky Flower        | Heather    |
+| Lucky Job           | Chef de Cuisine       |
+| Lucky Exercise      | Mountain Climbers  |
+| Lucky Country       | Bahrain    |
 
 
 ##  Final Reflections on Dreams

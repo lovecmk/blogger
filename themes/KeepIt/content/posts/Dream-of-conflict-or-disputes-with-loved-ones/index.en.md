@@ -1,8 +1,8 @@
 ---
     weight: 447
     title: "Dream of conflict or disputes with loved ones"  # Assuming 'title' column exists
-    date: 2024-10-13T08:45:00+08:00
-    lastmod: 2024-10-13T08:45:00+08:00
+    date: 2024-10-14T01:33:00+08:00
+    lastmod: 2024-10-14T01:33:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'of', 'Dream', 'ones', 'loved', 'conflict', 'disputes', 'with']
+    tags: ['Dream', 'conflict', 'loved', 'disputes', 'ones']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is that you can have a willingness to recognize the curre
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Red     |
-| Lucky Food          | Bagel      |
-| Lucky Instrument    | Piccolo |
-| Lucky Flower        | Chrysanthemum    |
-| Lucky Job           | Welder       |
-| Lucky Exercise      | Shot Put  |
-| Lucky Country       | Kenya    |
+| Lucky Food          | Duck Confit      |
+| Lucky Instrument    | Piano |
+| Lucky Flower        | Hellebore    |
+| Lucky Job           | SEO Specialist       |
+| Lucky Exercise      | Pilates  |
+| Lucky Country       | Zimbabwe    |
 
 
 ##  Final Reflections on Dreams

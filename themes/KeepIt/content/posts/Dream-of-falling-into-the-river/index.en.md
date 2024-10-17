@@ -1,8 +1,8 @@
 ---
     weight: 963
     title: "Dream of falling into the river"  # Assuming 'title' column exists
-    date: 2024-10-13T16:57:00+08:00
-    lastmod: 2024-10-13T16:57:00+08:00
+    date: 2024-10-15T07:45:00+08:00
+    lastmod: 2024-10-15T07:45:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'into', 'falling', 'Dream', 'river', 'of']
+    tags: ['Dream', 'into', 'falling', 'river']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of the dream of falling into the river is mainly related to the individ
 | Lucky Animal        | Hippo |
 | Lucky Place         | Library     |
 | Lucky Color         | Green     |
-| Lucky Food          | Casserole      |
-| Lucky Instrument    | Saz |
-| Lucky Flower        | Alyssum    |
-| Lucky Job           | Video Editor       |
-| Lucky Exercise      | Dancing  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Chips      |
+| Lucky Instrument    | Shakuhachi |
+| Lucky Flower        | Calla Lily    |
+| Lucky Job           | Personal Trainer       |
+| Lucky Exercise      | Ballet  |
+| Lucky Country       | Papua New Guinea    |
 
 
 ##  Final Reflections on Dreams

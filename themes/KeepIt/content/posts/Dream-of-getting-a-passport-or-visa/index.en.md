@@ -1,8 +1,8 @@
 ---
     weight: 1411
     title: "Dream of getting a passport or visa"  # Assuming 'title' column exists
-    date: 2024-10-13T21:12:00+08:00
-    lastmod: 2024-10-13T21:12:00+08:00
+    date: 2024-10-12T02:10:00+08:00
+    lastmod: 2024-10-12T02:10:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'visa', 'passport', 'Dream', 'a', 'of', 'getting']
+    tags: ['Dream', 'getting', 'passport', 'visa']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -79,12 +79,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Quiche      |
-| Lucky Instrument    | Wooden Flute |
-| Lucky Flower        | Alyssum    |
-| Lucky Job           | Nuclear Engineer       |
-| Lucky Exercise      | Plank  |
-| Lucky Country       | Namibia    |
+| Lucky Food          | Shrimp      |
+| Lucky Instrument    | Bandoneon |
+| Lucky Flower        | Lotus    |
+| Lucky Job           | Baker       |
+| Lucky Exercise      | Aerobics  |
+| Lucky Country       | Lithuania    |
 
 
 ##  Final Reflections on Dreams

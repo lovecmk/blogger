@@ -1,8 +1,8 @@
 ---
     weight: 687
     title: "Dream of counting stars in the night sky with a loved one"  # Assuming 'title' column exists
-    date: 2024-10-13T11:56:00+08:00
-    lastmod: 2024-10-13T11:56:00+08:00
+    date: 2024-10-13T21:47:00+08:00
+    lastmod: 2024-10-13T21:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['one', 'sky', 'the', 'counting', 'night', 'Dream', 'a', 'loved', 'in', 'of', 'stars', 'with']
+    tags: ['Dream', 'one', 'loved', 'stars', 'counting', 'night', 'sky']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is a good relationship and experience based on cooperatio
 | Lucky Animal        | Monkey |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Scone      |
-| Lucky Instrument    | Ukulele |
-| Lucky Flower        | Celosia    |
-| Lucky Job           | Content Creator       |
-| Lucky Exercise      | Leg Press  |
-| Lucky Country       | Zambia    |
+| Lucky Food          | Quiche      |
+| Lucky Instrument    | Tama |
+| Lucky Flower        | Heliotrope    |
+| Lucky Job           | Public Relations Specialist       |
+| Lucky Exercise      | Underwater Diving  |
+| Lucky Country       | Bangladesh    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 333
     title: "Dream of experiencing a romantic moment with boyfriend in a dream"  # Assuming 'title' column exists
-    date: 2024-10-13T22:28:00+08:00
-    lastmod: 2024-10-13T22:28:00+08:00
+    date: 2024-10-12T21:52:00+08:00
+    lastmod: 2024-10-12T21:52:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['romantic', 'moment', 'boyfriend', 'experiencing', 'Dream', 'a', 'dream', 'in', 'of', 'with']
+    tags: ['experiencing', 'Dream', 'boyfriend', 'dream', 'romantic', 'moment']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can give you good luck and positive energy.By experiencing a romantic
 | Lucky Animal        | Parrot |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | White     |
-| Lucky Food          | Mango Sticky Rice      |
-| Lucky Instrument    | Steel Pan |
-| Lucky Flower        | Ragged Robin    |
-| Lucky Job           | Field Technician       |
-| Lucky Exercise      | Snowshoeing  |
-| Lucky Country       | South Africa    |
+| Lucky Food          | Bagel      |
+| Lucky Instrument    | Slide Guitar |
+| Lucky Flower        | Peach Blossom    |
+| Lucky Job           | Interior Designer       |
+| Lucky Exercise      | Kettlebell Training  |
+| Lucky Country       | Zimbabwe    |
 
 
 ##  Final Reflections on Dreams

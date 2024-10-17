@@ -1,8 +1,8 @@
 ---
     weight: 1011
     title: "Dream in depression"  # Assuming 'title' column exists
-    date: 2024-10-13T03:00:00+08:00
-    lastmod: 2024-10-13T03:00:00+08:00
+    date: 2024-10-13T10:35:00+08:00
+    lastmod: 2024-10-13T10:35:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['depression', 'Dream', 'in']
+    tags: ['depression', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Dreams may have a variety of meanings, and some dreams are foretelling good luck
 | Lucky Animal        | Camel |
 | Lucky Place         | Academy     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Biryani      |
-| Lucky Instrument    | Trombone |
-| Lucky Flower        | Gillyflower    |
-| Lucky Job           | Interior Designer       |
-| Lucky Exercise      | Boxing  |
-| Lucky Country       | Micronesia    |
+| Lucky Food          | Pasta      |
+| Lucky Instrument    | Horn |
+| Lucky Flower        | Scabiosa    |
+| Lucky Job           | Quality Assurance Tester       |
+| Lucky Exercise      | Kayaking  |
+| Lucky Country       | Marshall Islands    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1621
     title: "Dream of your cat interacting with household objects"  # Assuming 'title' column exists
-    date: 2024-10-13T22:48:00+08:00
-    lastmod: 2024-10-13T22:48:00+08:00
+    date: 2024-10-15T02:43:00+08:00
+    lastmod: 2024-10-15T02:43:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['objects', 'interacting', 'your', 'cat', 'Dream', 'household', 'of', 'with']
+    tags: ['household', 'Dream', 'interacting', 'objects', 'cat']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream can bring luck in terms of personal growth, self-discovery, and embra
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Cheeseboard      |
-| Lucky Instrument    | Soprano Recorder |
-| Lucky Flower        | Pelargonium    |
-| Lucky Job           | Insurance Underwriter       |
-| Lucky Exercise      | Stand-Up Paddleboarding  |
-| Lucky Country       | Vanuatu    |
+| Lucky Food          | Stuffed Mushrooms      |
+| Lucky Instrument    | Cowbell |
+| Lucky Flower        | Edelweiss    |
+| Lucky Job           | Environmental Scientist       |
+| Lucky Exercise      | Trail Running  |
+| Lucky Country       | Ireland    |
 
 
 ##  Final Reflections on Dreams

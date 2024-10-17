@@ -1,8 +1,8 @@
 ---
     weight: 2014
     title: "Dream of clashes about family grudges"  # Assuming 'title' column exists
-    date: 2024-10-13T02:54:00+08:00
-    lastmod: 2024-10-13T02:54:00+08:00
+    date: 2024-10-12T17:37:00+08:00
+    lastmod: 2024-10-12T17:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'about', 'clashes', 'Dream', 'grudges', 'of']
+    tags: ['family', 'Dream', 'clashes', 'grudges']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Bear |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Cheesecake      |
-| Lucky Instrument    | Slide Guitar |
-| Lucky Flower        | Sage    |
-| Lucky Job           | Network Administrator       |
-| Lucky Exercise      | Zumba  |
-| Lucky Country       | Lithuania    |
+| Lucky Food          | Potato Skins      |
+| Lucky Instrument    | Wooden Flute |
+| Lucky Flower        | Jasmine    |
+| Lucky Job           | Psychologist       |
+| Lucky Exercise      | Martial Arts  |
+| Lucky Country       | Japan    |
 
 
 ##  Final Reflections on Dreams

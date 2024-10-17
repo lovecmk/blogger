@@ -1,8 +1,8 @@
 ---
     weight: 1246
     title: "Dream of being unable to find a restroom"  # Assuming 'title' column exists
-    date: 2024-10-13T02:55:00+08:00
-    lastmod: 2024-10-13T02:55:00+08:00
+    date: 2024-10-11T12:28:00+08:00
+    lastmod: 2024-10-11T12:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['unable', 'to', 'Dream', 'being', 'a', 'of', 'restroom', 'find']
+    tags: ['being', 'Dream', 'to', 'restroom', 'unable', 'find']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hyena |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Samosa      |
-| Lucky Instrument    | Fiddle |
-| Lucky Flower        | Hoya    |
-| Lucky Job           | Social Worker       |
-| Lucky Exercise      | Kite Surfing  |
-| Lucky Country       | Uzbekistan    |
+| Lucky Food          | Fried Rice      |
+| Lucky Instrument    | Clarinet |
+| Lucky Flower        | Moss Rose    |
+| Lucky Job           | Copywriter       |
+| Lucky Exercise      | Hammer Throw  |
+| Lucky Country       | Lithuania    |
 
 
 ##  Final Reflections on Dreams

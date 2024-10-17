@@ -1,8 +1,8 @@
 ---
     weight: 1153
     title: "Dream about Architect"  # Assuming 'title' column exists
-    date: 2024-10-13T20:03:00+08:00
-    lastmod: 2024-10-13T20:03:00+08:00
+    date: 2024-10-13T14:29:00+08:00
+    lastmod: 2024-10-13T14:29:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['about', 'Dream', 'Architect']
+    tags: ['Architect', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you a lot of good luck.This dream can indicate that you can
 | Lucky Animal        | Ostrich |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Tacos      |
-| Lucky Instrument    | Sackbut |
-| Lucky Flower        | Borage    |
-| Lucky Job           | Fashion Designer       |
-| Lucky Exercise      | Kettlebell Training  |
-| Lucky Country       | Cambodia    |
+| Lucky Food          | Hummus      |
+| Lucky Instrument    | Piano |
+| Lucky Flower        | Jasmine    |
+| Lucky Job           | Plumber       |
+| Lucky Exercise      | Interval Training  |
+| Lucky Country       | New Zealand    |
 
 
 ##  Final Reflections on Dreams

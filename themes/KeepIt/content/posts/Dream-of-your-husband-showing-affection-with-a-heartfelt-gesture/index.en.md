@@ -1,8 +1,8 @@
 ---
     weight: 1744
     title: "Dream of your cat climbing a tree"  # Assuming 'title' column exists
-    date: 2024-10-13T05:04:00+08:00
-    lastmod: 2024-10-13T05:04:00+08:00
+    date: 2024-10-15T07:08:00+08:00
+    lastmod: 2024-10-15T07:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['tree', 'climbing', 'your', 'cat', 'Dream', 'a', 'of']
+    tags: ['Dream', 'cat', 'tree', 'climbing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Seal |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Sushi      |
-| Lucky Instrument    | Saz |
-| Lucky Flower        | Moss Rose    |
-| Lucky Job           | Statistician       |
-| Lucky Exercise      | Zumba  |
-| Lucky Country       | Hungary    |
+| Lucky Food          | Zucchini Noodles      |
+| Lucky Instrument    | Conga Drum |
+| Lucky Flower        | Marigold    |
+| Lucky Job           | Game Developer       |
+| Lucky Exercise      | Ballet  |
+| Lucky Country       | Russia    |
 
 
 ##  Final Reflections on Dreams

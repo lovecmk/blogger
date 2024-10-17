@@ -1,8 +1,8 @@
 ---
     weight: 1743
     title: "Dream of your husband celebrating your achievements with you."  # Assuming 'title' column exists
-    date: 2024-10-13T11:21:00+08:00
-    lastmod: 2024-10-13T11:21:00+08:00
+    date: 2024-10-13T07:41:00+08:00
+    lastmod: 2024-10-13T07:41:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['achievements', 'you.', 'your', 'Dream', 'celebrating', 'husband', 'of', 'with']
+    tags: ['Dream', 'celebrating', 'husband', 'achievements', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Camel |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Salad      |
-| Lucky Instrument    | Trumpet |
-| Lucky Flower        | Heliotrope    |
-| Lucky Job           | Copywriter       |
-| Lucky Exercise      | Calisthenics  |
-| Lucky Country       | Japan    |
+| Lucky Food          | Baba Ganoush      |
+| Lucky Instrument    | Saz |
+| Lucky Flower        | Petal Plant    |
+| Lucky Job           | Photographer       |
+| Lucky Exercise      | Aqua Aerobics  |
+| Lucky Country       | Croatia    |
 
 
 ##  Final Reflections on Dreams

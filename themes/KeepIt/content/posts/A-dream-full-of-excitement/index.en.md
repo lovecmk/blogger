@@ -1,8 +1,8 @@
 ---
     weight: 994
     title: "A dream full of excitement"  # Assuming 'title' column exists
-    date: 2024-10-13T23:46:00+08:00
-    lastmod: 2024-10-13T23:46:00+08:00
+    date: 2024-10-11T22:05:00+08:00
+    lastmod: 2024-10-11T22:05:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['full', 'dream', 'of', 'excitement', 'A']
+    tags: ['excitement', 'dream', 'full', 'A']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ A dream full of excitement is a sign of lucky and positive results.This dream ma
 | Lucky Animal        | Seal |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Tacos      |
-| Lucky Instrument    | Fretless Bass |
-| Lucky Flower        | Rudbeckia    |
+| Lucky Food          | Baba Ganoush      |
+| Lucky Instrument    | Horn |
+| Lucky Flower        | Sunflower    |
 | Lucky Job           | Chemist       |
-| Lucky Exercise      | Capoeira  |
-| Lucky Country       | Vietnam    |
+| Lucky Exercise      | Stand-Up Paddleboarding  |
+| Lucky Country       | Fiji    |
 
 
 ##  Final Reflections on Dreams

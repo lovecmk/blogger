@@ -1,8 +1,8 @@
 ---
     weight: 1406
     title: "Dream of running out of gas in a car"  # Assuming 'title' column exists
-    date: 2024-10-13T07:49:00+08:00
-    lastmod: 2024-10-13T07:49:00+08:00
+    date: 2024-10-12T13:59:00+08:00
+    lastmod: 2024-10-12T13:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['out', 'running', 'gas', 'Dream', 'a', 'in', 'car', 'of']
+    tags: ['Dream', 'gas', 'running', 'out', 'car']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Orangutan |
 | Lucky Place         | River     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Seafood Paella      |
-| Lucky Instrument    | Melodic Percussion |
-| Lucky Flower        | Sea Lavender    |
-| Lucky Job           | Mechanic       |
-| Lucky Exercise      | Foam Rolling  |
-| Lucky Country       | Armenia    |
+| Lucky Food          | Hot Dog      |
+| Lucky Instrument    | Pipa |
+| Lucky Flower        | Foxglove    |
+| Lucky Job           | Game Developer       |
+| Lucky Exercise      | Rowing  |
+| Lucky Country       | Norway    |
 
 
 ##  Final Reflections on Dreams

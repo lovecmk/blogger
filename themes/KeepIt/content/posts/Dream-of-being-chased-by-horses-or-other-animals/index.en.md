@@ -1,8 +1,8 @@
 ---
     weight: 347
     title: "Dream of being chased by horses or other animals"  # Assuming 'title' column exists
-    date: 2024-10-13T12:21:00+08:00
-    lastmod: 2024-10-13T12:21:00+08:00
+    date: 2024-10-12T15:36:00+08:00
+    lastmod: 2024-10-12T15:36:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['other', 'animals', 'or', 'Dream', 'being', 'horses', 'by', 'of', 'chased']
+    tags: ['being', 'chased', 'Dream', 'horses', 'other', 'animals']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can mainly provide opportunities to resolve our inner conflict and to
 | Lucky Animal        | Dog |
 | Lucky Place         | Park     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Mango Sticky Rice      |
-| Lucky Instrument    | Octobass |
-| Lucky Flower        | Cyclamen    |
-| Lucky Job           | Event Planner       |
-| Lucky Exercise      | Pilates  |
-| Lucky Country       | Angola    |
+| Lucky Food          | Baked Potato      |
+| Lucky Instrument    | Guitar |
+| Lucky Flower        | Lobelia    |
+| Lucky Job           | Marketing Manager       |
+| Lucky Exercise      | Salsa  |
+| Lucky Country       | Marshall Islands    |
 
 
 ##  Final Reflections on Dreams

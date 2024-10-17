@@ -1,8 +1,8 @@
 ---
     weight: 1340
     title: "Dream of cooking a meal that goes wrong"  # Assuming 'title' column exists
-    date: 2024-10-13T19:39:00+08:00
-    lastmod: 2024-10-13T19:39:00+08:00
+    date: 2024-10-12T13:14:00+08:00
+    lastmod: 2024-10-12T13:14:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['cooking', 'Dream', 'goes', 'a', 'wrong', 'of', 'that', 'meal']
+    tags: ['cooking', 'Dream', 'goes', 'meal', 'wrong', 'that']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Snake |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Bagel      |
-| Lucky Instrument    | Hang Drum |
-| Lucky Flower        | Pincushion Flower    |
-| Lucky Job           | Web Designer       |
-| Lucky Exercise      | Salsa  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Waffles      |
+| Lucky Instrument    | Melodic Percussion |
+| Lucky Flower        | Lotus    |
+| Lucky Job           | Nuclear Engineer       |
+| Lucky Exercise      | Shot Put  |
+| Lucky Country       | United Arab Emirates    |
 
 
 ##  Final Reflections on Dreams

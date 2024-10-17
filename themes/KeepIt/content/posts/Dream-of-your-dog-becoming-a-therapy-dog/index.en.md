@@ -1,8 +1,8 @@
 ---
     weight: 1477
     title: "Dream of your dog becoming a therapy dog"  # Assuming 'title' column exists
-    date: 2024-10-13T00:18:00+08:00
-    lastmod: 2024-10-13T00:18:00+08:00
+    date: 2024-10-11T15:14:00+08:00
+    lastmod: 2024-10-11T15:14:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'Dream', 'therapy', 'dog', 'a', 'of', 'becoming']
+    tags: ['Dream', 'becoming', 'dog', 'therapy']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hippo |
 | Lucky Place         | Park     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Shrimp      |
-| Lucky Instrument    | Charango |
-| Lucky Flower        | Bee Balm    |
-| Lucky Job           | IT Specialist       |
-| Lucky Exercise      | Sledge Hockey  |
-| Lucky Country       | Kyrgyzstan    |
+| Lucky Food          | Cornbread      |
+| Lucky Instrument    | Wooden Flute |
+| Lucky Flower        | Cyclamen    |
+| Lucky Job           | Game Developer       |
+| Lucky Exercise      | Bodyweight Training  |
+| Lucky Country       | Egypt    |
 
 
 ##  Final Reflections on Dreams

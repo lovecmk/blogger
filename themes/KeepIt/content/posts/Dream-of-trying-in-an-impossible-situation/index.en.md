@@ -1,8 +1,8 @@
 ---
     weight: 369
     title: "Dream of trying in an impossible situation"  # Assuming 'title' column exists
-    date: 2024-10-13T11:49:00+08:00
-    lastmod: 2024-10-13T11:49:00+08:00
+    date: 2024-10-12T05:39:00+08:00
+    lastmod: 2024-10-12T05:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['impossible', 'Dream', 'situation', 'trying', 'an', 'in', 'of']
+    tags: ['trying', 'impossible', 'Dream', 'situation', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can give you good luck and positive results.If you try, be patient, a
 | Lucky Animal        | Deer |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Chocolate      |
-| Lucky Instrument    | Pipa |
-| Lucky Flower        | Hellebore    |
-| Lucky Job           | Historian       |
-| Lucky Exercise      | Jump Squats  |
-| Lucky Country       | Kazakhstan    |
+| Lucky Food          | Pulled Pork      |
+| Lucky Instrument    | Xylophone |
+| Lucky Flower        | Petunia    |
+| Lucky Job           | Flight Attendant       |
+| Lucky Exercise      | Stand-Up Paddleboarding  |
+| Lucky Country       | Romania    |
 
 
 ##  Final Reflections on Dreams

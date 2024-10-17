@@ -1,8 +1,8 @@
 ---
     weight: 1736
     title: "Dream of your grandmother enjoying a peaceful day in nature with you."  # Assuming 'title' column exists
-    date: 2024-10-13T17:00:00+08:00
-    lastmod: 2024-10-13T17:00:00+08:00
+    date: 2024-10-15T10:08:00+08:00
+    lastmod: 2024-10-15T10:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['day', 'grandmother', 'enjoying', 'you.', 'your', 'Dream', 'peaceful', 'a', 'in', 'nature', 'of', 'with']
+    tags: ['Dream', 'nature', 'grandmother', 'enjoying', 'peaceful', 'you', 'day']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings the luck of financial security and the ability to support your
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Popcorn      |
-| Lucky Instrument    | Electric Cello |
-| Lucky Flower        | Hollyhock    |
-| Lucky Job           | Artist       |
-| Lucky Exercise      | CrossFit  |
-| Lucky Country       | Sweden    |
+| Lucky Food          | Stuffed Peppers      |
+| Lucky Instrument    | Piccolo |
+| Lucky Flower        | Mandevilla    |
+| Lucky Job           | Catering Manager       |
+| Lucky Exercise      | Circuit Workout  |
+| Lucky Country       | Japan    |
 
 
 ##  Final Reflections on Dreams

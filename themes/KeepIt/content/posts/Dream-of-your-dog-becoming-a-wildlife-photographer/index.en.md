@@ -1,8 +1,8 @@
 ---
     weight: 1412
     title: "Dream of your dog becoming a wildlife photographer"  # Assuming 'title' column exists
-    date: 2024-10-13T15:59:00+08:00
-    lastmod: 2024-10-13T15:59:00+08:00
+    date: 2024-10-12T13:40:00+08:00
+    lastmod: 2024-10-12T13:40:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['wildlife', 'your', 'Dream', 'dog', 'a', 'photographer', 'of', 'becoming']
+    tags: ['Dream', 'photographer', 'wildlife', 'becoming', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ The dream could bring luck in the form of new opportunities and exciting experie
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Kebab      |
-| Lucky Instrument    | Guitar |
-| Lucky Flower        | Wisteria    |
-| Lucky Job           | Farmer       |
-| Lucky Exercise      | Foam Rolling  |
-| Lucky Country       | Kenya    |
+| Lucky Food          | Muffin      |
+| Lucky Instrument    | Tenor Guitar |
+| Lucky Flower        | Hoya    |
+| Lucky Job           | Network Administrator       |
+| Lucky Exercise      | Juggling  |
+| Lucky Country       | Greece    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1627
     title: "Dream of your grandmother's guidance leading you through tough times."  # Assuming 'title' column exists
-    date: 2024-10-13T04:02:00+08:00
-    lastmod: 2024-10-13T04:02:00+08:00
+    date: 2024-10-15T11:42:00+08:00
+    lastmod: 2024-10-15T11:42:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'Dream', 'through', 'leading', "grandmother's", 'tough', 'of', 'times.', 'you', 'guidance']
+    tags: ['guidance', 'leading', 'Dream', 'tough', 'times', "grandmother's", 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hamster |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Spring Roll      |
-| Lucky Instrument    | Chimes |
-| Lucky Flower        | Alyssum    |
-| Lucky Job           | Business Analyst       |
-| Lucky Exercise      | Softball  |
-| Lucky Country       | Mexico    |
+| Lucky Food          | Quiche      |
+| Lucky Instrument    | Electric Cello |
+| Lucky Flower        | Bee Balm    |
+| Lucky Job           | Interpreter       |
+| Lucky Exercise      | Walking  |
+| Lucky Country       | Oman    |
 
 
 ##  Final Reflections on Dreams

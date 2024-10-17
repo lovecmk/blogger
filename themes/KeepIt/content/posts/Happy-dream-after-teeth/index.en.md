@@ -1,8 +1,8 @@
 ---
     weight: 889
     title: "Happy dream after teeth"  # Assuming 'title' column exists
-    date: 2024-10-13T07:02:00+08:00
-    lastmod: 2024-10-13T07:02:00+08:00
+    date: 2024-10-11T17:30:00+08:00
+    lastmod: 2024-10-11T17:30:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['teeth', 'Happy', 'after', 'dream']
+    tags: ['dream', 'teeth', 'Happy', 'after']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream means good luck will come after overcoming difficulties.Losing teeth 
 | Lucky Animal        | Chameleon |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Chia Pudding      |
-| Lucky Instrument    | Keyboard |
-| Lucky Flower        | Petunia    |
-| Lucky Job           | Sales Manager       |
-| Lucky Exercise      | Crunches  |
-| Lucky Country       | Zimbabwe    |
+| Lucky Food          | Caprese Skewers      |
+| Lucky Instrument    | Soprano Recorder |
+| Lucky Flower        | Heliotrope    |
+| Lucky Job           | Pharmacist       |
+| Lucky Exercise      | Burpees  |
+| Lucky Country       | Palau    |
 
 
 ##  Final Reflections on Dreams

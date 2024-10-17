@@ -1,8 +1,8 @@
 ---
     weight: 636
     title: "Dream of stopping time and returning to the moment you want"  # Assuming 'title' column exists
-    date: 2024-10-13T12:22:00+08:00
-    lastmod: 2024-10-13T12:22:00+08:00
+    date: 2024-10-12T19:21:00+08:00
+    lastmod: 2024-10-12T19:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['want', 'the', 'moment', 'to', 'Dream', 'time', 'and', 'returning', 'of', 'you', 'stopping']
+    tags: ['Dream', 'to', 'want', 'stopping', 'moment', 'returning', 'time', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can indicate that you have a strong desire to go back to the past or 
 | Lucky Animal        | Monkey |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Green     |
-| Lucky Food          | Pulled Pork      |
-| Lucky Instrument    | Ney |
-| Lucky Flower        | Cherry Blossom    |
-| Lucky Job           | Event Planner       |
-| Lucky Exercise      | Squash  |
-| Lucky Country       | Turkey    |
+| Lucky Food          | Pudding      |
+| Lucky Instrument    | Melodica |
+| Lucky Flower        | Gladiolus    |
+| Lucky Job           | Biologist       |
+| Lucky Exercise      | Capoeira  |
+| Lucky Country       | Serbia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 2093
     title: "Dream of fighting in a wild west showdown"  # Assuming 'title' column exists
-    date: 2024-10-13T00:51:00+08:00
-    lastmod: 2024-10-13T00:51:00+08:00
+    date: 2024-10-15T22:42:00+08:00
+    lastmod: 2024-10-15T22:42:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['showdown', 'fighting', 'Dream', 'a', 'in', 'of', 'west', 'wild']
+    tags: ['Dream', 'showdown', 'fighting', 'wild', 'west']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Otter |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Lasagna      |
-| Lucky Instrument    | Mandolin |
-| Lucky Flower        | Foxglove    |
-| Lucky Job           | Data Scientist       |
-| Lucky Exercise      | Bouldering  |
-| Lucky Country       | Sweden    |
+| Lucky Food          | Corn on the Cob      |
+| Lucky Instrument    | Bouzouki |
+| Lucky Flower        | Tulip    |
+| Lucky Job           | Security Guard       |
+| Lucky Exercise      | Zumba  |
+| Lucky Country       | Kuwait    |
 
 
 ##  Final Reflections on Dreams

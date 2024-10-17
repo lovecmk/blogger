@@ -1,8 +1,8 @@
 ---
     weight: 845
     title: "Dream of a lion"  # Assuming 'title' column exists
-    date: 2024-10-13T22:18:00+08:00
-    lastmod: 2024-10-13T22:18:00+08:00
+    date: 2024-10-15T04:03:00+08:00
+    lastmod: 2024-10-15T04:03:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'a', 'Dream', 'lion']
+    tags: ['lion', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The dream of a lion is one of the symbols of luck.The lion symbolizes confidence
 | Lucky Animal        | Monkey |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Buffalo Wings      |
-| Lucky Instrument    | Electric Cello |
-| Lucky Flower        | Marigold    |
-| Lucky Job           | Physical Therapist       |
-| Lucky Exercise      | Push-Ups  |
-| Lucky Country       | Qatar    |
+| Lucky Food          | Noodles      |
+| Lucky Instrument    | Darbuka |
+| Lucky Flower        | Stephanotis    |
+| Lucky Job           | Insurance Agent       |
+| Lucky Exercise      | Shot Put  |
+| Lucky Country       | Portugal    |
 
 
 ##  Final Reflections on Dreams

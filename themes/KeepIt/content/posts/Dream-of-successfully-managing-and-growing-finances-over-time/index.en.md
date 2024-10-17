@@ -1,8 +1,8 @@
 ---
     weight: 1615
     title: "Dream of your grandmother's support being a source of motivation for you."  # Assuming 'title' column exists
-    date: 2024-10-13T06:14:00+08:00
-    lastmod: 2024-10-13T06:14:00+08:00
+    date: 2024-10-14T17:24:00+08:00
+    lastmod: 2024-10-14T17:24:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['you.', 'motivation', 'your', 'Dream', 'for', 'being', 'a', "grandmother's", 'of', 'source', 'support']
+    tags: ['being', 'motivation', 'you', 'Dream', 'support', "grandmother's", 'source']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Fox |
 | Lucky Place         | Beach     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Duck Confit      |
-| Lucky Instrument    | Tromba |
-| Lucky Flower        | Lily    |
-| Lucky Job           | Project Manager       |
-| Lucky Exercise      | Spin Class  |
-| Lucky Country       | Israel    |
+| Lucky Food          | Biryani      |
+| Lucky Instrument    | Bongo Drums |
+| Lucky Flower        | Sea Lavender    |
+| Lucky Job           | Chef de Cuisine       |
+| Lucky Exercise      | Ashtanga Yoga  |
+| Lucky Country       | Palau    |
 
 
 ##  Final Reflections on Dreams

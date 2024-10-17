@@ -1,8 +1,8 @@
 ---
     weight: 1953
     title: "Dream of your grandmother offering guidance on family traditions."  # Assuming 'title' column exists
-    date: 2024-10-13T22:08:00+08:00
-    lastmod: 2024-10-13T22:08:00+08:00
+    date: 2024-10-15T02:28:00+08:00
+    lastmod: 2024-10-15T02:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['grandmother', 'family', 'your', 'Dream', 'on', 'traditions.', 'of', 'offering', 'guidance']
+    tags: ['family', 'guidance', 'Dream', 'grandmother', 'offering', 'traditions']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Gorilla |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Cheesecake      |
-| Lucky Instrument    | Conga |
-| Lucky Flower        | Jasmine    |
-| Lucky Job           | Firefighter       |
-| Lucky Exercise      | Interval Training  |
-| Lucky Country       | Malawi    |
+| Lucky Food          | Fried Rice      |
+| Lucky Instrument    | Darabuka |
+| Lucky Flower        | Butterfly Bush    |
+| Lucky Job           | Photographer       |
+| Lucky Exercise      | Crunches  |
+| Lucky Country       | Sri Lanka    |
 
 
 ##  Final Reflections on Dreams

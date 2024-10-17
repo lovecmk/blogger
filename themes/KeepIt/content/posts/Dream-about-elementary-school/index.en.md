@@ -1,8 +1,8 @@
 ---
     weight: 1181
     title: "Dream about elementary school"  # Assuming 'title' column exists
-    date: 2024-10-13T04:40:00+08:00
-    lastmod: 2024-10-13T04:40:00+08:00
+    date: 2024-10-13T15:12:00+08:00
+    lastmod: 2024-10-13T15:12:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['school', 'elementary', 'about', 'Dream']
+    tags: ['elementary', 'school', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ If you experience 'elementary school' in a dream, this can mean growth, developm
 | Lucky Animal        | Snake |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Shepherd's Pie      |
-| Lucky Instrument    | Harmonica |
-| Lucky Flower        | Vinca    |
-| Lucky Job           | Writer       |
-| Lucky Exercise      | Hula Hooping  |
-| Lucky Country       | Mongolia    |
+| Lucky Food          | Zucchini Noodles      |
+| Lucky Instrument    | Horn |
+| Lucky Flower        | Edelweiss    |
+| Lucky Job           | Business Analyst       |
+| Lucky Exercise      | Handball  |
+| Lucky Country       | Japan    |
 
 
 ##  Final Reflections on Dreams

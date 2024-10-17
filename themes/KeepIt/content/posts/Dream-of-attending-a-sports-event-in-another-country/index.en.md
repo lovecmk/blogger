@@ -1,8 +1,8 @@
 ---
     weight: 1464
     title: "Dream of attending a sports event in another country"  # Assuming 'title' column exists
-    date: 2024-10-13T01:38:00+08:00
-    lastmod: 2024-10-13T01:38:00+08:00
+    date: 2024-10-11T13:24:00+08:00
+    lastmod: 2024-10-11T13:24:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['in', 'sports', 'Dream', 'another', 'a', 'event', 'country', 'of', 'attending']
+    tags: ['event', 'another', 'Dream', 'country', 'sports', 'attending']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams often don't directly bring luck, but they can serve as a reflection of yo
 | Lucky Animal        | Koala |
 | Lucky Place         | Park     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Guacamole      |
-| Lucky Instrument    | Harmonic Piano |
-| Lucky Flower        | Larkspur    |
-| Lucky Job           | Consultant       |
-| Lucky Exercise      | Tai Chi  |
-| Lucky Country       | Pakistan    |
+| Lucky Food          | Scone      |
+| Lucky Instrument    | Shakuhachi |
+| Lucky Flower        | Rudbeckia    |
+| Lucky Job           | Teacher       |
+| Lucky Exercise      | Fencing  |
+| Lucky Country       | Ireland    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 2029
     title: "Dream of dying and seeing a dark figure"  # Assuming 'title' column exists
-    date: 2024-10-13T20:37:00+08:00
-    lastmod: 2024-10-13T20:37:00+08:00
+    date: 2024-10-15T06:25:00+08:00
+    lastmod: 2024-10-15T06:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dying', 'dark', 'figure', 'seeing', 'Dream', 'a', 'and', 'of']
+    tags: ['Dream', 'dark', 'dying', 'seeing', 'figure']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream could be seen as a positive omen, bringing luck in terms of strengthe
 | Lucky Animal        | Elephant |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Clams      |
-| Lucky Instrument    | Zither |
-| Lucky Flower        | Bee Balm    |
-| Lucky Job           | Lawyer       |
-| Lucky Exercise      | Juggling  |
-| Lucky Country       | Vanuatu    |
+| Lucky Food          | Ice Cream      |
+| Lucky Instrument    | Ney |
+| Lucky Flower        | Ornamental Pepper    |
+| Lucky Job           | Art Director       |
+| Lucky Exercise      | Body Pump  |
+| Lucky Country       | Thailand    |
 
 
 ##  Final Reflections on Dreams

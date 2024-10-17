@@ -1,8 +1,8 @@
 ---
     weight: 2047
     title: "Dream of having a laughter-filled picnic with your grandmother."  # Assuming 'title' column exists
-    date: 2024-10-13T23:20:00+08:00
-    lastmod: 2024-10-13T23:20:00+08:00
+    date: 2024-10-13T13:55:00+08:00
+    lastmod: 2024-10-13T13:55:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['picnic', 'your', 'laughter-filled', 'grandmother.', 'Dream', 'a', 'of', 'with', 'having']
+    tags: ['Dream', 'laughter-filled', 'grandmother', 'picnic', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings the luck of creating wonderful memories and deepening your con
 | Lucky Animal        | Cat |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Chicken Parmesan      |
-| Lucky Instrument    | Piano |
-| Lucky Flower        | Stock    |
-| Lucky Job           | Plumber       |
-| Lucky Exercise      | Bodyweight Training  |
-| Lucky Country       | Nauru    |
+| Lucky Food          | Pico de Gallo      |
+| Lucky Instrument    | Recorder |
+| Lucky Flower        | Lobelia    |
+| Lucky Job           | Dentist       |
+| Lucky Exercise      | Ultimate Frisbee  |
+| Lucky Country       | Canada    |
 
 
 ##  Final Reflections on Dreams

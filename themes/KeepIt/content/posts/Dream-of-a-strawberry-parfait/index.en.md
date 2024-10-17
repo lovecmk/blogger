@@ -1,8 +1,8 @@
 ---
     weight: 1920
     title: "Dream of visiting a place your ancestors once lived or frequented."  # Assuming 'title' column exists
-    date: 2024-10-13T22:25:00+08:00
-    lastmod: 2024-10-13T22:25:00+08:00
+    date: 2024-10-14T09:43:00+08:00
+    lastmod: 2024-10-14T09:43:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['ancestors', 'once', 'or', 'your', 'Dream', 'visiting', 'a', 'lived', 'frequented.', 'place', 'of']
+    tags: ['Dream', 'visiting', 'place', 'once', 'frequented', 'lived', 'ancestors']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Cheetah |
 | Lucky Place         | School     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Corn on the Cob      |
-| Lucky Instrument    | Banjo |
-| Lucky Flower        | Hoya    |
-| Lucky Job           | Pastry Chef       |
-| Lucky Exercise      | Boxing  |
-| Lucky Country       | Uzbekistan    |
+| Lucky Food          | Sandwich      |
+| Lucky Instrument    | Cowbell |
+| Lucky Flower        | Gladiolus    |
+| Lucky Job           | Brand Manager       |
+| Lucky Exercise      | Parkour  |
+| Lucky Country       | Ukraine    |
 
 
 ##  Final Reflections on Dreams

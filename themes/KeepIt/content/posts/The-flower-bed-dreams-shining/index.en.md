@@ -1,8 +1,8 @@
 ---
     weight: 531
     title: "The flower bed dreams shining"  # Assuming 'title' column exists
-    date: 2024-10-13T16:42:00+08:00
-    lastmod: 2024-10-13T16:42:00+08:00
+    date: 2024-10-15T20:58:00+08:00
+    lastmod: 2024-10-15T20:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['flower', 'dreams', 'The', 'shining', 'bed']
+    tags: ['shining', 'bed', 'The', 'flower', 'dreams']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The signal of the 'Dream of the Hwa -Bae' can vary.There may be that plants are 
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Pulled Pork      |
-| Lucky Instrument    | Clarinet |
-| Lucky Flower        | Firecracker Plant    |
-| Lucky Job           | Mechanic       |
-| Lucky Exercise      | Aqua Aerobics  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Coconut Shrimp      |
+| Lucky Instrument    | Guitarlele |
+| Lucky Flower        | Verbena    |
+| Lucky Job           | Brand Manager       |
+| Lucky Exercise      | Swimming Laps  |
+| Lucky Country       | South Africa    |
 
 
 ##  Final Reflections on Dreams

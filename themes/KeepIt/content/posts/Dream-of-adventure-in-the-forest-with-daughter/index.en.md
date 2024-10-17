@@ -1,8 +1,8 @@
 ---
     weight: 130
     title: "Dream of adventure in the forest with daughter"  # Assuming 'title' column exists
-    date: 2024-10-13T17:59:00+08:00
-    lastmod: 2024-10-13T17:59:00+08:00
+    date: 2024-10-12T23:30:00+08:00
+    lastmod: 2024-10-12T23:30:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['adventure', 'forest', 'the', 'Dream', 'daughter', 'in', 'of', 'with']
+    tags: ['forest', 'Dream', 'adventure', 'daughter']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of dreams can vary depending on the interpretation of the individual.Ho
 | Lucky Animal        | Mole |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Vegetable Stir Fry      |
-| Lucky Instrument    | Fretless Bass |
-| Lucky Flower        | Hoya    |
-| Lucky Job           | UX Designer       |
-| Lucky Exercise      | Swimming  |
-| Lucky Country       | Austria    |
+| Lucky Food          | Hummus      |
+| Lucky Instrument    | Bagpipes |
+| Lucky Flower        | Heather    |
+| Lucky Job           | Sales Representative       |
+| Lucky Exercise      | Shot Put  |
+| Lucky Country       | Tajikistan    |
 
 
 ##  Final Reflections on Dreams

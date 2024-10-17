@@ -1,8 +1,8 @@
 ---
     weight: 1457
     title: "Dream of traveling by a private jet"  # Assuming 'title' column exists
-    date: 2024-10-13T20:33:00+08:00
-    lastmod: 2024-10-13T20:33:00+08:00
+    date: 2024-10-15T18:28:00+08:00
+    lastmod: 2024-10-15T18:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['private', 'traveling', 'Dream', 'jet', 'a', 'by', 'of']
+    tags: ['private', 'Dream', 'traveling', 'jet']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rhino |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Risotto      |
-| Lucky Instrument    | Keyboard |
-| Lucky Flower        | Pansy    |
-| Lucky Job           | Event Coordinator       |
-| Lucky Exercise      | Mountain Climbers  |
-| Lucky Country       | Fiji    |
+| Lucky Food          | Beef Tacos      |
+| Lucky Instrument    | Electric Guitar |
+| Lucky Flower        | Sage    |
+| Lucky Job           | Project Manager       |
+| Lucky Exercise      | Hot Yoga  |
+| Lucky Country       | Tuvalu    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 586
     title: "Dream of wandering trees in the mountains"  # Assuming 'title' column exists
-    date: 2024-10-13T05:13:00+08:00
-    lastmod: 2024-10-13T05:13:00+08:00
+    date: 2024-10-15T11:59:00+08:00
+    lastmod: 2024-10-15T11:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['mountains', 'the', 'wandering', 'Dream', 'trees', 'in', 'of']
+    tags: ['wandering', 'mountains', 'Dream', 'trees']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be a reward for finding goals or answers.In the proce
 | Lucky Animal        | Giraffe |
 | Lucky Place         | School     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Paella      |
-| Lucky Instrument    | Viola |
-| Lucky Flower        | Orchid    |
-| Lucky Job           | Data Scientist       |
-| Lucky Exercise      | Resistance Training  |
-| Lucky Country       | Finland    |
+| Lucky Food          | Ramen      |
+| Lucky Instrument    | Saz |
+| Lucky Flower        | Monkey Grass    |
+| Lucky Job           | Interior Designer       |
+| Lucky Exercise      | Lunges  |
+| Lucky Country       | Samoa    |
 
 
 ##  Final Reflections on Dreams

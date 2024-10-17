@@ -1,8 +1,8 @@
 ---
     weight: 187
     title: "Dream of having a pleasant activity with your children"  # Assuming 'title' column exists
-    date: 2024-10-13T11:04:00+08:00
-    lastmod: 2024-10-13T11:04:00+08:00
+    date: 2024-10-11T19:48:00+08:00
+    lastmod: 2024-10-11T19:48:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['children', 'your', 'Dream', 'activity', 'a', 'of', 'with', 'having', 'pleasant']
+    tags: ['Dream', 'children', 'activity', 'pleasant', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,11 +59,11 @@ The luck of this dream is that you can feel deeper connection and happiness thro
 | Lucky Animal        | Seagull |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Pork Belly      |
+| Lucky Food          | Ratatouille      |
 | Lucky Instrument    | Fujara |
-| Lucky Flower        | Sea Lavender    |
-| Lucky Job           | Database Administrator       |
-| Lucky Exercise      | Yoga Flow  |
+| Lucky Flower        | Hibiscus    |
+| Lucky Job           | Psychologist       |
+| Lucky Exercise      | Stand-Up Paddleboarding  |
 | Lucky Country       | Solomon Islands    |
 
 

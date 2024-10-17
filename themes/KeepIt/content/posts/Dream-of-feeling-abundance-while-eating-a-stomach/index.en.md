@@ -1,8 +1,8 @@
 ---
     weight: 70
     title: "Dream of feeling abundance while eating a stomach"  # Assuming 'title' column exists
-    date: 2024-10-13T01:40:00+08:00
-    lastmod: 2024-10-13T01:40:00+08:00
+    date: 2024-10-12T21:14:00+08:00
+    lastmod: 2024-10-12T21:14:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['feeling', 'eating', 'abundance', 'Dream', 'stomach', 'a', 'of', 'while']
+    tags: ['while', 'stomach', 'Dream', 'eating', 'feeling', 'abundance']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,11 +59,11 @@ This dream symbolizes good luck and abundance.If you have this dream, you will b
 | Lucky Animal        | Mouse |
 | Lucky Place         | Beach     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Chicken Parmesan      |
-| Lucky Instrument    | Maracas |
-| Lucky Flower        | Moss Rose    |
-| Lucky Job           | Data Scientist       |
-| Lucky Exercise      | Trail Running  |
+| Lucky Food          | Zucchini Noodles      |
+| Lucky Instrument    | Castanets |
+| Lucky Flower        | Lantana    |
+| Lucky Job           | Psychologist       |
+| Lucky Exercise      | Walking  |
 | Lucky Country       | Oman    |
 
 

@@ -1,8 +1,8 @@
 ---
     weight: 1227
     title: "Dream of being lost or unable to find the way"  # Assuming 'title' column exists
-    date: 2024-10-13T03:02:00+08:00
-    lastmod: 2024-10-13T03:02:00+08:00
+    date: 2024-10-12T23:17:00+08:00
+    lastmod: 2024-10-12T23:17:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lost', 'unable', 'or', 'the', 'way', 'to', 'Dream', 'being', 'of', 'find']
+    tags: ['being', 'lost', 'Dream', 'way', 'to', 'unable', 'find']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Horse |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Baklava      |
-| Lucky Instrument    | Bandoneon |
-| Lucky Flower        | Aster    |
-| Lucky Job           | Archaeologist       |
-| Lucky Exercise      | Ballet  |
-| Lucky Country       | Germany    |
+| Lucky Food          | Ratatouille      |
+| Lucky Instrument    | Cajón |
+| Lucky Flower        | Cosmos    |
+| Lucky Job           | Actor       |
+| Lucky Exercise      | Hot Yoga  |
+| Lucky Country       | Azerbaijan    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 451
     title: "Dream of missing important events or events"  # Assuming 'title' column exists
-    date: 2024-10-13T20:51:00+08:00
-    lastmod: 2024-10-13T20:51:00+08:00
+    date: 2024-10-12T14:10:00+08:00
+    lastmod: 2024-10-12T14:10:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['missing', 'or', 'Dream', 'of', 'events', 'important']
+    tags: ['Dream', 'missing', 'important', 'events']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can be anxious that you miss important opportunities or events rather
 | Lucky Animal        | Tiger |
 | Lucky Place         | Museum     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Lasagna      |
-| Lucky Instrument    | Darabuka |
-| Lucky Flower        | Heather    |
-| Lucky Job           | Field Technician       |
-| Lucky Exercise      | Snowshoeing  |
-| Lucky Country       | Kiribati    |
+| Lucky Food          | Baba Ganoush      |
+| Lucky Instrument    | Darbuka |
+| Lucky Flower        | Lobelia    |
+| Lucky Job           | Astrophysicist       |
+| Lucky Exercise      | Soccer  |
+| Lucky Country       | Mexico    |
 
 
 ##  Final Reflections on Dreams

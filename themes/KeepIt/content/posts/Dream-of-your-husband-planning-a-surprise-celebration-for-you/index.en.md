@@ -1,8 +1,8 @@
 ---
     weight: 1601
     title: "Dream of dying and feeling relieved"  # Assuming 'title' column exists
-    date: 2024-10-13T05:21:00+08:00
-    lastmod: 2024-10-13T05:21:00+08:00
+    date: 2024-10-11T02:54:00+08:00
+    lastmod: 2024-10-11T02:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dying', 'feeling', 'relieved', 'Dream', 'and', 'of']
+    tags: ['relieved', 'Dream', 'feeling', 'dying']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Monkey |
 | Lucky Place         | Theater     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Duck Confit      |
-| Lucky Instrument    | Conga |
-| Lucky Flower        | Scented Geranium    |
-| Lucky Job           | Fashion Designer       |
-| Lucky Exercise      | Spin Class  |
-| Lucky Country       | Thailand    |
+| Lucky Food          | Shrimp      |
+| Lucky Instrument    | Bandoneon |
+| Lucky Flower        | Snapdragon    |
+| Lucky Job           | Brand Manager       |
+| Lucky Exercise      | Stand-Up Paddleboarding  |
+| Lucky Country       | Finland    |
 
 
 ##  Final Reflections on Dreams

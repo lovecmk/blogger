@@ -1,8 +1,8 @@
 ---
     weight: 2170
     title: "Dream of being alone in a dark place"  # Assuming 'title' column exists
-    date: 2024-10-13T10:56:00+08:00
-    lastmod: 2024-10-13T10:56:00+08:00
+    date: 2024-10-15T16:26:00+08:00
+    lastmod: 2024-10-15T16:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['alone', 'dark', 'Dream', 'being', 'a', 'in', 'place', 'of']
+    tags: ['being', 'Dream', 'dark', 'place', 'alone']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Camel |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Tart      |
-| Lucky Instrument    | Djembe |
-| Lucky Flower        | Rose    |
-| Lucky Job           | Makeup Artist       |
-| Lucky Exercise      | Softball  |
-| Lucky Country       | Russia    |
+| Lucky Food          | Hummus      |
+| Lucky Instrument    | Piano |
+| Lucky Flower        | Alyssum    |
+| Lucky Job           | Nuclear Engineer       |
+| Lucky Exercise      | Handball  |
+| Lucky Country       | Maldives    |
 
 
 ##  Final Reflections on Dreams

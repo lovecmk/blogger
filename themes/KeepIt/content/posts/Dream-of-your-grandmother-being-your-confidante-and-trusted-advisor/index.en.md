@@ -1,8 +1,8 @@
 ---
     weight: 1925
     title: "Dream of visiting a significant place tied to your ancestry with an ancestor."  # Assuming 'title' column exists
-    date: 2024-10-13T08:07:00+08:00
-    lastmod: 2024-10-13T08:07:00+08:00
+    date: 2024-10-15T12:52:00+08:00
+    lastmod: 2024-10-15T12:52:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['significant', 'ancestor.', 'your', 'to', 'Dream', 'visiting', 'a', 'ancestry', 'an', 'place', 'of', 'tied', 'with']
+    tags: ['Dream', 'visiting', 'to', 'significant', 'place', 'ancestry', 'ancestor', 'tied', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Horse |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Pulled Pork      |
-| Lucky Instrument    | Sitar |
-| Lucky Flower        | Ragged Robin    |
-| Lucky Job           | Security Guard       |
-| Lucky Exercise      | Cycling  |
-| Lucky Country       | Malaysia    |
+| Lucky Food          | Burrito      |
+| Lucky Instrument    | Clarinet |
+| Lucky Flower        | Swan River Daisy    |
+| Lucky Job           | Astrophysicist       |
+| Lucky Exercise      | Walking  |
+| Lucky Country       | Bangladesh    |
 
 
 ##  Final Reflections on Dreams

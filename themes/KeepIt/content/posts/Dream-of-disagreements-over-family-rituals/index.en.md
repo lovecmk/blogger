@@ -1,8 +1,8 @@
 ---
     weight: 2094
     title: "Dream of an orchard full of cherries"  # Assuming 'title' column exists
-    date: 2024-10-13T03:43:00+08:00
-    lastmod: 2024-10-13T03:43:00+08:00
+    date: 2024-10-14T09:26:00+08:00
+    lastmod: 2024-10-14T09:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'full', 'cherries', 'an', 'orchard', 'of']
+    tags: ['Dream', 'cherries', 'full', 'orchard', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams are subjective, and their impact on luck is not scientifically proven. Ho
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Black     |
-| Lucky Food          | Fruit Salad      |
-| Lucky Instrument    | Bass Guitar |
-| Lucky Flower        | Forget-Me-Not    |
-| Lucky Job           | Quality Assurance Tester       |
-| Lucky Exercise      | Discus Throw  |
-| Lucky Country       | United Arab Emirates    |
+| Lucky Food          | Sandwich      |
+| Lucky Instrument    | Castanets |
+| Lucky Flower        | Verbena    |
+| Lucky Job           | Architect       |
+| Lucky Exercise      | Yoga  |
+| Lucky Country       | Argentina    |
 
 
 ##  Final Reflections on Dreams

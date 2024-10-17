@@ -1,8 +1,8 @@
 ---
     weight: 1369
     title: "Dream of your dog accompanying you to work"  # Assuming 'title' column exists
-    date: 2024-10-13T06:10:00+08:00
-    lastmod: 2024-10-13T06:10:00+08:00
+    date: 2024-10-11T07:05:00+08:00
+    lastmod: 2024-10-11T07:05:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['you', 'your', 'to', 'Dream', 'of', 'work', 'accompanying', 'dog']
+    tags: ['Dream', 'to', 'accompanying', 'work', 'dog', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Chicken |
 | Lucky Place         | School     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Chocolate      |
-| Lucky Instrument    | Saxophone |
-| Lucky Flower        | Moss Rose    |
-| Lucky Job           | Pharmacist       |
-| Lucky Exercise      | Kettlebell Training  |
-| Lucky Country       | Oman    |
+| Lucky Food          | Duck Confit      |
+| Lucky Instrument    | Wooden Flute |
+| Lucky Flower        | Ranunculus    |
+| Lucky Job           | Network Administrator       |
+| Lucky Exercise      | Resistance Training  |
+| Lucky Country       | Fiji    |
 
 
 ##  Final Reflections on Dreams

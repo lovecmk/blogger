@@ -1,8 +1,8 @@
 ---
     weight: 684
     title: "Dream of walking on the beach while the sun rises with a loved one"  # Assuming 'title' column exists
-    date: 2024-10-13T18:59:00+08:00
-    lastmod: 2024-10-13T18:59:00+08:00
+    date: 2024-10-12T02:23:00+08:00
+    lastmod: 2024-10-12T02:23:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['with', 'one', 'the', 'beach', 'Dream', 'a', 'sun', 'on', 'rises', 'loved', 'of', 'while', 'walking']
+    tags: ['while', 'sun', 'Dream', 'one', 'walking', 'loved', 'rises', 'beach']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream will be luck for valuable relationships and happiness.The
 | Lucky Animal        | Sloth |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Spring Roll      |
-| Lucky Instrument    | Accordion |
-| Lucky Flower        | Bellflower    |
-| Lucky Job           | Translator       |
-| Lucky Exercise      | Slacklining  |
-| Lucky Country       | Latvia    |
+| Lucky Food          | Ramen      |
+| Lucky Instrument    | Trompeta |
+| Lucky Flower        | Scabiosa    |
+| Lucky Job           | Chemist       |
+| Lucky Exercise      | Box Jumps  |
+| Lucky Country       | Nauru    |
 
 
 ##  Final Reflections on Dreams

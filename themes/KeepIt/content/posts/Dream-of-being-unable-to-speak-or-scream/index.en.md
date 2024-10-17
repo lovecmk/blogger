@@ -1,8 +1,8 @@
 ---
     weight: 1700
     title: "Dream of your grandmother offering words of encouragement and support."  # Assuming 'title' column exists
-    date: 2024-10-13T20:32:00+08:00
-    lastmod: 2024-10-13T20:32:00+08:00
+    date: 2024-10-14T13:08:00+08:00
+    lastmod: 2024-10-14T13:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['grandmother', 'words', 'your', 'encouragement', 'Dream', 'support.', 'and', 'of', 'offering']
+    tags: ['Dream', 'words', 'support', 'grandmother', 'offering', 'encouragement']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Mouse |
 | Lucky Place         | Lake     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Coconut Shrimp      |
-| Lucky Instrument    | Chimes |
-| Lucky Flower        | Nymphaea    |
-| Lucky Job           | Sales Representative       |
-| Lucky Exercise      | Leg Press  |
-| Lucky Country       | Yemen    |
+| Lucky Food          | Shepherd's Pie      |
+| Lucky Instrument    | Electric Violin |
+| Lucky Flower        | Lavender    |
+| Lucky Job           | Interior Designer       |
+| Lucky Exercise      | Paddleboarding  |
+| Lucky Country       | Tonga    |
 
 
 ##  Final Reflections on Dreams

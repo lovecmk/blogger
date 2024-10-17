@@ -1,8 +1,8 @@
 ---
     weight: 2184
     title: "Dream of walking alongside an ancestor, experiencing their daily life."  # Assuming 'title' column exists
-    date: 2024-10-13T23:04:00+08:00
-    lastmod: 2024-10-13T23:04:00+08:00
+    date: 2024-10-11T02:39:00+08:00
+    lastmod: 2024-10-11T02:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['daily', 'alongside', 'Dream', 'ancestor,', 'experiencing', 'their', 'an', 'of', 'life.', 'walking']
+    tags: ['experiencing', 'their', 'life', 'Dream', 'walking', 'daily', 'ancestor,', 'alongside', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams themselves do not bring luck. However, interpreting and reflecting on you
 | Lucky Animal        | Chick |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Ceviche      |
-| Lucky Instrument    | Glockenspiel |
-| Lucky Flower        | Crown Daisy    |
-| Lucky Job           | Chef de Cuisine       |
-| Lucky Exercise      | Snowboarding  |
-| Lucky Country       | Uzbekistan    |
+| Lucky Food          | Pico de Gallo      |
+| Lucky Instrument    | Accordion Synth |
+| Lucky Flower        | Strelitzia    |
+| Lucky Job           | Researcher       |
+| Lucky Exercise      | Skating  |
+| Lucky Country       | Qatar    |
 
 
 ##  Final Reflections on Dreams

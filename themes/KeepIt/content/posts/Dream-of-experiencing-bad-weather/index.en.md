@@ -1,8 +1,8 @@
 ---
     weight: 1492
     title: "Dream of experiencing bad weather"  # Assuming 'title' column exists
-    date: 2024-10-13T23:58:00+08:00
-    lastmod: 2024-10-13T23:58:00+08:00
+    date: 2024-10-12T15:23:00+08:00
+    lastmod: 2024-10-12T15:23:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['weather', 'experiencing', 'Dream', 'bad', 'of']
+    tags: ['experiencing', 'Dream', 'bad', 'weather']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams of experiencing bad weather are not typically associated with luck. They 
 | Lucky Animal        | Chicken |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Ice Cream      |
-| Lucky Instrument    | Tuba Horn |
-| Lucky Flower        | Petunia    |
-| Lucky Job           | Environmental Scientist       |
-| Lucky Exercise      | Yoga Flow  |
-| Lucky Country       | Sweden    |
+| Lucky Food          | Kebab      |
+| Lucky Instrument    | Erhu |
+| Lucky Flower        | Borage    |
+| Lucky Job           | Actor       |
+| Lucky Exercise      | Walking  |
+| Lucky Country       | Tonga    |
 
 
 ##  Final Reflections on Dreams

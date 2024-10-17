@@ -1,8 +1,8 @@
 ---
     weight: 1558
     title: "Dream of receiving ancestral blessings during a family gathering."  # Assuming 'title' column exists
-    date: 2024-10-13T18:25:00+08:00
-    lastmod: 2024-10-13T18:25:00+08:00
+    date: 2024-10-15T19:48:00+08:00
+    lastmod: 2024-10-15T19:48:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'receiving', 'gathering.', 'ancestral', 'Dream', 'during', 'a', 'of', 'blessings']
+    tags: ['family', 'blessings', 'Dream', 'gathering', 'receiving', 'ancestral']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Heron |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Prawn Crackers      |
-| Lucky Instrument    | Calimba |
-| Lucky Flower        | Thunbergia    |
-| Lucky Job           | Customer Service Representative       |
-| Lucky Exercise      | Spin Class  |
-| Lucky Country       | Tuvalu    |
+| Lucky Food          | Burrito      |
+| Lucky Instrument    | Tenor Guitar |
+| Lucky Flower        | Lobelia    |
+| Lucky Job           | Geologist       |
+| Lucky Exercise      | Hula Hooping  |
+| Lucky Country       | Nauru    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1723
     title: "Dream of fighting for a cause"  # Assuming 'title' column exists
-    date: 2024-10-13T05:05:00+08:00
-    lastmod: 2024-10-13T05:05:00+08:00
+    date: 2024-10-15T18:34:00+08:00
+    lastmod: 2024-10-15T18:34:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['cause', 'fighting', 'Dream', 'for', 'a', 'of']
+    tags: ['cause', 'Dream', 'fighting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ The luck that this dream brings is centered around the opportunity for enhanced 
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Ramen      |
-| Lucky Instrument    | Harmonium |
-| Lucky Flower        | Bougainvillea    |
-| Lucky Job           | Security Guard       |
-| Lucky Exercise      | Obstacle Course Racing  |
-| Lucky Country       | Belgium    |
+| Lucky Food          | Paella      |
+| Lucky Instrument    | Lute |
+| Lucky Flower        | Periwinkle    |
+| Lucky Job           | Logistician       |
+| Lucky Exercise      | Aqua Aerobics  |
+| Lucky Country       | Qatar    |
 
 
 ##  Final Reflections on Dreams

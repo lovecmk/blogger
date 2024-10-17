@@ -1,8 +1,8 @@
 ---
     weight: 376
     title: "Dream of trying to regain the opportunity you missed"  # Assuming 'title' column exists
-    date: 2024-10-13T11:56:00+08:00
-    lastmod: 2024-10-13T11:56:00+08:00
+    date: 2024-10-15T02:04:00+08:00
+    lastmod: 2024-10-15T02:04:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['opportunity', 'the', 'to', 'Dream', 'missed', 'trying', 'of', 'you', 'regain']
+    tags: ['missed', 'trying', 'Dream', 'to', 'regain', 'opportunity', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream suggests the hope that you can regain the opportunity you
 | Lucky Animal        | Fox |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Fish and Chips      |
-| Lucky Instrument    | Tromba |
-| Lucky Flower        | Petunia    |
-| Lucky Job           | Hair Stylist       |
-| Lucky Exercise      | Leg Press  |
-| Lucky Country       | Lebanon    |
+| Lucky Food          | Chocolate Mousse      |
+| Lucky Instrument    | Electric Guitar |
+| Lucky Flower        | Bee Balm    |
+| Lucky Job           | Architect       |
+| Lucky Exercise      | Juggling  |
+| Lucky Country       | Kyrgyzstan    |
 
 
 ##  Final Reflections on Dreams

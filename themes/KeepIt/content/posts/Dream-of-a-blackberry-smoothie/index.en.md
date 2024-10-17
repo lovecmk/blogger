@@ -1,8 +1,8 @@
 ---
     weight: 1905
     title: "Dream of going to a comedy show or stand-up comedy night with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T01:31:00+08:00
-    lastmod: 2024-10-13T01:31:00+08:00
+    date: 2024-10-11T05:38:00+08:00
+    lastmod: 2024-10-11T05:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'your', 'to', 'comedy', 'Dream', 'going', 'show', 'night', 'a', 'boyfriend', 'of', 'with', 'stand-up']
+    tags: ['Dream', 'boyfriend', 'to', 'show', 'going', 'stand-up', 'night', 'comedy']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Parrot |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Mango Sticky Rice      |
-| Lucky Instrument    | Viola |
-| Lucky Flower        | Cosmos    |
-| Lucky Job           | Insurance Agent       |
-| Lucky Exercise      | Ashtanga Yoga  |
-| Lucky Country       | Brunei    |
+| Lucky Food          | Potato Skins      |
+| Lucky Instrument    | Pipa |
+| Lucky Flower        | Thistle    |
+| Lucky Job           | Insurance Underwriter       |
+| Lucky Exercise      | Trail Running  |
+| Lucky Country       | Turkmenistan    |
 
 
 ##  Final Reflections on Dreams

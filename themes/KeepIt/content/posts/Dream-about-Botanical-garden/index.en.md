@@ -1,8 +1,8 @@
 ---
     weight: 1150
     title: "Dream about Botanical garden"  # Assuming 'title' column exists
-    date: 2024-10-13T12:47:00+08:00
-    lastmod: 2024-10-13T12:47:00+08:00
+    date: 2024-10-13T09:37:00+08:00
+    lastmod: 2024-10-13T09:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['garden', 'about', 'Dream', 'Botanical']
+    tags: ['Botanical', 'Dream', 'garden']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can be a sign of lucky to bring new experiences and success.Botanical
 | Lucky Animal        | Chicken |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Quiche      |
-| Lucky Instrument    | Tuba |
-| Lucky Flower        | Narcissus    |
-| Lucky Job           | Teacher       |
-| Lucky Exercise      | Surf Lifesaving  |
-| Lucky Country       | Argentina    |
+| Lucky Food          | Sandwich      |
+| Lucky Instrument    | Tenor Banjo |
+| Lucky Flower        | Stephanotis    |
+| Lucky Job           | Astrophysicist       |
+| Lucky Exercise      | Yoga Flow  |
+| Lucky Country       | France    |
 
 
 ##  Final Reflections on Dreams

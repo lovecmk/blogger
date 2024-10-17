@@ -1,8 +1,8 @@
 ---
     weight: 1543
     title: "Dream of your grandmother playing your favorite childhood game together."  # Assuming 'title' column exists
-    date: 2024-10-13T18:52:00+08:00
-    lastmod: 2024-10-13T18:52:00+08:00
+    date: 2024-10-14T10:15:00+08:00
+    lastmod: 2024-10-14T10:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['together.', 'grandmother', 'playing', 'your', 'favorite', 'game', 'Dream', 'childhood', 'of']
+    tags: ['favorite', 'Dream', 'childhood', 'grandmother', 'playing', 'game', 'together']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Chick |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Dumplings      |
-| Lucky Instrument    | Recorder |
-| Lucky Flower        | Aster    |
-| Lucky Job           | Financial Analyst       |
-| Lucky Exercise      | Pole Vaulting  |
-| Lucky Country       | Argentina    |
+| Lucky Food          | Pork Chops      |
+| Lucky Instrument    | Lyre |
+| Lucky Flower        | Bouvardia    |
+| Lucky Job           | Fashion Designer       |
+| Lucky Exercise      | Baseball  |
+| Lucky Country       | Ukraine    |
 
 
 ##  Final Reflections on Dreams

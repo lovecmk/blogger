@@ -1,8 +1,8 @@
 ---
     weight: 263
     title: "Dream of living on another planet"  # Assuming 'title' column exists
-    date: 2024-10-13T20:13:00+08:00
-    lastmod: 2024-10-13T20:13:00+08:00
+    date: 2024-10-15T09:18:00+08:00
+    lastmod: 2024-10-15T09:18:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'planet', 'on', 'living', 'of', 'another']
+    tags: ['another', 'planet', 'Dream', 'living']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be lucky through new experiences, growth, and adventu
 | Lucky Animal        | Dog |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Chocolate Mousse      |
-| Lucky Instrument    | Piano |
-| Lucky Flower        | Celosia    |
-| Lucky Job           | Chemist       |
-| Lucky Exercise      | Hula Hooping  |
-| Lucky Country       | Poland    |
+| Lucky Food          | Ceviche      |
+| Lucky Instrument    | Slide Guitar |
+| Lucky Flower        | Bougainvillea    |
+| Lucky Job           | Pastry Chef       |
+| Lucky Exercise      | Cricket  |
+| Lucky Country       | Serbia    |
 
 
 ##  Final Reflections on Dreams

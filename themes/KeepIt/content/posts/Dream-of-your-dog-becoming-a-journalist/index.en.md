@@ -1,8 +1,8 @@
 ---
     weight: 1445
     title: "Dream of your dog becoming a journalist"  # Assuming 'title' column exists
-    date: 2024-10-13T22:06:00+08:00
-    lastmod: 2024-10-13T22:06:00+08:00
+    date: 2024-10-11T14:33:00+08:00
+    lastmod: 2024-10-11T14:33:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'Dream', 'journalist', 'dog', 'a', 'of', 'becoming']
+    tags: ['Dream', 'journalist', 'becoming', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Panda |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Biryani      |
-| Lucky Instrument    | Cello |
-| Lucky Flower        | Perennial Aster    |
-| Lucky Job           | Life Coach       |
-| Lucky Exercise      | Snowboarding  |
-| Lucky Country       | Sri Lanka    |
+| Lucky Food          | Beef Tacos      |
+| Lucky Instrument    | Piano |
+| Lucky Flower        | Hollyhock    |
+| Lucky Job           | Anthropologist       |
+| Lucky Exercise      | Horseback Riding  |
+| Lucky Country       | Lesotho    |
 
 
 ##  Final Reflections on Dreams

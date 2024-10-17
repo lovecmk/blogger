@@ -1,8 +1,8 @@
 ---
     weight: 619
     title: "Dream of counting stars on a large tree"  # Assuming 'title' column exists
-    date: 2024-10-13T06:51:00+08:00
-    lastmod: 2024-10-13T06:51:00+08:00
+    date: 2024-10-15T07:13:00+08:00
+    lastmod: 2024-10-15T07:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['tree', 'large', 'counting', 'Dream', 'a', 'on', 'of', 'stars']
+    tags: ['Dream', 'stars', 'counting', 'large', 'tree']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can show you a chance to bring good luck and success.Counting stars i
 | Lucky Animal        | Gorilla |
 | Lucky Place         | Museum     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Gumbo      |
-| Lucky Instrument    | Xylophone |
-| Lucky Flower        | Larkspur    |
-| Lucky Job           | Oceanographer       |
-| Lucky Exercise      | Jump Squats  |
-| Lucky Country       | Poland    |
+| Lucky Food          | Dumplings      |
+| Lucky Instrument    | Triangle |
+| Lucky Flower        | Aster    |
+| Lucky Job           | Police Officer       |
+| Lucky Exercise      | Boxing  |
+| Lucky Country       | Greece    |
 
 
 ##  Final Reflections on Dreams

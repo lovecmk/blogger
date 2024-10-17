@@ -1,8 +1,8 @@
 ---
     weight: 2129
     title: "Dream of confrontations with family authorities"  # Assuming 'title' column exists
-    date: 2024-10-13T08:52:00+08:00
-    lastmod: 2024-10-13T08:52:00+08:00
+    date: 2024-10-11T09:25:00+08:00
+    lastmod: 2024-10-11T09:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'authorities', 'Dream', 'confrontations', 'of', 'with']
+    tags: ['family', 'confrontations', 'Dream', 'authorities']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Panda |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Deviled Eggs      |
-| Lucky Instrument    | Chimes |
-| Lucky Flower        | Ragged Robin    |
-| Lucky Job           | Biologist       |
-| Lucky Exercise      | Horseback Riding  |
-| Lucky Country       | South Africa    |
+| Lucky Food          | Pasta Salad      |
+| Lucky Instrument    | Conga Drum |
+| Lucky Flower        | Ornamental Pepper    |
+| Lucky Job           | Database Administrator       |
+| Lucky Exercise      | Burpees  |
+| Lucky Country       | Armenia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1760
     title: "Dream of confrontations during family functions"  # Assuming 'title' column exists
-    date: 2024-10-13T18:22:00+08:00
-    lastmod: 2024-10-13T18:22:00+08:00
+    date: 2024-10-14T15:13:00+08:00
+    lastmod: 2024-10-14T15:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'Dream', 'during', 'confrontations', 'of', 'functions']
+    tags: ['family', 'confrontations', 'Dream', 'functions']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings the luck of emotional fulfillment and a stronger bond with you
 | Lucky Animal        | Duck |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Pasta Salad      |
-| Lucky Instrument    | Castanets |
-| Lucky Flower        | Jasmine    |
-| Lucky Job           | Baker       |
-| Lucky Exercise      | Cricket  |
-| Lucky Country       | Cyprus    |
+| Lucky Food          | Tacos      |
+| Lucky Instrument    | Octobass |
+| Lucky Flower        | Ragged Robin    |
+| Lucky Job           | Research Scientist       |
+| Lucky Exercise      | Kayaking  |
+| Lucky Country       | South Africa    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 2038
     title: "Dream of talking to a deceased celebrity"  # Assuming 'title' column exists
-    date: 2024-10-13T14:13:00+08:00
-    lastmod: 2024-10-13T14:13:00+08:00
+    date: 2024-10-15T04:51:00+08:00
+    lastmod: 2024-10-15T04:51:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['celebrity', 'to', 'talking', 'Dream', 'a', 'of', 'deceased']
+    tags: ['celebrity', 'Dream', 'deceased', 'talking', 'to']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings a sense of luck in the form of spiritual guidance and groundin
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Baked Ziti      |
-| Lucky Instrument    | Saxophone |
-| Lucky Flower        | Lotus    |
-| Lucky Job           | Customer Service Representative       |
-| Lucky Exercise      | Gymnastics  |
-| Lucky Country       | United States    |
+| Lucky Food          | Chowder      |
+| Lucky Instrument    | Bass Drum |
+| Lucky Flower        | Poppy    |
+| Lucky Job           | Accountant       |
+| Lucky Exercise      | Baseball  |
+| Lucky Country       | Denmark    |
 
 
 ##  Final Reflections on Dreams

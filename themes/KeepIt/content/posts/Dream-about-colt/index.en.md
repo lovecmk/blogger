@@ -1,8 +1,8 @@
 ---
     weight: 1060
     title: "Dream about colt"  # Assuming 'title' column exists
-    date: 2024-10-13T17:48:00+08:00
-    lastmod: 2024-10-13T17:48:00+08:00
+    date: 2024-10-11T19:08:00+08:00
+    lastmod: 2024-10-11T19:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['about', 'Dream', 'colt']
+    tags: ['Dream', 'colt']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of the dream of 'foal' is mainly good for new starts or growth.Positive
 | Lucky Animal        | Otter |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Deviled Eggs      |
-| Lucky Instrument    | Lute |
-| Lucky Flower        | Heather    |
-| Lucky Job           | Scientist       |
-| Lucky Exercise      | Hula Hooping  |
-| Lucky Country       | Zimbabwe    |
+| Lucky Food          | Ceviche      |
+| Lucky Instrument    | Bandoneon |
+| Lucky Flower        | Mums    |
+| Lucky Job           | Translator       |
+| Lucky Exercise      | Lunges  |
+| Lucky Country       | Finland    |
 
 
 ##  Final Reflections on Dreams

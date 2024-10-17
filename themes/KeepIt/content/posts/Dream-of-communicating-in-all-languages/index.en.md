@@ -1,8 +1,8 @@
 ---
     weight: 282
     title: "Dream of communicating in all languages"  # Assuming 'title' column exists
-    date: 2024-10-13T23:45:00+08:00
-    lastmod: 2024-10-13T23:45:00+08:00
+    date: 2024-10-13T18:28:00+08:00
+    lastmod: 2024-10-13T18:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['languages', 'Dream', 'communicating', 'all', 'in', 'of']
+    tags: ['Dream', 'languages', 'communicating', 'all']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The signs of 'dreams of communicating in all languages' can be interpreted diffe
 | Lucky Animal        | Kangaroo |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Gumbo      |
-| Lucky Instrument    | Ney |
-| Lucky Flower        | Cosmos    |
-| Lucky Job           | Security Guard       |
-| Lucky Exercise      | Step Aerobics  |
-| Lucky Country       | Portugal    |
+| Lucky Food          | Scallops      |
+| Lucky Instrument    | Balalaika |
+| Lucky Flower        | Fuchsia    |
+| Lucky Job           | Mathematician       |
+| Lucky Exercise      | Capoeira  |
+| Lucky Country       | Nepal    |
 
 
 ##  Final Reflections on Dreams

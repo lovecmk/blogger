@@ -1,8 +1,8 @@
 ---
     weight: 846
     title: "Dream of bears"  # Assuming 'title' column exists
-    date: 2024-10-13T09:25:00+08:00
-    lastmod: 2024-10-13T09:25:00+08:00
+    date: 2024-10-11T16:49:00+08:00
+    lastmod: 2024-10-11T16:49:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'bears', 'Dream']
+    tags: ['bears', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Dreams of bears are not generally a symbol of good luck.However, if you notice a
 | Lucky Animal        | Elephant |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Tuna Tartare      |
-| Lucky Instrument    | Saxophone |
-| Lucky Flower        | Sweet Pea    |
-| Lucky Job           | Artist       |
-| Lucky Exercise      | Kite Surfing  |
-| Lucky Country       | Portugal    |
+| Lucky Food          | Brownies      |
+| Lucky Instrument    | Clarinet |
+| Lucky Flower        | Lantana    |
+| Lucky Job           | Interior Designer       |
+| Lucky Exercise      | Slacklining  |
+| Lucky Country       | United Arab Emirates    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1095
     title: "Dream about elephant"  # Assuming 'title' column exists
-    date: 2024-10-13T14:00:00+08:00
-    lastmod: 2024-10-13T14:00:00+08:00
+    date: 2024-10-12T05:16:00+08:00
+    lastmod: 2024-10-12T05:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['elephant', 'about', 'Dream']
+    tags: ['Dream', 'elephant']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ If you dream of an elephant, this dream can indicate that good luck and positive
 | Lucky Animal        | Horse |
 | Lucky Place         | Library     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Burrito      |
-| Lucky Instrument    | Xylophone |
-| Lucky Flower        | Safflower    |
-| Lucky Job           | Business Analyst       |
-| Lucky Exercise      | Plank  |
-| Lucky Country       | Kenya    |
+| Lucky Food          | Minestrone      |
+| Lucky Instrument    | Accordion Synth |
+| Lucky Flower        | Crown Daisy    |
+| Lucky Job           | Electrician       |
+| Lucky Exercise      | Leg Press  |
+| Lucky Country       | Portugal    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 492
     title: "Dream of worrying about the surrounding environment or people's changes"  # Assuming 'title' column exists
-    date: 2024-10-13T06:26:00+08:00
-    lastmod: 2024-10-13T06:26:00+08:00
+    date: 2024-10-11T22:30:00+08:00
+    lastmod: 2024-10-11T22:30:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['changes', 'about', 'or', 'worrying', 'the', 'Dream', 'surrounding', 'environment', 'of', "people's"]
+    tags: ['environment', 'Dream', "people's", 'worrying', 'changes', 'surrounding']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is to feel worried about the surrounding environment and 
 | Lucky Animal        | Sloth |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Tofu      |
-| Lucky Instrument    | Accordion |
-| Lucky Flower        | Sweet Pea    |
-| Lucky Job           | Quality Assurance Tester       |
-| Lucky Exercise      | Pole Vaulting  |
-| Lucky Country       | Serbia    |
+| Lucky Food          | Pulled Pork      |
+| Lucky Instrument    | Kettledrum |
+| Lucky Flower        | Firecracker Plant    |
+| Lucky Job           | App Developer       |
+| Lucky Exercise      | Body Pump  |
+| Lucky Country       | Papua New Guinea    |
 
 
 ##  Final Reflections on Dreams

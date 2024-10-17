@@ -1,8 +1,8 @@
 ---
     weight: 1258
     title: "Dream of being a passenger in a car crash"  # Assuming 'title' column exists
-    date: 2024-10-13T22:30:00+08:00
-    lastmod: 2024-10-13T22:30:00+08:00
+    date: 2024-10-12T12:13:00+08:00
+    lastmod: 2024-10-12T12:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['crash', 'passenger', 'Dream', 'being', 'a', 'in', 'car', 'of']
+    tags: ['being', 'Dream', 'crash', 'passenger', 'car']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hyena |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Ceviche      |
-| Lucky Instrument    | Shakuhachi |
-| Lucky Flower        | Hydrangea    |
-| Lucky Job           | Database Administrator       |
-| Lucky Exercise      | Handball  |
-| Lucky Country       | Argentina    |
+| Lucky Food          | Pork Belly      |
+| Lucky Instrument    | Clarinet |
+| Lucky Flower        | Hoya    |
+| Lucky Job           | Data Analyst       |
+| Lucky Exercise      | Obstacle Course Racing  |
+| Lucky Country       | India    |
 
 
 ##  Final Reflections on Dreams

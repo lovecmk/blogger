@@ -1,8 +1,8 @@
 ---
     weight: 1265
     title: "Dream of flying first class"  # Assuming 'title' column exists
-    date: 2024-10-13T20:51:00+08:00
-    lastmod: 2024-10-13T20:51:00+08:00
+    date: 2024-10-15T04:25:00+08:00
+    lastmod: 2024-10-15T04:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['flying', 'Dream', 'class', 'of', 'first']
+    tags: ['Dream', 'flying', 'first', 'class']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Red fox |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Baklava      |
-| Lucky Instrument    | Xylophone |
-| Lucky Flower        | Primrose    |
-| Lucky Job           | Sales Manager       |
-| Lucky Exercise      | Beach Volleyball  |
-| Lucky Country       | Mexico    |
+| Lucky Food          | Tacos      |
+| Lucky Instrument    | Accordion Synth |
+| Lucky Flower        | Lotus    |
+| Lucky Job           | Anthropologist       |
+| Lucky Exercise      | Active Recovery  |
+| Lucky Country       | Japan    |
 
 
 ##  Final Reflections on Dreams

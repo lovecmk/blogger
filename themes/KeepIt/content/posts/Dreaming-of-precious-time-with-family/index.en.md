@@ -1,8 +1,8 @@
 ---
     weight: 177
     title: "Dreaming of precious time with family"  # Assuming 'title' column exists
-    date: 2024-10-13T21:19:00+08:00
-    lastmod: 2024-10-13T21:19:00+08:00
+    date: 2024-10-15T10:59:00+08:00
+    lastmod: 2024-10-15T10:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'Dreaming', 'precious', 'time', 'of', 'with']
+    tags: ['family', 'Dreaming', 'precious', 'time']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream suggests that time with your family can bring luck and positive chang
 | Lucky Animal        | Monkey |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Casserole      |
-| Lucky Instrument    | Calimba |
-| Lucky Flower        | Sea Lavender    |
-| Lucky Job           | Sales Manager       |
-| Lucky Exercise      | Kickboxing  |
-| Lucky Country       | Thailand    |
+| Lucky Food          | Buffalo Wings      |
+| Lucky Instrument    | Bass Guitar |
+| Lucky Flower        | Firecracker Plant    |
+| Lucky Job           | Veterinarian       |
+| Lucky Exercise      | Ashtanga Yoga  |
+| Lucky Country       | Russia    |
 
 
 ##  Final Reflections on Dreams

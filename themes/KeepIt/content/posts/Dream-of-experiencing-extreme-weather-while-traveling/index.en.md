@@ -1,8 +1,8 @@
 ---
     weight: 1463
     title: "Dream of experiencing extreme weather while traveling"  # Assuming 'title' column exists
-    date: 2024-10-13T05:12:00+08:00
-    lastmod: 2024-10-13T05:12:00+08:00
+    date: 2024-10-14T09:45:00+08:00
+    lastmod: 2024-10-14T09:45:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['weather', 'traveling', 'experiencing', 'Dream', 'extreme', 'of', 'while']
+    tags: ['experiencing', 'while', 'extreme', 'Dream', 'traveling', 'weather']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Mouse |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Fruit Salad      |
-| Lucky Instrument    | Ney |
-| Lucky Flower        | Nasturtium    |
-| Lucky Job           | Firefighter       |
-| Lucky Exercise      | Fencing  |
-| Lucky Country       | India    |
+| Lucky Food          | Coconut Shrimp      |
+| Lucky Instrument    | Sitar |
+| Lucky Flower        | Sweet William    |
+| Lucky Job           | Fashion Designer       |
+| Lucky Exercise      | Stretching  |
+| Lucky Country       | Austria    |
 
 
 ##  Final Reflections on Dreams

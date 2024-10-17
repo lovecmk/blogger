@@ -1,8 +1,8 @@
 ---
     weight: 564
     title: "Dream of growing outdoor flower beds"  # Assuming 'title' column exists
-    date: 2024-10-13T23:02:00+08:00
-    lastmod: 2024-10-13T23:02:00+08:00
+    date: 2024-10-11T08:34:00+08:00
+    lastmod: 2024-10-11T08:34:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['outdoor', 'flower', 'Dream', 'growing', 'of', 'beds']
+    tags: ['Dream', 'outdoor', 'flower', 'growing', 'beds']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can be a sign that can bring you a performance and good luck.The flow
 | Lucky Animal        | Mouse |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Baklava      |
-| Lucky Instrument    | Clavichord |
-| Lucky Flower        | Bluebell    |
-| Lucky Job           | Veterinarian       |
-| Lucky Exercise      | Snowboarding  |
-| Lucky Country       | Papua New Guinea    |
+| Lucky Food          | Omelette      |
+| Lucky Instrument    | Fujara |
+| Lucky Flower        | Balsam    |
+| Lucky Job           | Writer       |
+| Lucky Exercise      | Handball  |
+| Lucky Country       | Mozambique    |
 
 
 ##  Final Reflections on Dreams

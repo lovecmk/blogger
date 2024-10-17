@@ -1,8 +1,8 @@
 ---
     weight: 942
     title: "Dream falling during paragliding"  # Assuming 'title' column exists
-    date: 2024-10-13T14:57:00+08:00
-    lastmod: 2024-10-13T14:57:00+08:00
+    date: 2024-10-11T02:28:00+08:00
+    lastmod: 2024-10-11T02:28:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['paragliding', 'falling', 'Dream', 'during']
+    tags: ['paragliding', 'falling', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream is often not lucky.Rather, the possibility of experiencing failure or
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Tiramisu      |
-| Lucky Instrument    | Trombone Slide |
-| Lucky Flower        | Jade Plant    |
-| Lucky Job           | Police Officer       |
-| Lucky Exercise      | Water Polo  |
-| Lucky Country       | Zambia    |
+| Lucky Food          | Pancakes      |
+| Lucky Instrument    | Ukulele |
+| Lucky Flower        | Strelitzia    |
+| Lucky Job           | Nurse       |
+| Lucky Exercise      | Yoga  |
+| Lucky Country       | Brunei    |
 
 
 ##  Final Reflections on Dreams

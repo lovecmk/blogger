@@ -1,8 +1,8 @@
 ---
     weight: 273
     title: "Dream of teleporting all over the world"  # Assuming 'title' column exists
-    date: 2024-10-13T22:59:00+08:00
-    lastmod: 2024-10-13T22:59:00+08:00
+    date: 2024-10-13T12:46:00+08:00
+    lastmod: 2024-10-13T12:46:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'Dream', 'all', 'over', 'world', 'of', 'teleporting']
+    tags: ['teleporting', 'Dream', 'over', 'world', 'all']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can symbolize the good luck related to new experiences, freedom and e
 | Lucky Animal        | Pig |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Chocolate Mousse      |
+| Lucky Food          | Zucchini Noodles      |
 | Lucky Instrument    | Sackbut |
-| Lucky Flower        | Agapanthus    |
+| Lucky Flower        | Cyclamen    |
 | Lucky Job           | Security Guard       |
-| Lucky Exercise      | Running  |
-| Lucky Country       | United Kingdom    |
+| Lucky Exercise      | Active Recovery  |
+| Lucky Country       | Papua New Guinea    |
 
 
 ##  Final Reflections on Dreams

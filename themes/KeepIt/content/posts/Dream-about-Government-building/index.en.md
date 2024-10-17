@@ -1,8 +1,8 @@
 ---
     weight: 1202
     title: "Dream about Government building"  # Assuming 'title' column exists
-    date: 2024-10-13T18:24:00+08:00
-    lastmod: 2024-10-13T18:24:00+08:00
+    date: 2024-10-14T17:32:00+08:00
+    lastmod: 2024-10-14T17:32:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['building', 'about', 'Dream', 'Government']
+    tags: ['building', 'Dream', 'Government']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of the 'government building' dream may vary depending on personal inter
 | Lucky Animal        | Guinea pig |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Green     |
-| Lucky Food          | Burger      |
-| Lucky Instrument    | Tuba |
-| Lucky Flower        | Chive Blossom    |
-| Lucky Job           | Business Analyst       |
-| Lucky Exercise      | Circuit Training  |
-| Lucky Country       | Canada    |
+| Lucky Food          | Kale Salad      |
+| Lucky Instrument    | Dulcimer |
+| Lucky Flower        | Sunflower    |
+| Lucky Job           | Personal Trainer       |
+| Lucky Exercise      | Interval Training  |
+| Lucky Country       | China    |
 
 
 ##  Final Reflections on Dreams

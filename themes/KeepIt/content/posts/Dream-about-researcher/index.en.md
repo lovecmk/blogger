@@ -1,8 +1,8 @@
 ---
     weight: 1205
     title: "Dream about researcher"  # Assuming 'title' column exists
-    date: 2024-10-13T09:32:00+08:00
-    lastmod: 2024-10-13T09:32:00+08:00
+    date: 2024-10-11T23:33:00+08:00
+    lastmod: 2024-10-11T23:33:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['about', 'Dream', 'researcher']
+    tags: ['Dream', 'researcher']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Dreams can sometimes deliver messages related to luck.This may vary by individua
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Mart     |
 | Lucky Color         | Black     |
-| Lucky Food          | Tuna Tartare      |
-| Lucky Instrument    | Harp |
-| Lucky Flower        | Stephanotis    |
-| Lucky Job           | Fashion Designer       |
-| Lucky Exercise      | Resistance Training  |
-| Lucky Country       | Lebanon    |
+| Lucky Food          | Baklava      |
+| Lucky Instrument    | Viola |
+| Lucky Flower        | Chrysanthemum    |
+| Lucky Job           | Scientist       |
+| Lucky Exercise      | Interval Training  |
+| Lucky Country       | Poland    |
 
 
 ##  Final Reflections on Dreams

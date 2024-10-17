@@ -1,8 +1,8 @@
 ---
     weight: 1013
     title: "Dream of burning adventure"  # Assuming 'title' column exists
-    date: 2024-10-13T07:49:00+08:00
-    lastmod: 2024-10-13T07:49:00+08:00
+    date: 2024-10-14T13:14:00+08:00
+    lastmod: 2024-10-14T13:14:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'adventure', 'burning', 'Dream']
+    tags: ['adventure', 'Dream', 'burning']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can vary depending on personal interpretation and situati
 | Lucky Animal        | Dog |
 | Lucky Place         | Theater     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Caprese Salad      |
-| Lucky Instrument    | Bass Guitar |
-| Lucky Flower        | Bougainvillea    |
-| Lucky Job           | Oceanographer       |
-| Lucky Exercise      | Pull-Ups  |
-| Lucky Country       | China    |
+| Lucky Food          | Quesadilla      |
+| Lucky Instrument    | Horn |
+| Lucky Flower        | Lobelia    |
+| Lucky Job           | App Developer       |
+| Lucky Exercise      | Handball  |
+| Lucky Country       | Western Sahara    |
 
 
 ##  Final Reflections on Dreams

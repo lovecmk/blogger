@@ -1,8 +1,8 @@
 ---
     weight: 5
     title: "Dream of giving a banana to a friend"  # Assuming 'title' column exists
-    date: 2024-10-13T16:12:00+08:00
-    lastmod: 2024-10-13T16:12:00+08:00
+    date: 2024-10-14T19:19:00+08:00
+    lastmod: 2024-10-14T19:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['friend', 'giving', 'to', 'Dream', 'a', 'banana', 'of']
+    tags: ['Dream', 'to', 'friend', 'giving', 'banana']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can occur mainly in intimate relationships.The act of giv
 | Lucky Animal        | Hyena |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Beef Stroganoff      |
-| Lucky Instrument    | Fretless Bass |
-| Lucky Flower        | Pansy    |
-| Lucky Job           | Writer       |
-| Lucky Exercise      | Water Polo  |
-| Lucky Country       | United Kingdom    |
+| Lucky Food          | Spring Roll      |
+| Lucky Instrument    | Harmonic Piano |
+| Lucky Flower        | Clover    |
+| Lucky Job           | Oceanographer       |
+| Lucky Exercise      | Yoga Flow  |
+| Lucky Country       | Brunei    |
 
 
 ##  Final Reflections on Dreams

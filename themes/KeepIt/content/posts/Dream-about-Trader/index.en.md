@@ -1,8 +1,8 @@
 ---
     weight: 1144
     title: "Dream about Trader"  # Assuming 'title' column exists
-    date: 2024-10-13T16:38:00+08:00
-    lastmod: 2024-10-13T16:38:00+08:00
+    date: 2024-10-11T01:04:00+08:00
+    lastmod: 2024-10-11T01:04:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Trader', 'about', 'Dream']
+    tags: ['Trader', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can indicate wealthy luck and hope for success.Since trade symbolizes
 | Lucky Animal        | Hamster |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Green     |
-| Lucky Food          | Sushi      |
-| Lucky Instrument    | Basset Horn |
-| Lucky Flower        | Bellflower    |
-| Lucky Job           | Security Guard       |
-| Lucky Exercise      | Step Aerobics  |
-| Lucky Country       | Netherlands    |
+| Lucky Food          | Fruit Smoothie      |
+| Lucky Instrument    | Violin |
+| Lucky Flower        | Periwinkle    |
+| Lucky Job           | Lawyer       |
+| Lucky Exercise      | Shot Put  |
+| Lucky Country       | Afghanistan    |
 
 
 ##  Final Reflections on Dreams

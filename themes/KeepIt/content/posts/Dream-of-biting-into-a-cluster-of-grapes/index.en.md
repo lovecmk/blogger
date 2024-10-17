@@ -1,8 +1,8 @@
 ---
     weight: 2161
     title: "Dream of hostility within the family circle"  # Assuming 'title' column exists
-    date: 2024-10-13T23:50:00+08:00
-    lastmod: 2024-10-13T23:50:00+08:00
+    date: 2024-10-13T18:12:00+08:00
+    lastmod: 2024-10-13T18:12:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'the', 'Dream', 'hostility', 'within', 'of', 'circle']
+    tags: ['family', 'Dream', 'within', 'hostility', 'circle']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Elephant |
 | Lucky Place         | Academy     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Pulled Pork      |
-| Lucky Instrument    | Pipa |
-| Lucky Flower        | Lavender    |
-| Lucky Job           | Software Engineer       |
-| Lucky Exercise      | Trail Running  |
-| Lucky Country       | Iraq    |
+| Lucky Food          | Pudding      |
+| Lucky Instrument    | Glockenspiel |
+| Lucky Flower        | Safflower    |
+| Lucky Job           | Security Guard       |
+| Lucky Exercise      | Weightlifting  |
+| Lucky Country       | Italy    |
 
 
 ##  Final Reflections on Dreams

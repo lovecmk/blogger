@@ -1,8 +1,8 @@
 ---
     weight: 1215
     title: "Dream about Data scientist"  # Assuming 'title' column exists
-    date: 2024-10-13T06:55:00+08:00
-    lastmod: 2024-10-13T06:55:00+08:00
+    date: 2024-10-14T23:53:00+08:00
+    lastmod: 2024-10-14T23:53:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Data', 'scientist', 'about', 'Dream']
+    tags: ['scientist', 'Data', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of dreams can vary depending on the individual's interpretation and exp
 | Lucky Animal        | Owl |
 | Lucky Place         | Library     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Shepherd's Pie      |
-| Lucky Instrument    | Maracas |
-| Lucky Flower        | Petal Plant    |
-| Lucky Job           | Graphic Designer       |
-| Lucky Exercise      | Snowboarding  |
-| Lucky Country       | Austria    |
+| Lucky Food          | Cheeseboard      |
+| Lucky Instrument    | Guitar |
+| Lucky Flower        | Gillyflower    |
+| Lucky Job           | Astrophysicist       |
+| Lucky Exercise      | Interval Training  |
+| Lucky Country       | Denmark    |
 
 
 ##  Final Reflections on Dreams

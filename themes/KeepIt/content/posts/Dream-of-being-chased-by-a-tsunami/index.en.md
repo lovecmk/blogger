@@ -1,8 +1,8 @@
 ---
     weight: 916
     title: "Dream of being chased by a tsunami"  # Assuming 'title' column exists
-    date: 2024-10-13T21:18:00+08:00
-    lastmod: 2024-10-13T21:18:00+08:00
+    date: 2024-10-13T19:21:00+08:00
+    lastmod: 2024-10-13T19:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['tsunami', 'Dream', 'being', 'a', 'by', 'of', 'chased']
+    tags: ['being', 'chased', 'Dream', 'tsunami']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream is not related to luck.Rather, it symbolizes anxiety and danger, so i
 | Lucky Animal        | Seagull |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Fish and Chips      |
-| Lucky Instrument    | Clarinet |
-| Lucky Flower        | Sea Holly    |
-| Lucky Job           | Insurance Agent       |
-| Lucky Exercise      | Basketball  |
-| Lucky Country       | Romania    |
+| Lucky Food          | Pasta Salad      |
+| Lucky Instrument    | Sackbut |
+| Lucky Flower        | Sweet William    |
+| Lucky Job           | Chef de Cuisine       |
+| Lucky Exercise      | Slacklining  |
+| Lucky Country       | Western Sahara    |
 
 
 ##  Final Reflections on Dreams

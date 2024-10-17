@@ -1,8 +1,8 @@
 ---
     weight: 1571
     title: "Dream of witnessing an ancestral ritual or ceremony in a dream."  # Assuming 'title' column exists
-    date: 2024-10-13T13:46:00+08:00
-    lastmod: 2024-10-13T13:46:00+08:00
+    date: 2024-10-12T13:37:00+08:00
+    lastmod: 2024-10-12T13:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['witnessing', 'or', 'ritual', 'ancestral', 'Dream', 'ceremony', 'a', 'an', 'in', 'of', 'dream.']
+    tags: ['ancestral', 'Dream', 'dream', 'ritual', 'ceremony', 'witnessing', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings a sense of favorable luck and positive energy. It indicates th
 | Lucky Animal        | Cat |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Tiramisu      |
-| Lucky Instrument    | Electric Guitar |
-| Lucky Flower        | Tithonia    |
-| Lucky Job           | Neuroscientist       |
-| Lucky Exercise      | Push-Ups  |
-| Lucky Country       | Greece    |
+| Lucky Food          | Pancakes      |
+| Lucky Instrument    | Bassoon |
+| Lucky Flower        | Balsam    |
+| Lucky Job           | Bus Driver       |
+| Lucky Exercise      | Ballet  |
+| Lucky Country       | Slovakia    |
 
 
 ##  Final Reflections on Dreams

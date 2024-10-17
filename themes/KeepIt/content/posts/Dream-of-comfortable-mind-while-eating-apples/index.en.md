@@ -1,8 +1,8 @@
 ---
     weight: 24
     title: "Dream of comfortable mind while eating apples"  # Assuming 'title' column exists
-    date: 2024-10-13T16:16:00+08:00
-    lastmod: 2024-10-13T16:16:00+08:00
+    date: 2024-10-14T08:18:00+08:00
+    lastmod: 2024-10-14T08:18:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['eating', 'mind', 'Dream', 'of', 'apples', 'while', 'comfortable']
+    tags: ['while', 'mind', 'apples', 'Dream', 'comfortable', 'eating']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ What are the luck of this dream?
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Green     |
-| Lucky Food          | Pulled Pork      |
-| Lucky Instrument    | Keyboard |
-| Lucky Flower        | Sage    |
-| Lucky Job           | Recruiter       |
-| Lucky Exercise      | Body Pump  |
-| Lucky Country       | Brunei    |
+| Lucky Food          | Caprese Skewers      |
+| Lucky Instrument    | Rudra Veena |
+| Lucky Flower        | Swan River Daisy    |
+| Lucky Job           | Chef de Cuisine       |
+| Lucky Exercise      | Hula Hooping  |
+| Lucky Country       | Kazakhstan    |
 
 
 ##  Final Reflections on Dreams

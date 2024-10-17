@@ -1,8 +1,8 @@
 ---
     weight: 1376
     title: "Dream of a near-death experience in a car accident"  # Assuming 'title' column exists
-    date: 2024-10-13T01:36:00+08:00
-    lastmod: 2024-10-13T01:36:00+08:00
+    date: 2024-10-12T16:12:00+08:00
+    lastmod: 2024-10-12T16:12:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['near-death', 'Dream', 'a', 'experience', 'in', 'car', 'accident', 'of']
+    tags: ['Dream', 'experience', 'near-death', 'car', 'accident']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Monkey |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Pork Chops      |
-| Lucky Instrument    | Tuba |
-| Lucky Flower        | Periwinkle    |
-| Lucky Job           | Business Analyst       |
-| Lucky Exercise      | Crunches  |
-| Lucky Country       | Belgium    |
+| Lucky Food          | Ice Cream      |
+| Lucky Instrument    | Horn |
+| Lucky Flower        | Fuchsia    |
+| Lucky Job           | Biologist       |
+| Lucky Exercise      | Mountain Climbers  |
+| Lucky Country       | Spain    |
 
 
 ##  Final Reflections on Dreams

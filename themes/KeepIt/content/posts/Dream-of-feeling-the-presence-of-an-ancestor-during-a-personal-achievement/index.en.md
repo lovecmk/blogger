@@ -1,8 +1,8 @@
 ---
     weight: 1639
     title: "Dream of discovering a forgotten tradition and reviving it in honor of ancestors."  # Assuming 'title' column exists
-    date: 2024-10-13T19:54:00+08:00
-    lastmod: 2024-10-13T19:54:00+08:00
+    date: 2024-10-15T20:12:00+08:00
+    lastmod: 2024-10-15T20:12:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['reviving', 'tradition', 'Dream', 'a', 'forgotten', 'and', 'in', 'it', 'of', 'honor', 'discovering', 'ancestors.']
+    tags: ['it', 'Dream', 'honor', 'tradition', 'discovering', 'forgotten', 'reviving', 'ancestors']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hippo |
 | Lucky Place         | School     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Vegetable Stir Fry      |
-| Lucky Instrument    | Harmonic Piano |
-| Lucky Flower        | Chrysanthemum    |
-| Lucky Job           | Sous Chef       |
-| Lucky Exercise      | Kettlebell Training  |
-| Lucky Country       | Norway    |
+| Lucky Food          | Pasta      |
+| Lucky Instrument    | Calimba |
+| Lucky Flower        | Dandelion    |
+| Lucky Job           | Researcher       |
+| Lucky Exercise      | Snowshoeing  |
+| Lucky Country       | Namibia    |
 
 
 ##  Final Reflections on Dreams

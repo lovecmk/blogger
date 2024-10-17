@@ -1,8 +1,8 @@
 ---
     weight: 97
     title: "Dream of visiting the zoo with her husband"  # Assuming 'title' column exists
-    date: 2024-10-13T03:12:00+08:00
-    lastmod: 2024-10-13T03:12:00+08:00
+    date: 2024-10-11T22:25:00+08:00
+    lastmod: 2024-10-11T22:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['her', 'the', 'Dream', 'visiting', 'husband', 'of', 'with', 'zoo']
+    tags: ['Dream', 'visiting', 'zoo', 'her', 'husband']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,11 +59,11 @@ This dream can symbolize many luck.The zoo can be recognized as a place of pleas
 | Lucky Animal        | Chick |
 | Lucky Place         | Lake     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Caprese Skewers      |
-| Lucky Instrument    | Sarangi |
-| Lucky Flower        | Jade Plant    |
-| Lucky Job           | Historian       |
-| Lucky Exercise      | Tai Chi  |
+| Lucky Food          | Fruit Salad      |
+| Lucky Instrument    | Rudra Veena |
+| Lucky Flower        | Thistle    |
+| Lucky Job           | Game Developer       |
+| Lucky Exercise      | Beach Volleyball  |
 | Lucky Country       | Sweden    |
 
 

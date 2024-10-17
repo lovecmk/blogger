@@ -1,8 +1,8 @@
 ---
     weight: 1608
     title: "Dream of your grandmother being a symbol of strength and resilience."  # Assuming 'title' column exists
-    date: 2024-10-13T20:30:00+08:00
-    lastmod: 2024-10-13T20:30:00+08:00
+    date: 2024-10-14T08:07:00+08:00
+    lastmod: 2024-10-14T08:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['strength', 'grandmother', 'symbol', 'your', 'Dream', 'being', 'a', 'resilience.', 'and', 'of']
+    tags: ['being', 'Dream', 'resilience', 'grandmother', 'symbol', 'strength']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Kangaroo |
 | Lucky Place         | Park     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Shrimp      |
-| Lucky Instrument    | Saz |
-| Lucky Flower        | Scented Geranium    |
-| Lucky Job           | User Researcher       |
-| Lucky Exercise      | Circuit Workout  |
-| Lucky Country       | Slovakia    |
+| Lucky Food          | Noodles      |
+| Lucky Instrument    | Timpani |
+| Lucky Flower        | Lilac    |
+| Lucky Job           | Life Coach       |
+| Lucky Exercise      | Powerlifting  |
+| Lucky Country       | Palau    |
 
 
 ##  Final Reflections on Dreams

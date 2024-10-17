@@ -1,8 +1,8 @@
 ---
     weight: 1037
     title: "A dream of a happy ending"  # Assuming 'title' column exists
-    date: 2024-10-13T14:40:00+08:00
-    lastmod: 2024-10-13T14:40:00+08:00
+    date: 2024-10-15T00:23:00+08:00
+    lastmod: 2024-10-15T00:23:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['ending', 'a', 'dream', 'happy', 'of', 'A']
+    tags: ['happy', 'dream', 'A', 'ending']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream shows a situation where you can have good luck and positive results.T
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Deviled Eggs      |
-| Lucky Instrument    | Pandeiro |
-| Lucky Flower        | Lantana    |
-| Lucky Job           | Web Designer       |
-| Lucky Exercise      | Snowshoeing  |
-| Lucky Country       | Afghanistan    |
+| Lucky Food          | Baked Potato      |
+| Lucky Instrument    | Fujara |
+| Lucky Flower        | Petunia    |
+| Lucky Job           | Baker       |
+| Lucky Exercise      | Stair Climbing  |
+| Lucky Country       | Latvia    |
 
 
 ##  Final Reflections on Dreams

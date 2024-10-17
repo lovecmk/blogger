@@ -1,8 +1,8 @@
 ---
     weight: 455
     title: "Dream of work or projects broken"  # Assuming 'title' column exists
-    date: 2024-10-13T17:36:00+08:00
-    lastmod: 2024-10-13T17:36:00+08:00
+    date: 2024-10-15T22:46:00+08:00
+    lastmod: 2024-10-15T22:46:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'Dream', 'broken', 'projects', 'of', 'work']
+    tags: ['Dream', 'broken', 'work', 'projects']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is not clear.But after experiencing this dream, you can h
 | Lucky Animal        | Ostrich |
 | Lucky Place         | River     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Chicken Parmesan      |
-| Lucky Instrument    | Pandeiro |
-| Lucky Flower        | Sweet Pea    |
-| Lucky Job           | Sales Representative       |
-| Lucky Exercise      | Deadlifts  |
-| Lucky Country       | Thailand    |
+| Lucky Food          | Tuna Tartare      |
+| Lucky Instrument    | Zither |
+| Lucky Flower        | Maranta    |
+| Lucky Job           | Art Director       |
+| Lucky Exercise      | Soccer  |
+| Lucky Country       | Zimbabwe    |
 
 
 ##  Final Reflections on Dreams

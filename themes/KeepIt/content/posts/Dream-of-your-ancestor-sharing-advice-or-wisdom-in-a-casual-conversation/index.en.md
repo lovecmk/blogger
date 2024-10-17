@@ -1,8 +1,8 @@
 ---
     weight: 1697
     title: "Dream of conflicts about family unity"  # Assuming 'title' column exists
-    date: 2024-10-13T07:15:00+08:00
-    lastmod: 2024-10-13T07:15:00+08:00
+    date: 2024-10-15T08:13:00+08:00
+    lastmod: 2024-10-15T08:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'conflicts', 'about', 'unity', 'Dream', 'of']
+    tags: ['family', 'Dream', 'conflicts', 'unity']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Ostrich |
 | Lucky Place         | Library     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Onion Rings      |
-| Lucky Instrument    | Cymbals |
-| Lucky Flower        | Stephanotis    |
-| Lucky Job           | Artist       |
-| Lucky Exercise      | Pole Vaulting  |
-| Lucky Country       | Fiji    |
+| Lucky Food          | Seafood Paella      |
+| Lucky Instrument    | Zouaves |
+| Lucky Flower        | Moss Rose    |
+| Lucky Job           | Chemist       |
+| Lucky Exercise      | Javelin  |
+| Lucky Country       | Saudi Arabia    |
 
 
 ##  Final Reflections on Dreams

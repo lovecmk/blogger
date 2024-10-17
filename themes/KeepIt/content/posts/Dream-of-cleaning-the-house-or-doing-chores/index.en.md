@@ -1,8 +1,8 @@
 ---
     weight: 1253
     title: "Dream of cleaning the house or doing chores"  # Assuming 'title' column exists
-    date: 2024-10-13T19:44:00+08:00
-    lastmod: 2024-10-13T19:44:00+08:00
+    date: 2024-10-12T03:36:00+08:00
+    lastmod: 2024-10-12T03:36:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['chores', 'or', 'the', 'Dream', 'doing', 'cleaning', 'house', 'of']
+    tags: ['doing', 'Dream', 'chores', 'house', 'cleaning']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Duck |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Fruit Tart      |
-| Lucky Instrument    | Harp |
-| Lucky Flower        | Pelargonium    |
-| Lucky Job           | Quality Assurance Tester       |
-| Lucky Exercise      | Water Polo  |
-| Lucky Country       | Denmark    |
+| Lucky Food          | Tacos      |
+| Lucky Instrument    | Chimes |
+| Lucky Flower        | Bouvardia    |
+| Lucky Job           | Catering Manager       |
+| Lucky Exercise      | Slacklining  |
+| Lucky Country       | Solomon Islands    |
 
 
 ##  Final Reflections on Dreams

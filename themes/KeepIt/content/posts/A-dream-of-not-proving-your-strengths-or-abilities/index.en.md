@@ -1,8 +1,8 @@
 ---
     weight: 489
     title: "A dream of not proving your strengths or abilities"  # Assuming 'title' column exists
-    date: 2024-10-13T14:21:00+08:00
-    lastmod: 2024-10-13T14:21:00+08:00
+    date: 2024-10-11T02:53:00+08:00
+    lastmod: 2024-10-11T02:53:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['strengths', 'or', 'your', 'proving', 'abilities', 'not', 'dream', 'of', 'A']
+    tags: ['abilities', 'dream', 'A', 'strengths', 'not', 'proving']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream does not show good luck when it is not proving his strengths and abil
 | Lucky Animal        | Snake |
 | Lucky Place         | Museum     |
 | Lucky Color         | Black     |
-| Lucky Food          | Guacamole      |
-| Lucky Instrument    | Conga |
-| Lucky Flower        | Cactus Flower    |
-| Lucky Job           | UX Designer       |
-| Lucky Exercise      | Running  |
-| Lucky Country       | Armenia    |
+| Lucky Food          | Risotto      |
+| Lucky Instrument    | Erhu |
+| Lucky Flower        | Calla Lily    |
+| Lucky Job           | Baker       |
+| Lucky Exercise      | Trail Running  |
+| Lucky Country       | Malawi    |
 
 
 ##  Final Reflections on Dreams

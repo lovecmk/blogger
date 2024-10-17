@@ -1,8 +1,8 @@
 ---
     weight: 525
     title: "Dream of growing plants in pots"  # Assuming 'title' column exists
-    date: 2024-10-13T19:24:00+08:00
-    lastmod: 2024-10-13T19:24:00+08:00
+    date: 2024-10-11T14:47:00+08:00
+    lastmod: 2024-10-11T14:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['plants', 'Dream', 'pots', 'growing', 'in', 'of']
+    tags: ['Dream', 'growing', 'pots', 'plants']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you good luck and prosperity.Because raising plants in pots
 | Lucky Animal        | Hyena |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Samosa      |
-| Lucky Instrument    | Saz |
-| Lucky Flower        | Lotus    |
-| Lucky Job           | Postman       |
-| Lucky Exercise      | Dancing  |
-| Lucky Country       | Brazil    |
+| Lucky Food          | Ratatouille      |
+| Lucky Instrument    | Sarangi |
+| Lucky Flower        | Sweet Pea    |
+| Lucky Job           | Artist       |
+| Lucky Exercise      | Stair Climbing  |
+| Lucky Country       | Qatar    |
 
 
 ##  Final Reflections on Dreams

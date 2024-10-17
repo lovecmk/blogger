@@ -1,8 +1,8 @@
 ---
     weight: 11
     title: "Dream of sharing watermelon with a friend"  # Assuming 'title' column exists
-    date: 2024-10-13T18:11:00+08:00
-    lastmod: 2024-10-13T18:11:00+08:00
+    date: 2024-10-11T02:42:00+08:00
+    lastmod: 2024-10-11T02:42:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['friend', 'watermelon', 'Dream', 'sharing', 'a', 'of', 'with']
+    tags: ['Dream', 'watermelon', 'sharing', 'friend']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be in the formation and connection of relationships t
 | Lucky Animal        | Pig |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Nachos      |
-| Lucky Instrument    | Harmonic Piano |
-| Lucky Flower        | Tiger Lily    |
-| Lucky Job           | Mathematician       |
-| Lucky Exercise      | Resistance Bands  |
-| Lucky Country       | Portugal    |
+| Lucky Food          | Tacos      |
+| Lucky Instrument    | Conga |
+| Lucky Flower        | Vinca    |
+| Lucky Job           | Astrophysicist       |
+| Lucky Exercise      | Ashtanga Yoga  |
+| Lucky Country       | Papua New Guinea    |
 
 
 ##  Final Reflections on Dreams

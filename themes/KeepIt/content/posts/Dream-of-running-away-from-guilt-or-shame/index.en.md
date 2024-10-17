@@ -1,8 +1,8 @@
 ---
     weight: 412
     title: "Dream of running away from guilt or shame"  # Assuming 'title' column exists
-    date: 2024-10-13T00:26:00+08:00
-    lastmod: 2024-10-13T00:26:00+08:00
+    date: 2024-10-11T03:45:00+08:00
+    lastmod: 2024-10-11T03:45:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'running', 'away', 'Dream', 'shame', 'guilt', 'from', 'of']
+    tags: ['Dream', 'running', 'from', 'guilt', 'away', 'shame']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream may be lucky to draw inner peace and liberation through the process o
 | Lucky Animal        | Owl |
 | Lucky Place         | Sea     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Roast Chicken      |
-| Lucky Instrument    | Harmonica |
-| Lucky Flower        | Thunbergia    |
-| Lucky Job           | Writer       |
-| Lucky Exercise      | Cricket  |
-| Lucky Country       | Marshall Islands    |
+| Lucky Food          | Dumplings      |
+| Lucky Instrument    | Harmonium |
+| Lucky Flower        | Fuchsia    |
+| Lucky Job           | Personal Trainer       |
+| Lucky Exercise      | Running  |
+| Lucky Country       | Austria    |
 
 
 ##  Final Reflections on Dreams

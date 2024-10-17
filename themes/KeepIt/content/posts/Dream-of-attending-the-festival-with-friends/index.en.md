@@ -1,8 +1,8 @@
 ---
     weight: 690
     title: "Dream of attending the festival with friends"  # Assuming 'title' column exists
-    date: 2024-10-13T09:59:00+08:00
-    lastmod: 2024-10-13T09:59:00+08:00
+    date: 2024-10-13T19:14:00+08:00
+    lastmod: 2024-10-13T19:14:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['festival', 'the', 'Dream', 'of', 'attending', 'with', 'friends']
+    tags: ['Dream', 'festival', 'friends', 'attending']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can symbolize the luck that can bring you a pleasant experience, joy,
 | Lucky Animal        | Sloth |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Shrimp      |
-| Lucky Instrument    | Pipa |
-| Lucky Flower        | Snapdragon    |
-| Lucky Job           | Pilot       |
-| Lucky Exercise      | Fencing  |
-| Lucky Country       | Egypt    |
+| Lucky Food          | Noodles      |
+| Lucky Instrument    | Trombone |
+| Lucky Flower        | Stephanotis    |
+| Lucky Job           | Stockbroker       |
+| Lucky Exercise      | Beach Volleyball  |
+| Lucky Country       | Malawi    |
 
 
 ##  Final Reflections on Dreams

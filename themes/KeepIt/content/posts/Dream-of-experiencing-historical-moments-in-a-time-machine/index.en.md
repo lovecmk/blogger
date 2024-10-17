@@ -1,8 +1,8 @@
 ---
     weight: 783
     title: "Dream of experiencing historical moments in a time machine"  # Assuming 'title' column exists
-    date: 2024-10-13T18:18:00+08:00
-    lastmod: 2024-10-13T18:18:00+08:00
+    date: 2024-10-14T11:22:00+08:00
+    lastmod: 2024-10-14T11:22:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['historical', 'moments', 'experiencing', 'Dream', 'a', 'time', 'in', 'machine', 'of']
+    tags: ['experiencing', 'Dream', 'machine', 'moments', 'time', 'historical']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you new opportunities and good luck.Through this dream, you
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Mango Sticky Rice      |
-| Lucky Instrument    | Harp |
-| Lucky Flower        | Bougainvillea    |
+| Lucky Food          | Fish and Chips      |
+| Lucky Instrument    | Tuba Horn |
+| Lucky Flower        | Sweet William    |
 | Lucky Job           | Stockbroker       |
-| Lucky Exercise      | Martial Arts  |
-| Lucky Country       | Iraq    |
+| Lucky Exercise      | Sledge Hockey  |
+| Lucky Country       | Nauru    |
 
 
 ##  Final Reflections on Dreams

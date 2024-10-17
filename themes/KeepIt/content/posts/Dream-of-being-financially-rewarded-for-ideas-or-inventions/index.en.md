@@ -1,8 +1,8 @@
 ---
     weight: 2066
     title: "Dream of dying and seeing a tunnel"  # Assuming 'title' column exists
-    date: 2024-10-13T08:03:00+08:00
-    lastmod: 2024-10-13T08:03:00+08:00
+    date: 2024-10-11T17:35:00+08:00
+    lastmod: 2024-10-11T17:35:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dying', 'tunnel', 'seeing', 'Dream', 'a', 'and', 'of']
+    tags: ['tunnel', 'Dream', 'dying', 'seeing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Turtle |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Zucchini Noodles      |
-| Lucky Instrument    | Pipa |
-| Lucky Flower        | Lily    |
-| Lucky Job           | Database Administrator       |
-| Lucky Exercise      | Squash  |
-| Lucky Country       | Russia    |
+| Lucky Food          | Onion Rings      |
+| Lucky Instrument    | Chimes |
+| Lucky Flower        | Magnolia    |
+| Lucky Job           | Insurance Agent       |
+| Lucky Exercise      | Pilates  |
+| Lucky Country       | Maldives    |
 
 
 ##  Final Reflections on Dreams

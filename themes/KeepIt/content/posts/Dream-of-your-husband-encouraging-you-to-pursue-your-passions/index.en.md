@@ -1,8 +1,8 @@
 ---
     weight: 1636
     title: "Dream of dying and coming back to life"  # Assuming 'title' column exists
-    date: 2024-10-13T14:21:00+08:00
-    lastmod: 2024-10-13T14:21:00+08:00
+    date: 2024-10-12T05:05:00+08:00
+    lastmod: 2024-10-12T05:05:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dying', 'life', 'to', 'coming', 'Dream', 'and', 'of', 'back']
+    tags: ['life', 'Dream', 'to', 'back', 'coming', 'dying']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Sloth |
 | Lucky Place         | Theater     |
 | Lucky Color         | Black     |
-| Lucky Food          | Chicken Curry      |
-| Lucky Instrument    | Cajón |
-| Lucky Flower        | Swan River Daisy    |
-| Lucky Job           | Interior Designer       |
-| Lucky Exercise      | Pole Vaulting  |
-| Lucky Country       | Latvia    |
+| Lucky Food          | Caprese Skewers      |
+| Lucky Instrument    | Violin |
+| Lucky Flower        | Gillyflower    |
+| Lucky Job           | IT Specialist       |
+| Lucky Exercise      | Rugby  |
+| Lucky Country       | Nauru    |
 
 
 ##  Final Reflections on Dreams

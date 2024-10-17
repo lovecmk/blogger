@@ -1,8 +1,8 @@
 ---
     weight: 1835
     title: "Dream of paying off debts and feeling relieved about financial stability."  # Assuming 'title' column exists
-    date: 2024-10-13T03:03:00+08:00
-    lastmod: 2024-10-13T03:03:00+08:00
+    date: 2024-10-11T10:23:00+08:00
+    lastmod: 2024-10-11T10:23:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['off', 'feeling', 'relieved', 'about', 'debts', 'paying', 'financial', 'Dream', 'and', 'of', 'stability.']
+    tags: ['relieved', 'Dream', 'paying', 'stability', 'debts', 'feeling', 'off', 'financial']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Deer |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Fried Rice      |
-| Lucky Instrument    | Violin Bow |
-| Lucky Flower        | Snapdragon    |
-| Lucky Job           | Actor       |
-| Lucky Exercise      | Zumba  |
-| Lucky Country       | China    |
+| Lucky Food          | Bagel      |
+| Lucky Instrument    | Harmonica |
+| Lucky Flower        | Ornamental Pepper    |
+| Lucky Job           | Insurance Agent       |
+| Lucky Exercise      | Kickboxing  |
+| Lucky Country       | Georgia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 667
     title: "A dream of sharing memories of childhood with your family"  # Assuming 'title' column exists
-    date: 2024-10-13T14:32:00+08:00
-    lastmod: 2024-10-13T14:32:00+08:00
+    date: 2024-10-13T12:24:00+08:00
+    lastmod: 2024-10-13T12:24:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'memories', 'your', 'sharing', 'dream', 'childhood', 'of', 'A', 'with']
+    tags: ['family', 'childhood', 'sharing', 'dream', 'A', 'memories']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you the following luck:First, the connection with the famil
 | Lucky Animal        | Rhino |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Pasta Salad      |
-| Lucky Instrument    | Lute |
-| Lucky Flower        | Bouvardia    |
-| Lucky Job           | Personal Trainer       |
-| Lucky Exercise      | Surfing  |
-| Lucky Country       | Serbia    |
+| Lucky Food          | Waffles      |
+| Lucky Instrument    | Darbuka |
+| Lucky Flower        | Poppy    |
+| Lucky Job           | Data Scientist       |
+| Lucky Exercise      | Soccer  |
+| Lucky Country       | Iran    |
 
 
 ##  Final Reflections on Dreams

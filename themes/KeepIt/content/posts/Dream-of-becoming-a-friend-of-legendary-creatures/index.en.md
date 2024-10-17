@@ -1,8 +1,8 @@
 ---
     weight: 240
     title: "Dream of becoming a friend of legendary creatures"  # Assuming 'title' column exists
-    date: 2024-10-13T15:41:00+08:00
-    lastmod: 2024-10-13T15:41:00+08:00
+    date: 2024-10-14T10:58:00+08:00
+    lastmod: 2024-10-14T10:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['friend', 'creatures', 'Dream', 'legendary', 'a', 'of', 'becoming']
+    tags: ['Dream', 'creatures', 'legendary', 'friend', 'becoming']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can provide the opportunity to discover your potential an
 | Lucky Animal        | Panda |
 | Lucky Place         | Lake     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Crab      |
-| Lucky Instrument    | Melodica |
-| Lucky Flower        | Snapdragon    |
-| Lucky Job           | Hair Stylist       |
-| Lucky Exercise      | Tai Chi  |
-| Lucky Country       | Botswana    |
+| Lucky Food          | Pork Belly      |
+| Lucky Instrument    | Tromba |
+| Lucky Flower        | Rudbeckia    |
+| Lucky Job           | Writer       |
+| Lucky Exercise      | Obstacle Course Racing  |
+| Lucky Country       | Angola    |
 
 
 ##  Final Reflections on Dreams

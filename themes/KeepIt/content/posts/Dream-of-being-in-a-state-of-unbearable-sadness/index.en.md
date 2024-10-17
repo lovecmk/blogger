@@ -1,8 +1,8 @@
 ---
     weight: 1932
     title: "Dream of disagreements over family hierarchy"  # Assuming 'title' column exists
-    date: 2024-10-13T11:00:00+08:00
-    lastmod: 2024-10-13T11:00:00+08:00
+    date: 2024-10-13T16:57:00+08:00
+    lastmod: 2024-10-13T16:57:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'Dream', 'disagreements', 'hierarchy', 'over', 'of']
+    tags: ['family', 'hierarchy', 'Dream', 'disagreements', 'over']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Steak      |
-| Lucky Instrument    | Saz |
-| Lucky Flower        | Fuchsia    |
-| Lucky Job           | UX Designer       |
-| Lucky Exercise      | High-Intensity Interval Training (HIIT)  |
-| Lucky Country       | Angola    |
+| Lucky Food          | Ratatouille      |
+| Lucky Instrument    | Fretless Bass |
+| Lucky Flower        | Scented Geranium    |
+| Lucky Job           | Producer       |
+| Lucky Exercise      | Cross-Country Skiing  |
+| Lucky Country       | Zambia    |
 
 
 ##  Final Reflections on Dreams

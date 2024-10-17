@@ -1,8 +1,8 @@
 ---
     weight: 1901
     title: "Dream of cooking together with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T14:33:00+08:00
-    lastmod: 2024-10-13T14:33:00+08:00
+    date: 2024-10-12T06:13:00+08:00
+    lastmod: 2024-10-12T06:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['together', 'cooking', 'your', 'boyfriend', 'Dream', 'of', 'with']
+    tags: ['cooking', 'Dream', 'boyfriend', 'together']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams do not inherently bring luck. However, this dream could be seen as a fort
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Risotto      |
-| Lucky Instrument    | Clavichord |
-| Lucky Flower        | Swan River Daisy    |
-| Lucky Job           | Insurance Agent       |
-| Lucky Exercise      | Circuit Workout  |
-| Lucky Country       | Bangladesh    |
+| Lucky Food          | Pork Belly      |
+| Lucky Instrument    | Trumpet |
+| Lucky Flower        | Sundew    |
+| Lucky Job           | Security Guard       |
+| Lucky Exercise      | Dancing  |
+| Lucky Country       | Nauru    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 947
     title: "Dream of falling from love (symbolic)"  # Assuming 'title' column exists
-    date: 2024-10-13T19:51:00+08:00
-    lastmod: 2024-10-13T19:51:00+08:00
+    date: 2024-10-14T06:21:00+08:00
+    lastmod: 2024-10-14T06:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['(symbolic)', 'falling', 'Dream', 'love', 'from', 'of']
+    tags: ['Dream', 'love', 'falling', '(symbolic)', 'from']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may not be generally.But through this dream, you can look
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Bagel      |
-| Lucky Instrument    | Soprano Recorder |
-| Lucky Flower        | Dandelion    |
-| Lucky Job           | Database Administrator       |
-| Lucky Exercise      | Horseback Riding  |
-| Lucky Country       | Denmark    |
+| Lucky Food          | Omelette      |
+| Lucky Instrument    | Violin |
+| Lucky Flower        | Snapdragon    |
+| Lucky Job           | Postman       |
+| Lucky Exercise      | Active Recovery  |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

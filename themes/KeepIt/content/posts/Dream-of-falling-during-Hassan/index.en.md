@@ -1,8 +1,8 @@
 ---
     weight: 957
     title: "Dream of falling during Hassan"  # Assuming 'title' column exists
-    date: 2024-10-13T07:53:00+08:00
-    lastmod: 2024-10-13T07:53:00+08:00
+    date: 2024-10-13T00:01:00+08:00
+    lastmod: 2024-10-13T00:01:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Hassan', 'falling', 'Dream', 'during', 'of']
+    tags: ['Dream', 'falling', 'Hassan']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream is generally not associated with luck, but you can provide opportunit
 | Lucky Animal        | Pig |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Gnocchi      |
-| Lucky Instrument    | Saz |
-| Lucky Flower        | Hibiscus    |
-| Lucky Job           | Doctor       |
-| Lucky Exercise      | Resistance Bands  |
-| Lucky Country       | Papua New Guinea    |
+| Lucky Food          | Shrimp      |
+| Lucky Instrument    | Castanets |
+| Lucky Flower        | Bougainvillea    |
+| Lucky Job           | Biologist       |
+| Lucky Exercise      | Hot Yoga  |
+| Lucky Country       | Nepal    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 2124
     title: "Dream of making a profitable investment or financial decision."  # Assuming 'title' column exists
-    date: 2024-10-13T18:59:00+08:00
-    lastmod: 2024-10-13T18:59:00+08:00
+    date: 2024-10-14T01:51:00+08:00
+    lastmod: 2024-10-14T01:51:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'financial', 'Dream', 'a', 'making', 'decision.', 'investment', 'profitable', 'of']
+    tags: ['investment', 'decision', 'Dream', 'making', 'profitable', 'financial']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hippo |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Cornbread      |
-| Lucky Instrument    | Harmonica |
-| Lucky Flower        | Dandelion    |
-| Lucky Job           | Mathematician       |
-| Lucky Exercise      | Weightlifting  |
-| Lucky Country       | Lithuania    |
+| Lucky Food          | Cheeseboard      |
+| Lucky Instrument    | Electric Guitar |
+| Lucky Flower        | Alstroemeria    |
+| Lucky Job           | Real Estate Agent       |
+| Lucky Exercise      | Running  |
+| Lucky Country       | Singapore    |
 
 
 ##  Final Reflections on Dreams

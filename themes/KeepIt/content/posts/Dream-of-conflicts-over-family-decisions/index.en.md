@@ -1,8 +1,8 @@
 ---
     weight: 2062
     title: "Dream of disagreements in family businesses"  # Assuming 'title' column exists
-    date: 2024-10-13T22:12:00+08:00
-    lastmod: 2024-10-13T22:12:00+08:00
+    date: 2024-10-15T19:14:00+08:00
+    lastmod: 2024-10-15T19:14:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'businesses', 'Dream', 'disagreements', 'in', 'of']
+    tags: ['family', 'Dream', 'disagreements', 'businesses']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ The luck associated with this dream is subjective and depends on the outlook you
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Casserole      |
-| Lucky Instrument    | Soprano Recorder |
-| Lucky Flower        | Dandelion    |
-| Lucky Job           | Recruiter       |
-| Lucky Exercise      | Paddleboarding  |
-| Lucky Country       | Bulgaria    |
+| Lucky Food          | Beef Stroganoff      |
+| Lucky Instrument    | Sitar |
+| Lucky Flower        | Hoya    |
+| Lucky Job           | Producer       |
+| Lucky Exercise      | Rowing  |
+| Lucky Country       | Argentina    |
 
 
 ##  Final Reflections on Dreams

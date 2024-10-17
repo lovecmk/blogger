@@ -1,8 +1,8 @@
 ---
     weight: 216
     title: "Dream of sharing feelings with lovers"  # Assuming 'title' column exists
-    date: 2024-10-13T17:23:00+08:00
-    lastmod: 2024-10-13T17:23:00+08:00
+    date: 2024-10-11T21:04:00+08:00
+    lastmod: 2024-10-11T21:04:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lovers', 'feelings', 'Dream', 'sharing', 'of', 'with']
+    tags: ['lovers', 'Dream', 'sharing', 'feelings']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ There may be a variety of signs of 'dreams of sharing emotions with lovers'.For 
 | Lucky Animal        | Mouse |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Risotto      |
-| Lucky Instrument    | Piccolo Trumpet |
-| Lucky Flower        | Foxglove    |
-| Lucky Job           | Fitness Instructor       |
-| Lucky Exercise      | Cross-Country Skiing  |
-| Lucky Country       | Canada    |
+| Lucky Food          | Eggplant Parmesan      |
+| Lucky Instrument    | Flute |
+| Lucky Flower        | Jasmine    |
+| Lucky Job           | Bus Driver       |
+| Lucky Exercise      | Stair Climbing  |
+| Lucky Country       | Hungary    |
 
 
 ##  Final Reflections on Dreams

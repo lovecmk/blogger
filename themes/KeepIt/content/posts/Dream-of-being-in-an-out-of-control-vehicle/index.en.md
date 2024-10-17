@@ -1,8 +1,8 @@
 ---
     weight: 1234
     title: "Dream of being in an out-of-control vehicle"  # Assuming 'title' column exists
-    date: 2024-10-13T15:01:00+08:00
-    lastmod: 2024-10-13T15:01:00+08:00
+    date: 2024-10-11T10:11:00+08:00
+    lastmod: 2024-10-11T10:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'being', 'out-of-control', 'an', 'in', 'of', 'vehicle']
+    tags: ['being', 'Dream', 'vehicle', 'out-of-control', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream does not inherently bring luck. However, it can serve as a reminder o
 | Lucky Animal        | Seal |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Lasagna      |
-| Lucky Instrument    | Calimba |
-| Lucky Flower        | Balsam    |
-| Lucky Job           | Architect       |
-| Lucky Exercise      | Kripalu Yoga  |
-| Lucky Country       | Angola    |
+| Lucky Food          | Tacos      |
+| Lucky Instrument    | Glockenspiel |
+| Lucky Flower        | Mandevilla    |
+| Lucky Job           | Video Editor       |
+| Lucky Exercise      | Yoga Flow  |
+| Lucky Country       | Norway    |
 
 
 ##  Final Reflections on Dreams

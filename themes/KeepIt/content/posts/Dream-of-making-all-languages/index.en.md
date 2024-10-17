@@ -1,8 +1,8 @@
 ---
     weight: 260
     title: "Dream of making all languages"  # Assuming 'title' column exists
-    date: 2024-10-13T07:53:00+08:00
-    lastmod: 2024-10-13T07:53:00+08:00
+    date: 2024-10-11T12:24:00+08:00
+    lastmod: 2024-10-11T12:24:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['languages', 'Dream', 'making', 'all', 'of']
+    tags: ['Dream', 'languages', 'making', 'all']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can suggest that good luck can come through creativity and communicat
 | Lucky Animal        | Dog |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Crab      |
-| Lucky Instrument    | Bandoneon |
-| Lucky Flower        | Scented Geranium    |
-| Lucky Job           | Fashion Designer       |
-| Lucky Exercise      | Water Polo  |
-| Lucky Country       | Mongolia    |
+| Lucky Food          | Biryani      |
+| Lucky Instrument    | Bassoon |
+| Lucky Flower        | Begonia    |
+| Lucky Job           | Psychologist       |
+| Lucky Exercise      | Aqua Aerobics  |
+| Lucky Country       | Malawi    |
 
 
 ##  Final Reflections on Dreams

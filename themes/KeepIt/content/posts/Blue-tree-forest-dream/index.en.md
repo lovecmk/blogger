@@ -1,8 +1,8 @@
 ---
     weight: 548
     title: "Blue tree forest dream"  # Assuming 'title' column exists
-    date: 2024-10-13T06:59:00+08:00
-    lastmod: 2024-10-13T06:59:00+08:00
+    date: 2024-10-13T02:32:00+08:00
+    lastmod: 2024-10-13T02:32:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['tree', 'dream', 'forest', 'Blue']
+    tags: ['Blue', 'dream', 'forest', 'tree']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The Blue Tree Forest Dream can symbolize luck and positive change.This dream, wh
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Beef Stroganoff      |
-| Lucky Instrument    | Tenor Guitar |
-| Lucky Flower        | Vinca    |
-| Lucky Job           | Police Officer       |
-| Lucky Exercise      | Golf  |
-| Lucky Country       | Russia    |
+| Lucky Food          | Lasagna      |
+| Lucky Instrument    | Oboe |
+| Lucky Flower        | Aster    |
+| Lucky Job           | Catering Manager       |
+| Lucky Exercise      | Circuit Training  |
+| Lucky Country       | Jordan    |
 
 
 ##  Final Reflections on Dreams

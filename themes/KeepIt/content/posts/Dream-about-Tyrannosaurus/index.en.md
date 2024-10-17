@@ -1,8 +1,8 @@
 ---
     weight: 1062
     title: "Dream about Tyrannosaurus"  # Assuming 'title' column exists
-    date: 2024-10-13T04:31:00+08:00
-    lastmod: 2024-10-13T04:31:00+08:00
+    date: 2024-10-13T13:41:00+08:00
+    lastmod: 2024-10-13T13:41:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['about', 'Dream', 'Tyrannosaurus']
+    tags: ['Tyrannosaurus', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Dreams related to Tyrannosaurus mainly symbolize personal power and confidence.A
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Pasta      |
-| Lucky Instrument    | Glockenspiel |
-| Lucky Flower        | Primrose    |
-| Lucky Job           | Data Scientist       |
-| Lucky Exercise      | Pull-Ups  |
-| Lucky Country       | Spain    |
+| Lucky Food          | Brownies      |
+| Lucky Instrument    | Lute |
+| Lucky Flower        | Bellflower    |
+| Lucky Job           | Chef de Cuisine       |
+| Lucky Exercise      | Burpees  |
+| Lucky Country       | Philippines    |
 
 
 ##  Final Reflections on Dreams

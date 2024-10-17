@@ -1,8 +1,8 @@
 ---
     weight: 1019
     title: "Dream of tension and expectation"  # Assuming 'title' column exists
-    date: 2024-10-13T20:37:00+08:00
-    lastmod: 2024-10-13T20:37:00+08:00
+    date: 2024-10-12T00:02:00+08:00
+    lastmod: 2024-10-12T00:02:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['expectation', 'Dream', 'tension', 'and', 'of']
+    tags: ['tension', 'Dream', 'expectation']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you a positive luck.The dream of feeling tension and expect
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Fajitas      |
-| Lucky Instrument    | Djembe |
+| Lucky Food          | Corn on the Cob      |
+| Lucky Instrument    | Tromba |
 | Lucky Flower        | Chive Blossom    |
-| Lucky Job           | Welder       |
-| Lucky Exercise      | Boxing  |
-| Lucky Country       | Kazakhstan    |
+| Lucky Job           | Content Creator       |
+| Lucky Exercise      | Circuit Workout  |
+| Lucky Country       | Poland    |
 
 
 ##  Final Reflections on Dreams

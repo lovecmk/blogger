@@ -1,8 +1,8 @@
 ---
     weight: 338
     title: "Dream of preparing a wedding with a boyfriend in a dream"  # Assuming 'title' column exists
-    date: 2024-10-13T04:01:00+08:00
-    lastmod: 2024-10-13T04:01:00+08:00
+    date: 2024-10-13T23:52:00+08:00
+    lastmod: 2024-10-13T23:52:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['boyfriend', 'Dream', 'a', 'dream', 'in', 'preparing', 'of', 'wedding', 'with']
+    tags: ['Dream', 'boyfriend', 'dream', 'wedding', 'preparing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can foresee good luck and positive results.The wedding is usually a p
 | Lucky Animal        | Fox |
 | Lucky Place         | Lake     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Chowder      |
-| Lucky Instrument    | Guitar |
-| Lucky Flower        | Narcissus    |
-| Lucky Job           | Software Engineer       |
-| Lucky Exercise      | Lunges  |
-| Lucky Country       | Nepal    |
+| Lucky Food          | Vegetarian Chili      |
+| Lucky Instrument    | Oboe |
+| Lucky Flower        | Ornamental Pepper    |
+| Lucky Job           | Statistician       |
+| Lucky Exercise      | Futsal  |
+| Lucky Country       | Armenia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 870
     title: "Dream of bats"  # Assuming 'title' column exists
-    date: 2024-10-13T19:30:00+08:00
-    lastmod: 2024-10-13T19:30:00+08:00
+    date: 2024-10-13T10:09:00+08:00
+    lastmod: 2024-10-13T10:09:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['bats', 'of', 'Dream']
+    tags: ['bats', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual's point of view of i
 | Lucky Animal        | Chick |
 | Lucky Place         | Academy     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Pudding      |
-| Lucky Instrument    | Tabla |
-| Lucky Flower        | Lobelia    |
-| Lucky Job           | Real Estate Agent       |
-| Lucky Exercise      | Kite Surfing  |
-| Lucky Country       | Malta    |
+| Lucky Food          | Quesadilla      |
+| Lucky Instrument    | Cymbals |
+| Lucky Flower        | Scented Geranium    |
+| Lucky Job           | Hair Stylist       |
+| Lucky Exercise      | Interval Training  |
+| Lucky Country       | Tonga    |
 
 
 ##  Final Reflections on Dreams

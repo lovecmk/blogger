@@ -1,8 +1,8 @@
 ---
     weight: 1635
     title: "Dream of visiting a museum or art gallery with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T01:23:00+08:00
-    lastmod: 2024-10-13T01:23:00+08:00
+    date: 2024-10-13T10:34:00+08:00
+    lastmod: 2024-10-13T10:34:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['with', 'or', 'your', 'boyfriend', 'museum', 'Dream', 'visiting', 'a', 'gallery', 'of', 'art']
+    tags: ['Dream', 'visiting', 'art', 'boyfriend', 'gallery', 'museum']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings the luck of reconnecting with your roots, finding a sense of p
 | Lucky Animal        | Hippo |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Black     |
-| Lucky Food          | Muffin      |
-| Lucky Instrument    | Xylophone |
-| Lucky Flower        | Crown Daisy    |
-| Lucky Job           | Data Scientist       |
-| Lucky Exercise      | Discus Throw  |
-| Lucky Country       | Georgia    |
+| Lucky Food          | Bagel      |
+| Lucky Instrument    | Tambourine |
+| Lucky Flower        | Hibiscus    |
+| Lucky Job           | Nuclear Engineer       |
+| Lucky Exercise      | CrossFit  |
+| Lucky Country       | Austria    |
 
 
 ##  Final Reflections on Dreams

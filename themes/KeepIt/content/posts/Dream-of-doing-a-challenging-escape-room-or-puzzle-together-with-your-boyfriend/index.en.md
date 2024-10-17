@@ -1,8 +1,8 @@
 ---
     weight: 1870
     title: "Dream of having coffee or drinks together with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T16:17:00+08:00
-    lastmod: 2024-10-13T16:17:00+08:00
+    date: 2024-10-12T09:50:00+08:00
+    lastmod: 2024-10-12T09:50:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['together', 'or', 'your', 'boyfriend', 'drinks', 'Dream', 'coffee', 'of', 'with', 'having']
+    tags: ['Dream', 'boyfriend', 'drinks', 'coffee', 'having', 'together']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams of predicting your own death should not be interpreted as bringing luck o
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Pork Belly      |
-| Lucky Instrument    | Zither |
-| Lucky Flower        | Begonia    |
-| Lucky Job           | Writer       |
-| Lucky Exercise      | Deadlifts  |
-| Lucky Country       | Palau    |
+| Lucky Food          | Quesadilla      |
+| Lucky Instrument    | Bongo Drums |
+| Lucky Flower        | Wisteria    |
+| Lucky Job           | Construction Worker       |
+| Lucky Exercise      | Gymnastics  |
+| Lucky Country       | Nauru    |
 
 
 ##  Final Reflections on Dreams

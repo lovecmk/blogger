@@ -1,8 +1,8 @@
 ---
     weight: 1650
     title: "Dream of fighting in a historical war"  # Assuming 'title' column exists
-    date: 2024-10-13T02:59:00+08:00
-    lastmod: 2024-10-13T02:59:00+08:00
+    date: 2024-10-15T14:32:00+08:00
+    lastmod: 2024-10-15T14:32:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['historical', 'fighting', 'war', 'Dream', 'a', 'in', 'of']
+    tags: ['Dream', 'war', 'fighting', 'historical']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Parrot |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Seafood Paella      |
-| Lucky Instrument    | Calimba |
-| Lucky Flower        | Maranta    |
-| Lucky Job           | Makeup Artist       |
-| Lucky Exercise      | Horseback Riding  |
-| Lucky Country       | Russia    |
+| Lucky Food          | Baba Ganoush      |
+| Lucky Instrument    | Didgeridoo |
+| Lucky Flower        | Cherry Blossom    |
+| Lucky Job           | Dentist       |
+| Lucky Exercise      | Swimming  |
+| Lucky Country       | China    |
 
 
 ##  Final Reflections on Dreams

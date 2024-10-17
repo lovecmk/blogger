@@ -1,8 +1,8 @@
 ---
     weight: 4
     title: "Dream of eating apple"  # Assuming 'title' column exists
-    date: 2024-10-13T07:18:00+08:00
-    lastmod: 2024-10-13T07:18:00+08:00
+    date: 2024-10-15T12:41:00+08:00
+    lastmod: 2024-10-15T12:41:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'eating', 'Dream', 'apple']
+    tags: ['apple', 'Dream', 'eating']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The dream of eating apple is mainly a sign of predicting self -growth and person
 | Lucky Animal        | Turtle |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Beef Tacos      |
-| Lucky Instrument    | Fujara |
-| Lucky Flower        | Periwinkle    |
-| Lucky Job           | Flight Attendant       |
-| Lucky Exercise      | Futsal  |
-| Lucky Country       | Malaysia    |
+| Lucky Food          | Chocolate Mousse      |
+| Lucky Instrument    | Djembe |
+| Lucky Flower        | Daffodil    |
+| Lucky Job           | Anthropologist       |
+| Lucky Exercise      | Baseball  |
+| Lucky Country       | Tajikistan    |
 
 
 ##  Final Reflections on Dreams

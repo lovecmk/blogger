@@ -1,8 +1,8 @@
 ---
     weight: 1955
     title: "Dream of clashes about family relationships"  # Assuming 'title' column exists
-    date: 2024-10-13T23:01:00+08:00
-    lastmod: 2024-10-13T23:01:00+08:00
+    date: 2024-10-15T19:39:00+08:00
+    lastmod: 2024-10-15T19:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'about', 'clashes', 'relationships', 'Dream', 'of']
+    tags: ['family', 'Dream', 'clashes', 'relationships']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Elephant |
 | Lucky Place         | Mart     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Buffalo Wings      |
-| Lucky Instrument    | Cajón |
-| Lucky Flower        | Maranta    |
-| Lucky Job           | Nurse       |
-| Lucky Exercise      | Mountain Climbers  |
-| Lucky Country       | Thailand    |
+| Lucky Food          | Kale Salad      |
+| Lucky Instrument    | Harmonica |
+| Lucky Flower        | Snapdragon    |
+| Lucky Job           | Scientist       |
+| Lucky Exercise      | Surfing  |
+| Lucky Country       | Israel    |
 
 
 ##  Final Reflections on Dreams

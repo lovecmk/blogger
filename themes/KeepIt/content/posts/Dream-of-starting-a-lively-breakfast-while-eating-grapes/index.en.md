@@ -1,8 +1,8 @@
 ---
     weight: 46
     title: "Dream of starting a lively breakfast while eating grapes"  # Assuming 'title' column exists
-    date: 2024-10-13T18:14:00+08:00
-    lastmod: 2024-10-13T18:14:00+08:00
+    date: 2024-10-15T21:17:00+08:00
+    lastmod: 2024-10-15T21:17:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['breakfast', 'eating', 'grapes', 'Dream', 'starting', 'a', 'of', 'while', 'lively']
+    tags: ['while', 'breakfast', 'Dream', 'starting', 'lively', 'eating', 'grapes']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can show the possibility of lucky and positive events.The dream of st
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Museum     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Cheeseboard      |
-| Lucky Instrument    | Timpani |
-| Lucky Flower        | Rose    |
-| Lucky Job           | Statistician       |
-| Lucky Exercise      | Hula Hooping  |
-| Lucky Country       | Brunei    |
+| Lucky Food          | Prawn Crackers      |
+| Lucky Instrument    | Saz |
+| Lucky Flower        | Cornflower    |
+| Lucky Job           | Construction Worker       |
+| Lucky Exercise      | Kayaking  |
+| Lucky Country       | Philippines    |
 
 
 ##  Final Reflections on Dreams

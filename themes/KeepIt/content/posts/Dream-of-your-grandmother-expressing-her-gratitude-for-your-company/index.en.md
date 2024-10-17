@@ -1,8 +1,8 @@
 ---
     weight: 1802
     title: "Dream of confrontations with extended family"  # Assuming 'title' column exists
-    date: 2024-10-13T20:55:00+08:00
-    lastmod: 2024-10-13T20:55:00+08:00
+    date: 2024-10-12T07:10:00+08:00
+    lastmod: 2024-10-12T07:10:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'Dream', 'confrontations', 'of', 'with', 'extended']
+    tags: ['family', 'confrontations', 'Dream', 'extended']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Monkey |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Fruit Smoothie      |
-| Lucky Instrument    | Basset Horn |
-| Lucky Flower        | Wisteria    |
-| Lucky Job           | Real Estate Agent       |
-| Lucky Exercise      | Gymnastics  |
-| Lucky Country       | Tanzania    |
+| Lucky Food          | Pesto      |
+| Lucky Instrument    | Cajón |
+| Lucky Flower        | Bougainvillea    |
+| Lucky Job           | Hair Stylist       |
+| Lucky Exercise      | Deadlifts  |
+| Lucky Country       | Denmark    |
 
 
 ##  Final Reflections on Dreams

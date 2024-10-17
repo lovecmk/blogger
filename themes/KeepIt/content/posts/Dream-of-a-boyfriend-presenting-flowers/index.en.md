@@ -1,8 +1,8 @@
 ---
     weight: 339
     title: "Dream of a boyfriend presenting flowers"  # Assuming 'title' column exists
-    date: 2024-10-13T08:07:00+08:00
-    lastmod: 2024-10-13T08:07:00+08:00
+    date: 2024-10-14T18:36:00+08:00
+    lastmod: 2024-10-14T18:36:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['presenting', 'flowers', 'boyfriend', 'Dream', 'a', 'of']
+    tags: ['Dream', 'boyfriend', 'presenting', 'flowers']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can vary depending on your relationship and personal situ
 | Lucky Animal        | Lion |
 | Lucky Place         | Mart     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Baklava      |
-| Lucky Instrument    | Cymbals |
-| Lucky Flower        | Chive Blossom    |
-| Lucky Job           | Biologist       |
-| Lucky Exercise      | Snowshoeing  |
-| Lucky Country       | Pakistan    |
+| Lucky Food          | Burger      |
+| Lucky Instrument    | Castanets |
+| Lucky Flower        | Thunbergia    |
+| Lucky Job           | Landscaper       |
+| Lucky Exercise      | Underwater Diving  |
+| Lucky Country       | Angola    |
 
 
 ##  Final Reflections on Dreams

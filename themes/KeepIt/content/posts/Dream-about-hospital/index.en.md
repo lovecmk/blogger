@@ -1,8 +1,8 @@
 ---
     weight: 1203
     title: "Dream about hospital"  # Assuming 'title' column exists
-    date: 2024-10-13T23:41:00+08:00
-    lastmod: 2024-10-13T23:41:00+08:00
+    date: 2024-10-12T06:26:00+08:00
+    lastmod: 2024-10-12T06:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['hospital', 'about', 'Dream']
+    tags: ['hospital', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of the dream of 'hospital' can be associated with health and recovery, 
 | Lucky Animal        | Lion |
 | Lucky Place         | Park     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Chicken Parmesan      |
-| Lucky Instrument    | Bass Clarinet |
-| Lucky Flower        | Ornamental Pepper    |
-| Lucky Job           | Psychologist       |
-| Lucky Exercise      | Basketball  |
-| Lucky Country       | Lesotho    |
+| Lucky Food          | Guacamole      |
+| Lucky Instrument    | Flute |
+| Lucky Flower        | Alstroemeria    |
+| Lucky Job           | SEO Specialist       |
+| Lucky Exercise      | Horseback Riding  |
+| Lucky Country       | Portugal    |
 
 
 ##  Final Reflections on Dreams

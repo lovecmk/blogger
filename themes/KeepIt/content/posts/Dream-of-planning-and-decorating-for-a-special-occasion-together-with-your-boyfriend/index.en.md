@@ -1,8 +1,8 @@
 ---
     weight: 1611
     title: "Dream of volunteering or doing charity work together with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T17:36:00+08:00
-    lastmod: 2024-10-13T17:36:00+08:00
+    date: 2024-10-15T07:54:00+08:00
+    lastmod: 2024-10-15T07:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['together', 'or', 'your', 'boyfriend', 'doing', 'Dream', 'of', 'work', 'with', 'charity', 'volunteering']
+    tags: ['doing', 'Dream', 'boyfriend', 'volunteering', 'work', 'charity', 'together']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings the luck of recognition, rewards, and financial prosperity. It
 | Lucky Animal        | Mole |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Noodles      |
-| Lucky Instrument    | Wooden Flute |
-| Lucky Flower        | Carnation    |
-| Lucky Job           | Financial Analyst       |
-| Lucky Exercise      | Surfing  |
-| Lucky Country       | Israel    |
+| Lucky Food          | Stuffed Mushrooms      |
+| Lucky Instrument    | Tenor Guitar |
+| Lucky Flower        | Bougainvillea    |
+| Lucky Job           | Oceanographer       |
+| Lucky Exercise      | Pull-Ups  |
+| Lucky Country       | Pakistan    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1082
     title: "Dream about hippo"  # Assuming 'title' column exists
-    date: 2024-10-13T15:21:00+08:00
-    lastmod: 2024-10-13T15:21:00+08:00
+    date: 2024-10-12T19:37:00+08:00
+    lastmod: 2024-10-12T19:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['hippo', 'about', 'Dream']
+    tags: ['Dream', 'hippo']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'hippo' dreams indicates that you have concentration and determinati
 | Lucky Animal        | Turtle |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Paella      |
-| Lucky Instrument    | Wooden Flute |
-| Lucky Flower        | Celosia    |
-| Lucky Job           | Librarian       |
-| Lucky Exercise      | Snowshoeing  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Ramen      |
+| Lucky Instrument    | Harmonium |
+| Lucky Flower        | Pelargonium    |
+| Lucky Job           | Chef       |
+| Lucky Exercise      | Cross-Country Skiing  |
+| Lucky Country       | Namibia    |
 
 
 ##  Final Reflections on Dreams

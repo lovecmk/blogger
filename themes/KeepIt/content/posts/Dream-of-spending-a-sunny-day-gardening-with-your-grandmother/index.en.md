@@ -1,8 +1,8 @@
 ---
     weight: 1924
     title: "Dream of dying and seeing a light at the end"  # Assuming 'title' column exists
-    date: 2024-10-13T15:34:00+08:00
-    lastmod: 2024-10-13T15:34:00+08:00
+    date: 2024-10-15T01:57:00+08:00
+    lastmod: 2024-10-15T01:57:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dying', 'end', 'the', 'light', 'seeing', 'Dream', 'a', 'and', 'of', 'at']
+    tags: ['light', 'end', 'Dream', 'dying', 'seeing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams can be seen as symbols rather than direct indicators of luck. However, in
 | Lucky Animal        | Monkey |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Baklava      |
-| Lucky Instrument    | Piccolo |
-| Lucky Flower        | Cactus Flower    |
-| Lucky Job           | Librarian       |
-| Lucky Exercise      | Rock Climbing  |
-| Lucky Country       | Nauru    |
+| Lucky Food          | Coconut Shrimp      |
+| Lucky Instrument    | Guitarlele |
+| Lucky Flower        | Hydrangea    |
+| Lucky Job           | Statistician       |
+| Lucky Exercise      | Cycling  |
+| Lucky Country       | Switzerland    |
 
 
 ##  Final Reflections on Dreams

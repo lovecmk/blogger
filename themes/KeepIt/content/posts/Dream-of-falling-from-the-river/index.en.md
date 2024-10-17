@@ -1,8 +1,8 @@
 ---
     weight: 938
     title: "Dream of falling from the river"  # Assuming 'title' column exists
-    date: 2024-10-13T16:56:00+08:00
-    lastmod: 2024-10-13T16:56:00+08:00
+    date: 2024-10-15T20:39:00+08:00
+    lastmod: 2024-10-15T20:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'falling', 'Dream', 'river', 'from', 'of']
+    tags: ['Dream', 'falling', 'from', 'river']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Dreams of falling from the river can have many signs.This dream may symbolize th
 | Lucky Animal        | Monkey |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Black     |
-| Lucky Food          | Chicken Parmesan      |
-| Lucky Instrument    | Tuba |
-| Lucky Flower        | Iris    |
-| Lucky Job           | Nurse       |
-| Lucky Exercise      | Baseball  |
-| Lucky Country       | Mexico    |
+| Lucky Food          | Ratatouille      |
+| Lucky Instrument    | Chimes |
+| Lucky Flower        | Forget-Me-Not    |
+| Lucky Job           | Brand Manager       |
+| Lucky Exercise      | Push-Ups  |
+| Lucky Country       | Bulgaria    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 374
     title: "Dream of changing your body"  # Assuming 'title' column exists
-    date: 2024-10-13T01:02:00+08:00
-    lastmod: 2024-10-13T01:02:00+08:00
+    date: 2024-10-15T05:09:00+08:00
+    lastmod: 2024-10-15T05:09:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['body', 'your', 'Dream', 'changing', 'of']
+    tags: ['Dream', 'changing', 'body']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can vary depending on the individual's interpretation and
 | Lucky Animal        | Cat |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | White     |
-| Lucky Food          | Gelato      |
-| Lucky Instrument    | Tabla |
-| Lucky Flower        | Mandevilla    |
-| Lucky Job           | Veterinarian       |
-| Lucky Exercise      | Hiking  |
-| Lucky Country       | Italy    |
+| Lucky Food          | Hot Dog      |
+| Lucky Instrument    | Synthesizer |
+| Lucky Flower        | Verbena    |
+| Lucky Job           | Flight Attendant       |
+| Lucky Exercise      | Bouldering  |
+| Lucky Country       | Bahrain    |
 
 
 ##  Final Reflections on Dreams

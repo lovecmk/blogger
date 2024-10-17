@@ -1,8 +1,8 @@
 ---
     weight: 1080
     title: "Dream about word"  # Assuming 'title' column exists
-    date: 2024-10-13T11:21:00+08:00
-    lastmod: 2024-10-13T11:21:00+08:00
+    date: 2024-10-13T15:40:00+08:00
+    lastmod: 2024-10-13T15:40:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['word', 'about', 'Dream']
+    tags: ['Dream', 'word']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Horses are a symbol of good luck and success.The fast speed and power of the hor
 | Lucky Animal        | Mouse |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Cheeseboard      |
-| Lucky Instrument    | Sackbut |
-| Lucky Flower        | Snapdragon    |
-| Lucky Job           | User Researcher       |
-| Lucky Exercise      | Stand-Up Paddleboarding  |
-| Lucky Country       | Angola    |
+| Lucky Food          | Caramel Flan      |
+| Lucky Instrument    | Wooden Flute |
+| Lucky Flower        | Hydrangea    |
+| Lucky Job           | Veterinarian       |
+| Lucky Exercise      | Kettlebell Training  |
+| Lucky Country       | Lithuania    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1983
     title: "Dream of attending a wine tasting or brewery tour with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T06:05:00+08:00
-    lastmod: 2024-10-13T06:05:00+08:00
+    date: 2024-10-12T07:24:00+08:00
+    lastmod: 2024-10-12T07:24:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['wine', 'tour', 'or', 'your', 'boyfriend', 'Dream', 'a', 'brewery', 'of', 'attending', 'with', 'tasting']
+    tags: ['tour', 'Dream', 'boyfriend', 'tasting', 'wine', 'brewery', 'attending']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Falafel      |
-| Lucky Instrument    | Hang Drum |
-| Lucky Flower        | Bougainvillea    |
-| Lucky Job           | Game Developer       |
-| Lucky Exercise      | Lacrosse  |
-| Lucky Country       | Qatar    |
+| Lucky Food          | Guacamole      |
+| Lucky Instrument    | Darbuka |
+| Lucky Flower        | Zinnia    |
+| Lucky Job           | Neuroscientist       |
+| Lucky Exercise      | Skiing  |
+| Lucky Country       | Belgium    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1051
     title: "Dream about poodle"  # Assuming 'title' column exists
-    date: 2024-10-13T23:41:00+08:00
-    lastmod: 2024-10-13T23:41:00+08:00
+    date: 2024-10-15T17:35:00+08:00
+    lastmod: 2024-10-15T17:35:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['poodle', 'about', 'Dream']
+    tags: ['Dream', 'poodle']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck that this dream gives you a chance to be respected and protected by peo
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Pico de Gallo      |
-| Lucky Instrument    | Lute |
-| Lucky Flower        | Lavender    |
-| Lucky Job           | Doctor       |
-| Lucky Exercise      | Sledge Hockey  |
-| Lucky Country       | Georgia    |
+| Lucky Food          | Bruschetta      |
+| Lucky Instrument    | Keyboard |
+| Lucky Flower        | Borage    |
+| Lucky Job           | User Researcher       |
+| Lucky Exercise      | Circuit Workout  |
+| Lucky Country       | Nepal    |
 
 
 ##  Final Reflections on Dreams

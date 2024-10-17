@@ -1,8 +1,8 @@
 ---
     weight: 1292
     title: "Dream of being famous or admired"  # Assuming 'title' column exists
-    date: 2024-10-13T04:02:00+08:00
-    lastmod: 2024-10-13T04:02:00+08:00
+    date: 2024-10-11T01:23:00+08:00
+    lastmod: 2024-10-11T01:23:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'Dream', 'admired', 'being', 'famous', 'of']
+    tags: ['being', 'Dream', 'famous', 'admired']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hippo |
 | Lucky Place         | Museum     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Onion Rings      |
-| Lucky Instrument    | Sackbut |
-| Lucky Flower        | Thistle    |
-| Lucky Job           | Journalist       |
-| Lucky Exercise      | Walking  |
-| Lucky Country       | Nigeria    |
+| Lucky Food          | Pork Chops      |
+| Lucky Instrument    | Piccolo |
+| Lucky Flower        | Hellebore    |
+| Lucky Job           | Archaeologist       |
+| Lucky Exercise      | Kickboxing  |
+| Lucky Country       | Canada    |
 
 
 ##  Final Reflections on Dreams

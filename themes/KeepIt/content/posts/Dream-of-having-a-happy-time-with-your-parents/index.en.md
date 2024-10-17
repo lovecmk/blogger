@@ -1,8 +1,8 @@
 ---
     weight: 189
     title: "Dream of having a happy time with your parents"  # Assuming 'title' column exists
-    date: 2024-10-13T21:45:00+08:00
-    lastmod: 2024-10-13T21:45:00+08:00
+    date: 2024-10-14T00:39:00+08:00
+    lastmod: 2024-10-14T00:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['parents', 'your', 'Dream', 'a', 'time', 'happy', 'of', 'with', 'having']
+    tags: ['happy', 'Dream', 'time', 'parents', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can show your family connection with your family, your re
 | Lucky Animal        | Hamster |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Pulled Pork      |
-| Lucky Instrument    | Banjo |
-| Lucky Flower        | Kalanchoe    |
-| Lucky Job           | Anthropologist       |
-| Lucky Exercise      | Stretching  |
-| Lucky Country       | Kuwait    |
+| Lucky Food          | Cheeseboard      |
+| Lucky Instrument    | Tenor Banjo |
+| Lucky Flower        | Iris    |
+| Lucky Job           | Writer       |
+| Lucky Exercise      | Aqua Aerobics  |
+| Lucky Country       | Botswana    |
 
 
 ##  Final Reflections on Dreams

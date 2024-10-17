@@ -1,8 +1,8 @@
 ---
     weight: 2089
     title: "Dream of fighting in an epic showdown"  # Assuming 'title' column exists
-    date: 2024-10-13T14:02:00+08:00
-    lastmod: 2024-10-13T14:02:00+08:00
+    date: 2024-10-14T08:47:00+08:00
+    lastmod: 2024-10-14T08:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['showdown', 'fighting', 'Dream', 'an', 'in', 'of', 'epic']
+    tags: ['epic', 'Dream', 'showdown', 'fighting', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Dog |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Chips      |
-| Lucky Instrument    | Conga |
-| Lucky Flower        | Tiger Lily    |
-| Lucky Job           | Farmer       |
-| Lucky Exercise      | Golf  |
-| Lucky Country       | Armenia    |
+| Lucky Food          | Bagel      |
+| Lucky Instrument    | Saz |
+| Lucky Flower        | Daffodil    |
+| Lucky Job           | App Developer       |
+| Lucky Exercise      | Surfing  |
+| Lucky Country       | United States    |
 
 
 ##  Final Reflections on Dreams

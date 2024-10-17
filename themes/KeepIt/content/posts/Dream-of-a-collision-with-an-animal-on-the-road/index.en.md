@@ -1,8 +1,8 @@
 ---
     weight: 1356
     title: "Dream of a collision with an animal on the road"  # Assuming 'title' column exists
-    date: 2024-10-13T05:56:00+08:00
-    lastmod: 2024-10-13T05:56:00+08:00
+    date: 2024-10-15T02:35:00+08:00
+    lastmod: 2024-10-15T02:35:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'the', 'road', 'Dream', 'collision', 'a', 'an', 'animal', 'on', 'with']
+    tags: ['animal', 'collision', 'Dream', 'road', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Bruschetta      |
-| Lucky Instrument    | Bass Drum |
-| Lucky Flower        | Pincushion Flower    |
-| Lucky Job           | Interior Designer       |
-| Lucky Exercise      | Lifting  |
-| Lucky Country       | Angola    |
+| Lucky Food          | Pasta Salad      |
+| Lucky Instrument    | Darbuka |
+| Lucky Flower        | Dahlia    |
+| Lucky Job           | Historian       |
+| Lucky Exercise      | Plank  |
+| Lucky Country       | Turkey    |
 
 
 ##  Final Reflections on Dreams

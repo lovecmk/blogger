@@ -1,8 +1,8 @@
 ---
     weight: 787
     title: "Dream of meeting various creatures on alien planets"  # Assuming 'title' column exists
-    date: 2024-10-13T22:47:00+08:00
-    lastmod: 2024-10-13T22:47:00+08:00
+    date: 2024-10-11T14:56:00+08:00
+    lastmod: 2024-10-11T14:56:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['creatures', 'alien', 'Dream', 'meeting', 'various', 'on', 'of', 'planets']
+    tags: ['Dream', 'creatures', 'meeting', 'planets', 'alien', 'various']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can suggest the possibility of new luck and opportunities.The dream o
 | Lucky Animal        | Turtle |
 | Lucky Place         | Sea     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Quiche      |
-| Lucky Instrument    | Keyboard |
-| Lucky Flower        | Sunflower    |
-| Lucky Job           | Astrophysicist       |
-| Lucky Exercise      | Shot Put  |
-| Lucky Country       | Spain    |
+| Lucky Food          | Deviled Eggs      |
+| Lucky Instrument    | Erhu |
+| Lucky Flower        | Safflower    |
+| Lucky Job           | Interior Designer       |
+| Lucky Exercise      | Jump Squats  |
+| Lucky Country       | Pakistan    |
 
 
 ##  Final Reflections on Dreams

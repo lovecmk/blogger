@@ -1,8 +1,8 @@
 ---
     weight: 2044
     title: "Dream of being present at a murder scene"  # Assuming 'title' column exists
-    date: 2024-10-13T09:27:00+08:00
-    lastmod: 2024-10-13T09:27:00+08:00
+    date: 2024-10-12T15:51:00+08:00
+    lastmod: 2024-10-12T15:51:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['present', 'scene', 'Dream', 'being', 'a', 'of', 'murder', 'at']
+    tags: ['being', 'Dream', 'present', 'murder', 'scene']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hyena |
 | Lucky Place         | Beach     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Noodles      |
+| Lucky Food          | Tuna Tartare      |
 | Lucky Instrument    | Saz |
-| Lucky Flower        | Moss Rose    |
-| Lucky Job           | Director       |
-| Lucky Exercise      | Snowboarding  |
-| Lucky Country       | New Zealand    |
+| Lucky Flower        | Alyssum    |
+| Lucky Job           | Game Developer       |
+| Lucky Exercise      | Trail Running  |
+| Lucky Country       | Saudi Arabia    |
 
 
 ##  Final Reflections on Dreams

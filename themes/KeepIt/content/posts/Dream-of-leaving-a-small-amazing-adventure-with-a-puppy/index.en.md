@@ -1,8 +1,8 @@
 ---
     weight: 316
     title: "Dream of leaving a small amazing adventure with a puppy"  # Assuming 'title' column exists
-    date: 2024-10-13T05:08:00+08:00
-    lastmod: 2024-10-13T05:08:00+08:00
+    date: 2024-10-13T13:11:00+08:00
+    lastmod: 2024-10-13T13:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['amazing', 'small', 'adventure', 'Dream', 'puppy', 'a', 'leaving', 'of', 'with']
+    tags: ['amazing', 'leaving', 'Dream', 'puppy', 'small', 'adventure']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be to go through new experiences and self -developmen
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Black     |
-| Lucky Food          | Burger      |
-| Lucky Instrument    | Melodica |
-| Lucky Flower        | Strelitzia    |
-| Lucky Job           | Project Manager       |
-| Lucky Exercise      | Jumping Rope  |
-| Lucky Country       | Denmark    |
+| Lucky Food          | Salad      |
+| Lucky Instrument    | Slide Guitar |
+| Lucky Flower        | Ragged Robin    |
+| Lucky Job           | Flight Attendant       |
+| Lucky Exercise      | Obstacle Course Racing  |
+| Lucky Country       | Armenia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 2023
     title: "Dream of your grandmother giving you a comforting hug in tough times."  # Assuming 'title' column exists
-    date: 2024-10-13T21:15:00+08:00
-    lastmod: 2024-10-13T21:15:00+08:00
+    date: 2024-10-12T01:36:00+08:00
+    lastmod: 2024-10-12T01:36:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['grandmother', 'your', 'giving', 'hug', 'comforting', 'Dream', 'a', 'tough', 'in', 'of', 'times.', 'you']
+    tags: ['Dream', 'comforting', 'hug', 'tough', 'grandmother', 'times', 'giving', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Red     |
-| Lucky Food          | Chips      |
-| Lucky Instrument    | Darabuka |
-| Lucky Flower        | Forget-Me-Not    |
-| Lucky Job           | Business Analyst       |
-| Lucky Exercise      | Hammer Throw  |
-| Lucky Country       | Egypt    |
+| Lucky Food          | Chicken Curry      |
+| Lucky Instrument    | Calimba |
+| Lucky Flower        | Scented Geranium    |
+| Lucky Job           | Construction Worker       |
+| Lucky Exercise      | Burpees  |
+| Lucky Country       | United Kingdom    |
 
 
 ##  Final Reflections on Dreams

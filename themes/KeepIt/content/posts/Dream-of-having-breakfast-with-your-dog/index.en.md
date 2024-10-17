@@ -1,8 +1,8 @@
 ---
     weight: 1378
     title: "Dream of having breakfast with your dog"  # Assuming 'title' column exists
-    date: 2024-10-13T20:20:00+08:00
-    lastmod: 2024-10-13T20:20:00+08:00
+    date: 2024-10-14T23:50:00+08:00
+    lastmod: 2024-10-14T23:50:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['breakfast', 'your', 'Dream', 'of', 'with', 'having', 'dog']
+    tags: ['breakfast', 'Dream', 'dog', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Tiger |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Chocolate Mousse      |
-| Lucky Instrument    | Xylophone |
-| Lucky Flower        | Thistle    |
-| Lucky Job           | Software Engineer       |
-| Lucky Exercise      | Water Polo  |
-| Lucky Country       | Botswana    |
+| Lucky Food          | Deviled Eggs      |
+| Lucky Instrument    | Shakuhachi |
+| Lucky Flower        | Pelargonium    |
+| Lucky Job           | Chef       |
+| Lucky Exercise      | Parkour  |
+| Lucky Country       | Saudi Arabia    |
 
 
 ##  Final Reflections on Dreams

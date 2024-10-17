@@ -1,8 +1,8 @@
 ---
     weight: 209
     title: "Dream of having a sweet conversation with a lover"  # Assuming 'title' column exists
-    date: 2024-10-13T11:43:00+08:00
-    lastmod: 2024-10-13T11:43:00+08:00
+    date: 2024-10-12T08:38:00+08:00
+    lastmod: 2024-10-12T08:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['with', 'lover', 'Dream', 'a', 'of', 'conversation', 'sweet', 'having']
+    tags: ['conversation', 'Dream', 'sweet', 'lover', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can be lucky to improve the ability to understand and communicate wit
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Seafood Paella      |
-| Lucky Instrument    | Basset Horn |
-| Lucky Flower        | Bee Balm    |
-| Lucky Job           | Chef de Cuisine       |
-| Lucky Exercise      | Shot Put  |
-| Lucky Country       | Angola    |
+| Lucky Food          | Beef Tacos      |
+| Lucky Instrument    | Tromba |
+| Lucky Flower        | Sea Lavender    |
+| Lucky Job           | Musician       |
+| Lucky Exercise      | Beach Volleyball  |
+| Lucky Country       | Turkey    |
 
 
 ##  Final Reflections on Dreams

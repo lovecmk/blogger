@@ -1,8 +1,8 @@
 ---
     weight: 1436
     title: "Dream of dealing with a noisy or malfunctioning alarm clock"  # Assuming 'title' column exists
-    date: 2024-10-13T23:47:00+08:00
-    lastmod: 2024-10-13T23:47:00+08:00
+    date: 2024-10-11T14:06:00+08:00
+    lastmod: 2024-10-11T14:06:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['noisy', 'alarm', 'clock', 'or', 'Dream', 'a', 'malfunctioning', 'of', 'with', 'dealing']
+    tags: ['Dream', 'alarm', 'dealing', 'clock', 'malfunctioning', 'noisy']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -67,11 +67,11 @@ In terms of luck, this dream might suggest that being attentive to the signals a
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Deep orange     |
 | Lucky Food          | Fruit Salad      |
-| Lucky Instrument    | Bagpipes |
-| Lucky Flower        | Strelitzia    |
-| Lucky Job           | Construction Worker       |
+| Lucky Instrument    | Electric Cello |
+| Lucky Flower        | Clover    |
+| Lucky Job           | Project Manager       |
 | Lucky Exercise      | Skating  |
-| Lucky Country       | Nauru    |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

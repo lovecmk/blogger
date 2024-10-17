@@ -1,8 +1,8 @@
 ---
     weight: 1941
     title: "Dream of confrontations over family affairs"  # Assuming 'title' column exists
-    date: 2024-10-13T07:34:00+08:00
-    lastmod: 2024-10-13T07:34:00+08:00
+    date: 2024-10-14T22:38:00+08:00
+    lastmod: 2024-10-14T22:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'Dream', 'confrontations', 'over', 'affairs', 'of']
+    tags: ['family', 'confrontations', 'Dream', 'over', 'affairs']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ The luck associated with this dream may lie in the opportunity to gain insight i
 | Lucky Animal        | Chicken |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Pico de Gallo      |
-| Lucky Instrument    | Basset Horn |
-| Lucky Flower        | Fuchsia    |
-| Lucky Job           | App Developer       |
-| Lucky Exercise      | Lacrosse  |
-| Lucky Country       | Syria    |
+| Lucky Food          | Buffalo Wings      |
+| Lucky Instrument    | Lute |
+| Lucky Flower        | Lavender    |
+| Lucky Job           | Security Guard       |
+| Lucky Exercise      | Ballet  |
+| Lucky Country       | Uzbekistan    |
 
 
 ##  Final Reflections on Dreams

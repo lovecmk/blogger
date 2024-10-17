@@ -1,8 +1,8 @@
 ---
     weight: 978
     title: "Dream of falling into the water from the ship"  # Assuming 'title' column exists
-    date: 2024-10-13T22:56:00+08:00
-    lastmod: 2024-10-13T22:56:00+08:00
+    date: 2024-10-11T08:40:00+08:00
+    lastmod: 2024-10-11T08:40:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['water', 'the', 'into', 'falling', 'Dream', 'ship', 'from', 'of']
+    tags: ['water', 'ship', 'Dream', 'into', 'falling', 'from']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can tell you about internal growth and change by warning 
 | Lucky Animal        | Fox |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Ramen      |
-| Lucky Instrument    | Piccolo |
-| Lucky Flower        | Gladiolus    |
-| Lucky Job           | Public Relations Specialist       |
-| Lucky Exercise      | Jump Squats  |
-| Lucky Country       | Sri Lanka    |
+| Lucky Food          | Spring Roll      |
+| Lucky Instrument    | Mandolin |
+| Lucky Flower        | Kalanchoe    |
+| Lucky Job           | Welder       |
+| Lucky Exercise      | CrossFit  |
+| Lucky Country       | South Korea    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 2035
     title: "Dream of fighting in a video game"  # Assuming 'title' column exists
-    date: 2024-10-13T05:20:00+08:00
-    lastmod: 2024-10-13T05:20:00+08:00
+    date: 2024-10-14T01:05:00+08:00
+    lastmod: 2024-10-14T01:05:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['video', 'fighting', 'game', 'Dream', 'a', 'in', 'of']
+    tags: ['video', 'Dream', 'game', 'fighting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Sloth |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Fried Rice      |
-| Lucky Instrument    | Conga Drum |
-| Lucky Flower        | Butterfly Bush    |
-| Lucky Job           | Quality Assurance Tester       |
-| Lucky Exercise      | Horseback Riding  |
-| Lucky Country       | Greece    |
+| Lucky Food          | Spring Roll      |
+| Lucky Instrument    | Accordion |
+| Lucky Flower        | Firecracker Plant    |
+| Lucky Job           | Welder       |
+| Lucky Exercise      | Active Recovery  |
+| Lucky Country       | Denmark    |
 
 
 ##  Final Reflections on Dreams

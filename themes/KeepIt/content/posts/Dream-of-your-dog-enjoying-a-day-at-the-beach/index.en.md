@@ -1,8 +1,8 @@
 ---
     weight: 1263
     title: "Dream of your dog enjoying a day at the beach"  # Assuming 'title' column exists
-    date: 2024-10-13T20:10:00+08:00
-    lastmod: 2024-10-13T20:10:00+08:00
+    date: 2024-10-14T13:08:00+08:00
+    lastmod: 2024-10-14T13:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['day', 'enjoying', 'the', 'your', 'beach', 'at', 'Dream', 'a', 'of', 'dog']
+    tags: ['Dream', 'enjoying', 'beach', 'day', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Chicken |
 | Lucky Place         | Museum     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Fruit Salad      |
-| Lucky Instrument    | Harmonium |
-| Lucky Flower        | Larkspur    |
-| Lucky Job           | Oceanographer       |
-| Lucky Exercise      | Sprinting  |
-| Lucky Country       | Kazakhstan    |
+| Lucky Food          | Omelette      |
+| Lucky Instrument    | Drums |
+| Lucky Flower        | Balsam    |
+| Lucky Job           | Nurse       |
+| Lucky Exercise      | Walking  |
+| Lucky Country       | Canada    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 670
     title: "Dream of dancing at a gorgeous banquet with lovers"  # Assuming 'title' column exists
-    date: 2024-10-13T21:32:00+08:00
-    lastmod: 2024-10-13T21:32:00+08:00
+    date: 2024-10-13T02:55:00+08:00
+    lastmod: 2024-10-13T02:55:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dancing', 'lovers', 'Dream', 'gorgeous', 'a', 'banquet', 'of', 'with', 'at']
+    tags: ['lovers', 'Dream', 'gorgeous', 'banquet', 'dancing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you lucky and rich love.In the relationship between lovers,
 | Lucky Animal        | Camel |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Quesadilla      |
-| Lucky Instrument    | Mandolin |
-| Lucky Flower        | Freesia    |
-| Lucky Job           | Flight Attendant       |
-| Lucky Exercise      | Bodyweight Training  |
-| Lucky Country       | Iran    |
+| Lucky Food          | Pancakes      |
+| Lucky Instrument    | Tenor Guitar |
+| Lucky Flower        | Hellebore    |
+| Lucky Job           | Marketing Manager       |
+| Lucky Exercise      | Circuit Training  |
+| Lucky Country       | Norway    |
 
 
 ##  Final Reflections on Dreams

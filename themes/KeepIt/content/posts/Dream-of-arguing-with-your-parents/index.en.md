@@ -1,8 +1,8 @@
 ---
     weight: 1616
     title: "Dream of confrontations with step-family"  # Assuming 'title' column exists
-    date: 2024-10-13T22:53:00+08:00
-    lastmod: 2024-10-13T22:53:00+08:00
+    date: 2024-10-12T18:40:00+08:00
+    lastmod: 2024-10-12T18:40:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'confrontations', 'of', 'with', 'step-family']
+    tags: ['confrontations', 'Dream', 'step-family']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Bear |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Beef Tacos      |
-| Lucky Instrument    | Slide Guitar |
-| Lucky Flower        | Calla Lily    |
-| Lucky Job           | Translator       |
-| Lucky Exercise      | Javelin  |
-| Lucky Country       | Bangladesh    |
+| Lucky Food          | Chowder      |
+| Lucky Instrument    | Drums |
+| Lucky Flower        | Dandelion    |
+| Lucky Job           | Web Developer       |
+| Lucky Exercise      | Discus Throw  |
+| Lucky Country       | Sri Lanka    |
 
 
 ##  Final Reflections on Dreams

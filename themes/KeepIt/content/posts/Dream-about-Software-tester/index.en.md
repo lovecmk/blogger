@@ -1,8 +1,8 @@
 ---
     weight: 1218
     title: "Dream about Software tester"  # Assuming 'title' column exists
-    date: 2024-10-13T04:19:00+08:00
-    lastmod: 2024-10-13T04:19:00+08:00
+    date: 2024-10-11T17:18:00+08:00
+    lastmod: 2024-10-11T17:18:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['tester', 'about', 'Dream', 'Software']
+    tags: ['tester', 'Dream', 'Software']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ If you appear in a dream as a software tester, you can suggest that this dream c
 | Lucky Animal        | Parrot |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Burrito      |
-| Lucky Instrument    | Piano |
-| Lucky Flower        | Magnolia    |
-| Lucky Job           | Architect       |
-| Lucky Exercise      | Capoeira  |
-| Lucky Country       | France    |
+| Lucky Food          | Pesto      |
+| Lucky Instrument    | Zither |
+| Lucky Flower        | Ornamental Pepper    |
+| Lucky Job           | Philosopher       |
+| Lucky Exercise      | Hula Hooping  |
+| Lucky Country       | Syria    |
 
 
 ##  Final Reflections on Dreams

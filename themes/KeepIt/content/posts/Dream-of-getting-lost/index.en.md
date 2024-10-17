@@ -1,8 +1,8 @@
 ---
     weight: 353
     title: "Dream of getting lost"  # Assuming 'title' column exists
-    date: 2024-10-13T01:22:00+08:00
-    lastmod: 2024-10-13T01:22:00+08:00
+    date: 2024-10-11T07:54:00+08:00
+    lastmod: 2024-10-11T07:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'getting', 'lost', 'Dream']
+    tags: ['lost', 'getting', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream may seem challenging and difficult at first, but it can provide you w
 | Lucky Animal        | Parrot |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Chocolate      |
-| Lucky Instrument    | Piano |
-| Lucky Flower        | Lily    |
-| Lucky Job           | Psychologist       |
-| Lucky Exercise      | Powerlifting  |
-| Lucky Country       | Kazakhstan    |
+| Lucky Food          | Pasta Primavera      |
+| Lucky Instrument    | Hang Drum |
+| Lucky Flower        | Sweet William    |
+| Lucky Job           | Baker       |
+| Lucky Exercise      | Dance Aerobics  |
+| Lucky Country       | Romania    |
 
 
 ##  Final Reflections on Dreams

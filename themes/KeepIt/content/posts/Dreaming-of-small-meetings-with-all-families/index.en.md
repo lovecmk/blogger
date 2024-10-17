@@ -1,8 +1,8 @@
 ---
     weight: 149
     title: "Dreaming of small meetings with all families"  # Assuming 'title' column exists
-    date: 2024-10-13T16:06:00+08:00
-    lastmod: 2024-10-13T16:06:00+08:00
+    date: 2024-10-11T13:03:00+08:00
+    lastmod: 2024-10-11T13:03:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['small', 'Dreaming', 'meetings', 'families', 'all', 'of', 'with']
+    tags: ['families', 'meetings', 'small', 'Dreaming', 'all']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can be lucky.Small meetings with their families means spending a happ
 | Lucky Animal        | Hamster |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Cheesecake      |
-| Lucky Instrument    | Harmonic Piano |
-| Lucky Flower        | Stock    |
-| Lucky Job           | Landscaper       |
-| Lucky Exercise      | Lifting  |
-| Lucky Country       | Tuvalu    |
+| Lucky Food          | Curry      |
+| Lucky Instrument    | Steel Pan |
+| Lucky Flower        | Cornflower    |
+| Lucky Job           | Art Director       |
+| Lucky Exercise      | Plank  |
+| Lucky Country       | Zambia    |
 
 
 ##  Final Reflections on Dreams

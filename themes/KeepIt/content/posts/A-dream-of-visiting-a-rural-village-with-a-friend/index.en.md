@@ -1,8 +1,8 @@
 ---
     weight: 724
     title: "A dream of visiting a rural village with a friend"  # Assuming 'title' column exists
-    date: 2024-10-13T21:24:00+08:00
-    lastmod: 2024-10-13T21:24:00+08:00
+    date: 2024-10-14T17:57:00+08:00
+    lastmod: 2024-10-14T17:57:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['friend', 'visiting', 'a', 'dream', 'village', 'of', 'A', 'with', 'rural']
+    tags: ['visiting', 'dream', 'A', 'village', 'friend', 'rural']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can show you that you can have good luck and positive results.Enjoyin
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Minestrone      |
-| Lucky Instrument    | Lap Steel Guitar |
-| Lucky Flower        | Lotus    |
-| Lucky Job           | Oceanographer       |
-| Lucky Exercise      | Circuit Training  |
-| Lucky Country       | Pakistan    |
+| Lucky Food          | Eggplant Parmesan      |
+| Lucky Instrument    | Timpani |
+| Lucky Flower        | Tansy    |
+| Lucky Job           | Event Planner       |
+| Lucky Exercise      | Burpees  |
+| Lucky Country       | Palau    |
 
 
 ##  Final Reflections on Dreams

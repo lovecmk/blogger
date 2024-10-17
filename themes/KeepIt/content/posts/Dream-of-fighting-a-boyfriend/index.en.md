@@ -1,8 +1,8 @@
 ---
     weight: 321
     title: "Dream of fighting a boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T18:06:00+08:00
-    lastmod: 2024-10-13T18:06:00+08:00
+    date: 2024-10-12T03:16:00+08:00
+    lastmod: 2024-10-12T03:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fighting', 'boyfriend', 'Dream', 'a', 'of']
+    tags: ['Dream', 'boyfriend', 'fighting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'Dream of Fighting Boyfriend' can vary depending on personal interpr
 | Lucky Animal        | Panda |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Fried Rice      |
-| Lucky Instrument    | Violin |
-| Lucky Flower        | Mullein    |
-| Lucky Job           | Artist       |
-| Lucky Exercise      | Bouldering  |
-| Lucky Country       | Syria    |
+| Lucky Food          | Fish and Chips      |
+| Lucky Instrument    | Piccolo Trumpet |
+| Lucky Flower        | Cyclamen    |
+| Lucky Job           | Data Scientist       |
+| Lucky Exercise      | Mobility Training  |
+| Lucky Country       | Qatar    |
 
 
 ##  Final Reflections on Dreams

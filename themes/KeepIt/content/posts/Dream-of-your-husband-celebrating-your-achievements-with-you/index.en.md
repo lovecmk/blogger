@@ -1,8 +1,8 @@
 ---
     weight: 1747
     title: "Dream of hostility between relatives"  # Assuming 'title' column exists
-    date: 2024-10-13T15:10:00+08:00
-    lastmod: 2024-10-13T15:10:00+08:00
+    date: 2024-10-14T14:59:00+08:00
+    lastmod: 2024-10-14T14:59:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['between', 'Dream', 'hostility', 'relatives', 'of']
+    tags: ['Dream', 'hostility', 'relatives']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Heron |
 | Lucky Place         | Sea     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Shepherd's Pie      |
-| Lucky Instrument    | Saxello |
-| Lucky Flower        | Ragged Robin    |
-| Lucky Job           | Real Estate Agent       |
-| Lucky Exercise      | Stair Climbing  |
-| Lucky Country       | Solomon Islands    |
+| Lucky Food          | Quesadilla      |
+| Lucky Instrument    | Saxophone |
+| Lucky Flower        | Nymphaea    |
+| Lucky Job           | Human Resources Manager       |
+| Lucky Exercise      | Gymnastics  |
+| Lucky Country       | Marshall Islands    |
 
 
 ##  Final Reflections on Dreams

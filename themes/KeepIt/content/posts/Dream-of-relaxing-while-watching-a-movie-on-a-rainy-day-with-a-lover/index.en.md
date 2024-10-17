@@ -1,8 +1,8 @@
 ---
     weight: 685
     title: "Dream of relaxing while watching a movie on a rainy day with a lover"  # Assuming 'title' column exists
-    date: 2024-10-13T10:14:00+08:00
-    lastmod: 2024-10-13T10:14:00+08:00
+    date: 2024-10-15T14:08:00+08:00
+    lastmod: 2024-10-15T14:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['day', 'with', 'movie', 'lover', 'rainy', 'Dream', 'a', 'on', 'relaxing', 'of', 'watching', 'while']
+    tags: ['while', 'Dream', 'relaxing', 'movie', 'watching', 'lover', 'day', 'rainy']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring good luck to us who seek rest and satisfaction.This dream w
 | Lucky Animal        | Chick |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Nachos      |
-| Lucky Instrument    | Harmonic Piano |
-| Lucky Flower        | Lily    |
-| Lucky Job           | Firefighter       |
-| Lucky Exercise      | Kripalu Yoga  |
-| Lucky Country       | Australia    |
+| Lucky Food          | Zucchini Noodles      |
+| Lucky Instrument    | Calimba |
+| Lucky Flower        | Lilac    |
+| Lucky Job           | Human Resources Manager       |
+| Lucky Exercise      | Kayaking  |
+| Lucky Country       | Israel    |
 
 
 ##  Final Reflections on Dreams

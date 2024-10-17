@@ -1,8 +1,8 @@
 ---
     weight: 20
     title: "Dream of eating watermelon and feeling cool summer"  # Assuming 'title' column exists
-    date: 2024-10-13T07:54:00+08:00
-    lastmod: 2024-10-13T07:54:00+08:00
+    date: 2024-10-13T02:08:00+08:00
+    lastmod: 2024-10-13T02:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['eating', 'feeling', 'cool', 'watermelon', 'Dream', 'and', 'summer', 'of']
+    tags: ['Dream', 'watermelon', 'cool', 'eating', 'summer', 'feeling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ What are the lucky luck that 'dream of eating watermelon and feeling cool'?This 
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Stir Fry      |
-| Lucky Instrument    | Synthesizer |
-| Lucky Flower        | Lantana    |
-| Lucky Job           | Quality Assurance Tester       |
-| Lucky Exercise      | Snowshoeing  |
-| Lucky Country       | Ireland    |
+| Lucky Food          | Pasta      |
+| Lucky Instrument    | Harmonica |
+| Lucky Flower        | Sea Holly    |
+| Lucky Job           | Game Developer       |
+| Lucky Exercise      | Resistance Training  |
+| Lucky Country       | Mozambique    |
 
 
 ##  Final Reflections on Dreams

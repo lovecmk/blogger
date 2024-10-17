@@ -1,8 +1,8 @@
 ---
     weight: 656
     title: "It's been a while since a long time dreaming with friends"  # Assuming 'title' column exists
-    date: 2024-10-13T07:21:00+08:00
-    lastmod: 2024-10-13T07:21:00+08:00
+    date: 2024-10-11T19:08:00+08:00
+    lastmod: 2024-10-11T19:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['long', 'dreaming', 'a', 'time', 'since', 'been', 'with', "It's", 'while', 'friends']
+    tags: ['while', 'since', 'friends', 'long', 'time', 'dreaming', 'been', "It's"]
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream indicates that you can get a lot of support and help thro
 | Lucky Animal        | Otter |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Pork Belly      |
-| Lucky Instrument    | Snare Drum |
-| Lucky Flower        | Hollyhock    |
-| Lucky Job           | Director       |
-| Lucky Exercise      | Basketball  |
-| Lucky Country       | Belgium    |
+| Lucky Food          | Stir Fry      |
+| Lucky Instrument    | Saxophone |
+| Lucky Flower        | Cornflower    |
+| Lucky Job           | Logistician       |
+| Lucky Exercise      | Stand-Up Paddleboarding  |
+| Lucky Country       | Malawi    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 380
     title: "Dreams that others do not understand while speaking or acting"  # Assuming 'title' column exists
-    date: 2024-10-13T23:39:00+08:00
-    lastmod: 2024-10-13T23:39:00+08:00
+    date: 2024-10-11T22:35:00+08:00
+    lastmod: 2024-10-11T22:35:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'do', 'acting', 'others', 'not', 'speaking', 'Dreams', 'understand', 'that', 'while']
+    tags: ['while', 'others', 'speaking', 'acting', 'do', 'not', 'understand', 'Dreams', 'that']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can suggest that you have the potential to be differentia
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Red     |
-| Lucky Food          | Fajitas      |
-| Lucky Instrument    | Shakuhachi |
-| Lucky Flower        | Lantana    |
-| Lucky Job           | Pastry Chef       |
-| Lucky Exercise      | Kettlebell Training  |
-| Lucky Country       | Mozambique    |
+| Lucky Food          | Burger      |
+| Lucky Instrument    | Octobass |
+| Lucky Flower        | Chrysanthemum    |
+| Lucky Job           | Sales Representative       |
+| Lucky Exercise      | Ashtanga Yoga  |
+| Lucky Country       | Denmark    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 337
     title: "Dream of meeting lovely animals with boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T07:14:00+08:00
-    lastmod: 2024-10-13T07:14:00+08:00
+    date: 2024-10-11T17:10:00+08:00
+    lastmod: 2024-10-11T17:10:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lovely', 'animals', 'boyfriend', 'Dream', 'meeting', 'of', 'with']
+    tags: ['lovely', 'Dream', 'boyfriend', 'meeting', 'animals']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream generally shows positive factors, which can suggest the possibility o
 | Lucky Animal        | Hamster |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Red     |
-| Lucky Food          | Baked Potato      |
-| Lucky Instrument    | Tama |
-| Lucky Flower        | Thunbergia    |
-| Lucky Job           | Astrophysicist       |
-| Lucky Exercise      | Underwater Diving  |
-| Lucky Country       | Sri Lanka    |
+| Lucky Food          | Tiramisu      |
+| Lucky Instrument    | Snare Drum |
+| Lucky Flower        | Balsam    |
+| Lucky Job           | Mathematician       |
+| Lucky Exercise      | Spin Class  |
+| Lucky Country       | Kyrgyzstan    |
 
 
 ##  Final Reflections on Dreams

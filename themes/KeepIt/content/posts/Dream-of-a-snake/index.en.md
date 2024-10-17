@@ -1,8 +1,8 @@
 ---
     weight: 856
     title: "Dream of a snake"  # Assuming 'title' column exists
-    date: 2024-10-13T15:00:00+08:00
-    lastmod: 2024-10-13T15:00:00+08:00
+    date: 2024-10-11T01:08:00+08:00
+    lastmod: 2024-10-11T01:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['snake', 'of', 'a', 'Dream']
+    tags: ['snake', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of the dream of a snake depends on the interpretation and situation of 
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Pork Belly      |
-| Lucky Instrument    | Glockenspiel |
-| Lucky Flower        | Feverfew    |
-| Lucky Job           | Life Coach       |
-| Lucky Exercise      | Calisthenics  |
-| Lucky Country       | Estonia    |
+| Lucky Food          | Ratatouille      |
+| Lucky Instrument    | Lyre |
+| Lucky Flower        | Sunflower    |
+| Lucky Job           | Architect       |
+| Lucky Exercise      | Sledge Hockey  |
+| Lucky Country       | Lesotho    |
 
 
 ##  Final Reflections on Dreams

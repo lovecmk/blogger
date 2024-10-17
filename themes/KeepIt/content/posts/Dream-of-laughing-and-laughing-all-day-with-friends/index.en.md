@@ -1,8 +1,8 @@
 ---
     weight: 700
     title: "Dream of laughing and laughing all day with friends"  # Assuming 'title' column exists
-    date: 2024-10-13T17:54:00+08:00
-    lastmod: 2024-10-13T17:54:00+08:00
+    date: 2024-10-14T08:07:00+08:00
+    lastmod: 2024-10-14T08:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['day', 'laughing', 'Dream', 'all', 'and', 'of', 'with', 'friends']
+    tags: ['Dream', 'all', 'day', 'friends', 'laughing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream may be a message that gives you a luck to bring positive social inter
 | Lucky Animal        | Pig |
 | Lucky Place         | Library     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Mango Sticky Rice      |
-| Lucky Instrument    | Slide Guitar |
-| Lucky Flower        | Peach Blossom    |
-| Lucky Job           | Interpreter       |
-| Lucky Exercise      | Jumping Rope  |
-| Lucky Country       | Estonia    |
+| Lucky Food          | Tacos      |
+| Lucky Instrument    | Piccolo |
+| Lucky Flower        | Butterfly Bush    |
+| Lucky Job           | Artist       |
+| Lucky Exercise      | Fencing  |
+| Lucky Country       | Oman    |
 
 
 ##  Final Reflections on Dreams

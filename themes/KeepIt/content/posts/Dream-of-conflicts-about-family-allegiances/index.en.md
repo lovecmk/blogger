@@ -1,8 +1,8 @@
 ---
     weight: 2123
     title: "Dream of dying and feeling anxious"  # Assuming 'title' column exists
-    date: 2024-10-13T17:36:00+08:00
-    lastmod: 2024-10-13T17:36:00+08:00
+    date: 2024-10-15T18:21:00+08:00
+    lastmod: 2024-10-15T18:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dying', 'feeling', 'anxious', 'Dream', 'and', 'of']
+    tags: ['Dream', 'anxious', 'feeling', 'dying']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Sea     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Beef Stroganoff      |
-| Lucky Instrument    | Erhu |
-| Lucky Flower        | Jatropha    |
-| Lucky Job           | Art Director       |
-| Lucky Exercise      | Interval Training  |
-| Lucky Country       | Israel    |
+| Lucky Food          | Chicken Curry      |
+| Lucky Instrument    | Ukulele |
+| Lucky Flower        | Larkspur    |
+| Lucky Job           | Astrophysicist       |
+| Lucky Exercise      | Skating  |
+| Lucky Country       | Cambodia    |
 
 
 ##  Final Reflections on Dreams

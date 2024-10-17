@@ -1,8 +1,8 @@
 ---
     weight: 470
     title: "A dream of not protecting yourself from ill or other situations"  # Assuming 'title' column exists
-    date: 2024-10-13T11:49:00+08:00
-    lastmod: 2024-10-13T11:49:00+08:00
+    date: 2024-10-15T17:34:00+08:00
+    lastmod: 2024-10-15T17:34:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['other', 'situations', 'or', 'yourself', 'not', 'dream', 'ill', 'protecting', 'from', 'of', 'A']
+    tags: ['situations', 'other', 'dream', 'yourself', 'A', 'from', 'not', 'ill', 'protecting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can be more careful and careful.You can symbolize the luck that you c
 | Lucky Animal        | Monkey |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Mango Sticky Rice      |
-| Lucky Instrument    | Piccolo Trumpet |
-| Lucky Flower        | Monkey Grass    |
-| Lucky Job           | Stockbroker       |
-| Lucky Exercise      | Boxing  |
-| Lucky Country       | Nepal    |
+| Lucky Food          | Stuffed Peppers      |
+| Lucky Instrument    | Saxello |
+| Lucky Flower        | Firecracker Plant    |
+| Lucky Job           | Personal Trainer       |
+| Lucky Exercise      | Racquetball  |
+| Lucky Country       | Kyrgyzstan    |
 
 
 ##  Final Reflections on Dreams

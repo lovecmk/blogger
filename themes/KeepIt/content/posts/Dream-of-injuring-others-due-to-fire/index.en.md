@@ -1,8 +1,8 @@
 ---
     weight: 837
     title: "Dream of injuring others due to fire"  # Assuming 'title' column exists
-    date: 2024-10-13T01:39:00+08:00
-    lastmod: 2024-10-13T01:39:00+08:00
+    date: 2024-10-12T20:09:00+08:00
+    lastmod: 2024-10-12T20:09:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['to', 'fire', 'Dream', 'others', 'due', 'of', 'injuring']
+    tags: ['others', 'Dream', 'due', 'to', 'fire', 'injuring']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can generally be associated with a warning of negative si
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Fruit Smoothie      |
-| Lucky Instrument    | Erhu |
-| Lucky Flower        | Bluebell    |
-| Lucky Job           | Flight Attendant       |
-| Lucky Exercise      | Paddleboarding  |
-| Lucky Country       | Canada    |
+| Lucky Food          | Pork Chops      |
+| Lucky Instrument    | Harmonica |
+| Lucky Flower        | Zinnia    |
+| Lucky Job           | Brand Manager       |
+| Lucky Exercise      | Beach Volleyball  |
+| Lucky Country       | Samoa    |
 
 
 ##  Final Reflections on Dreams

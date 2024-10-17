@@ -1,8 +1,8 @@
 ---
     weight: 2151
     title: "Dream of clashes about family infighting"  # Assuming 'title' column exists
-    date: 2024-10-13T10:54:00+08:00
-    lastmod: 2024-10-13T10:54:00+08:00
+    date: 2024-10-11T00:54:00+08:00
+    lastmod: 2024-10-11T00:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['infighting', 'family', 'about', 'clashes', 'Dream', 'of']
+    tags: ['family', 'infighting', 'Dream', 'clashes']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Eggplant Parmesan      |
-| Lucky Instrument    | Tenor Guitar |
-| Lucky Flower        | Daisy    |
-| Lucky Job           | Fitness Instructor       |
-| Lucky Exercise      | Skiing  |
-| Lucky Country       | Georgia    |
+| Lucky Food          | Ceviche      |
+| Lucky Instrument    | Melodic Percussion |
+| Lucky Flower        | Lobelia    |
+| Lucky Job           | Software Engineer       |
+| Lucky Exercise      | Basketball  |
+| Lucky Country       | Canada    |
 
 
 ##  Final Reflections on Dreams

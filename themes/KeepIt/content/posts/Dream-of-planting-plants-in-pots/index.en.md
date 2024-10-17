@@ -1,8 +1,8 @@
 ---
     weight: 589
     title: "Dream of planting plants in pots"  # Assuming 'title' column exists
-    date: 2024-10-13T18:55:00+08:00
-    lastmod: 2024-10-13T18:55:00+08:00
+    date: 2024-10-12T09:22:00+08:00
+    lastmod: 2024-10-12T09:22:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['plants', 'Dream', 'pots', 'in', 'of', 'planting']
+    tags: ['Dream', 'pots', 'planting', 'plants']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can symbolize you a positive luck and rich life.Planting plants is a 
 | Lucky Animal        | Bear |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Burrito      |
-| Lucky Instrument    | Bass Drum |
-| Lucky Flower        | Alyssum    |
-| Lucky Job           | Writer       |
-| Lucky Exercise      | Sprinting  |
-| Lucky Country       | Austria    |
+| Lucky Food          | Baked Ziti      |
+| Lucky Instrument    | Dulcimer |
+| Lucky Flower        | Cyclamen    |
+| Lucky Job           | Musician       |
+| Lucky Exercise      | Hammer Throw  |
+| Lucky Country       | Iceland    |
 
 
 ##  Final Reflections on Dreams

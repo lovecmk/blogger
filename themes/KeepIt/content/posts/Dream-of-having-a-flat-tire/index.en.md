@@ -1,8 +1,8 @@
 ---
     weight: 1283
     title: "Dream of having a flat tire"  # Assuming 'title' column exists
-    date: 2024-10-13T20:59:00+08:00
-    lastmod: 2024-10-13T20:59:00+08:00
+    date: 2024-10-11T22:43:00+08:00
+    lastmod: 2024-10-11T22:43:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'flat', 'a', 'of', 'tire', 'having']
+    tags: ['Dream', 'tire', 'flat', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Duck |
 | Lucky Place         | Restroom     |
 | Lucky Color         | White     |
-| Lucky Food          | Dumplings      |
-| Lucky Instrument    | Koto |
-| Lucky Flower        | Butterfly Bush    |
-| Lucky Job           | Producer       |
-| Lucky Exercise      | Beach Volleyball  |
-| Lucky Country       | Turkmenistan    |
+| Lucky Food          | Coconut Shrimp      |
+| Lucky Instrument    | Trombone Slide |
+| Lucky Flower        | Carnation    |
+| Lucky Job           | Scientist       |
+| Lucky Exercise      | Pole Vaulting  |
+| Lucky Country       | Switzerland    |
 
 
 ##  Final Reflections on Dreams

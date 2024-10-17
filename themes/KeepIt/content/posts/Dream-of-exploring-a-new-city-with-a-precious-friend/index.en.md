@@ -1,8 +1,8 @@
 ---
     weight: 713
     title: "Dream of exploring a new city with a precious friend"  # Assuming 'title' column exists
-    date: 2024-10-13T08:06:00+08:00
-    lastmod: 2024-10-13T08:06:00+08:00
+    date: 2024-10-13T20:15:00+08:00
+    lastmod: 2024-10-13T20:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['friend', 'new', 'precious', 'city', 'Dream', 'a', 'of', 'exploring', 'with']
+    tags: ['Dream', 'exploring', 'friend', 'precious', 'city', 'new']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can indicate that you can get good luck through new experiences and a
 | Lucky Animal        | Cat |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Ice Cream      |
-| Lucky Instrument    | Darabuka |
-| Lucky Flower        | Narcissus    |
-| Lucky Job           | Writer       |
-| Lucky Exercise      | Obstacle Course Racing  |
-| Lucky Country       | Iraq    |
+| Lucky Food          | Curry      |
+| Lucky Instrument    | Didgeridoo |
+| Lucky Flower        | Monkey Grass    |
+| Lucky Job           | IT Specialist       |
+| Lucky Exercise      | Crunches  |
+| Lucky Country       | Hungary    |
 
 
 ##  Final Reflections on Dreams

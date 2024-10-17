@@ -1,8 +1,8 @@
 ---
     weight: 1773
     title: "Dream of being injured or disabled"  # Assuming 'title' column exists
-    date: 2024-10-13T05:07:00+08:00
-    lastmod: 2024-10-13T05:07:00+08:00
+    date: 2024-10-11T16:38:00+08:00
+    lastmod: 2024-10-11T16:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'Dream', 'being', 'disabled', 'injured', 'of']
+    tags: ['being', 'injured', 'Dream', 'disabled']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Panda |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | White     |
-| Lucky Food          | Kale Salad      |
-| Lucky Instrument    | Bongo Drums |
-| Lucky Flower        | Hibiscus    |
-| Lucky Job           | UX Designer       |
-| Lucky Exercise      | Hammer Throw  |
-| Lucky Country       | Israel    |
+| Lucky Food          | Burrito      |
+| Lucky Instrument    | Koto |
+| Lucky Flower        | Primrose    |
+| Lucky Job           | Sous Chef       |
+| Lucky Exercise      | Capoeira  |
+| Lucky Country       | Malaysia    |
 
 
 ##  Final Reflections on Dreams

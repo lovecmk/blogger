@@ -1,8 +1,8 @@
 ---
     weight: 576
     title: "Dream of picnic under the tree"  # Assuming 'title' column exists
-    date: 2024-10-13T21:49:00+08:00
-    lastmod: 2024-10-13T21:49:00+08:00
+    date: 2024-10-14T08:54:00+08:00
+    lastmod: 2024-10-14T08:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['tree', 'picnic', 'the', 'Dream', 'of', 'under']
+    tags: ['Dream', 'tree', 'under', 'picnic']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is related to peace, rest and social solidarity.It may be
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Chia Pudding      |
-| Lucky Instrument    | Shakuhachi |
-| Lucky Flower        | Bouvardia    |
-| Lucky Job           | Photographer       |
-| Lucky Exercise      | Rock Climbing  |
-| Lucky Country       | Tuvalu    |
+| Lucky Food          | Stuffed Mushrooms      |
+| Lucky Instrument    | Tuba |
+| Lucky Flower        | Lantana    |
+| Lucky Job           | Catering Manager       |
+| Lucky Exercise      | Stretching  |
+| Lucky Country       | Nauru    |
 
 
 ##  Final Reflections on Dreams

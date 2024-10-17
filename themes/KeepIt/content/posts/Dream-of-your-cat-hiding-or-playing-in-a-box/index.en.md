@@ -1,8 +1,8 @@
 ---
     weight: 1633
     title: "Dream of your cat playing hide and seek"  # Assuming 'title' column exists
-    date: 2024-10-13T11:49:00+08:00
-    lastmod: 2024-10-13T11:49:00+08:00
+    date: 2024-10-13T06:34:00+08:00
+    lastmod: 2024-10-13T06:34:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['hide', 'seek', 'playing', 'your', 'cat', 'Dream', 'and', 'of']
+    tags: ['hide', 'Dream', 'seek', 'playing', 'cat']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Steak      |
-| Lucky Instrument    | Drums |
-| Lucky Flower        | Aster    |
-| Lucky Job           | Mathematician       |
-| Lucky Exercise      | Martial Arts  |
-| Lucky Country       | Tajikistan    |
+| Lucky Food          | Prawn Crackers      |
+| Lucky Instrument    | Slide Guitar |
+| Lucky Flower        | Mandevilla    |
+| Lucky Job           | Technical Writer       |
+| Lucky Exercise      | Paddleboarding  |
+| Lucky Country       | Bulgaria    |
 
 
 ##  Final Reflections on Dreams

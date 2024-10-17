@@ -1,8 +1,8 @@
 ---
     weight: 1753
     title: "Dream of your grandmother singing or playing her favorite music to you."  # Assuming 'title' column exists
-    date: 2024-10-13T13:14:00+08:00
-    lastmod: 2024-10-13T13:14:00+08:00
+    date: 2024-10-11T02:53:00+08:00
+    lastmod: 2024-10-11T02:53:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['grandmother', 'you.', 'her', 'or', 'playing', 'your', 'singing', 'favorite', 'to', 'Dream', 'of', 'music']
+    tags: ['favorite', 'Dream', 'singing', 'grandmother', 'to', 'playing', 'her', 'music', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Wolf |
 | Lucky Place         | Park     |
 | Lucky Color         | Red     |
-| Lucky Food          | Gnocchi      |
-| Lucky Instrument    | Accordion Synth |
-| Lucky Flower        | Crown Daisy    |
-| Lucky Job           | Photographer       |
-| Lucky Exercise      | Pole Vaulting  |
-| Lucky Country       | Thailand    |
+| Lucky Food          | Burger      |
+| Lucky Instrument    | Harmonica |
+| Lucky Flower        | Safflower    |
+| Lucky Job           | Bus Driver       |
+| Lucky Exercise      | Stretching  |
+| Lucky Country       | Saudi Arabia    |
 
 
 ##  Final Reflections on Dreams

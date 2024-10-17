@@ -1,8 +1,8 @@
 ---
     weight: 1403
     title: "Dream of your dog leading a seminar"  # Assuming 'title' column exists
-    date: 2024-10-13T16:10:00+08:00
-    lastmod: 2024-10-13T16:10:00+08:00
+    date: 2024-10-11T07:19:00+08:00
+    lastmod: 2024-10-11T07:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'Dream', 'a', 'leading', 'seminar', 'of', 'dog']
+    tags: ['leading', 'Dream', 'seminar', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Dog |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Prawn Crackers      |
-| Lucky Instrument    | Tuba |
-| Lucky Flower        | Butterfly Bush    |
+| Lucky Food          | Pudding      |
+| Lucky Instrument    | Accordion Synth |
+| Lucky Flower        | Bougainvillea    |
 | Lucky Job           | Fitness Instructor       |
-| Lucky Exercise      | Weightlifting  |
-| Lucky Country       | Samoa    |
+| Lucky Exercise      | Swimming Laps  |
+| Lucky Country       | United Kingdom    |
 
 
 ##  Final Reflections on Dreams

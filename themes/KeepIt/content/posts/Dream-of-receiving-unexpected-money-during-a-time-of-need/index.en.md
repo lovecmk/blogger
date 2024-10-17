@@ -1,8 +1,8 @@
 ---
     weight: 1971
     title: "Dream of being a ghost haunting someone"  # Assuming 'title' column exists
-    date: 2024-10-13T03:46:00+08:00
-    lastmod: 2024-10-13T03:46:00+08:00
+    date: 2024-10-14T11:35:00+08:00
+    lastmod: 2024-10-14T11:35:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['haunting', 'ghost', 'Dream', 'being', 'a', 'someone', 'of']
+    tags: ['being', 'ghost', 'Dream', 'haunting', 'someone']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Pig |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Scallops      |
-| Lucky Instrument    | Tenor Saxophone |
-| Lucky Flower        | Butterfly Bush    |
-| Lucky Job           | Logistician       |
-| Lucky Exercise      | Parkour  |
-| Lucky Country       | Zambia    |
+| Lucky Food          | Baba Ganoush      |
+| Lucky Instrument    | Lap Steel Guitar |
+| Lucky Flower        | Lily    |
+| Lucky Job           | Teacher       |
+| Lucky Exercise      | Rugby  |
+| Lucky Country       | Denmark    |
 
 
 ##  Final Reflections on Dreams

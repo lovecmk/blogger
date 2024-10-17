@@ -1,8 +1,8 @@
 ---
     weight: 1919
     title: "Dream of grooming or brushing your cat"  # Assuming 'title' column exists
-    date: 2024-10-13T02:47:00+08:00
-    lastmod: 2024-10-13T02:47:00+08:00
+    date: 2024-10-14T00:32:00+08:00
+    lastmod: 2024-10-14T00:32:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['brushing', 'or', 'your', 'cat', 'grooming', 'Dream', 'of']
+    tags: ['brushing', 'Dream', 'cat', 'grooming']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream may bring a sense of positive energy and luck. It symbolizes the pres
 | Lucky Animal        | Heron |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Scallops      |
-| Lucky Instrument    | Pipa |
-| Lucky Flower        | Jade Plant    |
-| Lucky Job           | Personal Trainer       |
-| Lucky Exercise      | Yoga  |
-| Lucky Country       | Turkey    |
+| Lucky Food          | Sushi      |
+| Lucky Instrument    | Bass Clarinet |
+| Lucky Flower        | Hoya    |
+| Lucky Job           | Network Administrator       |
+| Lucky Exercise      | Belly Dancing  |
+| Lucky Country       | Tanzania    |
 
 
 ##  Final Reflections on Dreams

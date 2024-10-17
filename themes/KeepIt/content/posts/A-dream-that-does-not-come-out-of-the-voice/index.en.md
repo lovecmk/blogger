@@ -1,8 +1,8 @@
 ---
     weight: 351
     title: "A dream that does not come out of the voice"  # Assuming 'title' column exists
-    date: 2024-10-13T23:56:00+08:00
-    lastmod: 2024-10-13T23:56:00+08:00
+    date: 2024-10-14T17:55:00+08:00
+    lastmod: 2024-10-14T17:55:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['does', 'of', 'out', 'the', 'not', 'dream', 'A', 'voice', 'come', 'that']
+    tags: ['does', 'voice', 'come', 'dream', 'A', 'out', 'not', 'that']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can be thought of what kind of signs you tell you.The lack of voice c
 | Lucky Animal        | Dog |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Duck Confit      |
-| Lucky Instrument    | Bagpipes |
-| Lucky Flower        | Zinnia    |
-| Lucky Job           | Mathematician       |
-| Lucky Exercise      | Burpees  |
-| Lucky Country       | Kazakhstan    |
+| Lucky Food          | Chowder      |
+| Lucky Instrument    | Tama |
+| Lucky Flower        | Jade Plant    |
+| Lucky Job           | Hair Stylist       |
+| Lucky Exercise      | Bench Press  |
+| Lucky Country       | Bangladesh    |
 
 
 ##  Final Reflections on Dreams

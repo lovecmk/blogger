@@ -1,8 +1,8 @@
 ---
     weight: 108
     title: "Dream of finding new fun with her husband"  # Assuming 'title' column exists
-    date: 2024-10-13T23:22:00+08:00
-    lastmod: 2024-10-13T23:22:00+08:00
+    date: 2024-10-11T21:48:00+08:00
+    lastmod: 2024-10-11T21:48:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['new', 'her', 'Dream', 'husband', 'of', 'finding', 'with', 'fun']
+    tags: ['Dream', 'fun', 'finding', 'her', 'new', 'husband']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can help you find new experiences and joys and have the o
 | Lucky Animal        | Fox |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Tuna Tartare      |
-| Lucky Instrument    | Tromba |
-| Lucky Flower        | Lobelia    |
-| Lucky Job           | Sous Chef       |
-| Lucky Exercise      | Skiing  |
-| Lucky Country       | Germany    |
+| Lucky Food          | Burrito      |
+| Lucky Instrument    | Fujara |
+| Lucky Flower        | Ranunculus    |
+| Lucky Job           | Mechanic       |
+| Lucky Exercise      | Sit-Ups  |
+| Lucky Country       | Lithuania    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1352
     title: "Dream of experiencing a power outage"  # Assuming 'title' column exists
-    date: 2024-10-13T12:40:00+08:00
-    lastmod: 2024-10-13T12:40:00+08:00
+    date: 2024-10-14T19:42:00+08:00
+    lastmod: 2024-10-14T19:42:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['power', 'outage', 'experiencing', 'Dream', 'a', 'of']
+    tags: ['experiencing', 'power', 'Dream', 'outage']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Horse |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Lentil Soup      |
+| Lucky Food          | Mango Sticky Rice      |
 | Lucky Instrument    | Violin |
-| Lucky Flower        | Scabiosa    |
-| Lucky Job           | Logistician       |
-| Lucky Exercise      | Rowing  |
-| Lucky Country       | Qatar    |
+| Lucky Flower        | Larkspur    |
+| Lucky Job           | Postman       |
+| Lucky Exercise      | Zumba  |
+| Lucky Country       | Argentina    |
 
 
 ##  Final Reflections on Dreams

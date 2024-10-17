@@ -1,8 +1,8 @@
 ---
     weight: 55
     title: "Dream of dreaming a fragrant trip while eating orange"  # Assuming 'title' column exists
-    date: 2024-10-13T13:58:00+08:00
-    lastmod: 2024-10-13T13:58:00+08:00
+    date: 2024-10-15T18:09:00+08:00
+    lastmod: 2024-10-15T18:09:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['eating', 'trip', 'fragrant', 'Dream', 'dreaming', 'orange', 'a', 'of', 'while']
+    tags: ['while', 'Dream', 'orange', 'fragrant', 'eating', 'trip', 'dreaming']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can show good luck, freedom, and joy.The fragrant and fresh taste of 
 | Lucky Animal        | Hippo |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Falafel      |
-| Lucky Instrument    | Bass Drum |
-| Lucky Flower        | Butterfly Bush    |
-| Lucky Job           | Taxi Driver       |
-| Lucky Exercise      | Bouldering  |
-| Lucky Country       | Egypt    |
+| Lucky Food          | Chocolate      |
+| Lucky Instrument    | Clarinet |
+| Lucky Flower        | Jasmine    |
+| Lucky Job           | Veterinarian       |
+| Lucky Exercise      | Bodyweight Training  |
+| Lucky Country       | Norway    |
 
 
 ##  Final Reflections on Dreams

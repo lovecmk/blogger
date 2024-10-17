@@ -1,8 +1,8 @@
 ---
     weight: 1940
     title: "Dream of fighting in an epic fantasy battle"  # Assuming 'title' column exists
-    date: 2024-10-13T00:13:00+08:00
-    lastmod: 2024-10-13T00:13:00+08:00
+    date: 2024-10-12T06:29:00+08:00
+    lastmod: 2024-10-12T06:29:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fantasy', 'battle', 'fighting', 'Dream', 'an', 'in', 'of', 'epic']
+    tags: ['epic', 'Dream', 'battle', 'fighting', 'fantasy', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Deer |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Sandwich      |
-| Lucky Instrument    | Guitar |
-| Lucky Flower        | Geranium    |
-| Lucky Job           | Catering Manager       |
-| Lucky Exercise      | Horseback Riding  |
-| Lucky Country       | Argentina    |
+| Lucky Food          | Popcorn      |
+| Lucky Instrument    | Lute |
+| Lucky Flower        | Orchid    |
+| Lucky Job           | Historian       |
+| Lucky Exercise      | Skiing  |
+| Lucky Country       | Azerbaijan    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1645
     title: "Dream of receiving financial stability after a period of uncertainty."  # Assuming 'title' column exists
-    date: 2024-10-13T05:25:00+08:00
-    lastmod: 2024-10-13T05:25:00+08:00
+    date: 2024-10-14T21:45:00+08:00
+    lastmod: 2024-10-14T21:45:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['uncertainty.', 'receiving', 'period', 'after', 'financial', 'stability', 'Dream', 'a', 'of']
+    tags: ['period', 'Dream', 'stability', 'uncertainty', 'receiving', 'after', 'financial']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Paella      |
-| Lucky Instrument    | Sarangi |
-| Lucky Flower        | Geranium    |
-| Lucky Job           | Producer       |
-| Lucky Exercise      | Cricket  |
-| Lucky Country       | Hungary    |
+| Lucky Food          | Curry      |
+| Lucky Instrument    | Castanets |
+| Lucky Flower        | Bougainvillea    |
+| Lucky Job           | Welder       |
+| Lucky Exercise      | Dancing  |
+| Lucky Country       | Portugal    |
 
 
 ##  Final Reflections on Dreams

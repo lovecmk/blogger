@@ -1,8 +1,8 @@
 ---
     weight: 82
     title: "Dream of watching a movie with her husband"  # Assuming 'title' column exists
-    date: 2024-10-13T16:20:00+08:00
-    lastmod: 2024-10-13T16:20:00+08:00
+    date: 2024-10-15T23:58:00+08:00
+    lastmod: 2024-10-15T23:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['movie', 'her', 'Dream', 'a', 'husband', 'of', 'watching', 'with']
+    tags: ['Dream', 'movie', 'watching', 'her', 'husband']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can indicate a number of possibilities to have a relationship with lu
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Gnocchi      |
-| Lucky Instrument    | Saz |
-| Lucky Flower        | Mullein    |
-| Lucky Job           | Web Designer       |
-| Lucky Exercise      | Kite Surfing  |
-| Lucky Country       | Papua New Guinea    |
+| Lucky Food          | Vegetable Stir Fry      |
+| Lucky Instrument    | Lyre |
+| Lucky Flower        | Peony    |
+| Lucky Job           | Insurance Agent       |
+| Lucky Exercise      | Ashtanga Yoga  |
+| Lucky Country       | Sri Lanka    |
 
 
 ##  Final Reflections on Dreams

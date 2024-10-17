@@ -1,8 +1,8 @@
 ---
     weight: 1250
     title: "Dream of seeing a loved one in an accident"  # Assuming 'title' column exists
-    date: 2024-10-13T21:45:00+08:00
-    lastmod: 2024-10-13T21:45:00+08:00
+    date: 2024-10-12T20:08:00+08:00
+    lastmod: 2024-10-12T20:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['one', 'seeing', 'Dream', 'a', 'an', 'loved', 'in', 'accident', 'of']
+    tags: ['Dream', 'one', 'loved', 'accident', 'seeing', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Chick |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Green     |
-| Lucky Food          | Dumplings      |
-| Lucky Instrument    | Fujara |
-| Lucky Flower        | Gillyflower    |
-| Lucky Job           | Geologist       |
-| Lucky Exercise      | Swimming Laps  |
-| Lucky Country       | Qatar    |
+| Lucky Food          | Brownies      |
+| Lucky Instrument    | Violin Bow |
+| Lucky Flower        | Celosia    |
+| Lucky Job           | Video Editor       |
+| Lucky Exercise      | Weightlifting  |
+| Lucky Country       | Portugal    |
 
 
 ##  Final Reflections on Dreams

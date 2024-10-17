@@ -1,8 +1,8 @@
 ---
     weight: 201
     title: "Dreaming of a romantic moment with lovers"  # Assuming 'title' column exists
-    date: 2024-10-13T17:01:00+08:00
-    lastmod: 2024-10-13T17:01:00+08:00
+    date: 2024-10-13T03:36:00+08:00
+    lastmod: 2024-10-13T03:36:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dreaming', 'lovers', 'romantic', 'moment', 'a', 'of', 'with']
+    tags: ['lovers', 'Dreaming', 'romantic', 'moment']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual.In general, this dre
 | Lucky Animal        | Pig |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Eggplant Parmesan      |
-| Lucky Instrument    | Koto |
-| Lucky Flower        | Jatropha    |
-| Lucky Job           | Business Analyst       |
-| Lucky Exercise      | Squats  |
-| Lucky Country       | Iran    |
+| Lucky Food          | Baked Ziti      |
+| Lucky Instrument    | Calimba |
+| Lucky Flower        | Yarrow    |
+| Lucky Job           | Operations Manager       |
+| Lucky Exercise      | Stand-Up Paddleboarding  |
+| Lucky Country       | Croatia    |
 
 
 ##  Final Reflections on Dreams

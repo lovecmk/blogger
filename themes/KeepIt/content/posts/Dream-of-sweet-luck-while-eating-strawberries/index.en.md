@@ -1,8 +1,8 @@
 ---
     weight: 64
     title: "Dream of sweet luck while eating strawberries"  # Assuming 'title' column exists
-    date: 2024-10-13T19:43:00+08:00
-    lastmod: 2024-10-13T19:43:00+08:00
+    date: 2024-10-12T15:15:00+08:00
+    lastmod: 2024-10-12T15:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['luck', 'eating', 'sweet', 'Dream', 'strawberries', 'of', 'while']
+    tags: ['while', 'Dream', 'eating', 'sweet', 'strawberries', 'luck']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ In this dream, good luck can mean positive results, opportunities, happiness and
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Pasta Salad      |
-| Lucky Instrument    | Zither |
-| Lucky Flower        | Poinsettia    |
-| Lucky Job           | Video Editor       |
-| Lucky Exercise      | Baseball  |
-| Lucky Country       | Azerbaijan    |
+| Lucky Food          | Pudding      |
+| Lucky Instrument    | Bongo Drums |
+| Lucky Flower        | Mums    |
+| Lucky Job           | Historian       |
+| Lucky Exercise      | Skating  |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

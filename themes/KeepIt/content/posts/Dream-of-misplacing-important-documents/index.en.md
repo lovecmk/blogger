@@ -1,8 +1,8 @@
 ---
     weight: 1371
     title: "Dream of misplacing important documents"  # Assuming 'title' column exists
-    date: 2024-10-13T15:04:00+08:00
-    lastmod: 2024-10-13T15:04:00+08:00
+    date: 2024-10-15T13:43:00+08:00
+    lastmod: 2024-10-15T13:43:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['misplacing', 'documents', 'Dream', 'of', 'important']
+    tags: ['Dream', 'misplacing', 'important', 'documents']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Dog |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Pasta Salad      |
-| Lucky Instrument    | Darabuka |
-| Lucky Flower        | Hollyhock    |
-| Lucky Job           | Graphic Designer       |
-| Lucky Exercise      | Bench Press  |
-| Lucky Country       | Sweden    |
+| Lucky Food          | Burrito      |
+| Lucky Instrument    | Harp |
+| Lucky Flower        | Tiger Lily    |
+| Lucky Job           | Artist       |
+| Lucky Exercise      | Squats  |
+| Lucky Country       | Micronesia    |
 
 
 ##  Final Reflections on Dreams

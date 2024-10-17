@@ -1,8 +1,8 @@
 ---
     weight: 402
     title: "Dream of running away from the sound or disturbance"  # Assuming 'title' column exists
-    date: 2024-10-13T03:13:00+08:00
-    lastmod: 2024-10-13T03:13:00+08:00
+    date: 2024-10-14T12:30:00+08:00
+    lastmod: 2024-10-14T12:30:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'the', 'running', 'away', 'Dream', 'disturbance', 'sound', 'from', 'of']
+    tags: ['Dream', 'disturbance', 'running', 'from', 'sound', 'away']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual's interpretation.In 
 | Lucky Animal        | Dog |
 | Lucky Place         | School     |
 | Lucky Color         | White     |
-| Lucky Food          | Tart      |
-| Lucky Instrument    | Fiddle |
-| Lucky Flower        | Thistle    |
-| Lucky Job           | Actor       |
-| Lucky Exercise      | Box Jumps  |
-| Lucky Country       | Serbia    |
+| Lucky Food          | Shrimp      |
+| Lucky Instrument    | Recorder |
+| Lucky Flower        | Petal Plant    |
+| Lucky Job           | Architect       |
+| Lucky Exercise      | Parkour  |
+| Lucky Country       | Zimbabwe    |
 
 
 ##  Final Reflections on Dreams

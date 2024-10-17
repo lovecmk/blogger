@@ -1,8 +1,8 @@
 ---
     weight: 1373
     title: "Dream of getting upgraded to a suite"  # Assuming 'title' column exists
-    date: 2024-10-13T12:42:00+08:00
-    lastmod: 2024-10-13T12:42:00+08:00
+    date: 2024-10-12T00:36:00+08:00
+    lastmod: 2024-10-12T00:36:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['suite', 'upgraded', 'to', 'Dream', 'a', 'of', 'getting']
+    tags: ['Dream', 'upgraded', 'suite', 'to', 'getting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Tiramisu      |
-| Lucky Instrument    | Electric Violin |
-| Lucky Flower        | Pincushion Flower    |
-| Lucky Job           | User Researcher       |
-| Lucky Exercise      | Resistance Bands  |
-| Lucky Country       | Malaysia    |
+| Lucky Food          | Quesadilla      |
+| Lucky Instrument    | Steel Pan |
+| Lucky Flower        | Hibiscus    |
+| Lucky Job           | Psychologist       |
+| Lucky Exercise      | Stand-Up Paddleboarding  |
+| Lucky Country       | Kenya    |
 
 
 ##  Final Reflections on Dreams

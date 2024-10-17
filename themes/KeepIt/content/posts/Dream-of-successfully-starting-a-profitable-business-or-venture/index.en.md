@@ -1,8 +1,8 @@
 ---
     weight: 1765
     title: "Dream of disagreements within family units"  # Assuming 'title' column exists
-    date: 2024-10-13T17:37:00+08:00
-    lastmod: 2024-10-13T17:37:00+08:00
+    date: 2024-10-11T08:43:00+08:00
+    lastmod: 2024-10-11T08:43:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'units', 'Dream', 'disagreements', 'within', 'of']
+    tags: ['family', 'Dream', 'within', 'disagreements', 'units']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Cat |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Lentil Soup      |
-| Lucky Instrument    | Viola |
-| Lucky Flower        | Hellebore    |
-| Lucky Job           | Director       |
-| Lucky Exercise      | Pull-Ups  |
-| Lucky Country       | Azerbaijan    |
+| Lucky Food          | Waffles      |
+| Lucky Instrument    | Electric Cello |
+| Lucky Flower        | Heliotrope    |
+| Lucky Job           | Pharmacist       |
+| Lucky Exercise      | Golf  |
+| Lucky Country       | Palau    |
 
 
 ##  Final Reflections on Dreams

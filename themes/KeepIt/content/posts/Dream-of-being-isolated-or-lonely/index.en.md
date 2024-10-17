@@ -1,8 +1,8 @@
 ---
     weight: 368
     title: "Dream of being isolated or lonely"  # Assuming 'title' column exists
-    date: 2024-10-13T00:03:00+08:00
-    lastmod: 2024-10-13T00:03:00+08:00
+    date: 2024-10-14T17:39:00+08:00
+    lastmod: 2024-10-14T17:39:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'isolated', 'lonely', 'Dream', 'being', 'of']
+    tags: ['being', 'Dream', 'lonely', 'isolated']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Luck in this dream can be a perception and change of social connectivity or inti
 | Lucky Animal        | Otter |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Baked Ziti      |
-| Lucky Instrument    | Bass Drum |
-| Lucky Flower        | Hellebore    |
-| Lucky Job           | Engineer       |
-| Lucky Exercise      | Kite Surfing  |
-| Lucky Country       | Ireland    |
+| Lucky Food          | Paella      |
+| Lucky Instrument    | Clavichord |
+| Lucky Flower        | Petunia    |
+| Lucky Job           | UX Designer       |
+| Lucky Exercise      | Leg Press  |
+| Lucky Country       | Armenia    |
 
 
 ##  Final Reflections on Dreams

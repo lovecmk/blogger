@@ -1,8 +1,8 @@
 ---
     weight: 42
     title: "Dream of meditating while eating orange"  # Assuming 'title' column exists
-    date: 2024-10-13T10:34:00+08:00
-    lastmod: 2024-10-13T10:34:00+08:00
+    date: 2024-10-13T19:08:00+08:00
+    lastmod: 2024-10-13T19:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['eating', 'Dream', 'orange', 'of', 'while', 'meditating']
+    tags: ['while', 'Dream', 'orange', 'meditating', 'eating']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual's interpretation and
 | Lucky Animal        | Hyena |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Bruschetta      |
-| Lucky Instrument    | Lute |
-| Lucky Flower        | Zinnia    |
-| Lucky Job           | Operations Manager       |
-| Lucky Exercise      | Zumba  |
-| Lucky Country       | Marshall Islands    |
+| Lucky Food          | Quiche      |
+| Lucky Instrument    | Sarangi |
+| Lucky Flower        | Begonia    |
+| Lucky Job           | Public Relations Specialist       |
+| Lucky Exercise      | Yoga  |
+| Lucky Country       | Tuvalu    |
 
 
 ##  Final Reflections on Dreams

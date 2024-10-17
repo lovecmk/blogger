@@ -1,8 +1,8 @@
 ---
     weight: 1780
     title: "Dream of receiving money for a skill or talent that sets you apart."  # Assuming 'title' column exists
-    date: 2024-10-13T11:02:00+08:00
-    lastmod: 2024-10-13T11:02:00+08:00
+    date: 2024-10-12T11:27:00+08:00
+    lastmod: 2024-10-12T11:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['receiving', 'or', 'money', 'Dream', 'for', 'a', 'sets', 'skill', 'apart.', 'talent', 'of', 'that', 'you']
+    tags: ['you', 'skill', 'Dream', 'money', 'sets', 'talent', 'receiving', 'apart', 'that']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Fox |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Baked Ziti      |
-| Lucky Instrument    | Saxello |
-| Lucky Flower        | Hydrangea    |
-| Lucky Job           | Data Scientist       |
-| Lucky Exercise      | Beach Volleyball  |
-| Lucky Country       | Italy    |
+| Lucky Food          | Pulled Pork      |
+| Lucky Instrument    | Piano |
+| Lucky Flower        | Cornflower    |
+| Lucky Job           | Fashion Designer       |
+| Lucky Exercise      | Tennis  |
+| Lucky Country       | Hungary    |
 
 
 ##  Final Reflections on Dreams

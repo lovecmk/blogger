@@ -1,8 +1,8 @@
 ---
     weight: 704
     title: "A dream with a friend who shares a happy moment"  # Assuming 'title' column exists
-    date: 2024-10-13T04:41:00+08:00
-    lastmod: 2024-10-13T04:41:00+08:00
+    date: 2024-10-14T19:30:00+08:00
+    lastmod: 2024-10-14T19:30:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['friend', 'who', 'moment', 'shares', 'a', 'dream', 'happy', 'with', 'A']
+    tags: ['happy', 'dream', 'friend', 'A', 'shares', 'moment', 'who']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can be announced in advance of the opportunity to feel good and happy
 | Lucky Animal        | Hyena |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Stuffed Mushrooms      |
-| Lucky Instrument    | Bassoon |
-| Lucky Flower        | Sunflower    |
-| Lucky Job           | User Researcher       |
-| Lucky Exercise      | Lunges  |
-| Lucky Country       | Zambia    |
+| Lucky Food          | Noodles      |
+| Lucky Instrument    | Violin |
+| Lucky Flower        | Chive Blossom    |
+| Lucky Job           | Data Analyst       |
+| Lucky Exercise      | Foam Rolling  |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

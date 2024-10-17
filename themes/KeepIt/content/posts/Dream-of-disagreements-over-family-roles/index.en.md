@@ -1,8 +1,8 @@
 ---
     weight: 1801
     title: "Dream of being in a state of extreme heartache"  # Assuming 'title' column exists
-    date: 2024-10-13T17:15:00+08:00
-    lastmod: 2024-10-13T17:15:00+08:00
+    date: 2024-10-13T04:01:00+08:00
+    lastmod: 2024-10-13T04:01:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['state', 'heartache', 'Dream', 'being', 'a', 'extreme', 'in', 'of']
+    tags: ['being', 'extreme', 'Dream', 'heartache', 'state']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hamster |
 | Lucky Place         | Beach     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Hot Dog      |
-| Lucky Instrument    | Lap Steel Guitar |
+| Lucky Food          | Pizza      |
+| Lucky Instrument    | Bass Guitar |
 | Lucky Flower        | Thistle    |
-| Lucky Job           | Flight Attendant       |
-| Lucky Exercise      | Squash  |
-| Lucky Country       | Spain    |
+| Lucky Job           | Statistician       |
+| Lucky Exercise      | Lifting  |
+| Lucky Country       | New Zealand    |
 
 
 ##  Final Reflections on Dreams

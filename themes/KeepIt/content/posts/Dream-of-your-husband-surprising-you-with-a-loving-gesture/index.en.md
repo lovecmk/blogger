@@ -1,8 +1,8 @@
 ---
     weight: 1962
     title: "Dream of shopping with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T09:40:00+08:00
-    lastmod: 2024-10-13T09:40:00+08:00
+    date: 2024-10-13T19:47:00+08:00
+    lastmod: 2024-10-13T19:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'shopping', 'boyfriend', 'Dream', 'of', 'with']
+    tags: ['shopping', 'Dream', 'boyfriend']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Mango Sticky Rice      |
-| Lucky Instrument    | Violin Bow |
-| Lucky Flower        | Clover    |
-| Lucky Job           | Geologist       |
-| Lucky Exercise      | Slacklining  |
-| Lucky Country       | Tonga    |
+| Lucky Food          | Minestrone      |
+| Lucky Instrument    | Trombone |
+| Lucky Flower        | Tansy    |
+| Lucky Job           | Farmer       |
+| Lucky Exercise      | High-Intensity Interval Training (HIIT)  |
+| Lucky Country       | Lebanon    |
 
 
 ##  Final Reflections on Dreams

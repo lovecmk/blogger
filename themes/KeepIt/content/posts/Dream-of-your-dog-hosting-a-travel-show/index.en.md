@@ -1,8 +1,8 @@
 ---
     weight: 1321
     title: "Dream of your dog hosting a travel show"  # Assuming 'title' column exists
-    date: 2024-10-13T00:12:00+08:00
-    lastmod: 2024-10-13T00:12:00+08:00
+    date: 2024-10-15T14:11:00+08:00
+    lastmod: 2024-10-15T14:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['hosting', 'your', 'Dream', 'show', 'travel', 'a', 'of', 'dog']
+    tags: ['Dream', 'show', 'travel', 'dog', 'hosting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Parrot |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Chowder      |
-| Lucky Instrument    | Synthesizer |
-| Lucky Flower        | Cornflower    |
-| Lucky Job           | Consultant       |
-| Lucky Exercise      | Foam Rolling  |
-| Lucky Country       | Philippines    |
+| Lucky Food          | Tiramisu      |
+| Lucky Instrument    | Mandolin |
+| Lucky Flower        | Bleeding Heart    |
+| Lucky Job           | Pilot       |
+| Lucky Exercise      | Dance Aerobics  |
+| Lucky Country       | Malta    |
 
 
 ##  Final Reflections on Dreams

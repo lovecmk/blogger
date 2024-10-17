@@ -1,8 +1,8 @@
 ---
     weight: 1341
     title: "Dream of struggling with a heavy workload"  # Assuming 'title' column exists
-    date: 2024-10-13T02:59:00+08:00
-    lastmod: 2024-10-13T02:59:00+08:00
+    date: 2024-10-15T03:52:00+08:00
+    lastmod: 2024-10-15T03:52:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['heavy', 'Dream', 'struggling', 'workload', 'a', 'of', 'with']
+    tags: ['Dream', 'struggling', 'heavy', 'workload']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Fox |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Curry      |
-| Lucky Instrument    | Sitar |
-| Lucky Flower        | Yarrow    |
-| Lucky Job           | Statistician       |
-| Lucky Exercise      | Baseball  |
-| Lucky Country       | Japan    |
+| Lucky Food          | Caramel Flan      |
+| Lucky Instrument    | Bagpipes |
+| Lucky Flower        | Firecracker Plant    |
+| Lucky Job           | Art Director       |
+| Lucky Exercise      | Swimming  |
+| Lucky Country       | Iceland    |
 
 
 ##  Final Reflections on Dreams

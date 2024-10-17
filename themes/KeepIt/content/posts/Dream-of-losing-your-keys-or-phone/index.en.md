@@ -1,8 +1,8 @@
 ---
     weight: 1332
     title: "Dream of losing your keys or phone"  # Assuming 'title' column exists
-    date: 2024-10-13T09:27:00+08:00
-    lastmod: 2024-10-13T09:27:00+08:00
+    date: 2024-10-11T20:44:00+08:00
+    lastmod: 2024-10-11T20:44:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'your', 'Dream', 'phone', 'of', 'keys', 'losing']
+    tags: ['Dream', 'keys', 'losing', 'phone']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Panda |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Quesadilla      |
-| Lucky Instrument    | Banjo |
-| Lucky Flower        | Narcissus    |
-| Lucky Job           | Interior Designer       |
-| Lucky Exercise      | Burpees  |
-| Lucky Country       | South Africa    |
+| Lucky Food          | Nachos      |
+| Lucky Instrument    | Fujara |
+| Lucky Flower        | Iris    |
+| Lucky Job           | Artist       |
+| Lucky Exercise      | Powerlifting  |
+| Lucky Country       | Eswatini    |
 
 
 ##  Final Reflections on Dreams

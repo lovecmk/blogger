@@ -1,8 +1,8 @@
 ---
     weight: 763
     title: "Dream of exploring the kingdom of fairy tales"  # Assuming 'title' column exists
-    date: 2024-10-13T21:52:00+08:00
-    lastmod: 2024-10-13T21:52:00+08:00
+    date: 2024-10-15T03:24:00+08:00
+    lastmod: 2024-10-15T03:24:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fairy', 'kingdom', 'the', 'Dream', 'tales', 'of', 'exploring']
+    tags: ['Dream', 'exploring', 'fairy', 'tales', 'kingdom']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can provide you with good luck and success.Exploring the kingdom mean
 | Lucky Animal        | Parrot |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Chicken Curry      |
-| Lucky Instrument    | Fujara |
-| Lucky Flower        | Tiger Lily    |
-| Lucky Job           | Catering Manager       |
-| Lucky Exercise      | Golf  |
-| Lucky Country       | Malaysia    |
+| Lucky Food          | Duck Confit      |
+| Lucky Instrument    | Bass Drum |
+| Lucky Flower        | Jasmine    |
+| Lucky Job           | App Developer       |
+| Lucky Exercise      | Snowshoeing  |
+| Lucky Country       | Philippines    |
 
 
 ##  Final Reflections on Dreams

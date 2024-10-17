@@ -1,8 +1,8 @@
 ---
     weight: 84
     title: "Dream of cooking with her husband"  # Assuming 'title' column exists
-    date: 2024-10-13T20:36:00+08:00
-    lastmod: 2024-10-13T20:36:00+08:00
+    date: 2024-10-11T00:38:00+08:00
+    lastmod: 2024-10-11T00:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['cooking', 'her', 'Dream', 'husband', 'of', 'with']
+    tags: ['cooking', 'Dream', 'her', 'husband']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'Dream of cooking with your husband' can mean the luck of finding ne
 | Lucky Animal        | Rhino |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Vegetable Stir Fry      |
-| Lucky Instrument    | French Horn |
-| Lucky Flower        | Scabiosa    |
-| Lucky Job           | User Researcher       |
-| Lucky Exercise      | Ashtanga Yoga  |
-| Lucky Country       | Kiribati    |
+| Lucky Food          | Tuna Tartare      |
+| Lucky Instrument    | Kettledrum |
+| Lucky Flower        | Nasturtium    |
+| Lucky Job           | Consultant       |
+| Lucky Exercise      | CrossFit  |
+| Lucky Country       | Saudi Arabia    |
 
 
 ##  Final Reflections on Dreams

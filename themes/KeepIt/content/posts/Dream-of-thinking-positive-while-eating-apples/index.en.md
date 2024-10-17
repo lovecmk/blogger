@@ -1,8 +1,8 @@
 ---
     weight: 53
     title: "Dream of thinking positive while eating apples"  # Assuming 'title' column exists
-    date: 2024-10-13T20:46:00+08:00
-    lastmod: 2024-10-13T20:46:00+08:00
+    date: 2024-10-12T08:34:00+08:00
+    lastmod: 2024-10-12T08:34:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['eating', 'Dream', 'positive', 'of', 'apples', 'while', 'thinking']
+    tags: ['while', 'apples', 'Dream', 'thinking', 'eating', 'positive']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring positive thoughts and luck.Eating apples and thinking posit
 | Lucky Animal        | Duck |
 | Lucky Place         | Museum     |
 | Lucky Color         | Green     |
-| Lucky Food          | Pasta Salad      |
-| Lucky Instrument    | Sarangi |
-| Lucky Flower        | Peony    |
-| Lucky Job           | Customer Service Representative       |
-| Lucky Exercise      | Jump Squats  |
-| Lucky Country       | Denmark    |
+| Lucky Food          | Quiche      |
+| Lucky Instrument    | Cowbell |
+| Lucky Flower        | Peach Blossom    |
+| Lucky Job           | Scientist       |
+| Lucky Exercise      | Parkour Training  |
+| Lucky Country       | Tonga    |
 
 
 ##  Final Reflections on Dreams

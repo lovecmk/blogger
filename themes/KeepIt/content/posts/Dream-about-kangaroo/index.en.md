@@ -1,8 +1,8 @@
 ---
     weight: 1068
     title: "Dream about kangaroo"  # Assuming 'title' column exists
-    date: 2024-10-13T04:13:00+08:00
-    lastmod: 2024-10-13T04:13:00+08:00
+    date: 2024-10-12T09:26:00+08:00
+    lastmod: 2024-10-12T09:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['kangaroo', 'about', 'Dream']
+    tags: ['kangaroo', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -60,11 +60,11 @@ The luck of this dream can be lucky to seek your new experiences and opportuniti
 | Lucky Place         | Memorial     |
 | Lucky Color         | Light orange     |
 | Lucky Food          | Stuffed Mushrooms      |
-| Lucky Instrument    | Tenor Guitar |
-| Lucky Flower        | Iris    |
-| Lucky Job           | Librarian       |
-| Lucky Exercise      | Sledge Hockey  |
-| Lucky Country       | United States    |
+| Lucky Instrument    | Mandolin |
+| Lucky Flower        | Pelargonium    |
+| Lucky Job           | Statistician       |
+| Lucky Exercise      | Cycling  |
+| Lucky Country       | Western Sahara    |
 
 
 ##  Final Reflections on Dreams

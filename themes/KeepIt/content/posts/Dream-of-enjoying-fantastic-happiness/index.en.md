@@ -1,8 +1,8 @@
 ---
     weight: 1028
     title: "Dream of enjoying fantastic happiness"  # Assuming 'title' column exists
-    date: 2024-10-13T04:39:00+08:00
-    lastmod: 2024-10-13T04:39:00+08:00
+    date: 2024-10-14T12:19:00+08:00
+    lastmod: 2024-10-14T12:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['happiness', 'enjoying', 'Dream', 'of', 'fantastic']
+    tags: ['Dream', 'fantastic', 'enjoying', 'happiness']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream provides opportunities to find more happiness and satisfa
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Bruschetta      |
-| Lucky Instrument    | Zither |
-| Lucky Flower        | Clover    |
-| Lucky Job           | Operations Manager       |
-| Lucky Exercise      | Aqua Aerobics  |
-| Lucky Country       | Austria    |
+| Lucky Food          | Sandwich      |
+| Lucky Instrument    | Claves |
+| Lucky Flower        | Fuchsia    |
+| Lucky Job           | Philosopher       |
+| Lucky Exercise      | Stair Climbing  |
+| Lucky Country       | Kiribati    |
 
 
 ##  Final Reflections on Dreams

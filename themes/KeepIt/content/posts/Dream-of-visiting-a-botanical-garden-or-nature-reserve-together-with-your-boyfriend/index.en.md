@@ -1,8 +1,8 @@
 ---
     weight: 1717
     title: "Dream of dying and being reborn"  # Assuming 'title' column exists
-    date: 2024-10-13T09:04:00+08:00
-    lastmod: 2024-10-13T09:04:00+08:00
+    date: 2024-10-12T20:02:00+08:00
+    lastmod: 2024-10-12T20:02:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dying', 'reborn', 'Dream', 'being', 'and', 'of']
+    tags: ['being', 'Dream', 'dying', 'reborn']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Snake |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Dumplings      |
-| Lucky Instrument    | Sarangi |
-| Lucky Flower        | Buttercup    |
-| Lucky Job           | Baker       |
-| Lucky Exercise      | Lifting  |
-| Lucky Country       | Ireland    |
+| Lucky Food          | Noodles      |
+| Lucky Instrument    | Ney |
+| Lucky Flower        | Firecracker Plant    |
+| Lucky Job           | Event Planner       |
+| Lucky Exercise      | Tai Chi  |
+| Lucky Country       | China    |
 
 
 ##  Final Reflections on Dreams

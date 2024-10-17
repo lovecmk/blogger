@@ -1,8 +1,8 @@
 ---
     weight: 319
     title: "Dream of date with boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T23:55:00+08:00
-    lastmod: 2024-10-13T23:55:00+08:00
+    date: 2024-10-12T05:56:00+08:00
+    lastmod: 2024-10-12T05:56:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['boyfriend', 'Dream', 'of', 'with', 'date']
+    tags: ['Dream', 'boyfriend', 'date']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can be lucky and positive.Dating with your boyfriend can be a sign th
 | Lucky Animal        | Tiger |
 | Lucky Place         | Restroom     |
 | Lucky Color         | White     |
-| Lucky Food          | Caramel Flan      |
-| Lucky Instrument    | Timpani |
-| Lucky Flower        | Jatropha    |
-| Lucky Job           | Hair Stylist       |
-| Lucky Exercise      | Lunges  |
-| Lucky Country       | Vietnam    |
+| Lucky Food          | Gumbo      |
+| Lucky Instrument    | Djembe |
+| Lucky Flower        | Bougainvillea    |
+| Lucky Job           | Logistician       |
+| Lucky Exercise      | Yoga  |
+| Lucky Country       | Austria    |
 
 
 ##  Final Reflections on Dreams

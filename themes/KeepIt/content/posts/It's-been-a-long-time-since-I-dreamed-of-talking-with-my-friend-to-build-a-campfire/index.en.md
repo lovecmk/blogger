@@ -1,8 +1,8 @@
 ---
     weight: 681
     title: "It's been a long time since I dreamed of talking with my friend to build a campfire"  # Assuming 'title' column exists
-    date: 2024-10-13T04:04:00+08:00
-    lastmod: 2024-10-13T04:04:00+08:00
+    date: 2024-10-15T06:43:00+08:00
+    lastmod: 2024-10-15T06:43:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['friend', 'long', 'my', 'build', 'to', 'talking', 'I', 'a', 'time', 'dreamed', 'campfire', 'since', 'been', 'of', "It's", 'with']
+    tags: ['since', 'dreamed', 'my', 'campfire', 'talking', 'to', 'I', 'friend', 'long', 'time', 'build', 'been', "It's"]
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you a social connection and good luck.Campfire with a frien
 | Lucky Animal        | Ostrich |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Buffalo Wings      |
-| Lucky Instrument    | Clarinet |
-| Lucky Flower        | Borage    |
-| Lucky Job           | UX Designer       |
-| Lucky Exercise      | Jumping Rope  |
-| Lucky Country       | Bangladesh    |
+| Lucky Food          | Coconut Shrimp      |
+| Lucky Instrument    | Wooden Flute |
+| Lucky Flower        | Gillyflower    |
+| Lucky Job           | Copywriter       |
+| Lucky Exercise      | Lifting  |
+| Lucky Country       | Georgia    |
 
 
 ##  Final Reflections on Dreams

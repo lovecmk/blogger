@@ -1,8 +1,8 @@
 ---
     weight: 1686
     title: "Dream of being in a state of inconsolable grief"  # Assuming 'title' column exists
-    date: 2024-10-13T06:01:00+08:00
-    lastmod: 2024-10-13T06:01:00+08:00
+    date: 2024-10-14T15:26:00+08:00
+    lastmod: 2024-10-14T15:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['state', 'Dream', 'being', 'a', 'inconsolable', 'grief', 'in', 'of']
+    tags: ['being', 'Dream', 'inconsolable', 'state', 'grief']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Library     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Prawn Crackers      |
-| Lucky Instrument    | Rudra Veena |
-| Lucky Flower        | Moss Rose    |
-| Lucky Job           | Makeup Artist       |
-| Lucky Exercise      | Mountain Climbers  |
-| Lucky Country       | Tanzania    |
+| Lucky Food          | Gelato      |
+| Lucky Instrument    | Violin |
+| Lucky Flower        | Bellflower    |
+| Lucky Job           | Human Resources Manager       |
+| Lucky Exercise      | Deadlifts  |
+| Lucky Country       | India    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 219
     title: "Dream of discussing a lovely conversation with lovers"  # Assuming 'title' column exists
-    date: 2024-10-13T02:05:00+08:00
-    lastmod: 2024-10-13T02:05:00+08:00
+    date: 2024-10-12T03:00:00+08:00
+    lastmod: 2024-10-12T03:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lovely', 'lovers', 'Dream', 'discussing', 'a', 'of', 'conversation', 'with']
+    tags: ['discussing', 'lovely', 'conversation', 'lovers', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Luck in this dream can mean the promotion of love and communication between you 
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Museum     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Corn on the Cob      |
-| Lucky Instrument    | Guitar |
-| Lucky Flower        | Dahlia    |
-| Lucky Job           | Pastry Chef       |
-| Lucky Exercise      | Ultimate Frisbee  |
-| Lucky Country       | New Zealand    |
+| Lucky Food          | Quiche      |
+| Lucky Instrument    | Harmonica |
+| Lucky Flower        | Agapanthus    |
+| Lucky Job           | Journalist       |
+| Lucky Exercise      | Lunges  |
+| Lucky Country       | Kazakhstan    |
 
 
 ##  Final Reflections on Dreams

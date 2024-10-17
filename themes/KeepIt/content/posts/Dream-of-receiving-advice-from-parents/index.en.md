@@ -1,8 +1,8 @@
 ---
     weight: 154
     title: "Dream of receiving advice from parents"  # Assuming 'title' column exists
-    date: 2024-10-13T18:07:00+08:00
-    lastmod: 2024-10-13T18:07:00+08:00
+    date: 2024-10-15T11:00:00+08:00
+    lastmod: 2024-10-15T11:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['advice', 'receiving', 'parents', 'Dream', 'from', 'of']
+    tags: ['Dream', 'from', 'receiving', 'parents', 'advice']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream may also be lucky.My parents are one of the closest people to us and 
 | Lucky Animal        | Panda |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Burger      |
-| Lucky Instrument    | Accordion |
-| Lucky Flower        | Daffodil    |
-| Lucky Job           | Farmer       |
-| Lucky Exercise      | Zumba  |
-| Lucky Country       | Nepal    |
+| Lucky Food          | Muffin      |
+| Lucky Instrument    | Steel Pan |
+| Lucky Flower        | Heather    |
+| Lucky Job           | Firefighter       |
+| Lucky Exercise      | Shot Put  |
+| Lucky Country       | Tonga    |
 
 
 ##  Final Reflections on Dreams

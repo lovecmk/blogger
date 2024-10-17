@@ -1,8 +1,8 @@
 ---
     weight: 1767
     title: "Dream of predicting your own death"  # Assuming 'title' column exists
-    date: 2024-10-13T07:13:00+08:00
-    lastmod: 2024-10-13T07:13:00+08:00
+    date: 2024-10-15T01:20:00+08:00
+    lastmod: 2024-10-15T01:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['death', 'own', 'your', 'predicting', 'Dream', 'of']
+    tags: ['Dream', 'death', 'own', 'predicting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Chameleon |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Chicken Parmesan      |
-| Lucky Instrument    | Ocarina |
-| Lucky Flower        | Magnolia    |
-| Lucky Job           | Security Guard       |
-| Lucky Exercise      | Burpees  |
-| Lucky Country       | India    |
+| Lucky Food          | Sandwich      |
+| Lucky Instrument    | Charango |
+| Lucky Flower        | Clover Blossom    |
+| Lucky Job           | Web Developer       |
+| Lucky Exercise      | Bouldering  |
+| Lucky Country       | Belgium    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1176
     title: "Dream about aquarium"  # Assuming 'title' column exists
-    date: 2024-10-13T12:02:00+08:00
-    lastmod: 2024-10-13T12:02:00+08:00
+    date: 2024-10-15T04:38:00+08:00
+    lastmod: 2024-10-15T04:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['aquarium', 'about', 'Dream']
+    tags: ['aquarium', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can occur when the aquarium or the creatures in it looked
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Biryani      |
-| Lucky Instrument    | Flute |
-| Lucky Flower        | Rudbeckia    |
-| Lucky Job           | Archaeologist       |
-| Lucky Exercise      | Surf Lifesaving  |
-| Lucky Country       | Nepal    |
+| Lucky Food          | Clams      |
+| Lucky Instrument    | Bass Drum |
+| Lucky Flower        | Wisteria    |
+| Lucky Job           | Chef de Cuisine       |
+| Lucky Exercise      | Burpees  |
+| Lucky Country       | Poland    |
 
 
 ##  Final Reflections on Dreams

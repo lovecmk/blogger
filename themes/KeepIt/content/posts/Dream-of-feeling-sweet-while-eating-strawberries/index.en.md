@@ -1,8 +1,8 @@
 ---
     weight: 76
     title: "Dream of feeling sweet while eating strawberries"  # Assuming 'title' column exists
-    date: 2024-10-13T23:17:00+08:00
-    lastmod: 2024-10-13T23:17:00+08:00
+    date: 2024-10-15T14:00:00+08:00
+    lastmod: 2024-10-15T14:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['feeling', 'eating', 'sweet', 'Dream', 'strawberries', 'of', 'while']
+    tags: ['while', 'Dream', 'eating', 'sweet', 'feeling', 'strawberries']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can convey a message that can expect you to expect good luck and posi
 | Lucky Animal        | Hamster |
 | Lucky Place         | Lake     |
 | Lucky Color         | Red     |
-| Lucky Food          | Pasta Salad      |
-| Lucky Instrument    | Fretless Bass |
-| Lucky Flower        | Ranunculus    |
-| Lucky Job           | Marketing Manager       |
-| Lucky Exercise      | Kite Surfing  |
-| Lucky Country       | Kuwait    |
+| Lucky Food          | Buffalo Wings      |
+| Lucky Instrument    | Harp |
+| Lucky Flower        | Balsam    |
+| Lucky Job           | Database Administrator       |
+| Lucky Exercise      | Snowboarding  |
+| Lucky Country       | Tajikistan    |
 
 
 ##  Final Reflections on Dreams

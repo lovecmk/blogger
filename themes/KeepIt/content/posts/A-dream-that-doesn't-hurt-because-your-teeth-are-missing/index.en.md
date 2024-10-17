@@ -1,8 +1,8 @@
 ---
     weight: 885
     title: "A dream that doesn't hurt because your teeth are missing"  # Assuming 'title' column exists
-    date: 2024-10-13T03:13:00+08:00
-    lastmod: 2024-10-13T03:13:00+08:00
+    date: 2024-10-11T00:03:00+08:00
+    lastmod: 2024-10-11T00:03:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['are', 'missing', "doesn't", 'hurt', 'teeth', 'your', 'because', 'dream', 'A', 'that']
+    tags: ['missing', 'dream', "doesn't", 'A', 'teeth', 'are', 'that', 'hurt']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream shows your luck and positive results.This dream reminds you of the ab
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Park     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Dumplings      |
-| Lucky Instrument    | Bass Guitar |
-| Lucky Flower        | Chive Blossom    |
-| Lucky Job           | Human Resources Manager       |
-| Lucky Exercise      | Aqua Aerobics  |
-| Lucky Country       | Switzerland    |
+| Lucky Food          | Caprese Salad      |
+| Lucky Instrument    | Trombone Slide |
+| Lucky Flower        | Agapanthus    |
+| Lucky Job           | Event Coordinator       |
+| Lucky Exercise      | Tennis  |
+| Lucky Country       | Belgium    |
 
 
 ##  Final Reflections on Dreams

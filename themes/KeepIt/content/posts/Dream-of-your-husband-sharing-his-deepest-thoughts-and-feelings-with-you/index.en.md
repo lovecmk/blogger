@@ -1,8 +1,8 @@
 ---
     weight: 1586
     title: "Dream of discord with family friends"  # Assuming 'title' column exists
-    date: 2024-10-13T22:35:00+08:00
-    lastmod: 2024-10-13T22:35:00+08:00
+    date: 2024-10-15T10:21:00+08:00
+    lastmod: 2024-10-15T10:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'of', 'Dream', 'with', 'discord', 'friends']
+    tags: ['family', 'Dream', 'discord', 'friends']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Fox |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Baked Ziti      |
-| Lucky Instrument    | Lyre |
-| Lucky Flower        | Foxglove    |
-| Lucky Job           | Astrophysicist       |
-| Lucky Exercise      | Spin Class  |
-| Lucky Country       | Iraq    |
+| Lucky Food          | Lasagna      |
+| Lucky Instrument    | Tuba |
+| Lucky Flower        | Buttercup    |
+| Lucky Job           | Researcher       |
+| Lucky Exercise      | Foam Rolling  |
+| Lucky Country       | Ukraine    |
 
 
 ##  Final Reflections on Dreams

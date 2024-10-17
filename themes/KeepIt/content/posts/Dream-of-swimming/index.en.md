@@ -1,8 +1,8 @@
 ---
     weight: 511
     title: "Dream of swimming"  # Assuming 'title' column exists
-    date: 2024-10-13T10:19:00+08:00
-    lastmod: 2024-10-13T10:19:00+08:00
+    date: 2024-10-14T17:01:00+08:00
+    lastmod: 2024-10-14T17:01:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'swimming', 'Dream']
+    tags: ['swimming', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'swimming dreams' can provide the opportunity to show freedom, chall
 | Lucky Animal        | Red fox |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Red     |
-| Lucky Food          | Tuna Tartare      |
-| Lucky Instrument    | Piccolo Trumpet |
-| Lucky Flower        | Scented Geranium    |
-| Lucky Job           | Graphic Designer       |
-| Lucky Exercise      | Leg Press  |
-| Lucky Country       | Georgia    |
+| Lucky Food          | Vegetarian Chili      |
+| Lucky Instrument    | Piano |
+| Lucky Flower        | Daisy    |
+| Lucky Job           | Astrophysicist       |
+| Lucky Exercise      | Parkour Training  |
+| Lucky Country       | Maldives    |
 
 
 ##  Final Reflections on Dreams

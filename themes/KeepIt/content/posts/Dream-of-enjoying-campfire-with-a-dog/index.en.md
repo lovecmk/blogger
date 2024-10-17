@@ -1,8 +1,8 @@
 ---
     weight: 289
     title: "Dream of enjoying campfire with a dog"  # Assuming 'title' column exists
-    date: 2024-10-13T21:03:00+08:00
-    lastmod: 2024-10-13T21:03:00+08:00
+    date: 2024-10-11T09:26:00+08:00
+    lastmod: 2024-10-11T09:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['enjoying', 'of', 'Dream', 'a', 'with', 'campfire', 'dog']
+    tags: ['Dream', 'campfire', 'enjoying', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary from person to person.In general, the puppy symb
 | Lucky Animal        | Horse |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Kale Salad      |
-| Lucky Instrument    | Accordion |
-| Lucky Flower        | Bouvardia    |
-| Lucky Job           | Interpreter       |
-| Lucky Exercise      | Step Aerobics  |
-| Lucky Country       | Denmark    |
+| Lucky Food          | Cornbread      |
+| Lucky Instrument    | Clavichord |
+| Lucky Flower        | Clover    |
+| Lucky Job           | Operations Manager       |
+| Lucky Exercise      | Golf  |
+| Lucky Country       | Solomon Islands    |
 
 
 ##  Final Reflections on Dreams

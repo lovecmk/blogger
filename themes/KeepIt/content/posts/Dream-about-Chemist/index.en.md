@@ -1,8 +1,8 @@
 ---
     weight: 1167
     title: "Dream about Chemist"  # Assuming 'title' column exists
-    date: 2024-10-13T10:55:00+08:00
-    lastmod: 2024-10-13T10:55:00+08:00
+    date: 2024-10-12T21:27:00+08:00
+    lastmod: 2024-10-12T21:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Chemist', 'about', 'Dream']
+    tags: ['Dream', 'Chemist']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of the dream of 'pharmacist' can vary depending on the interpretation a
 | Lucky Animal        | Horse |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Black     |
-| Lucky Food          | Fried Rice      |
-| Lucky Instrument    | Horn |
-| Lucky Flower        | Snapdragon    |
-| Lucky Job           | Pharmacist       |
-| Lucky Exercise      | Burpees  |
-| Lucky Country       | Serbia    |
+| Lucky Food          | Fajitas      |
+| Lucky Instrument    | Didgeridoo |
+| Lucky Flower        | Yarrow    |
+| Lucky Job           | Dentist       |
+| Lucky Exercise      | Cycling  |
+| Lucky Country       | Tajikistan    |
 
 
 ##  Final Reflections on Dreams

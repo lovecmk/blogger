@@ -1,8 +1,8 @@
 ---
     weight: 2141
     title: "Dream of fighting against a dark force"  # Assuming 'title' column exists
-    date: 2024-10-13T15:29:00+08:00
-    lastmod: 2024-10-13T15:29:00+08:00
+    date: 2024-10-11T03:19:00+08:00
+    lastmod: 2024-10-11T03:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['dark', 'fighting', 'against', 'Dream', 'a', 'force', 'of']
+    tags: ['Dream', 'dark', 'force', 'fighting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hamster |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Stuffed Peppers      |
-| Lucky Instrument    | Horn |
-| Lucky Flower        | Bouvardia    |
-| Lucky Job           | Sous Chef       |
-| Lucky Exercise      | Mountain Climbers  |
-| Lucky Country       | Armenia    |
+| Lucky Food          | Buffalo Wings      |
+| Lucky Instrument    | Charango |
+| Lucky Flower        | Hydrangea    |
+| Lucky Job           | Recruiter       |
+| Lucky Exercise      | Walking  |
+| Lucky Country       | Bhutan    |
 
 
 ##  Final Reflections on Dreams

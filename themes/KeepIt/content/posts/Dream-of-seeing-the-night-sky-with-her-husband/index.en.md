@@ -1,8 +1,8 @@
 ---
     weight: 91
     title: "Dream of seeing the night sky with her husband"  # Assuming 'title' column exists
-    date: 2024-10-13T11:55:00+08:00
-    lastmod: 2024-10-13T11:55:00+08:00
+    date: 2024-10-15T18:30:00+08:00
+    lastmod: 2024-10-15T18:30:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['her', 'sky', 'the', 'seeing', 'night', 'Dream', 'husband', 'of', 'with']
+    tags: ['Dream', 'night', 'her', 'sky', 'husband', 'seeing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can show good luck and positive energy.Watching the night sky with he
 | Lucky Animal        | Fox |
 | Lucky Place         | Park     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Seafood Paella      |
-| Lucky Instrument    | Soprano Recorder |
-| Lucky Flower        | Gillyflower    |
-| Lucky Job           | Web Developer       |
-| Lucky Exercise      | Burpees  |
-| Lucky Country       | France    |
+| Lucky Food          | Buffalo Wings      |
+| Lucky Instrument    | Piccolo Trumpet |
+| Lucky Flower        | Daffodil    |
+| Lucky Job           | Lawyer       |
+| Lucky Exercise      | Slacklining  |
+| Lucky Country       | Solomon Islands    |
 
 
 ##  Final Reflections on Dreams

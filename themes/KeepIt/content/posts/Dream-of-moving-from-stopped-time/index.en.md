@@ -1,8 +1,8 @@
 ---
     weight: 257
     title: "Dream of moving from stopped time"  # Assuming 'title' column exists
-    date: 2024-10-13T13:22:00+08:00
-    lastmod: 2024-10-13T13:22:00+08:00
+    date: 2024-10-13T00:36:00+08:00
+    lastmod: 2024-10-13T00:36:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['stopped', 'Dream', 'from', 'time', 'moving', 'of']
+    tags: ['stopped', 'Dream', 'from', 'moving', 'time']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual's interpretation and
 | Lucky Animal        | Hyena |
 | Lucky Place         | River     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Crab      |
-| Lucky Instrument    | Saxophone |
-| Lucky Flower        | Lavender    |
-| Lucky Job           | Geologist       |
-| Lucky Exercise      | Circuit Training  |
-| Lucky Country       | Philippines    |
+| Lucky Food          | Pizza      |
+| Lucky Instrument    | Tenor Guitar |
+| Lucky Flower        | Alyssum    |
+| Lucky Job           | Psychologist       |
+| Lucky Exercise      | Paddleboarding  |
+| Lucky Country       | Greece    |
 
 
 ##  Final Reflections on Dreams

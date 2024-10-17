@@ -1,8 +1,8 @@
 ---
     weight: 94
     title: "Dream of watching performances with her husband"  # Assuming 'title' column exists
-    date: 2024-10-13T19:38:00+08:00
-    lastmod: 2024-10-13T19:38:00+08:00
+    date: 2024-10-15T14:13:00+08:00
+    lastmod: 2024-10-15T14:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['performances', 'her', 'of', 'Dream', 'husband', 'with', 'watching']
+    tags: ['Dream', 'performances', 'watching', 'her', 'husband']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Good luck from this dream may vary depending on individuals.However, in general,
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Seafood Paella      |
-| Lucky Instrument    | Tenor Saxophone |
-| Lucky Flower        | Bee Balm    |
-| Lucky Job           | UX Designer       |
-| Lucky Exercise      | Kite Surfing  |
-| Lucky Country       | Uzbekistan    |
+| Lucky Food          | Prawn Crackers      |
+| Lucky Instrument    | Synthesizer |
+| Lucky Flower        | Foxglove    |
+| Lucky Job           | Oceanographer       |
+| Lucky Exercise      | Handball  |
+| Lucky Country       | Tuvalu    |
 
 
 ##  Final Reflections on Dreams

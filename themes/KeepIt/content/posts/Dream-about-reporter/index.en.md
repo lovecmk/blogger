@@ -1,8 +1,8 @@
 ---
     weight: 1224
     title: "Dream about reporter"  # Assuming 'title' column exists
-    date: 2024-10-13T08:03:00+08:00
-    lastmod: 2024-10-13T08:03:00+08:00
+    date: 2024-10-13T15:08:00+08:00
+    lastmod: 2024-10-13T15:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['reporter', 'about', 'Dream']
+    tags: ['Dream', 'reporter']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of dreams is diverse.For example, if you have a symbol of good luck in 
 | Lucky Animal        | Otter |
 | Lucky Place         | River     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Burger      |
-| Lucky Instrument    | Harp |
-| Lucky Flower        | Fuchsia    |
-| Lucky Job           | Firefighter       |
-| Lucky Exercise      | Sprinting  |
-| Lucky Country       | Germany    |
+| Lucky Food          | Bagel      |
+| Lucky Instrument    | Guitarlele |
+| Lucky Flower        | Scabiosa    |
+| Lucky Job           | Field Technician       |
+| Lucky Exercise      | Mountain Climbers  |
+| Lucky Country       | Iran    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 798
     title: "Dream of a tram accident"  # Assuming 'title' column exists
-    date: 2024-10-13T19:25:00+08:00
-    lastmod: 2024-10-13T19:25:00+08:00
+    date: 2024-10-14T07:37:00+08:00
+    lastmod: 2024-10-14T07:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'a', 'accident', 'of', 'tram']
+    tags: ['Dream', 'tram', 'accident']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The good luck of 'tram accident dream' may be to provide opportunities to be war
 | Lucky Animal        | Beaver |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Biryani      |
-| Lucky Instrument    | Koto |
-| Lucky Flower        | Tithonia    |
-| Lucky Job           | Sous Chef       |
-| Lucky Exercise      | Surfing  |
-| Lucky Country       | Lesotho    |
+| Lucky Food          | Pudding      |
+| Lucky Instrument    | Saxophone |
+| Lucky Flower        | Orchid    |
+| Lucky Job           | Chemist       |
+| Lucky Exercise      | Pole Vaulting  |
+| Lucky Country       | Malaysia    |
 
 
 ##  Final Reflections on Dreams

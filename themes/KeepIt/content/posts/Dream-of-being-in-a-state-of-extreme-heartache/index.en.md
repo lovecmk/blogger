@@ -1,8 +1,8 @@
 ---
     weight: 1806
     title: "Dream of being cheated on by a partner"  # Assuming 'title' column exists
-    date: 2024-10-13T04:22:00+08:00
-    lastmod: 2024-10-13T04:22:00+08:00
+    date: 2024-10-12T17:40:00+08:00
+    lastmod: 2024-10-12T17:40:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'being', 'cheated', 'a', 'on', 'by', 'partner', 'of']
+    tags: ['being', 'Dream', 'partner', 'cheated']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings the luck of inner strength, courage, and determination. It sig
 | Lucky Animal        | Rhino |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Beef Wellington      |
-| Lucky Instrument    | Zither |
-| Lucky Flower        | Primrose    |
-| Lucky Job           | Architect       |
-| Lucky Exercise      | Lifting  |
-| Lucky Country       | Zimbabwe    |
+| Lucky Food          | Caramel Flan      |
+| Lucky Instrument    | Electric Cello |
+| Lucky Flower        | Kalanchoe    |
+| Lucky Job           | Pastry Chef       |
+| Lucky Exercise      | Kettlebell Training  |
+| Lucky Country       | Georgia    |
 
 
 ##  Final Reflections on Dreams

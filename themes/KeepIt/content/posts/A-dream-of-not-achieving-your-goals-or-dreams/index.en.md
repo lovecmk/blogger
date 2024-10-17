@@ -1,8 +1,8 @@
 ---
     weight: 474
     title: "A dream of not achieving your goals or dreams"  # Assuming 'title' column exists
-    date: 2024-10-13T00:14:00+08:00
-    lastmod: 2024-10-13T00:14:00+08:00
+    date: 2024-10-12T16:07:00+08:00
+    lastmod: 2024-10-12T16:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['goals', 'or', 'your', 'not', 'dreams', 'dream', 'achieving', 'of', 'A']
+    tags: ['goals', 'dream', 'A', 'dreams', 'not', 'achieving']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the point of view.In a dream of not
 | Lucky Animal        | Deer |
 | Lucky Place         | Theater     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Curry      |
-| Lucky Instrument    | Sarangi |
-| Lucky Flower        | Bougainvillea    |
-| Lucky Job           | Network Administrator       |
-| Lucky Exercise      | Bouldering  |
-| Lucky Country       | Lesotho    |
+| Lucky Food          | Chocolate Mousse      |
+| Lucky Instrument    | Electric Cello |
+| Lucky Flower        | Celosia    |
+| Lucky Job           | Plumber       |
+| Lucky Exercise      | Swimming Laps  |
+| Lucky Country       | Russia    |
 
 
 ##  Final Reflections on Dreams

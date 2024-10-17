@@ -1,8 +1,8 @@
 ---
     weight: 207
     title: "Dream of a lovely moment with lovers"  # Assuming 'title' column exists
-    date: 2024-10-13T03:27:00+08:00
-    lastmod: 2024-10-13T03:27:00+08:00
+    date: 2024-10-15T12:12:00+08:00
+    lastmod: 2024-10-15T12:12:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lovely', 'lovers', 'moment', 'Dream', 'a', 'of', 'with']
+    tags: ['lovely', 'lovers', 'Dream', 'moment']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ If you dream of a lovely moment with your lover, you will be able to have a posi
 | Lucky Animal        | Monkey |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Biryani      |
-| Lucky Instrument    | Bassoon |
-| Lucky Flower        | Kalanchoe    |
-| Lucky Job           | Postman       |
-| Lucky Exercise      | Lacrosse  |
-| Lucky Country       | Sweden    |
+| Lucky Food          | Clams      |
+| Lucky Instrument    | Sarangi |
+| Lucky Flower        | Cyclamen    |
+| Lucky Job           | Electrician       |
+| Lucky Exercise      | Jumping Rope  |
+| Lucky Country       | Sri Lanka    |
 
 
 ##  Final Reflections on Dreams

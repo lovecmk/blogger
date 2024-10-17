@@ -1,8 +1,8 @@
 ---
     weight: 625
     title: "Dream of finding a secret book in an old library"  # Assuming 'title' column exists
-    date: 2024-10-13T08:18:00+08:00
-    lastmod: 2024-10-13T08:18:00+08:00
+    date: 2024-10-11T09:30:00+08:00
+    lastmod: 2024-10-11T09:30:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['old', 'secret', 'Dream', 'book', 'a', 'an', 'in', 'library', 'of', 'finding']
+    tags: ['Dream', 'library', 'finding', 'secret', 'book', 'old', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring you good luck, such as discovering new knowledge or getting
 | Lucky Animal        | Duck |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Eggplant Parmesan      |
-| Lucky Instrument    | Electric Cello |
-| Lucky Flower        | Moss Rose    |
-| Lucky Job           | Insurance Agent       |
-| Lucky Exercise      | Deadlifts  |
-| Lucky Country       | Marshall Islands    |
+| Lucky Food          | Brownies      |
+| Lucky Instrument    | Darbuka |
+| Lucky Flower        | Bluebell    |
+| Lucky Job           | Web Developer       |
+| Lucky Exercise      | Lunges  |
+| Lucky Country       | Maldives    |
 
 
 ##  Final Reflections on Dreams

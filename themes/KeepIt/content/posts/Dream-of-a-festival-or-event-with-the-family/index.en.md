@@ -1,8 +1,8 @@
 ---
     weight: 167
     title: "Dream of a festival or event with the family"  # Assuming 'title' column exists
-    date: 2024-10-13T15:32:00+08:00
-    lastmod: 2024-10-13T15:32:00+08:00
+    date: 2024-10-12T02:43:00+08:00
+    lastmod: 2024-10-12T02:43:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'festival', 'or', 'the', 'Dream', 'a', 'event', 'of', 'with']
+    tags: ['event', 'family', 'Dream', 'festival']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is the stability and happiness of the family.The dream of
 | Lucky Animal        | Hyena |
 | Lucky Place         | Academy     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Samosa      |
-| Lucky Instrument    | Lyre |
-| Lucky Flower        | Stephanotis    |
-| Lucky Job           | Hair Stylist       |
-| Lucky Exercise      | Baseball  |
-| Lucky Country       | Nauru    |
+| Lucky Food          | Pulled Pork      |
+| Lucky Instrument    | Trumpet |
+| Lucky Flower        | Bluebell    |
+| Lucky Job           | Baker       |
+| Lucky Exercise      | Step Aerobics  |
+| Lucky Country       | Croatia    |
 
 
 ##  Final Reflections on Dreams

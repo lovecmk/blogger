@@ -1,8 +1,8 @@
 ---
     weight: 1374
     title: "Dream of expressing affection with your dog"  # Assuming 'title' column exists
-    date: 2024-10-13T15:29:00+08:00
-    lastmod: 2024-10-13T15:29:00+08:00
+    date: 2024-10-15T08:37:00+08:00
+    lastmod: 2024-10-15T08:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['expressing', 'your', 'Dream', 'of', 'affection', 'with', 'dog']
+    tags: ['Dream', 'expressing', 'affection', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Muffin      |
-| Lucky Instrument    | Kettledrum |
-| Lucky Flower        | Clover Blossom    |
-| Lucky Job           | Director       |
-| Lucky Exercise      | Lifting  |
-| Lucky Country       | Laos    |
+| Lucky Food          | Potato Skins      |
+| Lucky Instrument    | Djembe |
+| Lucky Flower        | Lantana    |
+| Lucky Job           | Philosopher       |
+| Lucky Exercise      | Rugby  |
+| Lucky Country       | Yemen    |
 
 
 ##  Final Reflections on Dreams

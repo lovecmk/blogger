@@ -1,8 +1,8 @@
 ---
     weight: 745
     title: "Dream of spending time in a romantic European village"  # Assuming 'title' column exists
-    date: 2024-10-13T08:35:00+08:00
-    lastmod: 2024-10-13T08:35:00+08:00
+    date: 2024-10-11T15:50:00+08:00
+    lastmod: 2024-10-11T15:50:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['romantic', 'Dream', 'a', 'time', 'European', 'village', 'in', 'of', 'spending']
+    tags: ['European', 'Dream', 'romantic', 'village', 'spending', 'time']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream suggests the opportunity to find good luck and abundance through trav
 | Lucky Animal        | Deer |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Salad      |
-| Lucky Instrument    | Sackbut |
-| Lucky Flower        | Rudbeckia    |
-| Lucky Job           | Plumber       |
-| Lucky Exercise      | Resistance Bands  |
-| Lucky Country       | Tajikistan    |
+| Lucky Food          | Pulled Pork      |
+| Lucky Instrument    | Melodic Percussion |
+| Lucky Flower        | Narcissus    |
+| Lucky Job           | Marketing Manager       |
+| Lucky Exercise      | Stretching  |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

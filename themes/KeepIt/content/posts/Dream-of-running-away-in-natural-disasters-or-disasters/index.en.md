@@ -1,8 +1,8 @@
 ---
     weight: 397
     title: "Dream of running away in natural disasters or disasters"  # Assuming 'title' column exists
-    date: 2024-10-13T05:21:00+08:00
-    lastmod: 2024-10-13T05:21:00+08:00
+    date: 2024-10-11T21:29:00+08:00
+    lastmod: 2024-10-11T21:29:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'running', 'disasters', 'away', 'Dream', 'natural', 'in', 'of']
+    tags: ['Dream', 'running', 'natural', 'disasters', 'away']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ In this dream, you can convey a message that emphasizes the attitude and the abi
 | Lucky Animal        | Parrot |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Quiche      |
-| Lucky Instrument    | Bass Guitar |
-| Lucky Flower        | Wisteria    |
-| Lucky Job           | Physical Therapist       |
-| Lucky Exercise      | Pull-Ups  |
-| Lucky Country       | Angola    |
+| Lucky Food          | Gelato      |
+| Lucky Instrument    | Cymbals |
+| Lucky Flower        | Rudbeckia    |
+| Lucky Job           | Customer Service Representative       |
+| Lucky Exercise      | Golf  |
+| Lucky Country       | Samoa    |
 
 
 ##  Final Reflections on Dreams

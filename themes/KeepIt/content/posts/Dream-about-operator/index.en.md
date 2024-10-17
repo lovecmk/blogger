@@ -1,8 +1,8 @@
 ---
     weight: 1197
     title: "Dream about operator"  # Assuming 'title' column exists
-    date: 2024-10-13T05:17:00+08:00
-    lastmod: 2024-10-13T05:17:00+08:00
+    date: 2024-10-15T02:11:00+08:00
+    lastmod: 2024-10-15T02:11:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['operator', 'about', 'Dream']
+    tags: ['operator', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual.Dreams contain an un
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Lake     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Bagel      |
-| Lucky Instrument    | Electric Guitar |
-| Lucky Flower        | Poinsettia    |
-| Lucky Job           | Stockbroker       |
-| Lucky Exercise      | Leg Press  |
-| Lucky Country       | Bhutan    |
+| Lucky Food          | Stir Fry      |
+| Lucky Instrument    | Tuba Horn |
+| Lucky Flower        | Peony    |
+| Lucky Job           | Sales Manager       |
+| Lucky Exercise      | Powerlifting  |
+| Lucky Country       | Israel    |
 
 
 ##  Final Reflections on Dreams

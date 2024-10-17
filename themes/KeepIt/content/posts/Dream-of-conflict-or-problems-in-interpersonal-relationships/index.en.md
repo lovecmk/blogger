@@ -1,8 +1,8 @@
 ---
     weight: 469
     title: "Dream of conflict or problems in interpersonal relationships"  # Assuming 'title' column exists
-    date: 2024-10-13T06:31:00+08:00
-    lastmod: 2024-10-13T06:31:00+08:00
+    date: 2024-10-14T07:08:00+08:00
+    lastmod: 2024-10-14T07:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'of', 'relationships', 'Dream', 'problems', 'in', 'conflict', 'interpersonal']
+    tags: ['interpersonal', 'Dream', 'conflict', 'relationships', 'problems']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may be a chance to solve and grow conflicts and problems 
 | Lucky Animal        | Heron |
 | Lucky Place         | River     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Burrito      |
-| Lucky Instrument    | Octobass |
-| Lucky Flower        | Thunbergia    |
-| Lucky Job           | Doctor       |
-| Lucky Exercise      | Aqua Aerobics  |
-| Lucky Country       | Nepal    |
+| Lucky Food          | Beef Wellington      |
+| Lucky Instrument    | Glockenspiel |
+| Lucky Flower        | Heather    |
+| Lucky Job           | Sales Representative       |
+| Lucky Exercise      | Javelin  |
+| Lucky Country       | Brunei    |
 
 
 ##  Final Reflections on Dreams

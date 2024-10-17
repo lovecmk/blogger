@@ -1,8 +1,8 @@
 ---
     weight: 818
     title: "Dream of fire at school"  # Assuming 'title' column exists
-    date: 2024-10-13T10:51:00+08:00
-    lastmod: 2024-10-13T10:51:00+08:00
+    date: 2024-10-12T09:02:00+08:00
+    lastmod: 2024-10-12T09:02:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fire', 'Dream', 'of', 'school', 'at']
+    tags: ['school', 'Dream', 'fire']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'Dream of Fire in School' can vary from person to person, not a spec
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Duck Confit      |
-| Lucky Instrument    | Melodic Percussion |
-| Lucky Flower        | Feverfew    |
-| Lucky Job           | Interior Designer       |
-| Lucky Exercise      | Swimming  |
-| Lucky Country       | South Korea    |
+| Lucky Food          | Kebab      |
+| Lucky Instrument    | Ney |
+| Lucky Flower        | Safflower    |
+| Lucky Job           | Security Guard       |
+| Lucky Exercise      | Tai Chi  |
+| Lucky Country       | Kiribati    |
 
 
 ##  Final Reflections on Dreams

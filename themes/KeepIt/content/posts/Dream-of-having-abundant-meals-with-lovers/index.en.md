@@ -1,8 +1,8 @@
 ---
     weight: 196
     title: "Dream of having abundant meals with lovers"  # Assuming 'title' column exists
-    date: 2024-10-13T20:33:00+08:00
-    lastmod: 2024-10-13T20:33:00+08:00
+    date: 2024-10-11T10:29:00+08:00
+    lastmod: 2024-10-11T10:29:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lovers', 'Dream', 'of', 'abundant', 'with', 'having', 'meals']
+    tags: ['meals', 'lovers', 'Dream', 'abundant', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can symbolize luck and positive energy.The dream of having abundant m
 | Lucky Animal        | Gorilla |
 | Lucky Place         | Park     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Beef Wellington      |
-| Lucky Instrument    | Harmonium |
-| Lucky Flower        | Pansy    |
-| Lucky Job           | Physical Therapist       |
-| Lucky Exercise      | Juggling  |
-| Lucky Country       | Switzerland    |
+| Lucky Food          | Cheeseboard      |
+| Lucky Instrument    | Harmonic Piano |
+| Lucky Flower        | Lavender    |
+| Lucky Job           | Environmental Scientist       |
+| Lucky Exercise      | Skating  |
+| Lucky Country       | Angola    |
 
 
 ##  Final Reflections on Dreams

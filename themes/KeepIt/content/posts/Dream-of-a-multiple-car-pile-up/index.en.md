@@ -1,8 +1,8 @@
 ---
     weight: 1452
     title: "Dream of a multiple car pile-up"  # Assuming 'title' column exists
-    date: 2024-10-13T11:19:00+08:00
-    lastmod: 2024-10-13T11:19:00+08:00
+    date: 2024-10-12T10:22:00+08:00
+    lastmod: 2024-10-12T10:22:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'a', 'car', 'multiple', 'of', 'pile-up']
+    tags: ['Dream', 'pile-up', 'multiple', 'car']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Tacos      |
-| Lucky Instrument    | Bouzouki |
-| Lucky Flower        | Celosia    |
-| Lucky Job           | Oceanographer       |
-| Lucky Exercise      | Martial Arts  |
-| Lucky Country       | Armenia    |
+| Lucky Food          | Sushi      |
+| Lucky Instrument    | Conga Drum |
+| Lucky Flower        | Strelitzia    |
+| Lucky Job           | Research Scientist       |
+| Lucky Exercise      | Stretching  |
+| Lucky Country       | Tanzania    |
 
 
 ##  Final Reflections on Dreams

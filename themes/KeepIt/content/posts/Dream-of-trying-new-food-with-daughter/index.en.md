@@ -1,8 +1,8 @@
 ---
     weight: 135
     title: "Dream of trying new food with daughter"  # Assuming 'title' column exists
-    date: 2024-10-13T09:12:00+08:00
-    lastmod: 2024-10-13T09:12:00+08:00
+    date: 2024-10-11T10:46:00+08:00
+    lastmod: 2024-10-11T10:46:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['with', 'new', 'Dream', 'trying', 'daughter', 'of', 'food']
+    tags: ['trying', 'Dream', 'daughter', 'new', 'food']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual's experience and int
 | Lucky Animal        | Snake |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Tuna Tartare      |
-| Lucky Instrument    | Tuba |
-| Lucky Flower        | Yarrow    |
-| Lucky Job           | Postman       |
-| Lucky Exercise      | High-Intensity Interval Training (HIIT)  |
-| Lucky Country       | Canada    |
+| Lucky Food          | Spring Roll      |
+| Lucky Instrument    | Tabor |
+| Lucky Flower        | Tithonia    |
+| Lucky Job           | Environmental Scientist       |
+| Lucky Exercise      | Skating  |
+| Lucky Country       | Mexico    |
 
 
 ##  Final Reflections on Dreams

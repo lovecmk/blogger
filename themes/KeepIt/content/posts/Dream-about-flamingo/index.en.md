@@ -1,8 +1,8 @@
 ---
     weight: 1102
     title: "Dream about flamingo"  # Assuming 'title' column exists
-    date: 2024-10-13T05:51:00+08:00
-    lastmod: 2024-10-13T05:51:00+08:00
+    date: 2024-10-11T21:14:00+08:00
+    lastmod: 2024-10-11T21:14:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['flamingo', 'about', 'Dream']
+    tags: ['flamingo', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be diverse.Flamingo usually symbolizes beauty and ele
 | Lucky Animal        | Gorilla |
 | Lucky Place         | Park     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Stuffed Peppers      |
-| Lucky Instrument    | Dulcimer |
-| Lucky Flower        | Petunia    |
-| Lucky Job           | Archaeologist       |
-| Lucky Exercise      | Aerobics  |
-| Lucky Country       | Turkey    |
+| Lucky Food          | Brownies      |
+| Lucky Instrument    | Trompeta |
+| Lucky Flower        | Feverfew    |
+| Lucky Job           | Philosopher       |
+| Lucky Exercise      | Squash  |
+| Lucky Country       | Brunei    |
 
 
 ##  Final Reflections on Dreams

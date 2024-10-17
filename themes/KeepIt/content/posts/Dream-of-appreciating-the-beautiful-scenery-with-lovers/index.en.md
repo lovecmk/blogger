@@ -1,8 +1,8 @@
 ---
     weight: 210
     title: "Dream of appreciating the beautiful scenery with lovers"  # Assuming 'title' column exists
-    date: 2024-10-13T02:34:00+08:00
-    lastmod: 2024-10-13T02:34:00+08:00
+    date: 2024-10-13T01:30:00+08:00
+    lastmod: 2024-10-13T01:30:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lovers', 'beautiful', 'the', 'appreciating', 'scenery', 'Dream', 'of', 'with']
+    tags: ['beautiful', 'lovers', 'Dream', 'appreciating', 'scenery']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can have a positive impact on the relationship between yo
 | Lucky Animal        | Chick |
 | Lucky Place         | Restroom     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Baba Ganoush      |
-| Lucky Instrument    | Dulcimer |
-| Lucky Flower        | Hoya    |
-| Lucky Job           | Chemist       |
-| Lucky Exercise      | Hiking  |
-| Lucky Country       | Georgia    |
+| Lucky Food          | Croissant      |
+| Lucky Instrument    | Guitarlele |
+| Lucky Flower        | Poppy    |
+| Lucky Job           | Sales Representative       |
+| Lucky Exercise      | Jumping Rope  |
+| Lucky Country       | Ireland    |
 
 
 ##  Final Reflections on Dreams

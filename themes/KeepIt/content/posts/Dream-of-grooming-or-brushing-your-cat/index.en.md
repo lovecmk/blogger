@@ -1,8 +1,8 @@
 ---
     weight: 1928
     title: "Dream of raspberry bushes in the garden"  # Assuming 'title' column exists
-    date: 2024-10-13T13:17:00+08:00
-    lastmod: 2024-10-13T13:17:00+08:00
+    date: 2024-10-15T07:29:00+08:00
+    lastmod: 2024-10-15T07:29:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'Dream', 'in', 'bushes', 'of', 'raspberry', 'garden']
+    tags: ['Dream', 'garden', 'bushes', 'raspberry']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Theater     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Spring Roll      |
-| Lucky Instrument    | Synthesizer |
-| Lucky Flower        | Bougainvillea    |
-| Lucky Job           | Landscaper       |
-| Lucky Exercise      | Swimming  |
-| Lucky Country       | Maldives    |
+| Lucky Food          | Vegetable Stir Fry      |
+| Lucky Instrument    | Lap Steel Guitar |
+| Lucky Flower        | Ornamental Pepper    |
+| Lucky Job           | Doctor       |
+| Lucky Exercise      | Racquetball  |
+| Lucky Country       | Belgium    |
 
 
 ##  Final Reflections on Dreams

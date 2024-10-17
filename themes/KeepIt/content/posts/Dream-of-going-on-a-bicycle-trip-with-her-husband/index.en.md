@@ -1,8 +1,8 @@
 ---
     weight: 99
     title: "Dream of going on a bicycle trip with her husband"  # Assuming 'title' column exists
-    date: 2024-10-13T02:30:00+08:00
-    lastmod: 2024-10-13T02:30:00+08:00
+    date: 2024-10-15T15:09:00+08:00
+    lastmod: 2024-10-15T15:09:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['her', 'trip', 'bicycle', 'Dream', 'going', 'a', 'husband', 'on', 'of', 'with']
+    tags: ['Dream', 'bicycle', 'going', 'trip', 'her', 'husband']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may be related to the positive change of freedom, adventu
 | Lucky Animal        | Giraffe |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Waffles      |
-| Lucky Instrument    | Oboe |
-| Lucky Flower        | Borage    |
-| Lucky Job           | Video Editor       |
-| Lucky Exercise      | Pilates  |
-| Lucky Country       | Zimbabwe    |
+| Lucky Food          | Mango Sticky Rice      |
+| Lucky Instrument    | Timpani |
+| Lucky Flower        | Hoya    |
+| Lucky Job           | Librarian       |
+| Lucky Exercise      | Mountain Climbers  |
+| Lucky Country       | Eswatini    |
 
 
 ##  Final Reflections on Dreams

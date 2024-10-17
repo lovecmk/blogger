@@ -1,8 +1,8 @@
 ---
     weight: 1931
     title: "Dream of being in a state of intense anguish"  # Assuming 'title' column exists
-    date: 2024-10-13T12:06:00+08:00
-    lastmod: 2024-10-13T12:06:00+08:00
+    date: 2024-10-11T15:36:00+08:00
+    lastmod: 2024-10-11T15:36:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['state', 'intense', 'Dream', 'being', 'a', 'anguish', 'in', 'of']
+    tags: ['being', 'Dream', 'intense', 'state', 'anguish']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams generally do not directly bring luck, but they can provide insights and g
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Theme park     |
 | Lucky Color         | Red     |
-| Lucky Food          | Eggplant Parmesan      |
-| Lucky Instrument    | Sackbut |
-| Lucky Flower        | Celosia    |
-| Lucky Job           | Archaeologist       |
+| Lucky Food          | Chips      |
+| Lucky Instrument    | Synthesizer |
+| Lucky Flower        | Tithonia    |
+| Lucky Job           | IT Specialist       |
 | Lucky Exercise      | Burpees  |
-| Lucky Country       | Botswana    |
+| Lucky Country       | Pakistan    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 896
     title: "The dream of people laughing at teeth"  # Assuming 'title' column exists
-    date: 2024-10-13T13:37:00+08:00
-    lastmod: 2024-10-13T13:37:00+08:00
+    date: 2024-10-15T15:26:00+08:00
+    lastmod: 2024-10-15T15:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['laughing', 'teeth', 'people', 'dream', 'The', 'of', 'at']
+    tags: ['The', 'dream', 'teeth', 'people', 'laughing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream depends on the individual situation and meaning.In genera
 | Lucky Animal        | Seagull |
 | Lucky Place         | Historic village     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Beef Wellington      |
-| Lucky Instrument    | Trumpet |
-| Lucky Flower        | Stock    |
-| Lucky Job           | Architect       |
-| Lucky Exercise      | Rock Climbing  |
-| Lucky Country       | Mongolia    |
+| Lucky Food          | Fruit Salad      |
+| Lucky Instrument    | Pipa |
+| Lucky Flower        | Sunflower    |
+| Lucky Job           | Archaeologist       |
+| Lucky Exercise      | Hula Hooping  |
+| Lucky Country       | Sweden    |
 
 
 ##  Final Reflections on Dreams

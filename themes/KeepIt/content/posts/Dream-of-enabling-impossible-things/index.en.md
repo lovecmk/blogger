@@ -1,8 +1,8 @@
 ---
     weight: 241
     title: "Dream of enabling impossible things"  # Assuming 'title' column exists
-    date: 2024-10-13T10:24:00+08:00
-    lastmod: 2024-10-13T10:24:00+08:00
+    date: 2024-10-14T22:51:00+08:00
+    lastmod: 2024-10-14T22:51:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['things', 'enabling', 'impossible', 'Dream', 'of']
+    tags: ['impossible', 'Dream', 'enabling', 'things']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream may vary by individual interpretation.But the dream of making the imp
 | Lucky Animal        | Chicken |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Chili      |
-| Lucky Instrument    | Tabor |
-| Lucky Flower        | Firecracker Plant    |
-| Lucky Job           | Fitness Instructor       |
-| Lucky Exercise      | Hula Hooping  |
-| Lucky Country       | Mozambique    |
+| Lucky Food          | Caramel Flan      |
+| Lucky Instrument    | Bouzouki |
+| Lucky Flower        | Sweet Pea    |
+| Lucky Job           | Research Scientist       |
+| Lucky Exercise      | Skimboarding  |
+| Lucky Country       | Solomon Islands    |
 
 
 ##  Final Reflections on Dreams

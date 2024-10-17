@@ -1,8 +1,8 @@
 ---
     weight: 2045
     title: "Dream of your husband being your biggest cheerleader and supporter."  # Assuming 'title' column exists
-    date: 2024-10-13T14:51:00+08:00
-    lastmod: 2024-10-13T14:51:00+08:00
+    date: 2024-10-11T15:16:00+08:00
+    lastmod: 2024-10-11T15:16:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'cheerleader', 'Dream', 'being', 'supporter.', 'husband', 'biggest', 'and', 'of']
+    tags: ['being', 'Dream', 'biggest', 'cheerleader', 'supporter', 'husband']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Guinea pig |
 | Lucky Place         | Academy     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Burrito      |
-| Lucky Instrument    | Electric Violin |
-| Lucky Flower        | Snapdragon    |
-| Lucky Job           | Oceanographer       |
-| Lucky Exercise      | Water Polo  |
-| Lucky Country       | Singapore    |
+| Lucky Food          | Shepherd's Pie      |
+| Lucky Instrument    | Piccolo |
+| Lucky Flower        | Feverfew    |
+| Lucky Job           | Financial Analyst       |
+| Lucky Exercise      | Ultimate Frisbee  |
+| Lucky Country       | Sweden    |
 
 
 ##  Final Reflections on Dreams

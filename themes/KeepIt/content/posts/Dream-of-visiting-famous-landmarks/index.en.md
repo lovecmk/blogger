@@ -1,8 +1,8 @@
 ---
     weight: 1429
     title: "Dream of visiting famous landmarks"  # Assuming 'title' column exists
-    date: 2024-10-13T17:18:00+08:00
-    lastmod: 2024-10-13T17:18:00+08:00
+    date: 2024-10-14T20:27:00+08:00
+    lastmod: 2024-10-14T20:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'visiting', 'famous', 'landmarks', 'of']
+    tags: ['landmarks', 'Dream', 'visiting', 'famous']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Kangaroo |
 | Lucky Place         | Restaurant     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Croissant      |
-| Lucky Instrument    | Mandolin |
-| Lucky Flower        | Petunia    |
-| Lucky Job           | Project Manager       |
-| Lucky Exercise      | Plank  |
-| Lucky Country       | Malta    |
+| Lucky Food          | Corn on the Cob      |
+| Lucky Instrument    | Tenor Banjo |
+| Lucky Flower        | Sage    |
+| Lucky Job           | Chemist       |
+| Lucky Exercise      | Sit-Ups  |
+| Lucky Country       | Tuvalu    |
 
 
 ##  Final Reflections on Dreams

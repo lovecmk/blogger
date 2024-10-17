@@ -1,8 +1,8 @@
 ---
     weight: 507
     title: "Dream of riding a skateboard"  # Assuming 'title' column exists
-    date: 2024-10-13T00:14:00+08:00
-    lastmod: 2024-10-13T00:14:00+08:00
+    date: 2024-10-13T03:40:00+08:00
+    lastmod: 2024-10-13T03:40:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'a', 'of', 'riding', 'skateboard']
+    tags: ['Dream', 'skateboard', 'riding']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'Skateboard Dream' can indicate that new experiences and challenges 
 | Lucky Animal        | Elephant |
 | Lucky Place         | Academy     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Quesadilla      |
-| Lucky Instrument    | Accordion |
-| Lucky Flower        | Bouvardia    |
-| Lucky Job           | Bus Driver       |
-| Lucky Exercise      | Aerobics  |
-| Lucky Country       | Lesotho    |
+| Lucky Food          | Beef Wellington      |
+| Lucky Instrument    | Maracas |
+| Lucky Flower        | Zinnia    |
+| Lucky Job           | Engineer       |
+| Lucky Exercise      | Skiing  |
+| Lucky Country       | United Kingdom    |
 
 
 ##  Final Reflections on Dreams

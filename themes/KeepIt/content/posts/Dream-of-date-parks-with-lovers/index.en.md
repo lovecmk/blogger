@@ -1,8 +1,8 @@
 ---
     weight: 202
     title: "Dream of date parks with lovers"  # Assuming 'title' column exists
-    date: 2024-10-13T13:07:00+08:00
-    lastmod: 2024-10-13T13:07:00+08:00
+    date: 2024-10-15T08:13:00+08:00
+    lastmod: 2024-10-15T08:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['parks', 'lovers', 'Dream', 'of', 'with', 'date']
+    tags: ['lovers', 'Dream', 'parks', 'date']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,11 +59,11 @@ The luck of this dream can be associated with pleasure, love, and freedom.The am
 | Lucky Animal        | Horse |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Pork Belly      |
-| Lucky Instrument    | Flute |
-| Lucky Flower        | Clover Blossom    |
-| Lucky Job           | Doctor       |
-| Lucky Exercise      | Juggling  |
+| Lucky Food          | Chips      |
+| Lucky Instrument    | Synthesizer |
+| Lucky Flower        | Nasturtium    |
+| Lucky Job           | Oceanographer       |
+| Lucky Exercise      | Skating  |
 | Lucky Country       | Mongolia    |
 
 

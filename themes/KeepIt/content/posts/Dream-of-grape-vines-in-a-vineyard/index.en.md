@@ -1,8 +1,8 @@
 ---
     weight: 1682
     title: "Dream of strawberry fields stretching endlessly"  # Assuming 'title' column exists
-    date: 2024-10-13T05:28:00+08:00
-    lastmod: 2024-10-13T05:28:00+08:00
+    date: 2024-10-13T11:17:00+08:00
+    lastmod: 2024-10-13T11:17:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['endlessly', 'fields', 'Dream', 'strawberry', 'stretching', 'of']
+    tags: ['Dream', 'strawberry', 'stretching', 'fields', 'endlessly']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream brings a sense of luck and fortune in terms of your financial matters
 | Lucky Animal        | Deer |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Pork Belly      |
-| Lucky Instrument    | Synthesizer |
-| Lucky Flower        | Bleeding Heart    |
-| Lucky Job           | Network Administrator       |
-| Lucky Exercise      | Ultimate Frisbee  |
-| Lucky Country       | Eswatini    |
+| Lucky Food          | Corn on the Cob      |
+| Lucky Instrument    | Erhu |
+| Lucky Flower        | Iris    |
+| Lucky Job           | Dentist       |
+| Lucky Exercise      | Gymnastics  |
+| Lucky Country       | Malawi    |
 
 
 ##  Final Reflections on Dreams

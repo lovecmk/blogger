@@ -1,8 +1,8 @@
 ---
     weight: 1804
     title: "Dream of fighting in a gladiator arena"  # Assuming 'title' column exists
-    date: 2024-10-13T18:00:00+08:00
-    lastmod: 2024-10-13T18:00:00+08:00
+    date: 2024-10-14T03:34:00+08:00
+    lastmod: 2024-10-14T03:34:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['arena', 'fighting', 'Dream', 'a', 'gladiator', 'in', 'of']
+    tags: ['gladiator', 'arena', 'Dream', 'fighting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Panda |
 | Lucky Place         | Lake     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Beef Stroganoff      |
-| Lucky Instrument    | Tenor Saxophone |
-| Lucky Flower        | Sundew    |
-| Lucky Job           | Director       |
-| Lucky Exercise      | Hot Yoga  |
-| Lucky Country       | Bulgaria    |
+| Lucky Food          | Spring Roll      |
+| Lucky Instrument    | Piccolo |
+| Lucky Flower        | Lily    |
+| Lucky Job           | Video Editor       |
+| Lucky Exercise      | Lunges  |
+| Lucky Country       | Malawi    |
 
 
 ##  Final Reflections on Dreams

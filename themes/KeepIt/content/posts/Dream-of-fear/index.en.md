@@ -1,8 +1,8 @@
 ---
     weight: 995
     title: "Dream of fear"  # Assuming 'title' column exists
-    date: 2024-10-13T00:55:00+08:00
-    lastmod: 2024-10-13T00:55:00+08:00
+    date: 2024-10-12T03:58:00+08:00
+    lastmod: 2024-10-12T03:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fear', 'of', 'Dream']
+    tags: ['Dream', 'fear']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -60,11 +60,11 @@ The luck of 'fearful dreams' may vary depending on the individual, and you need 
 | Lucky Place         | Beach     |
 | Lucky Color         | White     |
 | Lucky Food          | Mango Sticky Rice      |
-| Lucky Instrument    | Tuba |
-| Lucky Flower        | Peony    |
-| Lucky Job           | Catering Manager       |
-| Lucky Exercise      | Parkour  |
-| Lucky Country       | Vietnam    |
+| Lucky Instrument    | Synthesizer |
+| Lucky Flower        | Edelweiss    |
+| Lucky Job           | Electrician       |
+| Lucky Exercise      | Yoga Flow  |
+| Lucky Country       | Czech Republic    |
 
 
 ##  Final Reflections on Dreams

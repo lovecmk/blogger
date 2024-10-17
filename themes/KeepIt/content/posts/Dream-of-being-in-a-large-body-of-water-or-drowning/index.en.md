@@ -1,8 +1,8 @@
 ---
     weight: 1438
     title: "Dream of being in a large body of water or drowning"  # Assuming 'title' column exists
-    date: 2024-10-13T03:20:00+08:00
-    lastmod: 2024-10-13T03:20:00+08:00
+    date: 2024-10-11T08:22:00+08:00
+    lastmod: 2024-10-11T08:22:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['body', 'water', 'or', 'large', 'Dream', 'being', 'a', 'in', 'of', 'drowning']
+    tags: ['being', 'water', 'Dream', 'large', 'drowning', 'body']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Bear |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Fried Rice      |
-| Lucky Instrument    | Bass Drum |
-| Lucky Flower        | Pansy    |
-| Lucky Job           | Mechanic       |
-| Lucky Exercise      | Foam Rolling  |
-| Lucky Country       | Brazil    |
+| Lucky Food          | Seafood Paella      |
+| Lucky Instrument    | Sackbut |
+| Lucky Flower        | Hellebore    |
+| Lucky Job           | Quality Assurance Tester       |
+| Lucky Exercise      | Kettlebell Training  |
+| Lucky Country       | Bulgaria    |
 
 
 ##  Final Reflections on Dreams

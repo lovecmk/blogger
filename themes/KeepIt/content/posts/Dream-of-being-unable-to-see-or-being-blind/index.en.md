@@ -1,8 +1,8 @@
 ---
     weight: 1277
     title: "Dream of being unable to see or being blind"  # Assuming 'title' column exists
-    date: 2024-10-13T15:05:00+08:00
-    lastmod: 2024-10-13T15:05:00+08:00
+    date: 2024-10-12T21:53:00+08:00
+    lastmod: 2024-10-12T21:53:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['blind', 'unable', 'or', 'to', 'Dream', 'being', 'see', 'of']
+    tags: ['being', 'Dream', 'see', 'to', 'blind', 'unable']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Deer |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Quesadilla      |
-| Lucky Instrument    | Accordion |
-| Lucky Flower        | Edelweiss    |
-| Lucky Job           | Copywriter       |
-| Lucky Exercise      | Pilates  |
-| Lucky Country       | Western Sahara    |
+| Lucky Food          | Ramen      |
+| Lucky Instrument    | Bass Guitar |
+| Lucky Flower        | Hoya    |
+| Lucky Job           | Video Editor       |
+| Lucky Exercise      | Ultimate Frisbee  |
+| Lucky Country       | Vanuatu    |
 
 
 ##  Final Reflections on Dreams

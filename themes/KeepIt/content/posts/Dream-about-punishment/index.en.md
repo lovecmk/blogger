@@ -1,8 +1,8 @@
 ---
     weight: 1120
     title: "Dream about punishment"  # Assuming 'title' column exists
-    date: 2024-10-13T03:19:00+08:00
-    lastmod: 2024-10-13T03:19:00+08:00
+    date: 2024-10-14T08:10:00+08:00
+    lastmod: 2024-10-14T08:10:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['punishment', 'about', 'Dream']
+    tags: ['Dream', 'punishment']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is the recognition and reward of your efforts and sacrifi
 | Lucky Animal        | Hamster |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Shrimp      |
-| Lucky Instrument    | Wooden Flute |
-| Lucky Flower        | Geranium    |
-| Lucky Job           | Art Director       |
-| Lucky Exercise      | Sledge Hockey  |
-| Lucky Country       | Pakistan    |
+| Lucky Food          | Samosa      |
+| Lucky Instrument    | Slide Guitar |
+| Lucky Flower        | Stephanotis    |
+| Lucky Job           | Video Editor       |
+| Lucky Exercise      | Underwater Diving  |
+| Lucky Country       | Vanuatu    |
 
 
 ##  Final Reflections on Dreams

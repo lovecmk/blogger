@@ -1,8 +1,8 @@
 ---
     weight: 1251
     title: "Dream of dealing with a loud alarm"  # Assuming 'title' column exists
-    date: 2024-10-13T03:36:00+08:00
-    lastmod: 2024-10-13T03:36:00+08:00
+    date: 2024-10-12T20:23:00+08:00
+    lastmod: 2024-10-12T20:23:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['alarm', 'loud', 'Dream', 'a', 'of', 'with', 'dealing']
+    tags: ['Dream', 'alarm', 'dealing', 'loud']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Gorilla |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Waffles      |
-| Lucky Instrument    | Piccolo Trumpet |
-| Lucky Flower        | Sea Lavender    |
-| Lucky Job           | Fitness Instructor       |
-| Lucky Exercise      | Yoga  |
-| Lucky Country       | Slovakia    |
+| Lucky Food          | Duck Confit      |
+| Lucky Instrument    | Ney |
+| Lucky Flower        | Clover Blossom    |
+| Lucky Job           | Sous Chef       |
+| Lucky Exercise      | Aerobics  |
+| Lucky Country       | Malaysia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 819
     title: "Dream of fire in the company"  # Assuming 'title' column exists
-    date: 2024-10-13T16:00:00+08:00
-    lastmod: 2024-10-13T16:00:00+08:00
+    date: 2024-10-12T19:58:00+08:00
+    lastmod: 2024-10-12T19:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'fire', 'Dream', 'company', 'in', 'of']
+    tags: ['Dream', 'fire', 'company']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ It is hard to say that 'dreams of fire in the company' brings good luck.But this
 | Lucky Animal        | Fox |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Potato Skins      |
-| Lucky Instrument    | Piano |
-| Lucky Flower        | Heather    |
-| Lucky Job           | Logistician       |
-| Lucky Exercise      | Rugby  |
-| Lucky Country       | Nigeria    |
+| Lucky Food          | Brownies      |
+| Lucky Instrument    | Synthesizer |
+| Lucky Flower        | Narcissus    |
+| Lucky Job           | Sales Representative       |
+| Lucky Exercise      | Interval Training  |
+| Lucky Country       | Turkmenistan    |
 
 
 ##  Final Reflections on Dreams

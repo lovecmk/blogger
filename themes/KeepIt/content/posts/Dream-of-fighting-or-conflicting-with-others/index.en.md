@@ -1,8 +1,8 @@
 ---
     weight: 367
     title: "Dream of fighting or conflicting with others"  # Assuming 'title' column exists
-    date: 2024-10-13T20:05:00+08:00
-    lastmod: 2024-10-13T20:05:00+08:00
+    date: 2024-10-14T09:08:00+08:00
+    lastmod: 2024-10-14T09:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'fighting', 'Dream', 'others', 'of', 'with', 'conflicting']
+    tags: ['others', 'Dream', 'fighting', 'conflicting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is that you can have the ability to actively deal with co
 | Lucky Animal        | Duck |
 | Lucky Place         | Park     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Chicken Parmesan      |
-| Lucky Instrument    | Claves |
-| Lucky Flower        | Moss Rose    |
-| Lucky Job           | Mechanic       |
-| Lucky Exercise      | Burpees  |
-| Lucky Country       | Yemen    |
+| Lucky Food          | Noodles      |
+| Lucky Instrument    | Ocarina |
+| Lucky Flower        | Foxglove    |
+| Lucky Job           | Postman       |
+| Lucky Exercise      | CrossFit  |
+| Lucky Country       | Palau    |
 
 
 ##  Final Reflections on Dreams

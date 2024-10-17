@@ -1,8 +1,8 @@
 ---
     weight: 1487
     title: "Dream of waiting for someone who doesn't show up"  # Assuming 'title' column exists
-    date: 2024-10-13T05:39:00+08:00
-    lastmod: 2024-10-13T05:39:00+08:00
+    date: 2024-10-11T11:41:00+08:00
+    lastmod: 2024-10-11T11:41:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['who', "doesn't", 'Dream', 'for', 'show', 'up', 'someone', 'waiting', 'of']
+    tags: ['who', 'up', 'Dream', "doesn't", 'show', 'someone', 'waiting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Chicken |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Green     |
-| Lucky Food          | Zucchini Noodles      |
-| Lucky Instrument    | Hang Drum |
-| Lucky Flower        | Celosia    |
-| Lucky Job           | IT Specialist       |
-| Lucky Exercise      | Resistance Training  |
-| Lucky Country       | Turkey    |
+| Lucky Food          | Chicken Curry      |
+| Lucky Instrument    | Electric Guitar |
+| Lucky Flower        | Monkey Grass    |
+| Lucky Job           | Scientist       |
+| Lucky Exercise      | Walking  |
+| Lucky Country       | Iceland    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1504
     title: "Dream of your dog being a fashion designer"  # Assuming 'title' column exists
-    date: 2024-10-13T22:41:00+08:00
-    lastmod: 2024-10-13T22:41:00+08:00
+    date: 2024-10-13T18:02:00+08:00
+    lastmod: 2024-10-13T18:02:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'Dream', 'being', 'a', 'fashion', 'designer', 'of', 'dog']
+    tags: ['being', 'fashion', 'designer', 'Dream', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,11 +59,11 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hyena |
 | Lucky Place         | River     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Beef Tacos      |
-| Lucky Instrument    | Basset Horn |
-| Lucky Flower        | Ranunculus    |
-| Lucky Job           | SEO Specialist       |
-| Lucky Exercise      | Ballet  |
+| Lucky Food          | Omelette      |
+| Lucky Instrument    | Lap Steel Guitar |
+| Lucky Flower        | Peach Blossom    |
+| Lucky Job           | Geologist       |
+| Lucky Exercise      | Leg Press  |
 | Lucky Country       | Japan    |
 
 

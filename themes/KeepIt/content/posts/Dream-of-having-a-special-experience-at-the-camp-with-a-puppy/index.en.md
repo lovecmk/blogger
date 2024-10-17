@@ -1,8 +1,8 @@
 ---
     weight: 310
     title: "Dream of having a special experience at the camp with a puppy"  # Assuming 'title' column exists
-    date: 2024-10-13T15:28:00+08:00
-    lastmod: 2024-10-13T15:28:00+08:00
+    date: 2024-10-11T23:51:00+08:00
+    lastmod: 2024-10-11T23:51:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['special', 'camp', 'the', 'Dream', 'puppy', 'a', 'experience', 'of', 'with', 'having', 'at']
+    tags: ['Dream', 'special', 'puppy', 'experience', 'camp', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be expected through a pleasant experience and a conne
 | Lucky Animal        | Seal |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Waffles      |
-| Lucky Instrument    | Tenor Guitar |
-| Lucky Flower        | Bouvardia    |
-| Lucky Job           | Biologist       |
-| Lucky Exercise      | Surf Lifesaving  |
-| Lucky Country       | Micronesia    |
+| Lucky Food          | Risotto      |
+| Lucky Instrument    | Bouzouki |
+| Lucky Flower        | Pansy    |
+| Lucky Job           | Data Scientist       |
+| Lucky Exercise      | Skating  |
+| Lucky Country       | Tajikistan    |
 
 
 ##  Final Reflections on Dreams

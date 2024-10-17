@@ -1,8 +1,8 @@
 ---
     weight: 476
     title: "A dream that does not meet the expectations of others"  # Assuming 'title' column exists
-    date: 2024-10-13T05:23:00+08:00
-    lastmod: 2024-10-13T05:23:00+08:00
+    date: 2024-10-13T16:33:00+08:00
+    lastmod: 2024-10-13T16:33:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['does', 'the', 'meet', 'expectations', 'others', 'not', 'dream', 'A', 'of', 'that']
+    tags: ['does', 'others', 'expectations', 'dream', 'meet', 'A', 'not', 'that']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck that this dream gives can be in recognition and respect for yourself, w
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Sushi Roll      |
-| Lucky Instrument    | Tuba |
-| Lucky Flower        | Poinsettia    |
-| Lucky Job           | IT Specialist       |
-| Lucky Exercise      | Resistance Training  |
-| Lucky Country       | Maldives    |
+| Lucky Food          | Shrimp      |
+| Lucky Instrument    | Djembe |
+| Lucky Flower        | Moss Rose    |
+| Lucky Job           | Landscaper       |
+| Lucky Exercise      | Bench Press  |
+| Lucky Country       | Zambia    |
 
 
 ##  Final Reflections on Dreams

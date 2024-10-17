@@ -1,8 +1,8 @@
 ---
     weight: 332
     title: "Dream of overcoming difficult time with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T21:56:00+08:00
-    lastmod: 2024-10-13T21:56:00+08:00
+    date: 2024-10-13T12:00:00+08:00
+    lastmod: 2024-10-13T12:00:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['overcoming', 'your', 'boyfriend', 'Dream', 'difficult', 'time', 'of', 'with']
+    tags: ['difficult', 'Dream', 'boyfriend', 'overcoming', 'time']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream may be a signal that can bring good luck between strong solidarity an
 | Lucky Animal        | Snake |
 | Lucky Place         | River     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Fish and Chips      |
-| Lucky Instrument    | Dulcimer |
-| Lucky Flower        | Poppy    |
-| Lucky Job           | UX Designer       |
-| Lucky Exercise      | Kettlebell Training  |
-| Lucky Country       | Saudi Arabia    |
+| Lucky Food          | Ratatouille      |
+| Lucky Instrument    | Trombone Slide |
+| Lucky Flower        | Borage    |
+| Lucky Job           | Data Analyst       |
+| Lucky Exercise      | Ballet  |
+| Lucky Country       | Pakistan    |
 
 
 ##  Final Reflections on Dreams

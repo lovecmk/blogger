@@ -1,8 +1,8 @@
 ---
     weight: 760
     title: "Dream of living in a comfortable rural village"  # Assuming 'title' column exists
-    date: 2024-10-13T12:20:00+08:00
-    lastmod: 2024-10-13T12:20:00+08:00
+    date: 2024-10-14T11:21:00+08:00
+    lastmod: 2024-10-14T11:21:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['rural', 'Dream', 'a', 'village', 'in', 'living', 'of', 'comfortable']
+    tags: ['Dream', 'living', 'comfortable', 'village', 'rural']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can provide you with peace, stability and satisfaction.It's lucky to 
 | Lucky Animal        | Leopard |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Mango Sticky Rice      |
-| Lucky Instrument    | Piccolo Trumpet |
-| Lucky Flower        | Safflower    |
-| Lucky Job           | User Researcher       |
-| Lucky Exercise      | Tai Chi  |
-| Lucky Country       | Botswana    |
+| Lucky Food          | Fruit Smoothie      |
+| Lucky Instrument    | Drums |
+| Lucky Flower        | Sweet Pea    |
+| Lucky Job           | Interior Designer       |
+| Lucky Exercise      | Parkour Training  |
+| Lucky Country       | Armenia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 981
     title: "Dream of falling out of the water pipe"  # Assuming 'title' column exists
-    date: 2024-10-13T21:17:00+08:00
-    lastmod: 2024-10-13T21:17:00+08:00
+    date: 2024-10-13T20:06:00+08:00
+    lastmod: 2024-10-13T20:06:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['water', 'the', 'out', 'falling', 'Dream', 'of', 'pipe']
+    tags: ['water', 'Dream', 'falling', 'out', 'pipe']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can indicate a free thinking and a desire for a new experience.There 
 | Lucky Animal        | Mouse |
 | Lucky Place         | Lake     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Pork Chops      |
-| Lucky Instrument    | Clarinet |
-| Lucky Flower        | Marigold    |
-| Lucky Job           | Bus Driver       |
-| Lucky Exercise      | Bodyweight Training  |
-| Lucky Country       | Croatia    |
+| Lucky Food          | Clams      |
+| Lucky Instrument    | Slide Guitar |
+| Lucky Flower        | Rose    |
+| Lucky Job           | Web Developer       |
+| Lucky Exercise      | Javelin  |
+| Lucky Country       | United Arab Emirates    |
 
 
 ##  Final Reflections on Dreams

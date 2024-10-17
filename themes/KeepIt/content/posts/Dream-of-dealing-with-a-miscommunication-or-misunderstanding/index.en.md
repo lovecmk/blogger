@@ -1,8 +1,8 @@
 ---
     weight: 1479
     title: "Dream of dealing with a miscommunication or misunderstanding"  # Assuming 'title' column exists
-    date: 2024-10-13T00:25:00+08:00
-    lastmod: 2024-10-13T00:25:00+08:00
+    date: 2024-10-11T04:33:00+08:00
+    lastmod: 2024-10-11T04:33:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'Dream', 'a', 'miscommunication', 'misunderstanding', 'of', 'with', 'dealing']
+    tags: ['Dream', 'dealing', 'misunderstanding', 'miscommunication']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Polar bear |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Fried Rice      |
-| Lucky Instrument    | Bandoneon |
-| Lucky Flower        | Hoya    |
-| Lucky Job           | Baker       |
-| Lucky Exercise      | Racquetball  |
-| Lucky Country       | Oman    |
+| Lucky Food          | Kebab      |
+| Lucky Instrument    | Basset Horn |
+| Lucky Flower        | Aster    |
+| Lucky Job           | Philosopher       |
+| Lucky Exercise      | Trail Running  |
+| Lucky Country       | Angola    |
 
 
 ##  Final Reflections on Dreams

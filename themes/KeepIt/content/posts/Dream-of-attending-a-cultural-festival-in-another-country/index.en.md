@@ -1,8 +1,8 @@
 ---
     weight: 1484
     title: "Dream of attending a cultural festival in another country"  # Assuming 'title' column exists
-    date: 2024-10-13T06:48:00+08:00
-    lastmod: 2024-10-13T06:48:00+08:00
+    date: 2024-10-11T18:06:00+08:00
+    lastmod: 2024-10-11T18:06:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['festival', 'country', 'Dream', 'another', 'a', 'in', 'cultural', 'of', 'attending']
+    tags: ['another', 'Dream', 'country', 'cultural', 'festival', 'attending']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ This dream could bring a sense of good luck and positivity in your life. It may 
 | Lucky Animal        | Parrot |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Navy     |
-| Lucky Food          | Casserole      |
-| Lucky Instrument    | Tuba Horn |
-| Lucky Flower        | Mandevilla    |
-| Lucky Job           | Mechanic       |
-| Lucky Exercise      | Ballet  |
-| Lucky Country       | Namibia    |
+| Lucky Food          | Baba Ganoush      |
+| Lucky Instrument    | Saxello |
+| Lucky Flower        | Lantana    |
+| Lucky Job           | Teacher       |
+| Lucky Exercise      | Golf  |
+| Lucky Country       | Mexico    |
 
 
 ##  Final Reflections on Dreams

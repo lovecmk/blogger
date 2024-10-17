@@ -1,8 +1,8 @@
 ---
     weight: 195
     title: "Dream of imagining the future with lovers"  # Assuming 'title' column exists
-    date: 2024-10-13T20:26:00+08:00
-    lastmod: 2024-10-13T20:26:00+08:00
+    date: 2024-10-13T19:20:00+08:00
+    lastmod: 2024-10-13T19:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lovers', 'the', 'imagining', 'Dream', 'future', 'of', 'with']
+    tags: ['lovers', 'Dream', 'imagining', 'future']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the future you imagine in your drea
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Hummus      |
-| Lucky Instrument    | Ney |
-| Lucky Flower        | Lobelia    |
-| Lucky Job           | Interpreter       |
-| Lucky Exercise      | Sledge Hockey  |
-| Lucky Country       | Saudi Arabia    |
+| Lucky Food          | Pancakes      |
+| Lucky Instrument    | Lap Steel Guitar |
+| Lucky Flower        | Balsam    |
+| Lucky Job           | Doctor       |
+| Lucky Exercise      | Pilates  |
+| Lucky Country       | Oman    |
 
 
 ##  Final Reflections on Dreams

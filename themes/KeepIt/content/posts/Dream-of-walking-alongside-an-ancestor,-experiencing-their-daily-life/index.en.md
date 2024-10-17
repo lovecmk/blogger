@@ -1,8 +1,8 @@
 ---
     weight: 2198
     title: "Dream of fighting for your rights"  # Assuming 'title' column exists
-    date: 2024-10-13T02:54:00+08:00
-    lastmod: 2024-10-13T02:54:00+08:00
+    date: 2024-10-15T09:49:00+08:00
+    lastmod: 2024-10-15T09:49:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'fighting', 'Dream', 'for', 'rights', 'of']
+    tags: ['Dream', 'rights', 'fighting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hamster |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Pesto      |
-| Lucky Instrument    | Guitarlele |
-| Lucky Flower        | Agapanthus    |
-| Lucky Job           | Construction Worker       |
-| Lucky Exercise      | Interval Training  |
-| Lucky Country       | Tuvalu    |
+| Lucky Food          | Hummus      |
+| Lucky Instrument    | Piano |
+| Lucky Flower        | Perennial Aster    |
+| Lucky Job           | Oceanographer       |
+| Lucky Exercise      | Baseball  |
+| Lucky Country       | Hungary    |
 
 
 ##  Final Reflections on Dreams

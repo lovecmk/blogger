@@ -1,8 +1,8 @@
 ---
     weight: 1268
     title: "Dream of being injured in a hit-and-run"  # Assuming 'title' column exists
-    date: 2024-10-13T05:35:00+08:00
-    lastmod: 2024-10-13T05:35:00+08:00
+    date: 2024-10-15T00:17:00+08:00
+    lastmod: 2024-10-15T00:17:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['hit-and-run', 'Dream', 'being', 'a', 'injured', 'in', 'of']
+    tags: ['being', 'injured', 'hit-and-run', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Vegetable Stir Fry      |
-| Lucky Instrument    | Bass Clarinet |
-| Lucky Flower        | Cherry Blossom    |
-| Lucky Job           | Mechanic       |
-| Lucky Exercise      | Push-Ups  |
-| Lucky Country       | Slovakia    |
+| Lucky Food          | Pasta      |
+| Lucky Instrument    | Lap Steel Guitar |
+| Lucky Flower        | Dandelion    |
+| Lucky Job           | Writer       |
+| Lucky Exercise      | Kayaking  |
+| Lucky Country       | Ireland    |
 
 
 ##  Final Reflections on Dreams

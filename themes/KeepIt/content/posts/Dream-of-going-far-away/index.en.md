@@ -1,8 +1,8 @@
 ---
     weight: 363
     title: "Dream of going far away"  # Assuming 'title' column exists
-    date: 2024-10-13T05:57:00+08:00
-    lastmod: 2024-10-13T05:57:00+08:00
+    date: 2024-10-15T09:27:00+08:00
+    lastmod: 2024-10-15T09:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['far', 'away', 'Dream', 'going', 'of']
+    tags: ['Dream', 'going', 'away', 'far']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can be lucky to pursue a new experience and achieve success in a new 
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Park     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Sushi Roll      |
-| Lucky Instrument    | Viola |
-| Lucky Flower        | Aster    |
-| Lucky Job           | Hair Stylist       |
-| Lucky Exercise      | Foam Rolling  |
-| Lucky Country       | Afghanistan    |
+| Lucky Food          | Bagel      |
+| Lucky Instrument    | Tama |
+| Lucky Flower        | Cactus Flower    |
+| Lucky Job           | Web Designer       |
+| Lucky Exercise      | Parkour Training  |
+| Lucky Country       | Qatar    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1730
     title: "Dream of clashes over family beliefs"  # Assuming 'title' column exists
-    date: 2024-10-13T21:34:00+08:00
-    lastmod: 2024-10-13T21:34:00+08:00
+    date: 2024-10-15T22:10:00+08:00
+    lastmod: 2024-10-15T22:10:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'beliefs', 'clashes', 'Dream', 'over', 'of']
+    tags: ['family', 'Dream', 'beliefs', 'clashes', 'over']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Dog |
 | Lucky Place         | Open-air theater     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Cheeseboard      |
-| Lucky Instrument    | Balalaika |
-| Lucky Flower        | Mums    |
-| Lucky Job           | Quality Assurance Tester       |
-| Lucky Exercise      | Circuit Training  |
-| Lucky Country       | Pakistan    |
+| Lucky Food          | Pesto      |
+| Lucky Instrument    | Conga |
+| Lucky Flower        | Mullein    |
+| Lucky Job           | Business Analyst       |
+| Lucky Exercise      | Leg Press  |
+| Lucky Country       | Oman    |
 
 
 ##  Final Reflections on Dreams

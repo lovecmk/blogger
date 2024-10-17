@@ -1,8 +1,8 @@
 ---
     weight: 1816
     title: "Dream of your cat curling up next to you"  # Assuming 'title' column exists
-    date: 2024-10-13T03:50:00+08:00
-    lastmod: 2024-10-13T03:50:00+08:00
+    date: 2024-10-13T05:52:00+08:00
+    lastmod: 2024-10-13T05:52:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'cat', 'next', 'to', 'Dream', 'up', 'of', 'you', 'curling']
+    tags: ['curling', 'next', 'Dream', 'to', 'cat', 'up', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ The dream of indulging in cherries at a picnic brings luck and positive energy. 
 | Lucky Animal        | Chicken |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Beef Stroganoff      |
-| Lucky Instrument    | Bass Clarinet |
-| Lucky Flower        | Cyclamen    |
-| Lucky Job           | Director       |
-| Lucky Exercise      | Sit-Ups  |
-| Lucky Country       | Brunei    |
+| Lucky Food          | Stuffed Peppers      |
+| Lucky Instrument    | Oboe |
+| Lucky Flower        | Zantedeschia    |
+| Lucky Job           | Interpreter       |
+| Lucky Exercise      | Ballet  |
+| Lucky Country       | South Africa    |
 
 
 ##  Final Reflections on Dreams

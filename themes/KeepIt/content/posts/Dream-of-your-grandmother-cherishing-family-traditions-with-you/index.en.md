@@ -1,8 +1,8 @@
 ---
     weight: 1531
     title: "Dream of your grandmother cherishing family traditions with you."  # Assuming 'title' column exists
-    date: 2024-10-13T00:10:00+08:00
-    lastmod: 2024-10-13T00:10:00+08:00
+    date: 2024-10-15T16:22:00+08:00
+    lastmod: 2024-10-15T16:22:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['grandmother', 'family', 'you.', 'your', 'Dream', 'cherishing', 'of', 'with', 'traditions']
+    tags: ['family', 'cherishing', 'Dream', 'grandmother', 'you', 'traditions']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ From a luck perspective, this dream may not bring immediate luck but serves as a
 | Lucky Animal        | Dog |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Cheesecake      |
-| Lucky Instrument    | Tuba Horn |
-| Lucky Flower        | Wisteria    |
-| Lucky Job           | Sales Manager       |
-| Lucky Exercise      | Snowboarding  |
-| Lucky Country       | Lithuania    |
+| Lucky Food          | Chocolate      |
+| Lucky Instrument    | Tabla |
+| Lucky Flower        | Hoya    |
+| Lucky Job           | Field Technician       |
+| Lucky Exercise      | Active Recovery  |
+| Lucky Country       | Angola    |
 
 
 ##  Final Reflections on Dreams

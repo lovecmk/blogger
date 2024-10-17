@@ -1,8 +1,8 @@
 ---
     weight: 1947
     title: "Dream of confrontations with family alliances"  # Assuming 'title' column exists
-    date: 2024-10-13T16:11:00+08:00
-    lastmod: 2024-10-13T16:11:00+08:00
+    date: 2024-10-15T08:55:00+08:00
+    lastmod: 2024-10-15T08:55:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['alliances', 'family', 'Dream', 'confrontations', 'of', 'with']
+    tags: ['family', 'confrontations', 'Dream', 'alliances']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Deer |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Noodles      |
-| Lucky Instrument    | Horn |
+| Lucky Food          | Fried Rice      |
+| Lucky Instrument    | Saxophone |
 | Lucky Flower        | Ragged Robin    |
-| Lucky Job           | Event Planner       |
-| Lucky Exercise      | Beach Volleyball  |
-| Lucky Country       | Turkey    |
+| Lucky Job           | Life Coach       |
+| Lucky Exercise      | Surfing  |
+| Lucky Country       | Mexico    |
 
 
 ##  Final Reflections on Dreams

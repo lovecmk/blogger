@@ -1,8 +1,8 @@
 ---
     weight: 2203
     title: "Dream of your grandmother's wisdom providing guidance in your life."  # Assuming 'title' column exists
-    date: 2024-10-13T20:57:00+08:00
-    lastmod: 2024-10-13T20:57:00+08:00
+    date: 2024-10-11T06:34:00+08:00
+    lastmod: 2024-10-11T06:34:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['wisdom', 'providing', 'your', 'Dream', "grandmother's", 'in', 'of', 'life.', 'guidance']
+    tags: ['life', 'guidance', 'Dream', 'providing', 'wisdom', "grandmother's"]
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rhino |
 | Lucky Place         | Mart     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Pico de Gallo      |
-| Lucky Instrument    | Rudra Veena |
-| Lucky Flower        | Primrose    |
-| Lucky Job           | Nuclear Engineer       |
-| Lucky Exercise      | Leg Press  |
-| Lucky Country       | Kuwait    |
+| Lucky Food          | Pizza      |
+| Lucky Instrument    | Recorder |
+| Lucky Flower        | Carnation    |
+| Lucky Job           | Firefighter       |
+| Lucky Exercise      | Aqua Aerobics  |
+| Lucky Country       | Japan    |
 
 
 ##  Final Reflections on Dreams

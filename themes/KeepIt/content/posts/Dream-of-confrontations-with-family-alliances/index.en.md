@@ -1,8 +1,8 @@
 ---
     weight: 1957
     title: "Dream of seeing a loved one's ghost"  # Assuming 'title' column exists
-    date: 2024-10-13T20:48:00+08:00
-    lastmod: 2024-10-13T20:48:00+08:00
+    date: 2024-10-14T06:31:00+08:00
+    lastmod: 2024-10-14T06:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['seeing', 'ghost', 'Dream', "one's", 'a', 'loved', 'of']
+    tags: ['ghost', 'Dream', 'loved', "one's", 'seeing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Chicken |
 | Lucky Place         | Lake     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Stuffed Mushrooms      |
-| Lucky Instrument    | Sackbut |
-| Lucky Flower        | Stock    |
-| Lucky Job           | Real Estate Agent       |
-| Lucky Exercise      | Gymnastics  |
-| Lucky Country       | Belgium    |
+| Lucky Food          | Tuna Tartare      |
+| Lucky Instrument    | Tenor Guitar |
+| Lucky Flower        | Yarrow    |
+| Lucky Job           | Teacher       |
+| Lucky Exercise      | Box Jumps  |
+| Lucky Country       | Micronesia    |
 
 
 ##  Final Reflections on Dreams

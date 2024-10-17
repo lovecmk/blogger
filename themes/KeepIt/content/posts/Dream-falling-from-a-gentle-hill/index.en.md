@@ -1,8 +1,8 @@
 ---
     weight: 952
     title: "Dream falling from a gentle hill"  # Assuming 'title' column exists
-    date: 2024-10-13T02:11:00+08:00
-    lastmod: 2024-10-13T02:11:00+08:00
+    date: 2024-10-14T14:18:00+08:00
+    lastmod: 2024-10-14T14:18:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['falling', 'Dream', 'a', 'hill', 'from', 'gentle']
+    tags: ['Dream', 'falling', 'hill', 'from', 'gentle']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can provide opportunities to grow and develop through new
 | Lucky Animal        | Snake |
 | Lucky Place         | Museum     |
 | Lucky Color         | Green     |
-| Lucky Food          | Crab      |
-| Lucky Instrument    | Recorder |
-| Lucky Flower        | Nymphaea    |
-| Lucky Job           | Teacher       |
-| Lucky Exercise      | Fencing  |
-| Lucky Country       | Czech Republic    |
+| Lucky Food          | Croissant      |
+| Lucky Instrument    | Guitar |
+| Lucky Flower        | Lily    |
+| Lucky Job           | Real Estate Agent       |
+| Lucky Exercise      | High-Intensity Interval Training (HIIT)  |
+| Lucky Country       | Turkey    |
 
 
 ##  Final Reflections on Dreams

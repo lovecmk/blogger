@@ -1,8 +1,8 @@
 ---
     weight: 1161
     title: "Dream about Social Worker"  # Assuming 'title' column exists
-    date: 2024-10-13T02:09:00+08:00
-    lastmod: 2024-10-13T02:09:00+08:00
+    date: 2024-10-11T07:40:00+08:00
+    lastmod: 2024-10-11T07:40:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Social', 'about', 'Dream', 'Worker']
+    tags: ['Worker', 'Social', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -60,11 +60,11 @@ The luck of 'social worker' dreams may vary by personal interpretation.But if yo
 | Lucky Place         | Promenade     |
 | Lucky Color         | Brown     |
 | Lucky Food          | Waffles      |
-| Lucky Instrument    | Castanets |
-| Lucky Flower        | Butterfly Bush    |
-| Lucky Job           | Accountant       |
-| Lucky Exercise      | Bouldering  |
-| Lucky Country       | Slovakia    |
+| Lucky Instrument    | Cowbell |
+| Lucky Flower        | Hollyhock    |
+| Lucky Job           | Environmental Scientist       |
+| Lucky Exercise      | Water Polo  |
+| Lucky Country       | Czech Republic    |
 
 
 ##  Final Reflections on Dreams

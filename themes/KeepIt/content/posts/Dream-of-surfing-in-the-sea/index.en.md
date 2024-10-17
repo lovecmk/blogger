@@ -1,8 +1,8 @@
 ---
     weight: 502
     title: "Dream of surfing in the sea"  # Assuming 'title' column exists
-    date: 2024-10-13T00:59:00+08:00
-    lastmod: 2024-10-13T00:59:00+08:00
+    date: 2024-10-14T08:13:00+08:00
+    lastmod: 2024-10-14T08:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['the', 'Dream', 'sea', 'in', 'of', 'surfing']
+    tags: ['sea', 'Dream', 'surfing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can appear in many forms.Surfing symbolizes freedom, and 
 | Lucky Animal        | Horse |
 | Lucky Place         | Cafe     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Gumbo      |
-| Lucky Instrument    | Banjo |
-| Lucky Flower        | Verbena    |
-| Lucky Job           | User Researcher       |
-| Lucky Exercise      | Cycling  |
-| Lucky Country       | Yemen    |
+| Lucky Food          | Baklava      |
+| Lucky Instrument    | Basset Horn |
+| Lucky Flower        | Dandelion    |
+| Lucky Job           | Welder       |
+| Lucky Exercise      | Juggling  |
+| Lucky Country       | Turkey    |
 
 
 ##  Final Reflections on Dreams

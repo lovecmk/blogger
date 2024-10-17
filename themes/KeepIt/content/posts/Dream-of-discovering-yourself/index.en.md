@@ -1,8 +1,8 @@
 ---
     weight: 1036
     title: "Dream of discovering yourself"  # Assuming 'title' column exists
-    date: 2024-10-13T19:56:00+08:00
-    lastmod: 2024-10-13T19:56:00+08:00
+    date: 2024-10-13T09:56:00+08:00
+    lastmod: 2024-10-13T09:56:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'yourself', 'discovering', 'Dream']
+    tags: ['discovering', 'Dream', 'yourself']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The dream of finding yourself can symbolize new possibilities and luck.The exper
 | Lucky Animal        | Chameleon |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Pork Chops      |
-| Lucky Instrument    | Maracas |
-| Lucky Flower        | Narcissus    |
-| Lucky Job           | Researcher       |
-| Lucky Exercise      | Ballet  |
-| Lucky Country       | Iran    |
+| Lucky Food          | Tofu      |
+| Lucky Instrument    | Bagpipes |
+| Lucky Flower        | Hydrangea    |
+| Lucky Job           | Producer       |
+| Lucky Exercise      | Stand-Up Paddleboarding  |
+| Lucky Country       | Oman    |
 
 
 ##  Final Reflections on Dreams

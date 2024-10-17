@@ -1,8 +1,8 @@
 ---
     weight: 1969
     title: "Dream of a conversation with a deceased person"  # Assuming 'title' column exists
-    date: 2024-10-13T15:01:00+08:00
-    lastmod: 2024-10-13T15:01:00+08:00
+    date: 2024-10-13T02:22:00+08:00
+    lastmod: 2024-10-13T02:22:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['of', 'Dream', 'a', 'person', 'with', 'conversation', 'deceased']
+    tags: ['conversation', 'person', 'Dream', 'deceased']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Goose |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Tart      |
-| Lucky Instrument    | Viola |
-| Lucky Flower        | Lantana    |
-| Lucky Job           | Pharmacist       |
-| Lucky Exercise      | Jump Squats  |
-| Lucky Country       | Hungary    |
+| Lucky Food          | Chips      |
+| Lucky Instrument    | Clarinet |
+| Lucky Flower        | Tansy    |
+| Lucky Job           | Event Coordinator       |
+| Lucky Exercise      | Squats  |
+| Lucky Country       | South Korea    |
 
 
 ##  Final Reflections on Dreams

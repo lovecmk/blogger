@@ -1,8 +1,8 @@
 ---
     weight: 2199
     title: "Dream of feeling deep sadness or despair"  # Assuming 'title' column exists
-    date: 2024-10-13T13:14:00+08:00
-    lastmod: 2024-10-13T13:14:00+08:00
+    date: 2024-10-11T23:31:00+08:00
+    lastmod: 2024-10-11T23:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['feeling', 'or', 'deep', 'Dream', 'despair', 'sadness', 'of']
+    tags: ['Dream', 'deep', 'feeling', 'despair', 'sadness']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Interpreting luck from dreams is not a precise science, but this dream might be 
 | Lucky Animal        | Chicken |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Baked Ziti      |
-| Lucky Instrument    | Harmonica |
-| Lucky Flower        | Primrose    |
-| Lucky Job           | Insurance Underwriter       |
-| Lucky Exercise      | Rock Climbing  |
-| Lucky Country       | Belgium    |
+| Lucky Food          | Crab      |
+| Lucky Instrument    | Castanets |
+| Lucky Flower        | Gillyflower    |
+| Lucky Job           | Sales Representative       |
+| Lucky Exercise      | Belly Dancing  |
+| Lucky Country       | Portugal    |
 
 
 ##  Final Reflections on Dreams

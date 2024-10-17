@@ -1,8 +1,8 @@
 ---
     weight: 1420
     title: "Dream of your dog being a philosopher"  # Assuming 'title' column exists
-    date: 2024-10-13T09:50:00+08:00
-    lastmod: 2024-10-13T09:50:00+08:00
+    date: 2024-10-11T02:25:00+08:00
+    lastmod: 2024-10-11T02:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'Dream', 'being', 'a', 'philosopher', 'of', 'dog']
+    tags: ['being', 'Dream', 'philosopher', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ While dreams themselves do not bring luck, this dream suggests that embracing an
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Onion Rings      |
-| Lucky Instrument    | Djembe |
-| Lucky Flower        | Sunflower    |
-| Lucky Job           | Field Technician       |
-| Lucky Exercise      | Juggling  |
-| Lucky Country       | Tonga    |
+| Lucky Food          | Brownies      |
+| Lucky Instrument    | Wooden Flute |
+| Lucky Flower        | Bleeding Heart    |
+| Lucky Job           | Taxi Driver       |
+| Lucky Exercise      | Sprinting  |
+| Lucky Country       | Sweden    |
 
 
 ##  Final Reflections on Dreams

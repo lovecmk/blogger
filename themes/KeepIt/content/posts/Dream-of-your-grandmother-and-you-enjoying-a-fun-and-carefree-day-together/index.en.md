@@ -1,8 +1,8 @@
 ---
     weight: 1939
     title: "Dream of your husband overcoming a challenge with determination."  # Assuming 'title' column exists
-    date: 2024-10-13T19:20:00+08:00
-    lastmod: 2024-10-13T19:20:00+08:00
+    date: 2024-10-13T21:12:00+08:00
+    lastmod: 2024-10-13T21:12:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'overcoming', 'determination.', 'Dream', 'husband', 'a', 'of', 'with', 'challenge']
+    tags: ['challenge', 'Dream', 'overcoming', 'husband', 'determination']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Chowder      |
-| Lucky Instrument    | Tabor |
-| Lucky Flower        | Buttercup    |
-| Lucky Job           | Archaeologist       |
-| Lucky Exercise      | Rock Climbing  |
-| Lucky Country       | Turkmenistan    |
+| Lucky Food          | Eggplant Parmesan      |
+| Lucky Instrument    | Fretless Bass |
+| Lucky Flower        | Tansy    |
+| Lucky Job           | Journalist       |
+| Lucky Exercise      | Kite Surfing  |
+| Lucky Country       | Botswana    |
 
 
 ##  Final Reflections on Dreams

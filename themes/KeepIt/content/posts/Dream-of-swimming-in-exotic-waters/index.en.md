@@ -1,8 +1,8 @@
 ---
     weight: 1329
     title: "Dream of swimming in exotic waters"  # Assuming 'title' column exists
-    date: 2024-10-13T05:38:00+08:00
-    lastmod: 2024-10-13T05:38:00+08:00
+    date: 2024-10-13T04:34:00+08:00
+    lastmod: 2024-10-13T04:34:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['waters', 'exotic', 'Dream', 'in', 'of', 'swimming']
+    tags: ['swimming', 'Dream', 'waters', 'exotic']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Chameleon |
 | Lucky Place         | Lake     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Burger      |
-| Lucky Instrument    | Clarinet |
-| Lucky Flower        | Mums    |
-| Lucky Job           | Actor       |
-| Lucky Exercise      | Hammer Throw  |
-| Lucky Country       | Syria    |
+| Lucky Food          | Burrito      |
+| Lucky Instrument    | Electric Violin |
+| Lucky Flower        | Stock    |
+| Lucky Job           | Translator       |
+| Lucky Exercise      | Shot Put  |
+| Lucky Country       | United Arab Emirates    |
 
 
 ##  Final Reflections on Dreams

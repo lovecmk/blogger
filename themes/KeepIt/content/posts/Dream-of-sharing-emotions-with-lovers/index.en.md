@@ -1,8 +1,8 @@
 ---
     weight: 206
     title: "Dream of sharing emotions with lovers"  # Assuming 'title' column exists
-    date: 2024-10-13T12:12:00+08:00
-    lastmod: 2024-10-13T12:12:00+08:00
+    date: 2024-10-15T15:08:00+08:00
+    lastmod: 2024-10-15T15:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['lovers', 'emotions', 'Dream', 'sharing', 'of', 'with']
+    tags: ['lovers', 'emotions', 'Dream', 'sharing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Dreams of sharing emotions with lovers can show their will to develop their rela
 | Lucky Animal        | Hamster |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Muffin      |
-| Lucky Instrument    | Fretless Bass |
-| Lucky Flower        | Heliotrope    |
-| Lucky Job           | Business Analyst       |
-| Lucky Exercise      | Hiking  |
-| Lucky Country       | Poland    |
+| Lucky Food          | Prawn Crackers      |
+| Lucky Instrument    | Horn |
+| Lucky Flower        | Narcissus    |
+| Lucky Job           | Farmer       |
+| Lucky Exercise      | Basketball  |
+| Lucky Country       | Italy    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1133
     title: "Dream about goblin"  # Assuming 'title' column exists
-    date: 2024-10-13T22:01:00+08:00
-    lastmod: 2024-10-13T22:01:00+08:00
+    date: 2024-10-14T14:13:00+08:00
+    lastmod: 2024-10-14T14:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['goblin', 'about', 'Dream']
+    tags: ['Dream', 'goblin']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of the dream of 'goblin' emphasizes creativity and unique.This dream su
 | Lucky Animal        | Hamster |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Fish and Chips      |
-| Lucky Instrument    | Balalaika |
-| Lucky Flower        | Calla Lily    |
-| Lucky Job           | Web Developer       |
-| Lucky Exercise      | Stand-Up Paddleboarding  |
-| Lucky Country       | United States    |
+| Lucky Food          | Lasagna      |
+| Lucky Instrument    | Shakuhachi |
+| Lucky Flower        | Nymphaea    |
+| Lucky Job           | Network Administrator       |
+| Lucky Exercise      | Ultimate Frisbee  |
+| Lucky Country       | Cyprus    |
 
 
 ##  Final Reflections on Dreams

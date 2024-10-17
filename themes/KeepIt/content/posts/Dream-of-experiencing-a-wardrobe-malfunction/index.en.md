@@ -1,8 +1,8 @@
 ---
     weight: 1269
     title: "Dream of experiencing a wardrobe malfunction"  # Assuming 'title' column exists
-    date: 2024-10-13T00:08:00+08:00
-    lastmod: 2024-10-13T00:08:00+08:00
+    date: 2024-10-11T08:53:00+08:00
+    lastmod: 2024-10-11T08:53:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['wardrobe', 'experiencing', 'Dream', 'a', 'malfunction', 'of']
+    tags: ['experiencing', 'Dream', 'malfunction', 'wardrobe']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Horse |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Fruit Salad      |
-| Lucky Instrument    | Bass Clarinet |
-| Lucky Flower        | Dandelion    |
-| Lucky Job           | Psychologist       |
-| Lucky Exercise      | Fencing  |
-| Lucky Country       | Western Sahara    |
+| Lucky Food          | Caprese Skewers      |
+| Lucky Instrument    | Electric Violin |
+| Lucky Flower        | Hoya    |
+| Lucky Job           | Writer       |
+| Lucky Exercise      | Skating  |
+| Lucky Country       | Mexico    |
 
 
 ##  Final Reflections on Dreams

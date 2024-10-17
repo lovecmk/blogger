@@ -1,8 +1,8 @@
 ---
     weight: 1214
     title: "Dream about Personal Shopper"  # Assuming 'title' column exists
-    date: 2024-10-13T21:28:00+08:00
-    lastmod: 2024-10-13T21:28:00+08:00
+    date: 2024-10-14T01:20:00+08:00
+    lastmod: 2024-10-14T01:20:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Personal', 'Shopper', 'about', 'Dream']
+    tags: ['Personal', 'Dream', 'Shopper']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The dream of a film called 'Personal Shopper' is difficult to relate to personal
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Dumplings      |
-| Lucky Instrument    | Erhu |
-| Lucky Flower        | Hollyhock    |
-| Lucky Job           | Artist       |
-| Lucky Exercise      | Aqua Aerobics  |
-| Lucky Country       | Greece    |
+| Lucky Food          | Cheesecake      |
+| Lucky Instrument    | Glockenspiel |
+| Lucky Flower        | Pelargonium    |
+| Lucky Job           | Life Coach       |
+| Lucky Exercise      | Lacrosse  |
+| Lucky Country       | Sweden    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1819
     title: "Dream of picking ripe raspberries"  # Assuming 'title' column exists
-    date: 2024-10-13T03:44:00+08:00
-    lastmod: 2024-10-13T03:44:00+08:00
+    date: 2024-10-12T07:12:00+08:00
+    lastmod: 2024-10-12T07:12:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['picking', 'raspberries', 'Dream', 'ripe', 'of']
+    tags: ['Dream', 'raspberries', 'picking', 'ripe']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Guinea pig |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Cheeseboard      |
-| Lucky Instrument    | Piccolo |
-| Lucky Flower        | Nasturtium    |
-| Lucky Job           | Stockbroker       |
-| Lucky Exercise      | Racquetball  |
-| Lucky Country       | Azerbaijan    |
+| Lucky Food          | Eggplant Parmesan      |
+| Lucky Instrument    | Harmonic Piano |
+| Lucky Flower        | Heliotrope    |
+| Lucky Job           | Sous Chef       |
+| Lucky Exercise      | Resistance Training  |
+| Lucky Country       | Turkey    |
 
 
 ##  Final Reflections on Dreams

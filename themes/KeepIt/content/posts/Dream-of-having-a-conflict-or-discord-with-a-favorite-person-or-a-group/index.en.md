@@ -1,8 +1,8 @@
 ---
     weight: 494
     title: "Dream of having a conflict or discord with a favorite person or a group"  # Assuming 'title' column exists
-    date: 2024-10-13T05:16:00+08:00
-    lastmod: 2024-10-13T05:16:00+08:00
+    date: 2024-10-13T12:29:00+08:00
+    lastmod: 2024-10-13T12:29:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['with', 'or', 'of', 'favorite', 'Dream', 'a', 'group', 'person', 'conflict', 'discord', 'having']
+    tags: ['favorite', 'person', 'Dream', 'conflict', 'group', 'discord', 'having']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be found in solving and harmonizing conflicts or disc
 | Lucky Animal        | Monkey |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Lasagna      |
-| Lucky Instrument    | Maracas |
-| Lucky Flower        | Bee Balm    |
-| Lucky Job           | Public Relations Specialist       |
-| Lucky Exercise      | Tennis  |
-| Lucky Country       | Singapore    |
+| Lucky Food          | Gnocchi      |
+| Lucky Instrument    | Piccolo Trumpet |
+| Lucky Flower        | Clover Blossom    |
+| Lucky Job           | Physical Therapist       |
+| Lucky Exercise      | Soccer  |
+| Lucky Country       | Serbia    |
 
 
 ##  Final Reflections on Dreams

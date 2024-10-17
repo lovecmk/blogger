@@ -1,8 +1,8 @@
 ---
     weight: 1657
     title: "Dream of disputes about family estrangements"  # Assuming 'title' column exists
-    date: 2024-10-13T07:12:00+08:00
-    lastmod: 2024-10-13T07:12:00+08:00
+    date: 2024-10-12T09:03:00+08:00
+    lastmod: 2024-10-12T09:03:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'about', 'estrangements', 'Dream', 'of', 'disputes']
+    tags: ['family', 'Dream', 'disputes', 'estrangements']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ The luck associated with this dream could be seen as the potential for personal 
 | Lucky Animal        | Parrot |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Popcorn      |
-| Lucky Instrument    | Hang Drum |
-| Lucky Flower        | Bluebell    |
-| Lucky Job           | Musician       |
-| Lucky Exercise      | Yoga Flow  |
-| Lucky Country       | Japan    |
+| Lucky Food          | Baba Ganoush      |
+| Lucky Instrument    | Cymbals |
+| Lucky Flower        | Iris    |
+| Lucky Job           | Psychologist       |
+| Lucky Exercise      | Box Jumps  |
+| Lucky Country       | Singapore    |
 
 
 ##  Final Reflections on Dreams

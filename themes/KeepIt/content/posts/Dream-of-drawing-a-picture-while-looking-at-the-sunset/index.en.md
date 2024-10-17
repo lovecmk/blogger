@@ -1,8 +1,8 @@
 ---
     weight: 618
     title: "Dream of drawing a picture while looking at the sunset"  # Assuming 'title' column exists
-    date: 2024-10-13T23:41:00+08:00
-    lastmod: 2024-10-13T23:41:00+08:00
+    date: 2024-10-14T14:09:00+08:00
+    lastmod: 2024-10-14T14:09:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['drawing', 'picture', 'the', 'Dream', 'a', 'sunset', 'of', 'looking', 'while', 'at']
+    tags: ['while', 'Dream', 'drawing', 'looking', 'sunset', 'picture']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can be lucky through creativity and peace.Painting develops your crea
 | Lucky Animal        | Parrot |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Deep blue     |
-| Lucky Food          | Beef Tacos      |
-| Lucky Instrument    | Keyboard |
-| Lucky Flower        | Magnolia    |
-| Lucky Job           | Sous Chef       |
-| Lucky Exercise      | Kayaking  |
-| Lucky Country       | Nepal    |
+| Lucky Food          | Vegetarian Chili      |
+| Lucky Instrument    | Harmonica |
+| Lucky Flower        | Maranta    |
+| Lucky Job           | Graphic Designer       |
+| Lucky Exercise      | Plank  |
+| Lucky Country       | Nigeria    |
 
 
 ##  Final Reflections on Dreams

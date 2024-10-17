@@ -1,8 +1,8 @@
 ---
     weight: 394
     title: "Dream of running away from a conflict with someone"  # Assuming 'title' column exists
-    date: 2024-10-13T08:24:00+08:00
-    lastmod: 2024-10-13T08:24:00+08:00
+    date: 2024-10-11T12:31:00+08:00
+    lastmod: 2024-10-11T12:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['running', 'away', 'Dream', 'conflict', 'a', 'someone', 'from', 'of', 'with']
+    tags: ['Dream', 'conflict', 'running', 'from', 'someone', 'away']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual's interpretation.But
 | Lucky Animal        | Camel |
 | Lucky Place         | Beach     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Hummus      |
-| Lucky Instrument    | Harp |
-| Lucky Flower        | Ragged Robin    |
-| Lucky Job           | Network Administrator       |
-| Lucky Exercise      | Gymnastics  |
-| Lucky Country       | Fiji    |
+| Lucky Food          | Burger      |
+| Lucky Instrument    | Synthesizer |
+| Lucky Flower        | Wisteria    |
+| Lucky Job           | Chef       |
+| Lucky Exercise      | Basketball  |
+| Lucky Country       | Bulgaria    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 156
     title: "Dream of overcoming a difficult time with family"  # Assuming 'title' column exists
-    date: 2024-10-13T20:02:00+08:00
-    lastmod: 2024-10-13T20:02:00+08:00
+    date: 2024-10-11T15:41:00+08:00
+    lastmod: 2024-10-11T15:41:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'overcoming', 'Dream', 'difficult', 'a', 'time', 'of', 'with']
+    tags: ['family', 'difficult', 'Dream', 'overcoming', 'time']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can give you a variety of luck.This dream can indicate that you can o
 | Lucky Animal        | Crab |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Risotto      |
-| Lucky Instrument    | Oboe |
-| Lucky Flower        | Nasturtium    |
-| Lucky Job           | Operations Manager       |
-| Lucky Exercise      | Jumping Rope  |
-| Lucky Country       | Hungary    |
+| Lucky Food          | Pasta Primavera      |
+| Lucky Instrument    | Zither |
+| Lucky Flower        | Anemone    |
+| Lucky Job           | Software Engineer       |
+| Lucky Exercise      | Resistance Training  |
+| Lucky Country       | Cambodia    |
 
 
 ##  Final Reflections on Dreams

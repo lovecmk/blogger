@@ -1,8 +1,8 @@
 ---
     weight: 839
     title: "Dream of collapsing the house due to fire"  # Assuming 'title' column exists
-    date: 2024-10-13T02:49:00+08:00
-    lastmod: 2024-10-13T02:49:00+08:00
+    date: 2024-10-12T02:58:00+08:00
+    lastmod: 2024-10-12T02:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['collapsing', 'the', 'to', 'fire', 'Dream', 'house', 'due', 'of']
+    tags: ['Dream', 'collapsing', 'due', 'to', 'fire', 'house']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can be understood as a warning about the dangers around you.The bigge
 | Lucky Animal        | Pig |
 | Lucky Place         | Park     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Fried Rice      |
-| Lucky Instrument    | Zouaves |
-| Lucky Flower        | Lily    |
-| Lucky Job           | Customer Service Representative       |
-| Lucky Exercise      | Circuit Workout  |
-| Lucky Country       | Spain    |
+| Lucky Food          | Coconut Shrimp      |
+| Lucky Instrument    | Marimba |
+| Lucky Flower        | Gillyflower    |
+| Lucky Job           | Graphic Designer       |
+| Lucky Exercise      | CrossFit  |
+| Lucky Country       | Angola    |
 
 
 ##  Final Reflections on Dreams

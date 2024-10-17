@@ -1,8 +1,8 @@
 ---
     weight: 1683
     title: "Dream of disputes about family commitments"  # Assuming 'title' column exists
-    date: 2024-10-13T05:20:00+08:00
-    lastmod: 2024-10-13T05:20:00+08:00
+    date: 2024-10-11T23:18:00+08:00
+    lastmod: 2024-10-11T23:18:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'about', 'Dream', 'of', 'disputes', 'commitments']
+    tags: ['family', 'commitments', 'Dream', 'disputes']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Green     |
-| Lucky Food          | Zucchini Noodles      |
-| Lucky Instrument    | Zouaves |
-| Lucky Flower        | Pincushion Flower    |
-| Lucky Job           | Chemist       |
-| Lucky Exercise      | Skating  |
-| Lucky Country       | Vanuatu    |
+| Lucky Food          | Sushi Roll      |
+| Lucky Instrument    | Bass Clarinet |
+| Lucky Flower        | Daisy    |
+| Lucky Job           | Data Analyst       |
+| Lucky Exercise      | Horseback Riding  |
+| Lucky Country       | Bhutan    |
 
 
 ##  Final Reflections on Dreams

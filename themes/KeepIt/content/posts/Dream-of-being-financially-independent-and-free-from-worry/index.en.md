@@ -1,8 +1,8 @@
 ---
     weight: 1579
     title: "Dream of fighting in a futuristic battle"  # Assuming 'title' column exists
-    date: 2024-10-13T01:00:00+08:00
-    lastmod: 2024-10-13T01:00:00+08:00
+    date: 2024-10-13T17:18:00+08:00
+    lastmod: 2024-10-13T17:18:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fighting', 'Dream', 'a', 'in', 'of', 'futuristic', 'battle']
+    tags: ['battle', 'Dream', 'fighting', 'futuristic']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Otter |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Noodles      |
-| Lucky Instrument    | Fiddle |
-| Lucky Flower        | Hollyhock    |
-| Lucky Job           | Dentist       |
-| Lucky Exercise      | CrossFit  |
-| Lucky Country       | Namibia    |
+| Lucky Food          | Beef Tacos      |
+| Lucky Instrument    | Djembe |
+| Lucky Flower        | Poinsettia    |
+| Lucky Job           | Anthropologist       |
+| Lucky Exercise      | Jump Squats  |
+| Lucky Country       | Pakistan    |
 
 
 ##  Final Reflections on Dreams

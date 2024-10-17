@@ -1,8 +1,8 @@
 ---
     weight: 1775
     title: "Dream of having an abundance of money and feeling content."  # Assuming 'title' column exists
-    date: 2024-10-13T10:12:00+08:00
-    lastmod: 2024-10-13T10:12:00+08:00
+    date: 2024-10-15T20:44:00+08:00
+    lastmod: 2024-10-15T20:44:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['feeling', 'content.', 'abundance', 'Dream', 'money', 'an', 'and', 'of', 'having']
+    tags: ['Dream', 'money', 'content', 'feeling', 'abundance', 'having', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Mouse |
 | Lucky Place         | Botanical garden     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Chocolate      |
-| Lucky Instrument    | Bouzouki |
-| Lucky Flower        | Iris    |
-| Lucky Job           | Mathematician       |
-| Lucky Exercise      | Crunches  |
-| Lucky Country       | Saudi Arabia    |
+| Lucky Food          | Gnocchi      |
+| Lucky Instrument    | Cajón |
+| Lucky Flower        | Peony    |
+| Lucky Job           | Artist       |
+| Lucky Exercise      | Bouldering  |
+| Lucky Country       | Armenia    |
 
 
 ##  Final Reflections on Dreams

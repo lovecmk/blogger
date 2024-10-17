@@ -1,8 +1,8 @@
 ---
     weight: 1425
     title: "Dream of going on a culinary tour"  # Assuming 'title' column exists
-    date: 2024-10-13T21:42:00+08:00
-    lastmod: 2024-10-13T21:42:00+08:00
+    date: 2024-10-15T08:38:00+08:00
+    lastmod: 2024-10-15T08:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['tour', 'Dream', 'going', 'a', 'on', 'culinary', 'of']
+    tags: ['tour', 'Dream', 'culinary', 'going']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Seal |
 | Lucky Place         | River     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Biryani      |
-| Lucky Instrument    | Cajón |
-| Lucky Flower        | Bluebell    |
-| Lucky Job           | Real Estate Agent       |
-| Lucky Exercise      | Skating  |
-| Lucky Country       | Qatar    |
+| Lucky Food          | Sandwich      |
+| Lucky Instrument    | Violin Bow |
+| Lucky Flower        | Iris    |
+| Lucky Job           | Insurance Underwriter       |
+| Lucky Exercise      | Weightlifting  |
+| Lucky Country       | Ireland    |
 
 
 ##  Final Reflections on Dreams

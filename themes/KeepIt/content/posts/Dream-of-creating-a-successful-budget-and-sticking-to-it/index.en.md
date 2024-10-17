@@ -1,8 +1,8 @@
 ---
     weight: 1854
     title: "Dream of a conversation with the Grim Reaper"  # Assuming 'title' column exists
-    date: 2024-10-13T06:49:00+08:00
-    lastmod: 2024-10-13T06:49:00+08:00
+    date: 2024-10-13T17:06:00+08:00
+    lastmod: 2024-10-13T17:06:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Reaper', 'Grim', 'of', 'the', 'Dream', 'a', 'with', 'conversation']
+    tags: ['conversation', 'Dream', 'Grim', 'Reaper']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Chameleon |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Violet     |
-| Lucky Food          | Lentil Soup      |
-| Lucky Instrument    | Ocarina |
-| Lucky Flower        | Mums    |
-| Lucky Job           | Copywriter       |
-| Lucky Exercise      | Slacklining  |
-| Lucky Country       | Kuwait    |
+| Lucky Food          | Quiche      |
+| Lucky Instrument    | Harmonium |
+| Lucky Flower        | Cactus Flower    |
+| Lucky Job           | Dentist       |
+| Lucky Exercise      | Calisthenics  |
+| Lucky Country       | Eswatini    |
 
 
 ##  Final Reflections on Dreams

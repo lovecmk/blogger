@@ -1,8 +1,8 @@
 ---
     weight: 1058
     title: "Dream about lion"  # Assuming 'title' column exists
-    date: 2024-10-13T01:56:00+08:00
-    lastmod: 2024-10-13T01:56:00+08:00
+    date: 2024-10-12T00:10:00+08:00
+    lastmod: 2024-10-12T00:10:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['about', 'Dream', 'lion']
+    tags: ['lion', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The dream of 'lion' can indicate that you can bring good luck if you go forward 
 | Lucky Animal        | Cat |
 | Lucky Place         | Amusement park     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Clams      |
-| Lucky Instrument    | Trumpet |
-| Lucky Flower        | Lobelia    |
-| Lucky Job           | Security Guard       |
-| Lucky Exercise      | Surf Lifesaving  |
-| Lucky Country       | Bhutan    |
+| Lucky Food          | Noodles      |
+| Lucky Instrument    | Bongo Drums |
+| Lucky Flower        | Bluebell    |
+| Lucky Job           | Doctor       |
+| Lucky Exercise      | Lunges  |
+| Lucky Country       | Belgium    |
 
 
 ##  Final Reflections on Dreams

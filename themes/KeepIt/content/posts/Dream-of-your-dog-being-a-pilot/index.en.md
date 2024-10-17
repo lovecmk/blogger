@@ -1,8 +1,8 @@
 ---
     weight: 1362
     title: "Dream of your dog being a pilot"  # Assuming 'title' column exists
-    date: 2024-10-13T16:40:00+08:00
-    lastmod: 2024-10-13T16:40:00+08:00
+    date: 2024-10-12T23:27:00+08:00
+    lastmod: 2024-10-12T23:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'Dream', 'pilot', 'being', 'a', 'of', 'dog']
+    tags: ['being', 'Dream', 'pilot', 'dog']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Snake |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Pulled Pork      |
+| Lucky Food          | Tiramisu      |
 | Lucky Instrument    | Snare Drum |
-| Lucky Flower        | Zinnia    |
-| Lucky Job           | Historian       |
-| Lucky Exercise      | Body Pump  |
-| Lucky Country       | United States    |
+| Lucky Flower        | Vinca    |
+| Lucky Job           | Postman       |
+| Lucky Exercise      | Tai Chi  |
+| Lucky Country       | Cyprus    |
 
 
 ##  Final Reflections on Dreams

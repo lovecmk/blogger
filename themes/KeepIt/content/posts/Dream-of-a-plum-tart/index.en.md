@@ -1,8 +1,8 @@
 ---
     weight: 1768
     title: "Dream of your husband expressing gratitude for your presence in his life."  # Assuming 'title' column exists
-    date: 2024-10-13T09:04:00+08:00
-    lastmod: 2024-10-13T09:04:00+08:00
+    date: 2024-10-13T21:50:00+08:00
+    lastmod: 2024-10-13T21:50:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['presence', 'expressing', 'gratitude', 'your', 'Dream', 'for', 'his', 'husband', 'in', 'of', 'life.']
+    tags: ['life', 'Dream', 'gratitude', 'his', 'expressing', 'presence', 'husband']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Otter |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Spring Roll      |
+| Lucky Food          | Baked Ziti      |
 | Lucky Instrument    | Fiddle |
-| Lucky Flower        | Butterfly Bush    |
-| Lucky Job           | Event Planner       |
-| Lucky Exercise      | Sledge Hockey  |
-| Lucky Country       | Italy    |
+| Lucky Flower        | Rudbeckia    |
+| Lucky Job           | Postman       |
+| Lucky Exercise      | Resistance Training  |
+| Lucky Country       | Sweden    |
 
 
 ##  Final Reflections on Dreams

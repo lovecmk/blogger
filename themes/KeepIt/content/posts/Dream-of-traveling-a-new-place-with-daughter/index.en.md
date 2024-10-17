@@ -1,8 +1,8 @@
 ---
     weight: 125
     title: "Dream of traveling a new place with daughter"  # Assuming 'title' column exists
-    date: 2024-10-13T22:46:00+08:00
-    lastmod: 2024-10-13T22:46:00+08:00
+    date: 2024-10-13T20:37:00+08:00
+    lastmod: 2024-10-13T20:37:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['new', 'traveling', 'Dream', 'a', 'daughter', 'place', 'of', 'with']
+    tags: ['Dream', 'traveling', 'place', 'daughter', 'new']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can symbolize the opportunity to achieve growth and devel
 | Lucky Animal        | Chicken |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Chicken Curry      |
-| Lucky Instrument    | Tabla |
-| Lucky Flower        | Thunbergia    |
-| Lucky Job           | Anthropologist       |
-| Lucky Exercise      | Skiing  |
-| Lucky Country       | Norway    |
+| Lucky Food          | Fish and Chips      |
+| Lucky Instrument    | Pipa |
+| Lucky Flower        | Kalanchoe    |
+| Lucky Job           | Graphic Designer       |
+| Lucky Exercise      | Box Jumps  |
+| Lucky Country       | United States    |
 
 
 ##  Final Reflections on Dreams

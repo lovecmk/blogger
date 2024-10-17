@@ -1,8 +1,8 @@
 ---
     weight: 298
     title: "Dream of playing with friends in the park with a puppy"  # Assuming 'title' column exists
-    date: 2024-10-13T00:27:00+08:00
-    lastmod: 2024-10-13T00:27:00+08:00
+    date: 2024-10-14T08:26:00+08:00
+    lastmod: 2024-10-14T08:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['park', 'playing', 'the', 'Dream', 'puppy', 'a', 'in', 'of', 'with', 'friends']
+    tags: ['Dream', 'puppy', 'playing', 'friends', 'park']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ Dreams of playing with friends in the park with a puppy can show joy and social 
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Museum     |
 | Lucky Color         | Sky blue     |
-| Lucky Food          | Fruit Smoothie      |
-| Lucky Instrument    | Recorder |
-| Lucky Flower        | Swan River Daisy    |
-| Lucky Job           | Data Scientist       |
-| Lucky Exercise      | Burpees  |
-| Lucky Country       | Tanzania    |
+| Lucky Food          | Popcorn      |
+| Lucky Instrument    | Glockenspiel |
+| Lucky Flower        | Zantedeschia    |
+| Lucky Job           | Pastry Chef       |
+| Lucky Exercise      | Circuit Training  |
+| Lucky Country       | Nauru    |
 
 
 ##  Final Reflections on Dreams

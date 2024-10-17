@@ -1,8 +1,8 @@
 ---
     weight: 705
     title: "Dream of being on stage with a friend"  # Assuming 'title' column exists
-    date: 2024-10-13T03:17:00+08:00
-    lastmod: 2024-10-13T03:17:00+08:00
+    date: 2024-10-11T20:54:00+08:00
+    lastmod: 2024-10-11T20:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['friend', 'Dream', 'stage', 'being', 'a', 'on', 'of', 'with']
+    tags: ['being', 'Dream', 'friend', 'stage']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is to share the experience of success with cooperation wi
 | Lucky Animal        | Orangutan |
 | Lucky Place         | Theater     |
 | Lucky Color         | Deep yellow     |
-| Lucky Food          | Pico de Gallo      |
-| Lucky Instrument    | Sitar |
-| Lucky Flower        | Mandevilla    |
-| Lucky Job           | User Researcher       |
-| Lucky Exercise      | Handball  |
-| Lucky Country       | Croatia    |
+| Lucky Food          | Chocolate      |
+| Lucky Instrument    | Darabuka |
+| Lucky Flower        | Celosia    |
+| Lucky Job           | Interior Designer       |
+| Lucky Exercise      | Paddleboarding  |
+| Lucky Country       | Iran    |
 
 
 ##  Final Reflections on Dreams

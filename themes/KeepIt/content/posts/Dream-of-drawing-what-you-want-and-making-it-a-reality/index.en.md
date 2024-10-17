@@ -1,8 +1,8 @@
 ---
     weight: 612
     title: "Dream of drawing what you want and making it a reality"  # Assuming 'title' column exists
-    date: 2024-10-13T20:32:00+08:00
-    lastmod: 2024-10-13T20:32:00+08:00
+    date: 2024-10-15T02:57:00+08:00
+    lastmod: 2024-10-15T02:57:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['drawing', 'what', 'want', 'reality', 'Dream', 'a', 'making', 'and', 'it', 'of', 'you']
+    tags: ['what', 'it', 'Dream', 'drawing', 'want', 'making', 'you', 'reality']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be helpful to make what you want.This dream gives you
 | Lucky Animal        | Parrot |
 | Lucky Place         | Subway station     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Stir Fry      |
-| Lucky Instrument    | Harp |
-| Lucky Flower        | Marigold    |
-| Lucky Job           | Catering Manager       |
-| Lucky Exercise      | Mountain Climbers  |
-| Lucky Country       | Cambodia    |
+| Lucky Food          | Omelette      |
+| Lucky Instrument    | Soprano Recorder |
+| Lucky Flower        | Lilac    |
+| Lucky Job           | Architect       |
+| Lucky Exercise      | Circuit Training  |
+| Lucky Country       | Turkey    |
 
 
 ##  Final Reflections on Dreams

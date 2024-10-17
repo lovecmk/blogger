@@ -1,8 +1,8 @@
 ---
     weight: 1720
     title: "Dream of fighting with someone at work"  # Assuming 'title' column exists
-    date: 2024-10-13T20:58:00+08:00
-    lastmod: 2024-10-13T20:58:00+08:00
+    date: 2024-10-14T16:47:00+08:00
+    lastmod: 2024-10-14T16:47:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fighting', 'Dream', 'someone', 'of', 'work', 'with', 'at']
+    tags: ['Dream', 'fighting', 'someone', 'work']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Rabbit |
 | Lucky Place         | Convenience store     |
 | Lucky Color         | Blue     |
-| Lucky Food          | Chowder      |
-| Lucky Instrument    | Zither |
-| Lucky Flower        | Sweet Pea    |
-| Lucky Job           | Firefighter       |
-| Lucky Exercise      | Basketball  |
-| Lucky Country       | Israel    |
+| Lucky Food          | Gelato      |
+| Lucky Instrument    | Darbuka |
+| Lucky Flower        | Geranium    |
+| Lucky Job           | Farmer       |
+| Lucky Exercise      | Kettlebell Training  |
+| Lucky Country       | Jordan    |
 
 
 ##  Final Reflections on Dreams

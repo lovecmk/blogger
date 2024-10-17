@@ -1,8 +1,8 @@
 ---
     weight: 703
     title: "Dream of climbing a mount climb with friends"  # Assuming 'title' column exists
-    date: 2024-10-13T02:27:00+08:00
-    lastmod: 2024-10-13T02:27:00+08:00
+    date: 2024-10-14T16:31:00+08:00
+    lastmod: 2024-10-14T16:31:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['climbing', 'mount', 'Dream', 'climb', 'a', 'of', 'with', 'friends']
+    tags: ['Dream', 'mount', 'climb', 'climbing', 'friends']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can have good luck and positive results for you.Efforts to cooperate 
 | Lucky Animal        | Seagull |
 | Lucky Place         | River     |
 | Lucky Color         | Yellow     |
-| Lucky Food          | Sushi      |
-| Lucky Instrument    | Octobass |
-| Lucky Flower        | Strelitzia    |
-| Lucky Job           | Graphic Designer       |
-| Lucky Exercise      | Aerobics  |
-| Lucky Country       | Tanzania    |
+| Lucky Food          | Stuffed Mushrooms      |
+| Lucky Instrument    | Steel Pan |
+| Lucky Flower        | Tiger Lily    |
+| Lucky Job           | Copywriter       |
+| Lucky Exercise      | Martial Arts  |
+| Lucky Country       | Kenya    |
 
 
 ##  Final Reflections on Dreams

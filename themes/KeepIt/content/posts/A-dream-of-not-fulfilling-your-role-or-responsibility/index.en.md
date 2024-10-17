@@ -1,8 +1,8 @@
 ---
     weight: 495
     title: "A dream of not fulfilling your role or responsibility"  # Assuming 'title' column exists
-    date: 2024-10-13T22:23:00+08:00
-    lastmod: 2024-10-13T22:23:00+08:00
+    date: 2024-10-15T20:40:00+08:00
+    lastmod: 2024-10-15T20:40:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'fulfilling', 'your', 'role', 'not', 'dream', 'of', 'A', 'responsibility']
+    tags: ['role', 'dream', 'A', 'responsibility', 'not', 'fulfilling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream is that you can find out your lack, and if you make effor
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Clothing store     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Hot Dog      |
-| Lucky Instrument    | Cajón |
-| Lucky Flower        | Thunbergia    |
-| Lucky Job           | Software Engineer       |
-| Lucky Exercise      | Belly Dancing  |
-| Lucky Country       | United States    |
+| Lucky Food          | Pancakes      |
+| Lucky Instrument    | Slide Guitar |
+| Lucky Flower        | Hollyhock    |
+| Lucky Job           | Taxi Driver       |
+| Lucky Exercise      | Foam Rolling  |
+| Lucky Country       | Kyrgyzstan    |
 
 
 ##  Final Reflections on Dreams

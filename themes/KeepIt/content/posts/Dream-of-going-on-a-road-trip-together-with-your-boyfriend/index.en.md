@@ -1,8 +1,8 @@
 ---
     weight: 1875
     title: "Dream of fighting for your values"  # Assuming 'title' column exists
-    date: 2024-10-13T02:55:00+08:00
-    lastmod: 2024-10-13T02:55:00+08:00
+    date: 2024-10-11T22:53:00+08:00
+    lastmod: 2024-10-11T22:53:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['your', 'fighting', 'Dream', 'for', 'values', 'of']
+    tags: ['Dream', 'values', 'fighting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Crocodile |
 | Lucky Place         | River     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Vegetable Stir Fry      |
-| Lucky Instrument    | Banjo |
-| Lucky Flower        | Sea Lavender    |
-| Lucky Job           | Chef de Cuisine       |
-| Lucky Exercise      | Bench Press  |
-| Lucky Country       | Vanuatu    |
+| Lucky Food          | Stuffed Mushrooms      |
+| Lucky Instrument    | Harmonium |
+| Lucky Flower        | Hibiscus    |
+| Lucky Job           | Police Officer       |
+| Lucky Exercise      | Kripalu Yoga  |
+| Lucky Country       | Sweden    |
 
 
 ##  Final Reflections on Dreams

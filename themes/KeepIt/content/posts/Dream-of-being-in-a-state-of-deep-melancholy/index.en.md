@@ -1,8 +1,8 @@
 ---
     weight: 1935
     title: "Dream of being unable to escape death"  # Assuming 'title' column exists
-    date: 2024-10-13T22:11:00+08:00
-    lastmod: 2024-10-13T22:11:00+08:00
+    date: 2024-10-15T15:25:00+08:00
+    lastmod: 2024-10-15T15:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['death', 'unable', 'to', 'Dream', 'being', 'escape', 'of']
+    tags: ['being', 'Dream', 'escape', 'to', 'death', 'unable']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Squirrel |
 | Lucky Place         | Theater     |
 | Lucky Color         | Lime green     |
-| Lucky Food          | Pasta Salad      |
-| Lucky Instrument    | Melodica |
-| Lucky Flower        | Tulip    |
-| Lucky Job           | Pharmacist       |
-| Lucky Exercise      | Rowing  |
-| Lucky Country       | Solomon Islands    |
+| Lucky Food          | Popcorn      |
+| Lucky Instrument    | Violin Bow |
+| Lucky Flower        | Lilac    |
+| Lucky Job           | Researcher       |
+| Lucky Exercise      | Leg Press  |
+| Lucky Country       | South Korea    |
 
 
 ##  Final Reflections on Dreams

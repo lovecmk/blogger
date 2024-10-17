@@ -1,8 +1,8 @@
 ---
     weight: 1001
     title: "Embarrassing"  # Assuming 'title' column exists
-    date: 2024-10-13T08:49:00+08:00
-    lastmod: 2024-10-13T08:49:00+08:00
+    date: 2024-10-15T17:14:00+08:00
+    lastmod: 2024-10-15T17:14:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -59,12 +59,12 @@ The luck of 'embarrassed dreams' can depend on the character of the dream.In gen
 | Lucky Animal        | Turtle |
 | Lucky Place         | Memorial     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Nachos      |
-| Lucky Instrument    | Sackbut |
-| Lucky Flower        | Foxglove    |
-| Lucky Job           | Data Scientist       |
-| Lucky Exercise      | Ultimate Frisbee  |
-| Lucky Country       | Iran    |
+| Lucky Food          | Onion Rings      |
+| Lucky Instrument    | Marimba |
+| Lucky Flower        | Zantedeschia    |
+| Lucky Job           | Life Coach       |
+| Lucky Exercise      | Pilates  |
+| Lucky Country       | Micronesia    |
 
 
 ##  Final Reflections on Dreams

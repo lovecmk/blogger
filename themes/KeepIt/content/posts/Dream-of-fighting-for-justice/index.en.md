@@ -1,8 +1,8 @@
 ---
     weight: 1914
     title: "Dream of your grandmother showing you her treasured belongings."  # Assuming 'title' column exists
-    date: 2024-10-13T12:58:00+08:00
-    lastmod: 2024-10-13T12:58:00+08:00
+    date: 2024-10-15T14:38:00+08:00
+    lastmod: 2024-10-15T14:38:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['grandmother', 'her', 'your', 'showing', 'belongings.', 'Dream', 'treasured', 'of', 'you']
+    tags: ['Dream', 'treasured', 'belongings', 'grandmother', 'her', 'showing', 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Chicken |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Duck Confit      |
-| Lucky Instrument    | Fiddle |
-| Lucky Flower        | Clover    |
-| Lucky Job           | Pharmacist       |
-| Lucky Exercise      | Mobility Training  |
-| Lucky Country       | Ireland    |
+| Lucky Food          | Beef Tacos      |
+| Lucky Instrument    | Trompeta |
+| Lucky Flower        | Hibiscus    |
+| Lucky Job           | Dentist       |
+| Lucky Exercise      | Lacrosse  |
+| Lucky Country       | India    |
 
 
 ##  Final Reflections on Dreams

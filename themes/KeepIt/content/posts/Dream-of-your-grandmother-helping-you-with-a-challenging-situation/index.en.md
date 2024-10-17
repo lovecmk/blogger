@@ -1,8 +1,8 @@
 ---
     weight: 1837
     title: "Dream of arguments about family divisions"  # Assuming 'title' column exists
-    date: 2024-10-13T06:23:00+08:00
-    lastmod: 2024-10-13T06:23:00+08:00
+    date: 2024-10-14T04:13:00+08:00
+    lastmod: 2024-10-14T04:13:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'about', 'arguments', 'Dream', 'divisions', 'of']
+    tags: ['family', 'Dream', 'divisions', 'arguments']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Hedgehog |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Lasagna      |
-| Lucky Instrument    | Rudra Veena |
-| Lucky Flower        | Butterfly Bush    |
-| Lucky Job           | Scientist       |
-| Lucky Exercise      | Pole Vaulting  |
-| Lucky Country       | Malawi    |
+| Lucky Food          | Pork Belly      |
+| Lucky Instrument    | Ukulele |
+| Lucky Flower        | Petunia    |
+| Lucky Job           | Plumber       |
+| Lucky Exercise      | Gymnastics  |
+| Lucky Country       | Saudi Arabia    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 505
     title: "Dream of doing yoga or pilates"  # Assuming 'title' column exists
-    date: 2024-10-13T21:29:00+08:00
-    lastmod: 2024-10-13T21:29:00+08:00
+    date: 2024-10-11T07:36:00+08:00
+    lastmod: 2024-10-11T07:36:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'doing', 'Dream', 'yoga', 'pilates', 'of']
+    tags: ['doing', 'yoga', 'Dream', 'pilates']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can bring good luck to find the balance of body and spirit.Caring you
 | Lucky Animal        | Snake |
 | Lucky Place         | School     |
 | Lucky Color         | Light violet     |
-| Lucky Food          | Pork Chops      |
-| Lucky Instrument    | Cello |
-| Lucky Flower        | Petal Plant    |
-| Lucky Job           | Environmental Scientist       |
-| Lucky Exercise      | Mountain Climbers  |
-| Lucky Country       | Mozambique    |
+| Lucky Food          | Noodles      |
+| Lucky Instrument    | Claves |
+| Lucky Flower        | Lavender    |
+| Lucky Job           | Physical Therapist       |
+| Lucky Exercise      | Bouldering  |
+| Lucky Country       | Brazil    |
 
 
 ##  Final Reflections on Dreams

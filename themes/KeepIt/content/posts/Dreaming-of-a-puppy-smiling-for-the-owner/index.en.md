@@ -1,8 +1,8 @@
 ---
     weight: 318
     title: "Dreaming of a puppy smiling for the owner"  # Assuming 'title' column exists
-    date: 2024-10-13T03:02:00+08:00
-    lastmod: 2024-10-13T03:02:00+08:00
+    date: 2024-10-15T07:27:00+08:00
+    lastmod: 2024-10-15T07:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dreaming', 'the', 'for', 'a', 'smiling', 'of', 'owner', 'puppy']
+    tags: ['smiling', 'owner', 'puppy', 'Dreaming']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can be linked to the improvement of a positive relationsh
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Sea     |
 | Lucky Color         | Orange     |
-| Lucky Food          | Chicken Curry      |
-| Lucky Instrument    | Pandeiro |
-| Lucky Flower        | Jade Plant    |
-| Lucky Job           | Event Coordinator       |
-| Lucky Exercise      | Jumping Rope  |
-| Lucky Country       | Malawi    |
+| Lucky Food          | Salad      |
+| Lucky Instrument    | Bandoneon |
+| Lucky Flower        | Cornflower    |
+| Lucky Job           | Geologist       |
+| Lucky Exercise      | Squash  |
+| Lucky Country       | India    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1679
     title: "Dream of feeling reassured and supported by the presence of an ancestor."  # Assuming 'title' column exists
-    date: 2024-10-13T11:51:00+08:00
-    lastmod: 2024-10-13T11:51:00+08:00
+    date: 2024-10-13T01:25:00+08:00
+    lastmod: 2024-10-13T01:25:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['presence', 'supported', 'feeling', 'ancestor.', 'of', 'the', 'Dream', 'an', 'by', 'and', 'reassured']
+    tags: ['Dream', 'supported', 'reassured', 'ancestor', 'feeling', 'presence', 'an']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Crocodile |
 | Lucky Place         | Swimming pool     |
 | Lucky Color         | Green     |
-| Lucky Food          | Samosa      |
-| Lucky Instrument    | Harmonica |
-| Lucky Flower        | Tithonia    |
+| Lucky Food          | Salad      |
+| Lucky Instrument    | Sarangi |
+| Lucky Flower        | Maranta    |
 | Lucky Job           | Artist       |
-| Lucky Exercise      | Shot Put  |
-| Lucky Country       | Turkey    |
+| Lucky Exercise      | Stretching  |
+| Lucky Country       | Latvia    |
 
 
 ##  Final Reflections on Dreams

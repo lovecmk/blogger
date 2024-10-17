@@ -1,8 +1,8 @@
 ---
     weight: 1721
     title: "Dream of feeling helpless in a crisis"  # Assuming 'title' column exists
-    date: 2024-10-13T01:30:00+08:00
-    lastmod: 2024-10-13T01:30:00+08:00
+    date: 2024-10-11T23:58:00+08:00
+    lastmod: 2024-10-11T23:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['feeling', 'helpless', 'Dream', 'a', 'crisis', 'in', 'of']
+    tags: ['helpless', 'Dream', 'crisis', 'feeling']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Tiger |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Red     |
-| Lucky Food          | Kebab      |
-| Lucky Instrument    | Guitarlele |
-| Lucky Flower        | Thistle    |
-| Lucky Job           | Customer Service Representative       |
-| Lucky Exercise      | Squats  |
-| Lucky Country       | Iraq    |
+| Lucky Food          | Chocolate      |
+| Lucky Instrument    | Snare Drum |
+| Lucky Flower        | Jade Plant    |
+| Lucky Job           | Astrophysicist       |
+| Lucky Exercise      | Swimming  |
+| Lucky Country       | Cyprus    |
 
 
 ##  Final Reflections on Dreams

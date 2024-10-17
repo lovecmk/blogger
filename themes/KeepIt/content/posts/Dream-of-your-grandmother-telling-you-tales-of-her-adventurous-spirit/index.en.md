@@ -1,8 +1,8 @@
 ---
     weight: 1902
     title: "Dream of fighting for change"  # Assuming 'title' column exists
-    date: 2024-10-13T05:43:00+08:00
-    lastmod: 2024-10-13T05:43:00+08:00
+    date: 2024-10-15T05:57:00+08:00
+    lastmod: 2024-10-15T05:57:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['fighting', 'Dream', 'for', 'change', 'of']
+    tags: ['Dream', 'fighting', 'change']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ The luck associated with this dream lies in your ability to navigate and resolve
 | Lucky Animal        | Panda |
 | Lucky Place         | Promenade     |
 | Lucky Color         | Light green     |
-| Lucky Food          | Fish and Chips      |
-| Lucky Instrument    | Melodic Percussion |
-| Lucky Flower        | Strelitzia    |
-| Lucky Job           | Physical Therapist       |
-| Lucky Exercise      | Pole Vaulting  |
-| Lucky Country       | New Zealand    |
+| Lucky Food          | Baked Ziti      |
+| Lucky Instrument    | Tuba |
+| Lucky Flower        | Foxglove    |
+| Lucky Job           | Field Technician       |
+| Lucky Exercise      | Water Polo  |
+| Lucky Country       | Brunei    |
 
 
 ##  Final Reflections on Dreams

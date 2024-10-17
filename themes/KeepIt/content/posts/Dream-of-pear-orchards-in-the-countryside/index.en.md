@@ -1,8 +1,8 @@
 ---
     weight: 1926
     title: "Dream of being in a state of deep melancholy"  # Assuming 'title' column exists
-    date: 2024-10-13T07:25:00+08:00
-    lastmod: 2024-10-13T07:25:00+08:00
+    date: 2024-10-12T01:15:00+08:00
+    lastmod: 2024-10-12T01:15:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['state', 'deep', 'Dream', 'being', 'a', 'melancholy', 'in', 'of']
+    tags: ['being', 'Dream', 'deep', 'state', 'melancholy']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Wolf |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Pink     |
-| Lucky Food          | Gelato      |
-| Lucky Instrument    | Koto |
-| Lucky Flower        | Snapdragon    |
-| Lucky Job           | Copywriter       |
-| Lucky Exercise      | Lacrosse  |
-| Lucky Country       | Israel    |
+| Lucky Food          | Shepherd's Pie      |
+| Lucky Instrument    | Viola |
+| Lucky Flower        | Hoya    |
+| Lucky Job           | Marketing Manager       |
+| Lucky Exercise      | Bodyweight Training  |
+| Lucky Country       | South Korea    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 1622
     title: "Dream of attending a cultural festival or parade together with your boyfriend"  # Assuming 'title' column exists
-    date: 2024-10-13T23:40:00+08:00
-    lastmod: 2024-10-13T23:40:00+08:00
+    date: 2024-10-12T15:17:00+08:00
+    lastmod: 2024-10-12T15:17:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['festival', 'together', 'or', 'your', 'boyfriend', 'Dream', 'a', 'parade', 'cultural', 'of', 'attending', 'with']
+    tags: ['Dream', 'boyfriend', 'cultural', 'festival', 'together', 'parade', 'attending']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Movie theater     |
 | Lucky Color         | Light pink     |
-| Lucky Food          | Stuffed Mushrooms      |
-| Lucky Instrument    | Soprano Recorder |
-| Lucky Flower        | Mullein    |
-| Lucky Job           | Director       |
-| Lucky Exercise      | Cricket  |
-| Lucky Country       | New Zealand    |
+| Lucky Food          | Prawn Crackers      |
+| Lucky Instrument    | Pandeiro |
+| Lucky Flower        | Cornflower    |
+| Lucky Job           | Neuroscientist       |
+| Lucky Exercise      | Racquetball  |
+| Lucky Country       | Norway    |
 
 
 ##  Final Reflections on Dreams

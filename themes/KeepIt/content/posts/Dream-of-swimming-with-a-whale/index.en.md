@@ -1,8 +1,8 @@
 ---
     weight: 234
     title: "Dream of swimming with a whale"  # Assuming 'title' column exists
-    date: 2024-10-13T06:43:00+08:00
-    lastmod: 2024-10-13T06:43:00+08:00
+    date: 2024-10-11T10:41:00+08:00
+    lastmod: 2024-10-11T10:41:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['whale', 'Dream', 'a', 'of', 'swimming', 'with']
+    tags: ['Dream', 'whale', 'swimming']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual.But in general, this
 | Lucky Animal        | Hamster |
 | Lucky Place         | Shoe store     |
 | Lucky Color         | Black     |
-| Lucky Food          | Chia Pudding      |
-| Lucky Instrument    | Cymbals |
-| Lucky Flower        | Lantana    |
-| Lucky Job           | Personal Trainer       |
-| Lucky Exercise      | Plank  |
-| Lucky Country       | Hungary    |
+| Lucky Food          | Fajitas      |
+| Lucky Instrument    | Conga |
+| Lucky Flower        | Begonia    |
+| Lucky Job           | Plumber       |
+| Lucky Exercise      | Paddleboarding  |
+| Lucky Country       | Brunei    |
 
 
 ##  Final Reflections on Dreams

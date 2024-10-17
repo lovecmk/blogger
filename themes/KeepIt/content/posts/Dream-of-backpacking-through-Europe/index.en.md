@@ -1,8 +1,8 @@
 ---
     weight: 1472
     title: "Dream of backpacking through Europe"  # Assuming 'title' column exists
-    date: 2024-10-13T14:14:00+08:00
-    lastmod: 2024-10-13T14:14:00+08:00
+    date: 2024-10-14T06:08:00+08:00
+    lastmod: 2024-10-14T06:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Europe', 'backpacking', 'Dream', 'through', 'of']
+    tags: ['Dream', 'Europe', 'backpacking']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ The dream could bring the "luck" of new opportunities, personal growth, and expa
 | Lucky Animal        | Hyena |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Samosa      |
-| Lucky Instrument    | Flute |
-| Lucky Flower        | Balsam    |
-| Lucky Job           | Fashion Designer       |
+| Lucky Food          | Pork Chops      |
+| Lucky Instrument    | Electric Violin |
+| Lucky Flower        | Tiger Lily    |
+| Lucky Job           | Photographer       |
 | Lucky Exercise      | Walking  |
-| Lucky Country       | Brazil    |
+| Lucky Country       | Zimbabwe    |
 
 
 ##  Final Reflections on Dreams

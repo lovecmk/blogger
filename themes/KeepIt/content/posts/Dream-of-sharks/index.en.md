@@ -1,8 +1,8 @@
 ---
     weight: 858
     title: "Dream of sharks"  # Assuming 'title' column exists
-    date: 2024-10-13T22:27:00+08:00
-    lastmod: 2024-10-13T22:27:00+08:00
+    date: 2024-10-13T18:50:00+08:00
+    lastmod: 2024-10-13T18:50:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['sharks', 'of', 'Dream']
+    tags: ['Dream', 'sharks']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ In the dream of sharks, it mainly shows a negative situation.Therefore, it may b
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Curry      |
-| Lucky Instrument    | Tuba Horn |
-| Lucky Flower        | Alyssum    |
-| Lucky Job           | Sous Chef       |
-| Lucky Exercise      | Skating  |
-| Lucky Country       | Tanzania    |
+| Lucky Food          | Chips      |
+| Lucky Instrument    | Piccolo |
+| Lucky Flower        | Ornamental Pepper    |
+| Lucky Job           | Teacher       |
+| Lucky Exercise      | Jump Squats  |
+| Lucky Country       | Saudi Arabia    |
 
 
 ##  Final Reflections on Dreams

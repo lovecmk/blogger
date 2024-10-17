@@ -1,8 +1,8 @@
 ---
     weight: 909
     title: "Dream of being chased by zombies"  # Assuming 'title' column exists
-    date: 2024-10-13T08:04:00+08:00
-    lastmod: 2024-10-13T08:04:00+08:00
+    date: 2024-10-11T04:53:00+08:00
+    lastmod: 2024-10-11T04:53:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['Dream', 'being', 'zombies', 'by', 'of', 'chased']
+    tags: ['being', 'zombies', 'chased', 'Dream']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream can help you realize yourself and raise your perception o
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Mart     |
 | Lucky Color         | Deep green     |
-| Lucky Food          | Hot Dog      |
-| Lucky Instrument    | Trompeta |
-| Lucky Flower        | Cornflower    |
-| Lucky Job           | Consultant       |
-| Lucky Exercise      | Kripalu Yoga  |
-| Lucky Country       | Azerbaijan    |
+| Lucky Food          | Corn on the Cob      |
+| Lucky Instrument    | Harmonium |
+| Lucky Flower        | Heliotrope    |
+| Lucky Job           | Personal Trainer       |
+| Lucky Exercise      | Surf Lifesaving  |
+| Lucky Country       | South Korea    |
 
 
 ##  Final Reflections on Dreams

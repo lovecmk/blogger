@@ -1,8 +1,8 @@
 ---
     weight: 1669
     title: "Dream of disputes about family secrets"  # Assuming 'title' column exists
-    date: 2024-10-13T17:39:00+08:00
-    lastmod: 2024-10-13T17:39:00+08:00
+    date: 2024-10-12T07:51:00+08:00
+    lastmod: 2024-10-12T07:51:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'about', 'Dream', 'secrets', 'of', 'disputes']
+    tags: ['family', 'Dream', 'disputes', 'secrets']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Crab |
 | Lucky Place         | Shopping mall     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Minestrone      |
-| Lucky Instrument    | Electric Cello |
-| Lucky Flower        | Anemone    |
-| Lucky Job           | Electrician       |
-| Lucky Exercise      | Spin Class  |
-| Lucky Country       | Zambia    |
+| Lucky Food          | Gelato      |
+| Lucky Instrument    | Lap Steel Guitar |
+| Lucky Flower        | Bougainvillea    |
+| Lucky Job           | Flight Attendant       |
+| Lucky Exercise      | Snowshoeing  |
+| Lucky Country       | Solomon Islands    |
 
 
 ##  Final Reflections on Dreams

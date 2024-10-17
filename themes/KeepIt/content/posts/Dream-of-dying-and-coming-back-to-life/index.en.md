@@ -1,8 +1,8 @@
 ---
     weight: 1638
     title: "Dream of your cat kneading or making biscuits"  # Assuming 'title' column exists
-    date: 2024-10-13T00:19:00+08:00
-    lastmod: 2024-10-13T00:19:00+08:00
+    date: 2024-10-14T03:50:00+08:00
+    lastmod: 2024-10-14T03:50:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['biscuits', 'or', 'your', 'cat', 'kneading', 'Dream', 'making', 'of']
+    tags: ['Dream', 'making', 'cat', 'kneading', 'biscuits']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Raccoon |
 | Lucky Place         | Museum     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Paella      |
-| Lucky Instrument    | Fretless Bass |
-| Lucky Flower        | Carnation    |
-| Lucky Job           | Marketing Manager       |
-| Lucky Exercise      | Jump Squats  |
-| Lucky Country       | Kenya    |
+| Lucky Food          | Ratatouille      |
+| Lucky Instrument    | Cajón |
+| Lucky Flower        | Moss Rose    |
+| Lucky Job           | Consultant       |
+| Lucky Exercise      | Squash  |
+| Lucky Country       | Denmark    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 50
     title: "Dream of eating sweet rest while eating mango"  # Assuming 'title' column exists
-    date: 2024-10-13T04:56:00+08:00
-    lastmod: 2024-10-13T04:56:00+08:00
+    date: 2024-10-13T19:08:00+08:00
+    lastmod: 2024-10-13T19:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['eating', 'rest', 'while', 'mango', 'Dream', 'of', 'sweet']
+    tags: ['while', 'Dream', 'eating', 'rest', 'sweet', 'mango']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream shows a sweet rest with a mango that symbolizes success, abundance, a
 | Lucky Animal        | Duck |
 | Lucky Place         | Bakery     |
 | Lucky Color         | Brown     |
-| Lucky Food          | Vegetable Stir Fry      |
-| Lucky Instrument    | Timpani |
-| Lucky Flower        | Sweet Pea    |
-| Lucky Job           | Social Worker       |
-| Lucky Exercise      | Water Polo  |
-| Lucky Country       | Botswana    |
+| Lucky Food          | Hot Dog      |
+| Lucky Instrument    | Hang Drum |
+| Lucky Flower        | Hydrangea    |
+| Lucky Job           | Engineer       |
+| Lucky Exercise      | Running  |
+| Lucky Country       | Israel    |
 
 
 ##  Final Reflections on Dreams

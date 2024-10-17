@@ -1,8 +1,8 @@
 ---
     weight: 1545
     title: "Dream of your husband giving you encouraging advice."  # Assuming 'title' column exists
-    date: 2024-10-13T01:53:00+08:00
-    lastmod: 2024-10-13T01:53:00+08:00
+    date: 2024-10-11T23:08:00+08:00
+    lastmod: 2024-10-11T23:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['advice.', 'encouraging', 'your', 'giving', 'Dream', 'husband', 'of', 'you']
+    tags: ['Dream', 'encouraging', 'giving', 'husband', 'you', 'advice']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Goose |
 | Lucky Place         | Park     |
 | Lucky Color         | Black     |
-| Lucky Food          | Beef Tacos      |
-| Lucky Instrument    | Soprano Recorder |
-| Lucky Flower        | Swan River Daisy    |
-| Lucky Job           | Pilot       |
-| Lucky Exercise      | Bodyweight Training  |
-| Lucky Country       | Oman    |
+| Lucky Food          | Guacamole      |
+| Lucky Instrument    | Piano |
+| Lucky Flower        | Thistle    |
+| Lucky Job           | Scientist       |
+| Lucky Exercise      | Paddleboarding  |
+| Lucky Country       | Bulgaria    |
 
 
 ##  Final Reflections on Dreams

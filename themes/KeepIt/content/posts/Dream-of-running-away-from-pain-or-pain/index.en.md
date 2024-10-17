@@ -1,8 +1,8 @@
 ---
     weight: 422
     title: "Dream of running away from pain or pain"  # Assuming 'title' column exists
-    date: 2024-10-13T17:13:00+08:00
-    lastmod: 2024-10-13T17:13:00+08:00
+    date: 2024-10-13T06:07:00+08:00
+    lastmod: 2024-10-13T06:07:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'running', 'away', 'Dream', 'pain', 'from', 'of']
+    tags: ['Dream', 'running', 'pain', 'from', 'away']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual.In general, the drea
 | Lucky Animal        | Koala |
 | Lucky Place         | Mountain     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Pulled Pork      |
-| Lucky Instrument    | Shakuhachi |
-| Lucky Flower        | Strelitzia    |
-| Lucky Job           | Journalist       |
-| Lucky Exercise      | Cycling  |
-| Lucky Country       | Mozambique    |
+| Lucky Food          | Gumbo      |
+| Lucky Instrument    | Trombone Slide |
+| Lucky Flower        | Alyssum    |
+| Lucky Job           | Insurance Underwriter       |
+| Lucky Exercise      | Tai Chi  |
+| Lucky Country       | Zimbabwe    |
 
 
 ##  Final Reflections on Dreams

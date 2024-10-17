@@ -1,8 +1,8 @@
 ---
     weight: 817
     title: "Dream of fire in the forest"  # Assuming 'title' column exists
-    date: 2024-10-13T00:20:00+08:00
-    lastmod: 2024-10-13T00:20:00+08:00
+    date: 2024-10-14T17:19:00+08:00
+    lastmod: 2024-10-14T17:19:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['forest', 'the', 'fire', 'Dream', 'in', 'of']
+    tags: ['forest', 'Dream', 'fire']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of 'Dream of Fire in the Forest' may vary depending on the individual a
 | Lucky Animal        | Pig |
 | Lucky Place         | Electronics store     |
 | Lucky Color         | Deep orange     |
-| Lucky Food          | Chia Pudding      |
-| Lucky Instrument    | Bass Clarinet |
-| Lucky Flower        | Rose    |
-| Lucky Job           | Taxi Driver       |
-| Lucky Exercise      | Handball  |
-| Lucky Country       | Philippines    |
+| Lucky Food          | Pork Belly      |
+| Lucky Instrument    | Horn |
+| Lucky Flower        | Clover Blossom    |
+| Lucky Job           | Plumber       |
+| Lucky Exercise      | Kite Surfing  |
+| Lucky Country       | Afghanistan    |
 
 
 ##  Final Reflections on Dreams

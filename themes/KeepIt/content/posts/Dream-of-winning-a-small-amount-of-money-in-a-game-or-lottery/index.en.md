@@ -1,8 +1,8 @@
 ---
     weight: 1922
     title: "Dream of fighting for your life"  # Assuming 'title' column exists
-    date: 2024-10-13T15:56:00+08:00
-    lastmod: 2024-10-13T15:56:00+08:00
+    date: 2024-10-15T10:36:00+08:00
+    lastmod: 2024-10-15T10:36:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['life', 'your', 'fighting', 'Dream', 'for', 'of']
+    tags: ['life', 'Dream', 'fighting']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Deer |
 | Lucky Place         | Academy     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Brownies      |
-| Lucky Instrument    | Zither |
-| Lucky Flower        | Scabiosa    |
-| Lucky Job           | Graphic Designer       |
-| Lucky Exercise      | Snowshoeing  |
-| Lucky Country       | Syria    |
+| Lucky Food          | Chowder      |
+| Lucky Instrument    | Hang Drum |
+| Lucky Flower        | Cosmos    |
+| Lucky Job           | Security Guard       |
+| Lucky Exercise      | Paddleboarding  |
+| Lucky Country       | Malta    |
 
 
 ##  Final Reflections on Dreams

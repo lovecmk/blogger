@@ -1,8 +1,8 @@
 ---
     weight: 359
     title: "Dream of witnessing or observing a case"  # Assuming 'title' column exists
-    date: 2024-10-13T19:02:00+08:00
-    lastmod: 2024-10-13T19:02:00+08:00
+    date: 2024-10-12T21:27:00+08:00
+    lastmod: 2024-10-12T21:27:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['case', 'witnessing', 'observing', 'or', 'Dream', 'a', 'of']
+    tags: ['Dream', 'case', 'witnessing', 'observing']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of dreams can vary depending on the individual's experience and interpr
 | Lucky Animal        | Sparrow |
 | Lucky Place         | Academy     |
 | Lucky Color         | Light brown     |
-| Lucky Food          | Stir Fry      |
-| Lucky Instrument    | Kettledrum |
-| Lucky Flower        | Sunflower    |
-| Lucky Job           | Copywriter       |
-| Lucky Exercise      | Resistance Training  |
-| Lucky Country       | Greece    |
+| Lucky Food          | Pulled Pork      |
+| Lucky Instrument    | Fiddle |
+| Lucky Flower        | Poinsettia    |
+| Lucky Job           | Bus Driver       |
+| Lucky Exercise      | Snowboarding  |
+| Lucky Country       | Spain    |
 
 
 ##  Final Reflections on Dreams

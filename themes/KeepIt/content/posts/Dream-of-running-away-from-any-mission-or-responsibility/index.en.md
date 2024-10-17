@@ -1,8 +1,8 @@
 ---
     weight: 396
     title: "Dream of running away from any mission or responsibility"  # Assuming 'title' column exists
-    date: 2024-10-13T22:16:00+08:00
-    lastmod: 2024-10-13T22:16:00+08:00
+    date: 2024-10-14T08:40:00+08:00
+    lastmod: 2024-10-14T08:40:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['or', 'running', 'away', 'Dream', 'from', 'of', 'mission', 'any', 'responsibility']
+    tags: ['Dream', 'running', 'mission', 'from', 'responsibility', 'away', 'any']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ What are the luck of this dream?This dream contains a message that you can find 
 | Lucky Animal        | Cat |
 | Lucky Place         | Mart     |
 | Lucky Color         | Gray     |
-| Lucky Food          | Quesadilla      |
-| Lucky Instrument    | Balalaika |
-| Lucky Flower        | Petunia    |
-| Lucky Job           | Financial Analyst       |
-| Lucky Exercise      | Fencing  |
-| Lucky Country       | Spain    |
+| Lucky Food          | Risotto      |
+| Lucky Instrument    | Tenor Guitar |
+| Lucky Flower        | Yarrow    |
+| Lucky Job           | Engineer       |
+| Lucky Exercise      | Soccer  |
+| Lucky Country       | Poland    |
 
 
 ##  Final Reflections on Dreams

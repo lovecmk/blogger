@@ -1,8 +1,8 @@
 ---
     weight: 1413
     title: "Dream of dealing with a pet's mess"  # Assuming 'title' column exists
-    date: 2024-10-13T11:49:00+08:00
-    lastmod: 2024-10-13T11:49:00+08:00
+    date: 2024-10-11T11:36:00+08:00
+    lastmod: 2024-10-11T11:36:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['mess', 'Dream', 'a', "pet's", 'of', 'with', 'dealing']
+    tags: ["pet's", 'Dream', 'dealing', 'mess']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -66,12 +66,12 @@ In terms of luck, this dream may indicate that taking responsibility and activel
 | Lucky Animal        | Hamster |
 | Lucky Place         | School     |
 | Lucky Color         | Lime     |
-| Lucky Food          | Pesto      |
-| Lucky Instrument    | Bongo Drums |
-| Lucky Flower        | Clover    |
-| Lucky Job           | Accountant       |
-| Lucky Exercise      | Kite Surfing  |
-| Lucky Country       | Syria    |
+| Lucky Food          | Duck Confit      |
+| Lucky Instrument    | Oboe |
+| Lucky Flower        | Zantedeschia    |
+| Lucky Job           | Flight Attendant       |
+| Lucky Exercise      | Racquetball  |
+| Lucky Country       | Malta    |
 
 
 ##  Final Reflections on Dreams

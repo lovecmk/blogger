@@ -1,8 +1,8 @@
 ---
     weight: 2046
     title: "Dream of cooking a traditional family recipe passed down by your ancestors."  # Assuming 'title' column exists
-    date: 2024-10-13T06:14:00+08:00
-    lastmod: 2024-10-13T06:14:00+08:00
+    date: 2024-10-12T21:06:00+08:00
+    lastmod: 2024-10-12T21:06:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'cooking', 'passed', 'your', 'down', 'Dream', 'a', 'by', 'of', 'recipe', 'traditional', 'ancestors.']
+    tags: ['family', 'cooking', 'Dream', 'passed', 'down', 'recipe', 'ancestors', 'traditional']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Chicken |
 | Lucky Place         | Cultural center     |
 | Lucky Color         | Light orange     |
-| Lucky Food          | Onion Rings      |
-| Lucky Instrument    | Piccolo |
-| Lucky Flower        | Scented Geranium    |
-| Lucky Job           | Historian       |
-| Lucky Exercise      | Water Polo  |
-| Lucky Country       | Eswatini    |
+| Lucky Food          | Samosa      |
+| Lucky Instrument    | Triangle |
+| Lucky Flower        | Jade Plant    |
+| Lucky Job           | Public Relations Specialist       |
+| Lucky Exercise      | Body Pump  |
+| Lucky Country       | Croatia    |
 
 
 ##  Final Reflections on Dreams

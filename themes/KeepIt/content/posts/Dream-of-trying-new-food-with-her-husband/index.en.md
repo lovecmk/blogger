@@ -1,8 +1,8 @@
 ---
     weight: 105
     title: "Dream of trying new food with her husband"  # Assuming 'title' column exists
-    date: 2024-10-13T05:14:00+08:00
-    lastmod: 2024-10-13T05:14:00+08:00
+    date: 2024-10-11T16:26:00+08:00
+    lastmod: 2024-10-11T16:26:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['with', 'new', 'her', 'Dream', 'trying', 'husband', 'of', 'food']
+    tags: ['trying', 'Dream', 'her', 'new', 'husband', 'food']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ The luck of this dream may vary depending on the individual's interpretation.But
 | Lucky Animal        | Camel |
 | Lucky Place         | Zoo     |
 | Lucky Color         | Deep purple     |
-| Lucky Food          | Samosa      |
-| Lucky Instrument    | Zither |
-| Lucky Flower        | Heather    |
-| Lucky Job           | Sales Representative       |
-| Lucky Exercise      | Burpees  |
-| Lucky Country       | Ireland    |
+| Lucky Food          | Falafel      |
+| Lucky Instrument    | Snare Drum |
+| Lucky Flower        | Sea Lavender    |
+| Lucky Job           | Firefighter       |
+| Lucky Exercise      | Zumba  |
+| Lucky Country       | Iceland    |
 
 
 ##  Final Reflections on Dreams

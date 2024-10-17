@@ -1,8 +1,8 @@
 ---
     weight: 2122
     title: "Dream of your cat discovering new hiding spots"  # Assuming 'title' column exists
-    date: 2024-10-13T15:56:00+08:00
-    lastmod: 2024-10-13T15:56:00+08:00
+    date: 2024-10-11T10:40:00+08:00
+    lastmod: 2024-10-11T10:40:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['new', 'your', 'cat', 'spots', 'Dream', 'hiding', 'of', 'discovering']
+    tags: ['Dream', 'hiding', 'discovering', 'cat', 'spots', 'new']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Cheetah |
 | Lucky Place         | Art gallery     |
 | Lucky Color         | Light gray     |
-| Lucky Food          | Sandwich      |
-| Lucky Instrument    | Chimes |
-| Lucky Flower        | Thistle    |
-| Lucky Job           | Insurance Underwriter       |
-| Lucky Exercise      | Cycling  |
-| Lucky Country       | Angola    |
+| Lucky Food          | Tofu      |
+| Lucky Instrument    | French Horn |
+| Lucky Flower        | Scented Geranium    |
+| Lucky Job           | Life Coach       |
+| Lucky Exercise      | Burpees  |
+| Lucky Country       | Zimbabwe    |
 
 
 ##  Final Reflections on Dreams

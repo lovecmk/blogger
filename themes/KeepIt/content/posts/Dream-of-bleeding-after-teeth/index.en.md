@@ -1,8 +1,8 @@
 ---
     weight: 887
     title: "Dream of bleeding after teeth"  # Assuming 'title' column exists
-    date: 2024-10-13T22:08:00+08:00
-    lastmod: 2024-10-13T22:08:00+08:00
+    date: 2024-10-15T17:12:00+08:00
+    lastmod: 2024-10-15T17:12:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['bleeding', 'teeth', 'after', 'Dream', 'of']
+    tags: ['Dream', 'bleeding', 'teeth', 'after']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream mainly indicates negative feelings and situations.Therefore, this dre
 | Lucky Animal        | Dog |
 | Lucky Place         | Arboretum     |
 | Lucky Color         | Light lime     |
-| Lucky Food          | Vegetarian Chili      |
-| Lucky Instrument    | Lap Steel Guitar |
-| Lucky Flower        | Marigold    |
-| Lucky Job           | Writer       |
-| Lucky Exercise      | Underwater Diving  |
-| Lucky Country       | Azerbaijan    |
+| Lucky Food          | Coconut Shrimp      |
+| Lucky Instrument    | Melodic Percussion |
+| Lucky Flower        | Lobelia    |
+| Lucky Job           | Personal Trainer       |
+| Lucky Exercise      | Cross-Country Skiing  |
+| Lucky Country       | Iraq    |
 
 
 ##  Final Reflections on Dreams

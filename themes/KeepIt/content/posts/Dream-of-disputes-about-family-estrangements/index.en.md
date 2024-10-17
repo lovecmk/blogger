@@ -1,8 +1,8 @@
 ---
     weight: 1660
     title: "Dream of arguments over family finances"  # Assuming 'title' column exists
-    date: 2024-10-13T22:19:00+08:00
-    lastmod: 2024-10-13T22:19:00+08:00
+    date: 2024-10-14T07:08:00+08:00
+    lastmod: 2024-10-14T07:08:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['family', 'finances', 'arguments', 'Dream', 'over', 'of']
+    tags: ['family', 'Dream', 'over', 'finances', 'arguments']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Guinea pig |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Mint     |
-| Lucky Food          | Stuffed Peppers      |
-| Lucky Instrument    | Electric Cello |
-| Lucky Flower        | Cosmos    |
-| Lucky Job           | Chemist       |
-| Lucky Exercise      | Yoga Flow  |
-| Lucky Country       | Georgia    |
+| Lucky Food          | Cheesecake      |
+| Lucky Instrument    | Koto |
+| Lucky Flower        | Chrysanthemum    |
+| Lucky Job           | Marketing Manager       |
+| Lucky Exercise      | Baseball  |
+| Lucky Country       | Vietnam    |
 
 
 ##  Final Reflections on Dreams

@@ -1,8 +1,8 @@
 ---
     weight: 725
     title: "Dream of smiling while playing board games in a cafe with friends"  # Assuming 'title' column exists
-    date: 2024-10-13T03:14:00+08:00
-    lastmod: 2024-10-13T03:14:00+08:00
+    date: 2024-10-12T12:58:00+08:00
+    lastmod: 2024-10-12T12:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['with', 'playing', 'friends', 'Dream', 'cafe', 'a', 'games', 'in', 'smiling', 'of', 'while', 'board']
+    tags: ['smiling', 'while', 'Dream', 'games', 'playing', 'cafe', 'board', 'friends']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ This dream can indicate a number of possibilities that can bring you good luck.W
 | Lucky Animal        | Monkey |
 | Lucky Place         | Sports field     |
 | Lucky Color         | Light yellow     |
-| Lucky Food          | Fruit Tart      |
-| Lucky Instrument    | Bongo Drums |
-| Lucky Flower        | Lantana    |
-| Lucky Job           | Geologist       |
-| Lucky Exercise      | Push-Ups  |
-| Lucky Country       | Kyrgyzstan    |
+| Lucky Food          | Fajitas      |
+| Lucky Instrument    | Slide Guitar |
+| Lucky Flower        | Maranta    |
+| Lucky Job           | Catering Manager       |
+| Lucky Exercise      | Jumping Rope  |
+| Lucky Country       | New Zealand    |
 
 
 ##  Final Reflections on Dreams

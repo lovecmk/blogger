@@ -1,8 +1,8 @@
 ---
     weight: 2126
     title: "Dream of your grandmother's presence bringing peace and comfort to you."  # Assuming 'title' column exists
-    date: 2024-10-13T21:44:00+08:00
-    lastmod: 2024-10-13T21:44:00+08:00
+    date: 2024-10-15T20:58:00+08:00
+    lastmod: 2024-10-15T20:58:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['comfort', 'presence', 'bringing', 'you.', 'your', 'to', 'Dream', "grandmother's", 'and', 'of', 'peace']
+    tags: ['Dream', 'bringing', 'to', 'comfort', 'peace', 'presence', "grandmother's", 'you']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Parrot |
 | Lucky Place         | Exhibition     |
 | Lucky Color         | Purple     |
-| Lucky Food          | Tofu      |
-| Lucky Instrument    | Tenor Guitar |
-| Lucky Flower        | Lobelia    |
-| Lucky Job           | Consultant       |
-| Lucky Exercise      | Rock Climbing  |
-| Lucky Country       | Hungary    |
+| Lucky Food          | Guacamole      |
+| Lucky Instrument    | Harp |
+| Lucky Flower        | Daisy    |
+| Lucky Job           | Historian       |
+| Lucky Exercise      | Step Aerobics  |
+| Lucky Country       | Lebanon    |
 
 
 ##  Final Reflections on Dreams

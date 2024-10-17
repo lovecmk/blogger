@@ -1,8 +1,8 @@
 ---
     weight: 1745
     title: "Dream of sharing a cup of tea or coffee with your grandmother."  # Assuming 'title' column exists
-    date: 2024-10-13T03:56:00+08:00
-    lastmod: 2024-10-13T03:56:00+08:00
+    date: 2024-10-14T05:54:00+08:00
+    lastmod: 2024-10-14T05:54:00+08:00
     draft: false
     author: "ray"
     authorLink: "https://instagram.com/ray._.atelier"
@@ -12,7 +12,7 @@
     #- name: "featured-image"
     #  src: "featured-image.png"
     
-    tags: ['cup', 'or', 'your', 'grandmother.', 'tea', 'Dream', 'sharing', 'a', 'coffee', 'of', 'with']
+    tags: ['Dream', 'sharing', 'grandmother', 'tea', 'cup', 'coffee']
     categories: ["Dream Interpretation"]
     
     lightgallery: true
@@ -59,12 +59,12 @@ Welcome to the realm of dreams, where I, [Ray](https://instagram.com/ray._.ateli
 | Lucky Animal        | Jellyfish |
 | Lucky Place         | Museum     |
 | Lucky Color         | Light sky blue     |
-| Lucky Food          | Tart      |
-| Lucky Instrument    | Guitarlele |
-| Lucky Flower        | Mandevilla    |
-| Lucky Job           | Historian       |
-| Lucky Exercise      | Mountain Climbers  |
-| Lucky Country       | Bhutan    |
+| Lucky Food          | Fried Rice      |
+| Lucky Instrument    | Darbuka |
+| Lucky Flower        | Bouvardia    |
+| Lucky Job           | Game Developer       |
+| Lucky Exercise      | Trail Running  |
+| Lucky Country       | Spain    |
 
 
 ##  Final Reflections on Dreams
