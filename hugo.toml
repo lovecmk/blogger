@@ -80,7 +80,7 @@ enableEmoji = true
   # website title for Open Graph and Twitter Cards
   title = "openGL TITLE fix..."
   # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "ray's decrivpetion"
+  description = "Explore the meanings of dreams on our blog, where we provide in-depth analyses and insights into dream interpretation. Discover hidden messages in your dreams and find interpretations related to your personal experiences. Get answers to your questions and curiosities about dream meanings."
   # website images for Open Graph and Twitter Cards
   images = ["/logo.png"]
 
