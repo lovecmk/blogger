@@ -652,16 +652,16 @@ enableEmoji = true
         [languages.en.params.home.profile]
           enable = true
           gravatarEmail = ""
-          avatarURL = "https://cdn.pixabay.com/photo/2023/03/14/23/55/darling-7853389_1280.jpg"
+          avatarURL = "https://cdn.pixabay.com/photo/2020/09/06/22/11/neptune-5550216_1280.jpg"
           title = "ray"
           subtitle = "A creative space where art, stories, and ideas come to life."
           typeit = true
           social = true
           disclaimer = ""
       [languages.en.params.social]
-        GitHub = "lovecmk"
+        #GitHub = "lovecmk"
         #Twitter = "xxxx"
-        Instagram = "ray._.won"
+        Instagram = "ray._.atelier"
         #Facebook = "xxxx"
         #Telegram = "xxxx"
         #Youtubelegacy = "xxxx"
