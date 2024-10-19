@@ -360,7 +360,7 @@ enableEmoji = true
       Mix = false
     # Comment config
     [params.page.comment]
-      enable = true
+      enable = false
       # Disqus comment config (https://disqus.com/)
       [params.page.comment.disqus]
         enable = false
@@ -617,14 +617,14 @@ enableEmoji = true
         name = "Docs"
         url = "/categories/documentation/"
         title = ""
-      [[languages.en.menu.main]]
-        weight = 5
-        identifier = "about"
-        pre = ""
-        post = ""
-        name = "About"
-        url = "/about/"
-        title = ""
+      # [[languages.en.menu.main]]
+      #   weight = 5
+      #   identifier = "about"
+      #   pre = ""
+      #   post = ""
+      #   name = "About"
+      #   url = "/about/"
+      #   title = ""
       # [[languages.en.menu.main]]
       #   weight = 6
       #   identifier = "github"
