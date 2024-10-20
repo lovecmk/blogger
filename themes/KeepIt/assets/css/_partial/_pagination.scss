@@ -1,13 +1,19 @@
 .pagination {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  list-style: none;
-  white-space: nowrap;
-  width: 100%;
-  padding: 1rem 0 0;
-
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    list-style: none;
+    white-space: nowrap;
+    width: 100%;
+    
+    padding: 1rem 0 0;
+    overflow: hidden;   /* Hide overflow content */
+    text-overflow: ellipsis; /* Optional: add ellipsis for overflowing text */
   a {
+    // display: inline-block; /* Ensure anchor tags are block elements */
+    // padding: 0.5rem 1rem; /* Add padding for clickable area */
+    // text-decoration: none; /* Remove underline */
+
     font-size: .8rem;
     color: #bfbfbf;
     letter-spacing: .1rem;
