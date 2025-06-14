@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://blogger-1m4.pages.dev/sitemap.xml
+Sitemap: https://forluv.netlify.app/sitemap.xml
